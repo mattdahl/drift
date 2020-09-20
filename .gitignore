@@ -1,0 +1,8 @@
+# R project
+*.Rproj
+.Rproj.user
+Rplots.pdf
+
+# Hidden files
+.*
+!.gitignore
