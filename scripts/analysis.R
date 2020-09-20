@@ -63,4 +63,4 @@ for (liwc_result_file in liwc_result_files) {
 scores <- arrange(scores, desc(scores$consistency_score))
 
 # Save to disk
-write.csv(scores, file = paste(WORKING_DIRECTORY, 'data/consistency_scores.csv', sep = ''), row.names = FALSE)
+write.csv(scores, file = paste(WORKING_DIRECTORY, 'data/nominee_data.csv', sep = ''), row.names = FALSE)
