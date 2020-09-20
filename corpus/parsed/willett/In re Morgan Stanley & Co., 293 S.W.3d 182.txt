@@ -1,0 +1,7 @@
+.
+Like the Court, I believe the Federal Arbitration Act (FAA) reserves signatory-power issues like this to judges, not to arbitrators. A mental-incapacity defense goes to whether the parties reached an  agreement in the first place, while defenses like fraudulent inducement attack the validity of an agreement actually made. That is, the former says no agreement exists; the latter concedes existence but contests enforcement.
+Like JUSTICE BRISTER, I dislike the murky line between contract formation and contract validity. 1  And while I have no quarrel with the Court's application of the relevant caselaw, I wish such a discussion were unnecessary. Judicial decisions often embroider statutory text with more complexity than is necessary. Sometimes legislative language is clear enough on its own and leaves no room for judicial parsing or sprucing. This case is governed by the Federal Arbitration Act, and Section 4 provides a rather straightforward answer, declaring that disputes relating to the "making" of an arbitration agreement are gateway matters for the court. 2  
+Since a mental-incapacity defense goes to whether an agreement was made, the court must decide it. (Indeed, it's difficult to see how an incompetent person can "make" a contract since a "meeting of the minds" cannot happen if one of the minds is incapable of meeting.) The statute is free of nuance and merits a nuance-free interpretation: The FAA itself declares this issue a judicial one.
+Don R. Willett
+Justice
+OPINION DELIVERED: July 3, 2009

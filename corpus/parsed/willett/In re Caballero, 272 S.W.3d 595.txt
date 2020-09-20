@@ -1,0 +1,20 @@
+  
+Dissent
+
+
+
+
+ Like the Court, I would attempt to harmonize Rules 8.05 and 8.06 of the Rules of Disciplinary Procedure and give meaning to each. 1  However, the Court sees discretion where I see only mandatory options for discipline. Because I believe the Court's attempt to harmonize the relevant rules and rulings strikes a discordant note, I respectfully dissent.
+The parties do not dispute that the compulsory discipline rules apply. Rule 8.05, titled "Disbarment," provides that the Board of Disciplinary Appeals (BODA) "shall" disbar an attorney who is convicted of, or has accepted probation for, an Intentional Crime. The use of "shall" makes the Rule mandatory and "imposes a duty." 2  
+The only exception mentioned in Rule 8.05 is Rule 8.06, titled "Suspension." Rule 8.05 states that the attorney "shall be disbarred unless" BODA, "under Rule 8.06, suspends his or her license to practice law." As we observed in Sanchez v. Board of Disciplinary Appeals, "Rule 8.05 mandates disbarment for a final conviction . . . except when Rule 8.06 applies." 3  Rule 8.06 sets out the exception by providing that if the attorney's sentence is "fully probated" (emphasis added), BODA shall suspend the attorney "during the term of probation." 4  We have so observed: BODA "is required to disbar an attorney" under Rule 8.05 "who is convicted of an intentional crime and whose sentence is not fully probated." 5  Like Rule 8.05, Rule 8.06 is mandatory by its terms.
+I would reconcile the rules, and honor the mandatory "shall" used in both, by holding that when mandatory discipline is warranted, Rule 8.06 applies if the sentence is fully probated, and Rule 8.05 applies if the attorney's sentence is less-than-fully probated. Which is to say, BODA must disbar under Rule 8.05 if the attorney is sentenced to jail or to a combination of jail and probation, and BODA must suspend under Rule 8.06 (up to the length of the probated sentence) if the sentence is fully probated. Because Caballero's sentence was fully probated, I would hold that BODA was only authorized to suspend his license.
+The plain language of the rules supports this result, and so does our prior precedent. In Sanchez, the Court held that Rule 8.05 mandates disbarment "except when Rule 8.06 applies," and it did "not apply to Sanchez because his sentence, a fine of $ 500, was not probated." 6  Later that same year, in In re Ament, we noted that the relevant disciplinary rules previously gave discretion to disbar an attorney who received a fully probated sentence, but under Rule 8.06, "[t]he provision providing  for discretionary, additional punishment is omitted." 7  We described this omission as the "one, crucial" change in the rule. 8  Today the Court re-inserts that omitted discretion.
+Seven years after Sanchez, we observed in In re Lock that the mandatory language of the two rules should be applied according to the nature of the sentence without regards for details that would ordinarily inform a discretionary review: "An attorney guilty of an intentional crime must be either suspended or disbarred--depending solely on whether the attorney's criminal sentence was probated--without regard for any collateral matters, and without any consideration or inquiry into the facts of the underlying criminal case." 9  
+In that case we seemed to reject the view that BODA has discretion to either disbar or suspend a lawyer regardless of whether the sentence was fully probated. The Court today would allow language in Rule 8.05 concerning disbarment to confer discretion over suspension when the rule actually governing suspension leaves no room for such discretion. The more natural reading is that Rule 8.05 requires disbarment "unless" Rule 8.06 applies, at which point suspension is required. This construction comports with our analysis in Sanchez, Ament, and Lock and harmonizes the plain language of both rules. 10  
+I understand the Court's desire to grant BODA flexibility, but my reading of the rules and our pertinent precedent compels me to respectfully dissent.
+Don R. Willett
+Justice
+OPINION DELIVERED: December 19, 2008
+
+ 
+

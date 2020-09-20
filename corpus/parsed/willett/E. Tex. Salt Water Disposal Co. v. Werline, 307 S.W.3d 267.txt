@@ -1,0 +1,30 @@
+  
+Concur
+
+
+
+
+ JUSTICE WILLETT, concurring.
+I join fully the Court's opinion that the Texas Arbitration Act (TAA) 1  allows an appeal when a trial court denies confirmation of an arbitration award, vacates the award, and sends the dispute back for re-arbitration. The Court explains cogently why appellate-court jurisdiction exists in a do-over situation like this, but a bit more can be said.
+The governing language, section 171.098(a) of the TAA, states:
+A party may appeal a judgment or decree entered under this chapter or an order:
+(1) denying an application to compel arbitration . . . ;
+(2) granting an application to stay arbitration . . . ;
+(3) confirming or denying confirmation of an award;
+(4) modifying or correcting an award; or
+(5) vacating an award without directing a rehearing.
+First, the Company reads more into subsection (5) than it says. By its terms subsection (5) allows an appeal when a rehearing is not granted, but does it also disallow every appeal when a rehearing is granted? The answer, as the Court explains, depends on subsection (3), which indicates, with no indication of exception, that a judgment or decree "denying confirmation of an award" is appealable. A vacatur with rehearing is appealable if it amounts to a denial of confirmation; otherwise not.
+When as here a trial court vacates an award and directs rehearing because it believes the award is wrong and should be set aside completely, the ruling is indistinguishable from a denial of confirmation appealable under subsection (3). As the Court points out, this trial court's denial of confirmation left no doubt the court was rejecting the award topside and bottom, going so far as to say the disputed facts from Arbitration 1 should be established against Werline in Arbitration 2. The Court is right that this "fits squarely under subsection (3)." 2  
+Second, to construe section 171.098(a) as precluding appeal from an order vacating an arbitration award and requiring re-arbitration works an odd result, as this case illustrates. Having incurred the expense of one arbitration and one court proceeding, the parties have been ordered to do it all over again. While re-arbitration in this case would no doubt be quick, since the district court has ordered all material facts established against Werline and predetermined an award for the Company, a second arbitration and second confirmation proceeding would be additional, wasted expense to the parties. They would then face the delay and expense of a second appellate proceeding, just to arrive where they are now: with the first award confirmed, as the court of appeals has held it should have been, a result the Company has not chosen to contest in this Court. If the district court had not stacked the deck against Werline in the second arbitration,  the redo would take even longer and cost even more.
+In general, deferring appeal until after re-arbitration is not likely to be more efficient, since judicial review of arbitration awards is very limited and the issues are much narrower than those involved in the arbitrated dispute. Nor is there reason to think that mandamus review of orders requiring re-arbitration would be more efficient than appeal. On the other hand, deferring appeal allows the possibility that a trial court can avoid confirmation and the limits on its review by simply ordering re-arbitration until there is a result the court approves, or one or both parties have been exhausted. Such a construction of section 171.098(a) would not serve the purpose of arbitration, which is to provide an "expedited and less expensive disposition of a dispute." 3  Our construction does.
+Third, while this case arises solely under the TAA, which is free to vary from the Federal Arbitration Act (FAA) 4  (assuming no preemption ), it is worth noting that the Court's result mirrors what the result would be under federal law. Section 16 of the FAA provides in pertinent part that "[a]n appeal maybe taken from . . . (1) an order . . . (D) confirming or denying confirmation of an award or partial award, or (E) modifying, correcting, or vacating an award . . . ." 5  Subsection (1)(E) does not include the TAA's limiting phrase, "without directing a rehearing." The federal courts "routinely assume . . . that an order vacating an arbitrator's decision but remanding for additional arbitration is appealable under § 16(a)(1)(E). . . ." 6  But the lack of any caveat does not mean that every vacatur is appealable. A vacatur with a remand to the same arbitrators merely for clarification does not have the degree of finality required for an appealable order. 7  Thus, federal courts have construed section 16 of the FAA to operate with respect to vacaturs the same way we construe section 171.098(a) of the TAA today: a vacatur for re-arbitration is appealable, while a vacatur merely for clarification is not.
+In sum, the Company's position invites us to:
+. draw an inference when none is permitted; 8 
+. create an exception in a statutory provision that has none; 9 
+ . weaken the strictures on limited judicial review of arbitration awards; 10 
+. create the real possibility of a serious injustice by allowing endless re-arbitrations; 11  and
+. inject the disruption of needless inconsistency with the FAA. 12 
+The Court is wise to decline.
+Don R. Willett
+Justice
+OPINION DELIVERED: March 12, 2010

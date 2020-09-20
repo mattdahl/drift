@@ -1,0 +1,10 @@
+.
+Based on the unambiguous allocation of risk under the provisions of the policy, I would conclude that indemnification payments received from a third party may not be applied to satisfy the self-insured retention. I thus would answer the first certified question in the negative. That negative answer to the first question renders the second certified question moot.
+Paragraph 3 of the self-insured retention endorsement plainly states that the insurer has "no duty to defend or indemnify unless and until the amount of the ;Retained Limit' is exhausted by payment of settlements, judgments, or 'Claims Expense' by you"—that is, by the insured. Paragraph 6 of the endorsement plainly states that "the 'Retained Limit' will only be reduced by payments made by the insured." No other provisions of the policy render these provisions ambiguous.
+A payment made by a third party pursuant to an indemnification agreement is not a payment "made by the insured." The insurance policy should not be rewritten to allow satisfaction of the self-insured retention limit in a manner other than the manner specifically provided for in the policy. I thus would reject the legal fiction adopted by the majority that a payment made by a third party pursuant to a contractual indemnity provision is a payment "made by the insured."
+Imposing that legal fiction effectively reads the phrase "by you" out of paragraph 3. And it reads the entirety of paragraph 6 out of the endorsement. The majority's unjustified interpretation of the endorsement gives the endorsement a meaning that is no different than if those provisions were absent from the policy.
+I dissent.
+POLSTON, C.J., concurs.
+
+ 
+

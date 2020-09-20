@@ -1,0 +1,18 @@
+  
+Dissent
+
+
+
+
+YOUNG, J., dissents and states as follows:
+I respectfully dissent from the order denying leave to appeal and would grant leave. This case raises the jurisprudentially significant question whether a general law township has the constitutional and statutory authority to pass an ordinance that reimburses another township's legal expenses in a dispute in which it is not a party and concerns matters arising outside the township's boundaries.
+Grattan Township and Cannon Township are adjacent municipalities in Kent County. Grattan incurred considerable legal expenses while opposing the development of a manufactured home park within its boundaries. Since the proposed site was located on the border between Grattan and Cannon, Cannon believed it had an interest in the outcome of that case. After Cannon unsuccessfully attempted to intervene in Grattan's litigation, it passed a resolution authorizing the disbursement of $ 90,660 to assist Grattan with its legal expenses. Cannon also signed a written contract with Grattan, agreeing to provide similar disbursements in the future.
+Two Cannon Township taxpayers filed suit against the townships, alleging that Cannon's expenditure was unlawful. The trial court granted summary disposition for the townships, finding statutory authority for Cannon's actions pursuant to MCL 41.2. The Court of Appeals affirmed in a split decision.
+The Court of Appeals failed to identify an independent statutory or constitutional authority authorizing this particular expenditure. As Judge SMOKENSKI noted in his dissent, Const 1963, art 7, § 17 defines a township as "a body corporate with powers and immunities provided by law." Unlike cities and villages, general law townships  lack plenary police power. Their authority is "provided by law."
+ The majority found statutory authority in MCL 41.2(1)(b), which permits a township "[t]o make contracts necessary and convenient for the exercise of their corporate powers." The power to contract, however,  must further the exercise of an existing corporate power. In addition, the township ordinance act, MCL 41.181 et seq., does not supply legal authority since Cannon did not promulgate an ordinance, but entered into a contract to pay the legal fees of an adjoining township. Also, the holding in Hays v City of Kalamazoo, 316 Mich. 443; 25 N.W.2d 787 (1947), which the majority cited heavily, pertained to a home-rule entity. Because Cannon is not a home-rule entity, the majority's reliance on Hays appears inapposite to the instant case.
+Finally, and not insignificantly, I also note the important threshold question whether plaintiffs, as taxpayers, had standing to pursue their cause of action. This question was not addressed by the Court of Appeals.
+For these reasons, I would grant leave to appeal.
+TAYLOR, C.J., concurs in the statement of YOUNG, J.  
+
+ 
+

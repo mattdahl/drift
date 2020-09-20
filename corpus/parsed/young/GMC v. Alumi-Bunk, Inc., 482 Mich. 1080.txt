@@ -1,0 +1,11 @@
+  
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+I concur with the Court's order to reverse the Court of Appeals resolution of the fraudulent inducement claim. I write separately to indicate that, contrary to Justice Kelly's dissenting statement, the tort claim raised in this case is clearly barred by the economic loss doctrine because it is inextricably interwoven with plaintiff's claim of breach of contract.
+The alleged basis for the contract was defendant's promise to "upfit" (modify) the vehicles it purchased from plaintiff in exchange for a discounted price. Contrary  to Justice Kelly's analysis, this singular "promise" is the sole reason for the dispute between the parties. Indeed, a reader will be hard-pressed to find a distinction between the two complaint averments that Justice Kelly quotes in support of her dissenting statement.
+Plaintiff claims that defendant made this upfit promise during the negotiation phase, but it was never made a part of the contract. Nevertheless, plaintiff contends that defendant breached its promise to upfit the vehicles it purchased and that defendant never intended to upfit when it promised to do so. Thus, this promise to upfit is both the basis for the breach of contract claim and the fraudulent inducement claim.
+The trial court and the Court of Appeals correctly determined that plaintiff's breach of contract claim, based on the violation of this promise, must be dismissed given that plaintiff failed to include this central term in the written contract. Moreover, there is no way to characterize these identical allegations as separate claims for breach of contract and fraudulent inducement. Accordingly, the trial court was required, as it did, to dismiss the fraud claim to prevent contract law from "drown[ing] in a sea of tort." Neibarger v Universal Coop, Inc, 439 Mich 512, 531, 486 N.W.2d 612 (1992). The Court of Appeals erred in reversing that decision.

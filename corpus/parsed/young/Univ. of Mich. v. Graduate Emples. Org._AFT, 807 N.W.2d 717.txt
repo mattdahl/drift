@@ -1,0 +1,13 @@
+  
+Concur
+
+
+
+
+Young, C.J. (concurring).
+I concur in this Court's order denying leave to appeal in this matter. The Court of Appeals reached the correct result when it dismissed the proposed intervenors' application for lack of jurisdiction, although I believe a different rationale controls this matter.
+The Court of Appeals claimed that MCL 24.301 does not give it jurisdiction to hear this matter "because the current proceeding . . . is not a contested case." Thus, the Court of Appeals interpreted MCL 24.301 as allowing interlocutory appeals only during contested cases. While the proposed intervenors present nonfrivolous arguments rejecting that claim, the Court of Appeals does not have jurisdiction in this particular matter even if MCL 24.301 generally allows interlocutory appeals on matters that are not contested cases.
+MCL 24.301 is part of the Administrative Procedures Act, MCL 24.201 et seq., and provides that "[a] preliminary, procedural or intermediate agency action or ruling is not immediately reviewable, except that the court may grant leave for review of such action if review of the agency's final decision or order would not provide an adequate remedy" (emphasis added). Another provision of the Administrative Procedures Act, MCL 24.203(5), expressly defines "court" within the Act as "the circuit court." Accordingly, the interlocutory review provision of MCL 24.301 requires an appellant to seek circuit court review of an agency's action before proceeding to the Court of Appeals. Because the proposed intervenors did not do so here, the Court of Appeals reached the correct result in dismissing their application for lack of jurisdiction.
+
+ 
+

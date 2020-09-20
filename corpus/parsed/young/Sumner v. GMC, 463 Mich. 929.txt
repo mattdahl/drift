@@ -1,0 +1,16 @@
+   
+Dissent
+
+
+
+
+Young, J., dissents and states as follows: 
+ I would deny the application for leave to appeal. Plaintiff never asked the Court of Appeals to make a determination whether the demonstrative evidence was properly admissible under the test set forth in Lopez v General Motors Corp, 224 Mich. App. 618, 569 N.W.2d 861 (1997) (Lopez II).
+At issue in this case is the admission, over plaintiff's objection, of two videotaped crash tests performed and offered by defendant. The jury issued a verdict of no cause. Plaintiff appealed and the Court of Appeals reversed, holding that the admission of the tapes constituted error requiring reversal. In so doing, the Court of Appeals ruled that results obtained in out-of-court experiments are not admissible unless the conditions of the experiment are significantly similar to those involved in the particular case.
+This so-called "Sumner rule" was followed in a subsequent case, Lopez v General Motors Corp, 219 Mich. App. 89, 555 N.W.2d 875 (1996) (Lopez I), but the Lopez I panel opined that it believed the Sumner case was incorrectly decided and declared a conflict under MCR 7.215(H). A conflict panel was convened in Lopez II and it unanimously overruled Sumner  "insofar as it establishes an evidentiary rule concerning the introduction of demonstrative evidence different from that set forth in Smith v Grange Mut Fire Ins Co of Michigan, 234 Mich. 119; 208 N.W. 145 (1926)." [Lopez II, 224 Mich. App. at 621.]
+In response to the Lopez II conflict panel decision, the Sumner defendant sought a rehearing in the Court of Appeals. That motion was denied as untimely. Defendant then moved in the trial court for summary disposition under MCR 2.116(C)(10), which motion was granted. Plaintiff appealed that order, contending that the second Sumner Court of Appeals panel was bound by the first Sumner panel's determination under the law-of-the-case doctrine. The Court of Appeals rejected plaintiff's law-of-the- case argument and affirmed. Significantly, plaintiff never asked the Court of Appeals to determine whether the disputed evidence was admissible under the test set forth in Lopez II.
+Because plaintiff could have, but did not ask the Court of Appeals to determine how the Lopez II test would apply in this case, the Court of Appeals did not answer that question, and properly so in my view. Consequently,   I do not believe this Court should require the Court of Appeals now to answer this question on remand.
+Corrigan, J., joins in the statement of Young, Jr., J.  
+
+ 
+

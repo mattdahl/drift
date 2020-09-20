@@ -1,0 +1,25 @@
+, concurring.
+I concur in the court's judgment reversing the district court's grant of summary judgment in favor of Greeley but would reach that result in a different manner. The court assumes without deciding that the February 1998 memorandum was a faulty SPD. Ante 2006 U.S. Dist. LEXIS 47019, at 4. I believe that the February 1998 memorandum was not an SPD as a matter of law under Antolik, a determination which necessarily precedes the reliance or prejudice inquiry. See Antolik, 463 F.3d at 800-01 (noting that the rule requiring that a faulty SPD provision supercede a plan provision where the claimant proves reliance or prejudice "does not apply if the conflicting document on which the claimant relies was so thoroughly lacking in the required detail that it cannot be deemed even a faulty SPD."). I would therefore not reach the reliance or prejudice issue upon which the court bases its decision.
+In Antolik, we stated,
+We require that a document substantially comply with ERISA's formal requirements because there should be no accidental or inadvertent SPDs. If a document is to be afforded the legal effects of an SPD, such as conferring benefits when it is at variance with the plan itself, that document should be sufficient to constitute an SPD for filing and qualification purposes.
+Id. at 801 (internal quotations and citations omitted). The formal requirements of an SPD are found in 29 U.S.C. § 1022(b) and 29 C.F.R. § 2520.102-2, 102-3. Id. at 800. The statute requires that an SPD contain the following information:
+. the name and type of administration of the plan;
+. the name and address of the designated agent for service of process, if not the administrator;
+. the name and address of the administrator;
+. the plan's requirements respecting eligibility for participation and benefits;
+
+
+. circumstances which may result in disqualification, ineligibility, or denial or loss of benefits;
+
+
+. the source of financing of the plan and the identity of any organization through which benefits are provided;
+
+
+. the date of the end of the plan year and how the plan records are kept; and
+. the procedures for presenting claims for benefits and the remedies for denied claims.
+ See 29 U.S.C. § 1022(b) (additional requirements omitted); see also Palmisano v. Allina Health Sys., 190 F.3d 881, 888 (8th Cir. 1999). The regulations further require that an SPD contain the employer identification number assigned by the IRS to the plan sponsor, the plan number assigned by the plan sponsor and a statement of a plan participant's ERISA rights. See 29 C.F.R. § 2520.102-3. 3 
+ In holding that a letter that Saks, Incorporated had directed to its employees did not constitute an SPD as a matter of law, the Antolik court noted that the letter lacked any indication that it intended to be an SPD, nor did it explain complex plan provisions regarding termination of a participant's eligibility, available benefits, claims procedures and remedies for claim denials. 463 F.3d at 802. The court found the omission of an ERISA rights statement particularly significant. Id. at 801-02. Here, the February 1998 memorandum and its attachment have the same deficiencies as the letter analyzed in Antolik. In addition, the February 1998 memorandum and its attachment do not identify the type of administration of the plan, the identity of the organization through which the LTD benefits are provided, the date of the end of the plan year and how plan records are kept, and the employer identification number and plan number. See 29 U.S.C. § 1022(b); 29 C.F.R. § 2520.102-3. Since this February 1998 memorandum does not substantially comply with the statutory and regulatory requirements for an SPD, it does not constitute an SPD as a matter of law. See Antolik, 463 F.3d at 801-02.
+Because I would hold that the February 1998 memorandum was not a faulty SPD as a matter of law, I would not reach the question addressed today by the court, whether Greeley relied on or was prejudiced by the February 1998 memorandum, because "an ERISA plan cannot be changed by informal amendments, even if employees relied on those amendments." Antolik, 463 F.3d at 801.   
+
+ 
+

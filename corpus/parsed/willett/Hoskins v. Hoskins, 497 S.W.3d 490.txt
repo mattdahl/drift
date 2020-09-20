@@ -1,0 +1,16 @@
+  
+Concur
+
+
+
+
+ Justice Willett, concurring.
+The Court holds that the Texas Arbitration Act (TAA) provides the exclusive grounds for vacatur of an arbitration award where the proceedings are governed by the TAA. The plain text of the TAA compels that result, and I join the majority opinion in full.
+I write briefly, however, to underscore the significance of today's decision. For decades, Texas courts and attorneys have quietly questioned whether common-law vacatur doctrines are viable alongside the TAA's vacatur grounds.1  Manifest disregard, as featured in today's case, is one such doctrine. Gross mistake is another, and we have twice this millennium avoided addressing its viability.2  We resolve that debate today. Our holding that the TAA's vacatur grounds are exclusive establishes that manifest disregard and, for all practical purposes, all other common-law vacatur doctrines are no longer viable with regard to arbitrations governed by the TAA.
+The upshot of today's decision is that we avoid the sort of quagmire that surrounds the TAA's federal counterpart, the Federal Arbitration Act (FAA). In recent years, the United States Supreme Court has "cast severe doubt on, and nearly eliminated,"3  manifest disregard as a viable common-law vacatur doctrine vis-à-vis the FAA.4  That doubt has produced disarray in the literature and lower courts. Commentators' descriptions of manifest disregard's embattled viability have ranged from "much ado about nothing,"5  to "alive  but not well,"6  to "dead,"7  and triumphantly to "back from the dead."8  The courts' reactions are equally varied. Some have held that manifest disregard is no longer a viable vacatur doctrine.9  Others have held that whether manifest disregard remains viable is an open question and have applied the doctrine assuming viability without deciding it.10  Still others have held that manifest disregard remains viable in some form or another.11  And so  courts and commentators await a definitive answer from the Supreme Court.
+No such uncertainty exists with regard to the exclusivity of the TAA's vacatur grounds. Participants in arbitrations governed by the TAA now know that an award can be vacated only under the TAA's enumerated grounds.12  No glosses on those statutory bases, no smuggling common law in through the back door—and no judicial intermeddling with the Legislature's carefully circumscribed bases for judicial review of an arbitration award. Exclusive means exclusive.
+Don R. Willett
+Justice
+
+ 
+

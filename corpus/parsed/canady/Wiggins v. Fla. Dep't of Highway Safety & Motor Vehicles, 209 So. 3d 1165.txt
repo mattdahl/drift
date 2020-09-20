@@ -1,0 +1,91 @@
+.
+I disagree with the majority in two respects. First, I disagree with the majority's interpretation of the video and its conclusion that it "flatly contradicted and refuted" Deputy Saunders' testimony. Majority op. at 17. I therefore conclude that the rephrased certified question does not accurately reflect the record before us. In my view, both Deputy Saunders' testimony and the video are competent, substantial evidence that support the hearing officer's findings. Second, I would conclude that the circuit court went beyond the limited scope of its first-tier certiorari review, engaged in an improper reweighing of the evidence, and therefore did not apply the correct law. The First District properly recognized the flaws in the circuit court's decision. And contrary to the majority's assertions, the district court did not conduct "absolute de novo review," majority op. at 21, in violation of the standard of review applicable in second-tier certiorari reviews. Contrary to the majority's view, this is not a case in which video evidence indisputably establishes the controlling facts. Whatever the proper rule might be in such a case, in this case the district court properly recognized that the circuit court improperly reweighed the evidence presented to the trier of fact. Accordingly, I would approve the First District's decision below.
+ The majority states that the video shows Wiggins "driving totally within the proper lines," and not "cross[ing] any lines" or "nearly hit[ting] the curb." Majority op. at 7-8. But that is not what the video shows.3  An accurate description of what the video shows was given by Deputy Saunders as he was being examined by Wiggins' attorney narrating the video as it played during the administrative hearing. The relevant portions of that exchange—beginning with Deputy Saunders describing his first observation of Wiggins' vehicle4 —were transcribed as follows:
+Q: I saw them. Just tell me when you see something.
+A: Like I said, the video doesn't always show everything I can see as far as at a distance, but he does something in his truck that causes me to think --
+. . . .
+Q: Well, how far was this truck in front of you when you saw the . . . lights?
+A: Yes, his -- his truck's right there. I don't even know at this point what -- if it's happened or not. I just know I saw it.
+Q: It looks like it's a half a mile or so in front of you.
+A: I don't know about half a mile. It's Ashton -- not Ashton Forest. It's a neighborhood a couple of hundred yards before this light.
+Q: Are you increasing your speed at this point?
+A: At this point you can see I've increased my speed. You can see his -- potentially his taillights. I believe there's another car and I'm trying to catch up to it.
+Q: How fast are you traveling now?
+A: I don't know. Like I say, he was doing 30 [mph in a 45-mph zone]. So I didn't have to go too much faster.
+Q: Was that a traffic violation?
+. . . .
+A: No. At this point it's just an observation of impairment.
+Q: Observation of impairment.
+A: You can see him right there. He's over on the line, on the fog line starting at the right.
+Q: Yeah.
+A: He's drifting a little. Weaving a little bit within his lane. He's riding the line right now. That's Long Bay right there.
+Q: Yeah.
+A: There's his brake.
+Q: Okay. That's before the intersection?
+A: No, that was actually at the intersection.
+Q: Okay. Didn't slow his speed down. That wasn't a hard brake and a stop.
+A: I didn't say he stopped.
+. . . .
+Q: All right. Well, go ahead and play that through and then tell me where he -- there you go.
+A: See the flashing lights on Long Bay.
+Q: All right.
+A: And you can see he's in the intersection at the time he does it.
+ Q: All right. It looked like before to me, but go ahead and look. Flash comes on way before the intersection.
+A: No. See we've already passed the intersection. It's a large intersection.
+Q: Did he almost stop or come anywhere close to that?
+A: I didn't say he almost stopped. I said he braked hard.
+Q: Braked hard. Okay.
+A: See how it's a raised concrete curb on the right.
+Q: Yeah. How close is he?
+A: Right now he's not close. I'm just saying that's the curb I'm talking about when we talk about it later on.
+Q: Okay. There's a green light here.
+A: Yeah. Then there's Palmetto.
+Q: He doesn't do anything unusual or suspicious through the green light?
+A: He's over almost on the curb right there.
+Q: Well, the curb is right next to the white line, isn't it, where you said that?
+A: Yes, sir, which would indicate --
+Q: Well, that's what I'm saying. The curb --
+A: He's on the white line. You asked for me to narrate. I'm narrating.
+Q: Okay.
+A: Right now he's riding on the white line as you can see. He's almost striking it again.
+Q: Yeah.
+A: Now he's drifting back over to the left.
+Q: Yeah.
+A: Coming off it. I believe the next light we'll come to is Everett.
+Q: Okay.
+A: You see he's drifting further, coming back to the left a little bit more.
+Q: How far did he --
+A: Now he's going back right.
+Q: How far did he drift?
+A: I have no idea. I don't have a ruler out there on him. But as you can see he's --
+Q: Yeah.
+A: -- up over by the curb again. Now he's braking again.
+Q: Yeah.
+A: He's back on the line. This is where he almost strikes the curb on the opposite side. It's sticking out a little bit. Now he's come back over. Now he's actually over the line. Now he's coming back over it. This is where my mistake is. I actually changed behind him, getting ready to do a traffic stop, and then he actually switches over.
+This is the 2600 block of Blanding. He's going to make a left turn at the next light.
+Q: Any weaving that we've seen the last quarter of mile that he's being [sic] driving?
+A: I don't know the distance but yes, you can see a little bit there. He's weaving a little bit.
+(Emphasis added.)
+Based upon the testimony and evidentiary record that included the video, the hearing officer made the following findings of fact:
+On August 19, 2011, at approximately 2:10 a.m. Deputy J.C. Saunders of the Clay County Sheriff's Office observed a vehicle swerving within the lane, almost striking the right side curb on several occasions, and then braking erratically for no apparent reason. He also paced the vehicle and determined that it was traveling 30 MPH in a 45-MPH zone. Suspecting that the driver might be impaired, Deputy Saunders conducted a traffic stop.
+ As a result, the hearing officer concluded that the stop was lawful because Deputy Saunders had a reasonable suspicion that Wiggins was driving while impaired.
+What Deputy Saunders described in his narration can be seen on the video. Wiggins was not driving within the proper lines but was repeatedly driving on or over the fog line, nearly hit the curb on multiple occasions, and was drifting within his lane. The video shows that Deputy Saunders observed this driving pattern for several minutes before initiating a traffic stop. The video also clearly shows that just prior to the initiation of the traffic stop, Wiggins passed an opening for a left-turn lane and then slowly drifted over a solid white line into the turn lane before turning left. Additionally, Deputy Saunders testified and wrote in his report that Wiggins was driving 30 mph in a 45-mph zone and that these observations occurred at approximately 2:10 a.m. Under the totality of the circumstances, Deputy Saunders had a well-founded suspicion that Wiggins was impaired—as the hearing officer concluded—and the video, report, and testimony provide competent, substantial evidence to support this conclusion.
+The majority criticizes this conclusion, asserting that "when conducting second-tier certiorari review, both the district court and this Court are more narrowly limited to determining whether the circuit court (1) 'afforded procedural due process' and (2) 'applied the correct law.'" Majority op. at 20. The majority cites Florida Power & Light Co. v. City of Dania, 761 So. 2d 1089 (Fla. 2000), for the proposition that a court conducting "second-tier certiorari review may not review the record to determine whether the agency decision is supported by competent substantial evidence." Majority op. at 21 (quoting Florida Power & Light, 761 So. 2d at 1093). But the majority itself has conducted just such a review of the record in support of its own analysis. Although the majority states that the "certified question presents a pure question of law," majority op. at 2, it nonetheless disputes the factual findings made by the hearing officer and conducts its own "de novo" review of the facts based on its interpretation of the "actual video," see majority op. at 7-8. The majority correctly recognizes that "[s]ome consideration of the evidence is inescapable in the competent, substantial evidence determination" by the circuit court on first-tier certiorari review. Majority op. at 15. Similarly, "[s]ome consideration of the evidence is inescapable" on second tier-certiorari review to determine whether the circuit court applied the correct law. That does not mean that the court on second-tier certiorari review makes an independent de novo decision concerning the hearing officer's ruling.
+I would also conclude that the circuit court engaged in an improper reweighing of the evidence in determining that the video contradicts Deputy Saunders' report and testimony and therefore did not apply the correct law. The majority defends the circuit court's action, stating that because "sufficiency tests the adequacy and credibility of the evidence, whereas weight refers to the balance of the evidence," majority op. at 17, the circuit court "did not engage in a reweighing of the evidence, but rather, determined that the contradicted testimony of [Deputy Saunders] was not sufficient to amount to competent, substantial evidence," majority op. at 18. I disagree.
+This Court has said:
+The "weight of the evidence" is the "balance or preponderance of evidence." Black's Law Dictionary 1429 (5th ed. 1979). It is a determination of the trier of fact that a greater amount of credible evidence supports one side of an issue or  cause than the other. See In re Estate of Brackett, 109 So. 2d 375 (Fla. 2d DCA 1959).
+As a general proposition, an appellate court should not retry a case or reweigh conflicting evidence submitted to a jury or other trier of fact. Rather, the concern on appeal must be whether, after all conflicts in the evidence and all reasonable inferences therefrom have been resolved in favor of the verdict on appeal, there is substantial, competent evidence to support the verdict and judgment. Legal sufficiency alone, as opposed to evidentiary weight, is the appropriate concern of an appellate tribunal.
+Tibbs v. State, 397 So. 2d 1120, 1123 (Fla. 1981) (footnotes omitted), aff'd, 457 U.S. 31, 102 S. Ct. 2211, 72 L. Ed. 2d 652 (1982). In affirming Tibbs, the United States Supreme Court stated, "A reversal based on the weight of the evidence . . . draws the appellate court into questions of credibility." Tibbs v. Florida, 457 U.S. 31, 37, 102 S. Ct. 2211, 72 L. Ed. 2d 652 (1982). Here, the circuit court stated that "the arrest and booking report and testimony by Deputy Sanders [sic] would support the findings of the hearing officer." But in discrediting Deputy Saunders' testimony based on its own interpretation of what the video shows, the circuit court improperly reweighed the evidence.
+In Dusseau v. Metropolitan Dade County Board of County Commissioners, 794 So. 2d 1270, 1275 (Fla. 2001), we described the circuit court's erroneous approach in conducting first-tier certiorari review as follows:
+Although the circuit court phrased its reversal in terms of "competent substantial evidence," the plain language of its order shows that the court in fact reweighed the evidence, at length. Instead of simply reviewing the Commission's decision to determine whether it was supported by competent substantial evidence, the court also reviewed the decision to determine whether it was opposed by competent substantial evidence. The circuit court then substituted its judgment for that of the Commission as to the relative weight of the conflicting evidence. The circuit court thus usurped the fact-finding authority of the agency.
+The circuit court here took the same erroneous approach. Instead of simply determining whether there was competent, substantial evidence in the record to support the hearing officer's conclusion that the stop of Wiggins was lawful—which the circuit court conceded that Deputy Saunders' testimony and report provided—the circuit court applied the wrong law, incorrectly concluded that the video conflicted with Deputy Saunders' testimony and report, and substituted its judgment for that of the hearing officer as to the relative weight of the supposedly conflicting evidence.
+The majority has now decided that Dusseau should not be applied to courts conducting first-tier certiorari review of administrative license suspensions because section 322.2615 requires a determination of the lawfulness of the stop under the Fourth Amendment, which, the majority asserts, raises "legal questions that call for an unbiased review, rather than solely left to the discretion of a hearing officer who is actually employed by the Department" and "which involve[s] concepts that require a certain level of expertise that can be provided by a nonlawyer, the same does not hold true for the questions of constitutional law that arise under section 322.2615." Majority op. at 15. But there is no dispute that if Wiggins swerved within his lane, almost struck the curb on several occasions, braked erratically, and was traveling  30 mph in a 45-mph zone, the stop was lawful. The question was whether Wiggins did those things, and making such findings does not require a particular expertise in Fourth Amendment jurisprudence.
+The majority also justifies its rejection of Dusseau in the context of review under section 322.2615 because it views video evidence as "objective and neutral," which "allows it to be viewed by the Article V judicial officer on first-tier certiorari without the need for interpretations of the hearing officer." Majority op. at 16. But as the First District aptly pointed out,
+the quality and context of a video, like that in this case, may not capture or explain the finer nuances that the human eye of a trained (though here relatively inexperienced) DUI officer may perceive. Which explains why the officer said he picked up on some unusual movement of the vehicle or its taillights at a distance ("a good ways back at that point") that the camera could not fully capture because the "video isn't always the best." What the officer believed he saw, unless entirely inconsistent with the video, is to be credited. The officer's eyes were multi-tasking: watching the road to safely operate the patrol car while intermittently observing the vehicle's driving pattern. He may have believed the vehicle hit the fog line at the time, but upon review of the video the vehicle did not drift quite that far—but it drifted nonetheless. These types of contextual inconsistencies between the video and the officer's testimony/report are lost by crediting the video to the exclusion of the record as a whole.
+Wiggins, 151 So. 3d at 467. "Unlike the circuit court, the hearing officer could evaluate the credibility of the officer and make a determination, for example, that he was truthful in his explanation of what he saw, and what his report said, regarding the vehicle's driving pattern." Id. at 465. Thus, the hearing officer had a superior vantage point in evaluating all of the evidence, including the video. Further, the video—even as interpreted by the circuit court and the majority—does not refute Deputy Saunders' testimony that Wiggins drove 15 mph below the speed limit at 2:10 a.m., braked erratically, and made some erratic motion when his vehicle first came into Deputy Saunders' view.
+"[J]ust like any other type of evidence, video is subject to conflicting interpretations." Robinson v. State, 5 N.E.3d 362, 366 (Ind. 2014). For example, in Scott v. Harris, 550 U.S. 372, 380, 127 S. Ct. 1769, 167 L. Ed. 2d 686 (2007), Justice Scalia, writing for a majority of the Court, interpreted a video as showing "a Hollywood-style car chase of the most frightening sort, placing police officers and innocent bystanders alike at great risk of serious injury," while Justice Stevens, in dissent, interpreted the same video as "hardly the stuff of Hollywood" and opined that it did not show "any incidents that could even be remotely characterized as 'close calls,'" id. at 392. Making a determination of what a video shows is a factual finding that does not require any particular expertise and is therefore entitled to deference by a reviewing court. See, e.g., State v. Cortez, 482 S.W.3d 176, 181 (Tex. App. 2015) (holding that because it was not easily discernable from a video whether defendant's tires touched the fog line, the reviewing court was required to defer to the trial court's interpretation of the events captured on the video), vacated on other grounds, 501 S.W.3d 606, 610 (Tex. Crim. App. 2016). This is especially true when the video evidence is considered in conjunction with other evidence by the lower tribunal. See In re M.K., 198 Vt. 233, 114 A.3d 107, 111 n.* (Vt. 2015) (citing cases).
+ For these reasons, I would approve the well-reasoned opinion of the First District and hold that Dusseau is applicable in the context of first-tier certiorari review under section 322.2615 and that a circuit court applies incorrect law when it reweighs or reevaluates conflicting evidence, rather than simply reviewing the record to determine whether the lower tribunal's decision is supported by competent, substantial evidence. I thus would answer the question certified by the First District in the affirmative. I dissent.
+POLSTON, J., concurs.
+
+ 
+

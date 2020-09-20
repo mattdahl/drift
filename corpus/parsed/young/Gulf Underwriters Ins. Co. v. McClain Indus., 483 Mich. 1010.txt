@@ -1,0 +1,13 @@
+, Jr.  
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+I concur in the order to deny leave. I write separately only to respond to Justice Corrigan's dissenting statement.
+Although I share Justice Corrigan's theoretical interest regarding the proper interpretation of the complex contract at issue in this case, the  appellant, Gulf Underwriters, has not cited adequate grounds to support this Court's review as required by MCR 7.302(B). 1  
+Specifically, this case involves a surplus lines insurance contract that, despite the considerable attention that Justice Corrigan gives to the statute, is not subject to the general provisions of the Insurance Code, MCL 500.100 et seq. See MCL 500.402b(a); MCL 500.1904. The policy here includes language similar to the required "bankruptcy provision" for contracts controlled by the code. MCL 500.3006. However, Gulf Underwriters has not indicated that contractual bankruptcy provisions similar to its own are included with any regularity in surplus lines contracts generally. And, contrary to Justice Corrigan's suggestion, there is no reason to assume that the nonapplicable statutory provision will "ensure" that similar  provisions will appear with any regularity in contracts not controlled by the Insurance Code.
+Gulf Underwriters' application for leave to appeal demonstrates only a narrow dispute regarding the interpretation of its contact. Accordingly, Gulf Underwriters has not shown that this case "has significant public interest" or "involves legal principles of major significance to the state's jurisprudence." MCR 7.302(B)(2), (3).
+Justice Corrigan accurately highlights the potential inconsistencies between the contract's bankruptcy provision and the self-insured retention (SIR) endorsement. However, and significantly, she makes no mention of the effect of Gulf Underwriter's failure to cancel or terminate the contract as provided under the plain language of the SIR endorsement. Gulf Underwriters has failed to explain why it is not bound by its obligation because it failed to cancel the policy upon McClain Industries' failure to pay.
+ Finally, I believe that Gulf Underwriters has not supported its application for leave to appeal by showing that the Court of Appeals decision is clearly erroneous. MCR 7.302(B)(5).

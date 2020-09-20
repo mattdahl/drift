@@ -1,0 +1,59 @@
+ in part and dissenting in part).
+I agree with the majority that the trial court did not err when it assessed ten points for offense variable (OV) 9. The language of MCL 777.39(2)(a) clearly states that each person "placed in danger of injury or loss of life" is to be counted as a victim. Because a gun was fired at him, James Bish was placed in danger even if he had not intervened or been injured.
+However, I dissent from that portion of the majority opinion holding that the trial court erred in assessing twenty-five points each for OV 1 and OV 3. Because I believe that the guidelines were scored correctly, I would affirm the trial court's scoring of those guidelines.
+I disagree with the majority's conclusion that defendant was entitled to have her armed robbery scores match Northington's armed robbery scores. I believe the majority's position is based on a flawed assumption regarding the "multiple offender" provision of OV 1 and OV 3.
+When scoring the guidelines, the court is instructed by MCL 769.31(e) 1  to consider not only the actual elements constituting the offense, but also any aggravating or mitigating factors associated with the offense as designated in the guidelines:
+"Offense characteristics" means the elements of the crime and the aggravating and mitigating factors relating to the offense that the commission determines are appropriate and consistent with the criteria described in section 33(1)(e) of this chapter. For the purposes of this subdivision, an offense described in section 33b of 1953 PA 232, MCL 791.233b , that resulted in a conviction and that arose out of the same transaction as the offense for which the sentencing guidelines are being scored shall be considered as an aggravating factor. [Emphasis added.] 2  
+Therefore, an "offense characteristic" clearly encompasses more than merely the offense itself-it contemplates both positive and negative factors "related to," but not constituting, the charged offense.
+ When scoring OV 1, which takes into account the aggravated use of a weapon, MCL 777.31(2) specifically requires a trial court to:
+(a) Count each person who was placed in danger of injury or loss of life as a victim.
+(b) In multiple offender cases, if 1 offender is assessed points for the presence or use of a weapon, all offenders shall be assessed the same number of points.
+Likewise, when scoring OV 3, which assesses physical injury to a victim, MCL 777.33(2)(a) requires that:
+In multiple offender cases, if 1 offender is assessed points for death or physical injury, all offenders shall be assessed the same number of points.
+The majority opinion rests upon the analytical assumption that the requirement of equal scores for "multiple offenders" means that identical crimes must be compared to identical crimes. However, as illustrated above, the plain language of MCL 777.31(2)(b) and MCL 777.33(2)(a) clearly does not require that the convicted offenses must be identical. Rather, the statutes contemplate the comparison of identical offense variable scores. I believe that the correct reading of the statutes requires that, to the degree that both defendants  are convicted of crimes requiring the scoring of OV 1 and OV 3, the second defendant would get the same OV 1 and OV 3 scores as the first defendant.
+Here, defendant was scored twenty-five points for her armed robbery OV 1 score. This score is supported by the evidence because a firearm was discharged at or toward James Bish, and the discharge of the firearm was an aggravating factor related to the armed robbery. Defendant's OV 1 score for use of a weapon coincides with Northington's OV 1 score for use of a weapon, as shown in the table below. 
+Additionally, defendant was scored twenty-five points for her OV 3 score. This score is supported by the evidence because of the life-threatening gunshot injury suffered by James Bish, which was an aggravating factor related to the armed robbery. Defendant's OV 3 score of twenty-five points for physical injury to a victim is identical to Northington's OV 3 score for physical injury to a victim, as shown in the table below:
+
+DEFENDANT &
+ov 1
+ov 3
+OFFENSE
+Aggravated use of
+Physical injury
+
+weapon
+to victim
+Northington
+
+
+Assault with intent
+
+
+to murder
+25 points
+25 points
+
+
+
+Northington
+
+
+Armed robbery
+15 points
+0 points
+
+
+
+Morson
+
+
+Armed robbery
+25 points
+25 points
+ The majority errs in simply comparing identical convictions. However, as noted above, the directives contained in OV 1 and OV 3 do not require equality of criminal convictions--they merely necessitate that the offense variables be scored identically. Because defendant received the same OV 1 and OV 3 scores as her cohort, I do not believe that defendant is entitled to resentencing.  3 
+As Chief Justice Corrigan notes in her concurring opinion, there is an arguable tension between the sentencing instructions requiring assessment of the highest number of points shown by the evidence and the instruction included in some offense variables directing the court to assess equal OV points in multiple offender situations. However, I believe that enforcing the statute as written, which instructs  a sentencing court to compare offense variable to like offense variable, promotes both accuracy and equality in the scoring of the guidelines. 4  
+  For the reasons stated herein, I dissent from that portion of the majority opinion holding that the trial court erred in scoring offense variables 1 and 3. Because I believe that the guidelines were scored correctly, I would reverse the Court of Appeals judgment and reinstate the sentence imposed by the circuit court.
+Robert P. Young, Jr.  
+
+ 
+

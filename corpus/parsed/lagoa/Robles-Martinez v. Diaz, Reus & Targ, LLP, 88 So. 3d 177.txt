@@ -1,0 +1,60 @@
+ing).
+I respectfully dissent as I find that the plaintiff did not prove valid service under the substituted service provision of section 48.031(1)(a), Florida Statutes (2010), and I would remand for further proceedings as set forth below.
+Section 48.031(1)(a), which must be strictly construed, only allows for substitute service by "leaving the copies at [the defendant's] usual place of abode with any person residing therein who is 15 years of age or older and informing the person of their contents." (emphasis added). The Florida Supreme Court, this Court, and our sister courts have drawn an important distinction between the term "residence" and the statute's more restrictive term, "usual place of abode."
+The phrase "usual place of abode" means "the place where the defendant is actually living at the time of service." Thompson v. State, Dep't of Revenue, 867 So. 2d 603, 605 (Fla. 1st DCA 2004) (emphasis added) (quoting Shurman v. Atl. Mortg. & Inv. Corp., 795 So. 2d 952, 954 (Fla. 2001)); see State ex rel. Merritt v. Heffernan, 142 Fla. 496, 195 So. 145, 147 (Fla. 1940); Cordova v. Jolcover, 942 So. 2d 1045, 1046-47 (Fla. 2d DCA 2006) (reversing trial court and holding that defendant was not served at his "usual place of abode"; defendant submitted affidavits and other evidence replete with facts that he was not served at his usual place of abode); Busman v. State, Dep't of Revenue, 905 So. 2d 956, 958 (Fla. 3d DCA 2005) (reversing trial court and holding that father was not properly served pursuant to substituted service of process; father presented clear, convincing and uncontroverted evidence that address was not his "usual place of abode"). "The word 'abode' means 'one's fixed place of residence for the time being when service is made.' If a person has more than one residence, he must be served at the residence in which he is actually living at the time of service." Torres v. Arnco Constr., Inc., 867 So. 2d 583, 586 (Fla. 5th DCA 2004) (quoting State ex rel. Merritt, 195 So. at 147); see Stern v. Gad, 505 So. 2d 531, 532 (Fla. 3d DCA 1987).
+The "burden of proof to sustain the validity of service of process is upon the person who seeks to invoke the jurisdiction of the court," i.e., the plaintiff, not the defendant. Thompson, 867 So. 2d at 605 (citing M.J.W. v. Dep't of Children & Families, 825 So. 2d 1038, 1041 (Fla. 1st DCA 2002); see also Torres, 867 So. 2d at 587 ("[T]he party seeking to invoke the court's jurisdiction has the burden to prove the validity of service of process."). While "a process server's return of service on a defendant which is regular on its face is presumed to be valid absent clear and convincing evidence presented to the contrary," Telf Corp. v. Gomez, 671 So. 2d 818, 818 (Fla. 3d DCA 1996), "[i]f the party challenging service 'makes a prima facie showing that the return is defective, then the burden shifts to the person acting under the substituted service provision to prove valid service.'" Haueter-Herranz v. Romero, 975 So. 2d 511, 518 (Fla. 2d DCA 2008) (quoting Gonzalez v. Totalbank, 472 So. 2d 861, 864 n.1 (Fla. 3d DCA 1985)).
+Here, the defendants made a prima facie showing that service was defective. The defendants submitted undisputed affidavits showing that the service was defective and that they were not served at their "usual  place of abode." See Thompson, 867 So. 2d at 605 (finding that defendant's affidavit made a prima facie showing that he was not served at his "usual place of abode" by valid substituted service). Specifically, defendant Jorge Robles-Martinez averred:
+1. I am a defendant in the instant matter.
+2. I was born on December 8, 1965.
+3. I currently reside outside The United States of America.
+4. I am not a citizen nor a legal resident of The United States of America.
+5. Since before March, 2009, I have not resided at 765 Crandon Boulevard, Apt. 112, Key Biscayne, Florida 33149.
+6. Since before March, 2009, Ana Cristina Lindo Uribe did not reside at 765 Crandon Boulevard, Apt. 112, Key Biscayne, Florida 33149.
+Defendant Ana Cristina Lindo Uribe also averred:
+1. I am a defendant in the instant matter.
+2. I was born on August 24, 1973.
+3. I currently reside outside The United States of America.
+4. I am a citizen of The United States of America.
+5. Since before March, 2009, I have not resided at 765 Crandon Boulevard, Apt. 112, Key Biscayne, Florida 33149.
+6. Since before March, 2009, Jorge Robles-Martinez did not reside at 765 Crandon Boulevard, Apt. 112, Key Biscayne, Florida 33149.
+Moreover, at the evidentiary hearing, Maria Victoria Uribe Velez, Ana Cristina Lindo Uribe's mother, and Jorge Robles-Martinez's mother-in-law, specifically testified that at the time of service the defendants did not live at the Key Biscayne condominium:
+Q. Can you tell the Court a little bit about what you remember happened that day.
+A. A process server came to bring a notification for Ana Cristina and George. I told him that they don't live there. But I accepted to sign to notify that the notification had been received, but I told him that they didn't live there.
+Q. Approximately how long had Jorge Robles Martinez and Ana Cristina Lindo Uribe not been living at that apartment
+A. Approximately eight months.
+Q. So you were living alone at that apartment
+A. Yes.
+Once the defendants met their prima facie showing, the burden shifted to the plaintiff to prove valid service. Plaintiff, however, failed to rebut defendants' contention that they did not reside at the Key Biscayne address on the date of service. Significantly, as the majority concedes, the process server testified that he never determined whether the defendants currently lived at the Key Biscayne residence at the time of service, and therefore, whether the Key Biscayne residence was their "usual place of abode."
+Q. Now, you never requested from the security guard whether they were currently living there or they simply owned an apartment there? You never got that information, right?
+MR. PURDIE: Objection, asked and answered.
+THE COURT: Overruled.
+THE WITNESS: No, I asked them if they lived there, and they told me yes.
+BY MR. PORTA:
+Q. Did you exclude the possibility that they simply owned a condo there?
+ A. No, I didn't do that.
+Q. Did you exclude the possibility that they no longer resided there?
+A. No. I asked them if they lived there.
+THE COURT: Did you ask them anything else or that's all you asked?
+THE WITNESS: That's all.
+. . . .
+Q. Did you ask security if they had seen the two defendants that week?
+A. No, I didn't ask them that. They told me that they lived there.
+Q. So you didn't ask any questions as to whether they actually had been residing in that apartment the week you served them or the month you served them or the two months prior to you serving them, you did not get into those conversations?
+A. I didn't get into that conversation because the lady that I served, she told me that they lived there, so I didn't need to ask that.
+In an identical factual scenario, this Court in Portfolio Recovery Associates, LLC v. Gonzalez, 951 So. 2d 1037 (Fla. 3d DCA 2007), affirmed the trial court's order quashing substituted service of process "secured, purportedly under section 48.031(1)(a), Florida Statutes (2006), by leaving a copy of the summons and complaint at [the] home with a woman who was the mother of one defendant and the mother-in-law of the other." Id. at 1038. This Court affirmed the trial court's ruling "because an undisputed affidavit demonstrated that neither of the defendants had lived at that address for five years, and thus that it was not their 'usual place of abode' as the statute requires." Id.
+Here, the record contains not only two undisputed affidavits demonstrating that neither of the defendants lived at the address in question at the time of service and therefore it was not their "usual place of abode" as the statute requires, but also the testimony of the mother/mother-in law at the evidentiary hearing that the defendants did not live at the apartment at the time of service and therefore it was not their "usual place of abode" as the substituted service statute requires.
+On appeal, the defendants contend that the trial court applied the incorrect legal standard in denying the motion to quash, i.e. "the focus of the hearing below was improperly on where the defendants 'lived' instead of their usual place of abode."11  (Initial Br., p. 9). I agree.
+The majority opinion states that "there is no record evidence indicating the trial court based its determination upon appellants' 'residence' as opposed to their 'usual place of abode,'" and further concludes that "there was competent substantial evidence to support the trial court's determinations that the apartment in question was Appellants' usual place of abode on the date of service." The record, however, is devoid of any determination by the trial court that the apartment in question was the defendants' "usual place of abode" on the date of service.
+ First, at the conclusion of the hearing, the trial court found as follows:
+Without further comment, the Court has had the opportunity to review the court file and hear the testimony and review the affidavits.
+This basically turns into a he-said-she-said situation. However, the verified return of service has been properly admitted into the courtroom.
+The standard is clear and convincing for the Court to determine — if the Court was to determine that they were not properly served upon the defendants.
+The Court finds that the defense has not reached the level of clear and convincing evidence. Therefore, the motion to quash service of process at this time is denied.
+Moreover, in its subsequent written order denying the motion to quash, the trial court found as follows:
+The Court finds that the verified return of service was properly admitted into evidence and that the testimony produced by both sides has produced nothing more than a "he said-she said" situation. Given that, the Court finds that the Defendants have not met the burden of clear and convincing evidence to overcome the verified return of service that is regular on its face.
+As such, neither the trial court's oral or written findings apply the correct legal standard for determining whether there was valid service under the substituted service provision of section 48.031(1)(a). Once the defendants made a prima facie case of invalid service, the return of service was not entitled to a presumption of correctness, and the burden shifted back to the plaintiff to establish that the Key Biscayne address was the defendants' "usual place of abode." As the record currently stands, the plaintiff failed to meet its burden. Indeed, the trial court made no findings as to whether the Key Biscayne address was the defendants' "usual place of abode."12 
+The statute for substituted service, however, must be strictly construed, and failure to comply with it renders service void. See Shurman, 795 So. 2d at 954; Busman, 905 So. 2d at 958; Milanes v. Colonial Penn Ins. Co., 507 So. 2d 777, 778 (Fla. 3d DCA 1987). "Indeed, because statutes authorizing substituted service are exceptions to the general rule requiring a defendant to be served personally, due process requires strict compliance with their statutory requirements." Torres, 867 So. 2d at 586. The majority's opinion constitutes a departure from not only this Court's existing precedent but from also those of our sister courts.
+As this Court recognized in Stern, 505 So. 2d at 532, the terms "usual place of abode" and "residence" are not synonymous. Because the trial court did not find that the defendants were served at their "usual place of abode," I would reverse. I would hold, as this Court held in Stern, "that the record in this case will not support a finding that the appellant/defendant was served at a 'usual place of abode' in this county and remand the matter to the trial court" to make a finding as to whether the Key Biscayne address was the defendants' "usual place of abode" on the date suit papers were delivered.
+
+ 
+

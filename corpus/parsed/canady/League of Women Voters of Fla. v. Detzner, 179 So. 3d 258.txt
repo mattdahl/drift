@@ -1,0 +1,723 @@
+ in part and dissents in part with an opinion.
+POLSTON, J., dissents with an opinion.
+ APPENDIX A
+
+ APPENDIX B  
+ORDER RECOMMENDING ADOPTION OF REMEDIAL MAP
+THIS CASE is before me on a temporary relinquishment of jurisdiction from the Florida Supreme Court for the purpose of evaluating proposed remedial congressional redistricting maps and making a recommendation to the Court as to which map, or portions thereof, should be adopted. I have reviewed the proposed maps, considered the evidence presented and the arguments of counsel. For the reasons set forth below, I find that the alternative map proposed by the Coalition Plaintiffs, identified as CP-1, best complies with the Court's directions and with all constitutional requirements, and therefore recommend its adoption.
+ BACKGROUND AND PROCEDURAL POSTURE OF THE CASE
+On July 10, 2014, I entered Final Judgment in this case, finding that the Congressional Redistricting Map enacted by the Legislature in 2012 violated Article III, Section 20 of the Florida Constitution. I directed the Legislature to draw another map to address the defects I found, and subsequently approved the remedial map drawn by the Legislature. Both Plaintiffs and Defendants appealed.
+On July 9, 2015, the Florida Supreme Court issued its opinion in League of Women Voters of Florida v. Detzner, 172 So. 3d 363, 40 Fla. L. Weekly S 432 (Fla. July 9, 2015) ("Apportionment VII"), affirming my finding of constitutional violation but determining that I had not gone far enough in my requirements of the Legislature to correct the constitutional deficiencies. The Court directed the Legislature to draw a third map and gave specific instructions as to how to address problems it noted with certain districts (5, 13, 14, 21, 22, 25, 26 and 27.)
+As to District 5, the Court declared that it must be an east/west rather than a north/south configuration; Districts 13 and 14 must be re-drawn to avoid crossing Tampa Bay; Districts 21 and 22 must be made more compact, suggesting but not requiring a stacked configuration for these two districts; District 25 must be drawn without dividing Hendry County; Districts 26 and 27 must be drawn so as not to split the City of Homestead.
+The Florida Supreme Court temporarily relinquished jurisdiction to this Court for a period of 100 days for remedial proceedings, specifically, to hear evidence and arguments as to the new map and to recommend whether or not it should be approved. The Legislature met in special session but was unable to enact a remedial congressional map as directed. As there was no enacted map for me to evaluate, I requested further instruction from the Florida Supreme Court.
+The Court modified its previous order of temporary relinquishment of jurisdiction, directing me to "make a recommendation to [the Florida Supreme] Court, before the end of the relinquishment period, as to which map proposed by the parties—or which portions of each map—best fulfills the specific directions in [Apportionment VII] and all constitutional requirements." Order at 2-3, League of Women Voters of Fla. v. Detzner, No. SC14-1905 (Fla. Sept. 4, 2015).
+ PROPOSED REMEDIAL MAPS
+The parties have submitted seven proposed remedial maps: 9071, submitted by the House; 9062 and 9066, submitted by the Senate; CP-1, CP-2, and CP-3, submitted by Coalition Plaintiffs; and the Romo Map, submitted by Romo Plaintiffs. A general overview of the maps is as follows:
+a. 9071 — The House proposes a modified version of the base map the staff drew. It differs from the base map by keeping whole four additional cities: Groveland, Auburndale, Riviera Beach, and Sunrise. 9071 includes (1) the same East-West version of District 5 as in the map designated Romo Plan A at trial, (2) a District 14 that does not cross Tampa Bay or divide Pinellas County, (3) a "stacked" configuration of Districts 21 and 22, (4) a District 25 that keeps Hendry County whole, and (5) a District 26 and District 27 that does not split the City of Homestead. 9071 includes 18 split counties and 20 split cities.
+b. 9062 — Passed by the Senate during the special session, this map modifies Districts 9, 10, 11, 15, 16, and 17 from the staff-drawn configurations in the base map and the House Map 9071. 9062 keeps Sarasota County whole, whereas 9071 divides it. 9062 divides Manatee County, whereas 9071 keeps it whole. 9062 does not include a district wholly within Orange County, as does 9071. It includes 18 split counties and 20 split cities.
+c. 9066 — The Senate's alternative map, 9066, was drawn by Senate staff after the special session. It differs from 9071 only as to Districts 9, 15, 16, and 17. It keeps both Sarasota County and Manatee County whole, while 9071 divides Sarasota County, but it divides the City of Longboat Key. Like 9062, it does not include any district wholly within Orange County. 9066 includes 17 split counties and 21 split cities.
+d. CP-1 — Coalition Plaintiffs offer CP-1 as their principal alternative map. Northern and Central Florida in CP-1 include 19 identical districts to the House Map 9071. It differs from 9071, however, in its alternative configurations of Districts 20 through 27 in South Florida. First, CP-1 reconfigures District 20 to keep Hendry County whole (within neighboring District 25), to remain an African American majority-minority district. CP-l's District 20 incorporates the whole city of Miramar, which the legislative proposals split between Districts 24 and 25. It also eliminates an appendage protruding down from District 20 into District 21 in the legislative proposals that splits six cities along the borders of Districts 21.
+CP-1, like the legislative proposals, eliminates the split of Homestead between Districts 26 and 27, but also makes them more compact. The border between Districts 26 and 27 in CP-1 also follows major roadways far more closely than the legislative proposals. CP-1 includes 18 split counties and only 13 split cities.
+e. CP-2 and CP-3 — These are alternatives that use the basic configuration of the legislative proposals for Districts 26 and 27, and were offered to show that it was possible to draw districts that more closely follow major roadways, without adversely affecting compactness or dividing additional cities or counties.
+f. Romo Map — Romo Plaintiffs modelled their proposed remedial map after 9071 in Northern and Central Florida, modifying only the South Florida districts. There are two significant differences between the Romo Map and 9071. First, the Romo Map retains the non-"stacked" configuration of Districts 21 and 22 in the 2012 and 2014 congressional maps. Second, the Romo Map modifies the boundary between Districts 26 and 27 so that the African-American communities in Richmond Heights, Palmetto Estates, and West Perrine are in District 26, rather than District 27. The Romo Map includes 18 split counties and 23 split cities.
+ THE APPLICABLE LEGAL STANDARD AND PARAMETERS OF REVIEW
+The Florida Supreme Court has directed me to "make a recommendation...as to which map proposed by the parties—or which portions of each map—best fulfills the specific directions in [Apportionment VII] and all constitutional requirements." The Court has emphasized that the burden remains on the House and Senate to justify their chosen configurations, and that no deference is due to their choices regarding the drawing of districts.
+What then am I to make of the language that directs me to especially focus on the House and Senate maps, any amendments offered thereto, and the areas of agreement between the legislative chambers? Presumably this means that, even though the Legislature did not enact a map, the ones passed by each chamber, especially where they are in agreement, are the closest we will come to an expression of the preferences of the elected representatives of the people as to a remedial map.
+Accordingly, I should first evaluate the maps proposed by the House and Senate to determine which map, or portions thereof, best meet the Court's criteria. Then I should evaluate that configuration in light of any challenges thereto by the Plaintiffs to determine if the Legislative defendants can meet their burden as noted above, or if some other configuration best fulfills the Court's directions and all constitutional requirements.
+ THE MAPS PROPOSED BY THE HOUSE AND SENATE
+The House Map (9071) and the Senate Map (9062) as well as the alternative offered by the Senate (9066) are very similar. They differ only as to the configuration of certain districts in Central and Southwest Florida. Both the House and Senate have legitimate reasons for preferring their respective configurations. It is a close call, but I find the House Map (9071) preferable to either Senate map.
+First, as to 9062, compactness is slightly better in 9071.
+House Map (9071)
+
+Length
+Perimeter
+Reock
+Convex
+Polsby-
+
+(MILES)
+(MILES)
+
+Hull
+Popper
+District 9
+69
+269
+0.63
+0.87
+0.46
+District 10
+36
+115
+0.49
+0.89
+0.49
+District 11
+84
+332
+0.52
+0.80
+0.33
+District 15
+67
+240
+0.33
+0.76
+0.26
+District 16
+58
+200
+0.64
+0.90
+0.52
+District 17
+118
+416
+0.57
+0.79
+0.46
+AVERAGE
+72.0
+262.0
+0.53
+0.84
+0.42
+
+Senate Map (9062)
+
+Length
+Perimeter
+Reock
+CONVEX
+Polsby-
+
+(MILES)
+(MILES)
+
+Hull
+Popper
+District 9
+78
+293
+0.56
+0.85
+0.39
+District 10
+36
+151
+0.64
+0.85
+0.36
+District 11
+84
+344
+0.53
+0.81
+0.32
+District 15
+66
+206
+0.34
+0.78
+0.34
+District 16
+63
+186
+0.40
+0.81
+0.45
+District 17
+116
+478
+0.61
+0.77
+0.36
+AVERAGE
+73.8
+276.3
+0.51
+0.81
+0.37
+The Senate Map does not divide Sarasota County, while the House Map does, but the Senate Map divides Manatee County, while the House Map does not. The Senate Map was purportedly designed to address the perceived "donor" status of Hillsborough County, but it makes no similar effort to address the "donor" status of other counties in the map, and it exacerbated the "donor" status of Orange County.
+The Senate alternative map (9066), referred to as the Galvano Map, was drawn by staff at the request of Senator Galvano in the hopes of addressing some concerns the House had with 9062. It was drawn after the session and thus was not filed, debated, or voted on by the Senate. It splits neither Sarasota nor Manatee County, and thus preserves one more county, but it splits Longboat Key, which straddles the boundary between Sarasota and Manatee Counties. As shown below, it decreases somewhat the visual and numerical compactness of the four districts that differ between it and the House Map.
+House Map (9071)
+
+Length
+Perimeter
+Reock
+Convex
+Polsby-
+
+(MILES)
+(MILES)
+
+Hull
+Popper
+District 9
+69
+269
+0.63
+0.87
+0.46
+District 15
+67
+240
+0.33
+0.76
+0.26
+District 16
+58
+200
+0.64
+0.90
+0.52
+District 17
+118
+416
+0.57
+0.79
+0.46
+AVERAGE
+78.0
+281.3
+0.54
+0.83
+0.43
+
+Galvano Map (9066)
+
+Length
+Perimeter
+Reock
+Convex
+Polsby-
+
+(MILES)
+(MILES)
+
+Hull
+Popper
+District 9
+126
+400
+0.42
+0.86
+0.42
+District 15
+61
+272
+0.50
+0.74
+0.25
+District 16
+56
+209
+0.62
+0.82
+0.44
+District 17
+91
+333
+0.52
+0.77
+0.39
+AVERAGE
+83.5
+303.5
+0.52
+0.80
+0.38
+Although 9066 is an improvement over 9062, I find that the House Map (9071) still compares favorably to it. I also note that the Plaintiffs' proposed maps are aligned with the House Map (9071) relative to these districts and represents their agreement that the proposed House Map is preferable to those proposed by the Senate.
+That does not mean, however, that the Plaintiffs agree that 9071 is constitutionally drawn and best complies with the Court's directions. They do not. I now consider their challenges to 9071 and their proposed alternatives.
+ PLAINTIFFS' CHALLENGES AND THEIR ALTERNATIVE MAPS
+One of the tenets of our adversarial system of justice is that a court should limit itself to a consideration and resolution of disputed issues between the parties before it. In the context of this case, that means that if the parties are in agreement as to any particular district, it is no longer an issue for me to resolve. This conclusion is strengthened by the directions of the Florida Supreme Court to me to recommend one of the maps proposed by the parties or some combination thereof. I am not at liberty to draw something different than what is contained within the maps proposed by the parties.
+In this regard, neither the Coalition Plaintiffs nor the Romo Plaintiffs take issue with Districts 1, 2, 3, 4, 5, 6, 7, 8, 12, 13, 14, 18, and 19, as reflected in 9071, 9062 and 9066. These districts are, on the whole, more compact and contain fewer city and county splits than in the 2012 and 2014 legislative maps. The Plaintiffs' proposed maps also contain the same configuration for these districts.
+This group includes Districts 5, 13 and 14—which the Court required to be redrawn. I made inquiry of the witnesses as to District 5 specifically, as it appears still to be one of the least compact of the districts. I was told that the Legislature felt safe with the configuration chosen as it was one previously proposed by the Romo Plaintiffs and referenced with approval in the Court's July 9th Order. Regardless, I have no evidence before me that it could have been drawn more tier two compliant without adversely affecting minority voting rights protected under tier one.
+The Plaintiffs do take issue, however, with Districts 20 through 27. The Plaintiffs complain that Districts 26 and 27 in 9071 were drawn to favor Republicans and disfavor Democrats in violation of the tier one prohibition, and that all of the contested districts could have been made more tier two compliant. Romo Plaintiffs also complain that Districts 21 and 22 were drawn to disfavor two Democratic incumbents.
+It appears that the Legislature took appropriate steps to guard against improper partisan influence in the drawing of its base map and in opening up the process of amendments to public scrutiny. Plaintiffs complain that the actual drawing of the base map was not open to the public, nor recorded. Recording the sessions would probably have been a good idea, less so perhaps drawing the map in public. Neither would prevent a map drawer from manipulating lines with a partisan intent. One can research political performance in private. Team members can communicate outside a recorded session.
+And, more importantly, once staff has drawn a base map, individual legislators can easily determine the expected political performance of each district. They can recommend changes which might improve tier two performance somewhat, but motivated by a desire to affect political performance. They might recommend no changes, recognizing that by a happy coincidence the base map had the political effect desired.
+In short, there are many opportunities to manipulate the lines of a map for partisan reasons, all the while producing a map that is reasonably compact and appropriately respectful of county and city boundaries. And it is difficult to know, or to prove, that improper intent is involved.
+I remain convinced that the best, if not perfect, way to guard against improper partisan intent in a map is to look closely at any tier two shortcomings and scrutinize the purported reasons for those shortcomings. If there is a way to make a map more tier two compliant without sacrificing tier one requirements, then it should be done. This will result in not only a more compact map that splits less cities and counties, it will go far in minimizing the risk, or the perception, that it was drawn with a partisan intent.
+This difficult issue of intent is complicated here because there is no official legislative map to consider. There is not a single map to approve or disapprove. 9071 was the product of the House, so it is the intent of that chamber that is relevant. And for the most part, 9071 is little changed from the base map prepared by staff-and any changes improved tier two compliance. Districts 20-27, which are the ones in dispute, were unchanged. So the intent or motivation of the map drawers takes on particular importance. And I do not find from the evidence that the staff map drawers had a conscious intent to favor or disfavor a political party or incumbent.
+I understand why the Plaintiffs might be suspicious as to Districts 26 and 27. The Florida Supreme Court, in its July 9* Order, found that the Legislature had needlessly split the City of Homestead, thereby turning one Democratic and one Republican district into two Republi-canleaning districts. The proposed map, 9071, which admittedly does not split Homestead, actually enhances the partisan effect in favor of the Republican Party. The irony of the cure being worse than the illness is not lost on me.
+There is also an irony as well, however, in taking great pains to draw a map without any consideration of political performance but with the effect of doing so, which is then considered as evidence of improper partisan intent. The fact that 9071 has the effect of favoring a political party in Districts 26 and 27 is simply not enough to convince me that those districts were drawn with that specific intent.
+What does concern me, however, is the shortcomings in the House Map as to tier two requirements. It appears that the map drawers for the Legislature took a very minimalist approach to rectifying the problem identified in Districts 26 and 27. In essence, they drew two versions--one with Homestead in District 26 and one with Homestead in District 27. They then made a cursory analysis to see if it would perform for minorities, compared the tier two metrics of both, and chose the one that was most compact.
+The cursory analysis regarding performance for minorities did not include a comparison against the benchmark district—an analysis necessary to determine whether the configuration unnecessarily packed minorities into one district. They testified that this function would be done by the expert hired by the Legislature for this purpose. It appears, however, that the expert did not make such a comparison to the benchmark district either.
+This approach would not be of such concern if they were at the beginning of the process, enacting the original redistricting map, which would be reviewed for compliance only and with deference given to the Legislature's choices. But that was not the situation facing the Legislature. Rather, it had been tasked with preparing a remedial map. It would have the burden of defending its choices in all respects.
+The map drawers and their bosses seemed uninterested in exploring other possible configurations to see if these districts could be drawn more compact and reduce county and city splits. I would think the Legislature would have anticipated questions about improving tier two compliance and have been prepared to respond to such questions by saying they had explored several possibilities, and they chose the most compliant version.
+The Legislature complains that the Plaintiffs did not participate in the open and transparent process of drawing a remedial map. But when the Plaintiffs tried to participate by pointing out what anyone in the Legislature could also have determined—that the new districts were more Republican leaning than before—they are accused of trying to improperly insert political performance into the equations.
+I understand the dilemma faced by the Legislature in that situation. If it has drawn the map without regard to political performance, then it would be improper for it to "correct" the political effect of the map in certain districts when someone complains. But if a citizen cannot point out what appears to them to be political gerrymandering in certain districts, without the Legislature shutting down any further consideration of those districts because they would then be "favoring a political party" it is difficult to see how public participation in the process could ever effectively occur. There was no reason why the Legislature could not have taken another look at the South Florida districts, not for political performance but for better tier two compliance, either in response to the Plaintiffs' complaint, or better yet, on its own initiative.
+The Coalition Plaintiffs' map drawer seemed to have no trouble improving tier two compliance considerably. Indeed, CP-1 is hands down the best tier two performing map of the group. As to Districts 20-27 it is more compact and splits fewer cities than any of the others.
+The following charts show the differences in compactness and city splits among the proposed plans:
+SOUTH FLORIDA COMPACTNESS CHART
+Reock Scores
+Convex-Hull Scores
+Perimeter Mileage
+
+9062
+CP-1
+Romo
+9062
+CP-1
+Romo
+9062
+CP-1
+Romo
+
+9066
+
+
+9066
+
+
+9066
+
+
+
+9071
+
+
+9071
+
+
+9071
+
+
+CD20
+.48
+.48
+.48
+.75
+.75
+.75
+360
+387
+360
+CD21
+.37
+.37
+.29
+.64
+.64
+.60
+137
+121
+114
+CD22
+.41
+.48
+.18
+.70
+.74
+.64
+150
+119
+205
+CD23
+.27
+.35
+.27
+.63
+.65
+.63
+120
+113
+120
+CD24
+.38
+.47
+.38
+.73
+.77
+.73
+73
+69
+73
+CD25
+.48
+.41
+.48
+.73
+.67
+.73
+363
+361
+363
+CD26
+.18
+.18
+.18
+.46
+.48
+.46
+550
+545
+548
+CD27
+.46
+.54
+.44
+.82
+.85
+.78
+131
+96
+139
+
+.38
+.41
+.34
+.68
+.69
+.67
+1,884
+1,811
+1,922
+
+
+SOUTH FLORIDA SPLIT CITIES
+
+9071,9062,9066
+CP-1
+ROMO
+Split
+15
+8
+18
+Cities
+
+
+
+The Romo Plaintiff's argue that their map is superior, in part, because it corrects what they perceived to be a tier-one violation of targeting incumbents. Professor Ansolabehere testified that two Democratic incumbents live in the panhandle shaped area in the southwest of District 21 in both the Legislative proposal and CP-1. There is insufficient evidence for me to conclude, however, that such was the intent. Accordingly, there is no justification for this less tier-two compliant configuration.
+The Legislature seeks to defend its map against CP-1 by arguing that CP-1 is not visually compact, was drawn with improper partisan intent, and causes retrogression, i.e., diminishes the ability of Hispanics in District 26 to elect a candidate of their choice. As to the argument concerning visual compactness, I suppose that is in the eye of the beholder, but I find CP-1 more visually compact than 9071. And, as noted above, its metrics are much better for compactness and it splits less cities.
+On the issue of partisan intent, it is the Legislature that bears the burden of defending its proposed maps, not the Plaintiffs. While evidence that a map drawer might be a partisan or have a bias is certainly relevant, it would not be a reason to automatically reject it. Just as the Legislature could receive input from partisans in its process of drawing a map and give it the weight it felt appropriate, so can I.
+Moreover, I find no evidence to suggest that CP-1 was drawn with improper partisan intent. Mr. O'Neill, Coalition Plaintiffs' map drawer, testified that he strove to draw the most tier-two compliant configuration of South Florida, did not consider political or incumbent data in drawing the maps, and was not given any other direction but to focus on and comply with the requirements of Article III, section 20 and Apportionment VII and to improve compactness and adherence to major roadways where possible. I found him to be straightforward in his testimony, logical in his approach to drawing the districts and persuasive in his conclusions.
+As to the claim that Districts 26 and 27 as drawn in CP-1 would be retrogressive, the Legislature presents a two-step argument. First they assert that District 26 in CP-1 weakens the Hispanic vote share in the Democratic primary. This leads to retrogression, they assert, because CP-1 also makes District 26 into a district that will lean Democratic in the general election. If the Hispanic candidate of choice cannot win the Democratic primary, there will be no Hispanic candidate elected in the general election because the Republican Hispanic candidate cannot defeat the Democratic candidate. It is a cogent, logical, argument. The problem is that the argument is much more compelling than the evidence offered in support of it.
+The Plaintiffs' expert, Professor Lichtman, testified via his report. In it, he favorably compared Districts 26 and 27 in CP-1 to districts in both the 2012 congressional plan and 2002 benchmark congressional plan and found no retrogression. Although I did not have the opportunity to judge his demeanor while testifying, his report is persuasive. He systematically analyzed the subject matter with accepted scientific methodologies and found that the Hispanic candidate or Hispanic candidate of choice won 29 out of 29 elections that took place between 2006 and 2014 in comparable Miami-Dade County based districts that had similar Hispanic voting age population to the proposed Hispanic districts in CP-1. He also analyzed the 2010 U.S. Senate Election and demonstrated that Marco Rubio, a Hispanic Republican, carried the proposed Hispanic districts in CP-1 by landslide margins.
+And, through ecological regression, Lichtman showed that in CP-l's District 26, for instance, Rubio received an overwhelming 71% of the Hispanic vote (including support from non-Republican Hispanics) and substantial crossover votes from non-Hispanic voters, regardless of the fact that the district performed for the Democratic Gubernatorial Candidate, Alex Sink, in 2010.
+Lichtman concluded that, "according to the range of most pertinent factors, [District 26] in CP-1 is a Hispanic opportunity district beyond any reasonable doubt," and that Districts 25, 26, and 27 in CP-1, CP-2, and CP-3 all function as performing Hispanic districts.
+Defendants find fault with his conclusions, asserting that he did not address the effect that a smaller Hispanic vote share in the Democratic primary would have in a district that is now more Democratic leaning. In fact, we don't know if he considered this particular factor. His testimony (via his report) was that he considered "not only the Hispanic demography in the districts, but such additional factors as Hispanic registration, turnout, and candidate voting: the electoral history of congressional, state senate, and state house districts with comparable Hispanic demographics; and the electoral history of the only recent statewide Hispanic candidate in Florida (Rubio in the 2010 general election for U.S. Senate)." He was present at the hearing and available for cross examination about his methods and conclusions. He could have been asked about this specific concern, but the Defendants chose not to do so.
+The experts for the Legislature on this issue were less persuasive. Professor Liu opined that African Americans and Hispanics do not vote as a coalition in South Florida. Intuitively, this makes sense, but the data he used to draw his conclusions from was suspect. Of the ten elections he analyzed, only six involved Hispanic candidates and three of those were non-partisan judicial races. He could not identify any election in which a coalition of African Americans and non-Hispanic whites effectively defeated the Hispanic candidate of choice, except for a non-partisan judicial race involving a challenge to a sitting county judge. I did not find this expert testimony to be particularly helpful.
+Professor Moreno, who no doubt has a good bit of knowledge and expertise about elections in South Florida, testified to his concerns that the CP-1 configuration would diminish the ability of Hispanics to elect a candidate of their choice. His testimony was long on pure opinion based on experience and short on systematic, scientific analysis of accepted statistical data. More troublesome is that, for whatever reason, he based his opinion on a comparison between CP-1 and the House proposed map (9071), not the Benchmark Map of 2002, or even the enacted Map of 2012. Moreover, his concern was for the future—what might happen. Given the legal test for retrogression, and the speculative nature of his testimony, his opinion had little probative value to me.
+The undisputed political data provides some support for both sides on this issue. In the last three presidential and gubernatorial elections the district has leaned Democratic. While the benchmark district also leaned Democratic, District 26 is 1.1 % more Democratic in its partisan performance on average.1 
+BENCHMARK DISTRICT 18 POLITICAL PERFORMANCE
+
+Democrat Vote Share
+Republican Vote Share
+2012 President
+54.8% (Obama)
+45.2% (Romney)
+2010 Governor
+49.2% (Sink)
+50.8% (Scott)
+2008 President
+51.0% (Obama
+49.0% (McCain)
+Average
+51.7%
+48.3%
+
+CP-1 DISTRICT 26 POLITICAL PERFORMANCE
+
+Democrat Vote Share
+Republican Vote Share
+2012 President
+55.8% (Obama)
+44.2% (Romney)
+2010 Governor
+50.7% (Sink)
+49.3% (Scott)
+2008 President
+51.8% (Obama
+48.2% (McCain)
+Average
+52.8%
+47.2%
+The Hispanic demographic and political data also show that in many metrics CP-1 is actually stronger than benchmark District 18. However, when it comes to control of the Democratic primary, Hispanics made up only 22.8% of the Democratic primary electorate in 2010, compared to 26.7% in Benchmark District 18.2  The fact that this erosion of Hispanic control of the Democratic primary comes in a district that is also the most Democratic in its general election performance gives me some pause in accepting Professor Lichtman's conclusions. I am mindful that "[c]ircumstances, such as differing rates of electoral participation within discrete portions of a population, may impact on the ability of voters to elect candidates of choice . . ." In re Senate Joint Resolution of Legislative Apportionment 1176, 83 So. 3d 597, 625 (Fla. 2012).
+BENCHMARK HISPANIC PERFORMANCE METRICS
+
+Hisp.%
+Hisp.% Reg
+Hisp.% of
+Hisp.% of
+Hisp.%
+Hisp.% of
+Hisp.%
+
+Voting Age
+Voters
+Dems
+Reps.
+General
+Dem.
+of Rep.
+
+Pop.
+
+
+
+
+
+
+Turnout
+Primary
+Primary
+
+
+
+
+
+
+
+
+
+
+Turnout
+Turnout
+
+2010
+2010
+2012
+2010
+2012
+2010
+2012
+2010
+2012
+2010
+2010
+CD
+67.18
+51.7
+52.7
+40.5
+43.3
+62.9
+62.5
+49.8
+51.8
+26.7
+66.4
+18
+
+
+
+
+
+
+
+
+
+
+
+CD
+77.12
+61.9
+64.0
+47.6
+50.8
+73.3
+74.3
+58.7
+63.2
+28.9
+76.5
+21
+
+
+
+
+
+
+
+
+
+
+
+CD
+72.22
+59.2
+61.3
+49.2
+51.9
+65.8
+66.7
+54.7
+59.7
+29.6
+63.0
+25
+
+
+
+
+
+
+
+
+
+
+
+
+CP-1 HISPANIC PERFORMANCE METRICS
+
+Hisp.%
+Hisp.% Reg
+Hisp.% of
+Hisp.% of
+Hisp.%
+Hisp.% of
+Hisp.%
+
+Voting Age
+Voters
+Dems
+Reps.
+General
+Dem.
+of Rep.
+
+Pop.
+
+
+
+
+
+
+Turnout
+Primary
+Primary
+
+
+
+
+
+
+
+
+
+
+Turnout
+Turnout
+
+2010
+2010
+2012
+2010
+2012
+2010
+2012
+2010
+2012
+2010
+2010
+CD
+75.0
+59.8
+62.6
+55.2
+59.8
+61.0
+61.7
+61.7
+60.0
+60.0
+56.8
+25
+
+
+
+
+
+
+
+
+
+
+
+CD
+68.3
+54.7
+56.5
+42.5
+45.0
+64.7
+65.5
+50.3
+55.0
+22.8
+62.4
+26
+
+
+
+
+
+
+
+
+
+
+
+CD
+69.2
+54.5
+55.6
+40.9
+43.6
+67.1
+67.1
+52.4
+55.1
+26.0
+71.4
+27
+
+
+
+
+
+
+
+
+
+
+
+However, applying the retrogression analysis employed by the Court in Apportionment I, the vast majority of the factors show that District 26 in CP-1 is not retrogressive. The district Hispanic voting age population of 68.3 % and Hispanics comprise 54.7 % of registered voters. In 2010, Hispanics comprised 50.3 % of the general election electorate. In South Florida elections with similar demographic statistics, Hispanics have consistently elected the candidate of their choice. Weighing all the evidence presented on the issue, I am not convinced that the deviations as noted above will deprive Hispanic voters of their ability to elect a candidate of choice in District 26, as drawn in CP-1.
+The Legislature has thus not met its burden of justifying the proposed versions of Districts 20 through 27 in Plans 9062, 9066, and 9071. Districts 20 through 27 in CP-1 are, on the whole, more compact and split fewer cities than in Plans 9062, 9066, and 9071 or the Romo Plan, without running afoul of tier one requirements. CP-1 best complies with the directions in Apportionment VII and the requirements of Article III, section 20. I therefore recommend its adoption.
+DONE AND ORDERED this 9th day of October, 2015.
+/s/ Terry P. Lewis
+Terry P. Lewis
+Circuit Judge
+Concur by: PERRY; CANADY (In Part)  
+Concur
+
+
+
+
+PERRY, J., concurring.
+While I concur fully with my colleagues in the majority, I write separately to provide the context in which we make this decision. What concerns me are line-drawers who create districts for political advantage, but disingenuously cloak their explanations in the language of protecting minority voting rights. Cf. In re Senate Joint Resolution of Legislative Apportionment 1176 (Apportionment I), 83 So. 3d 597, 692-93 (Fla. 2012) (Perry, J. concurring). This course of action is antithetical to the Fair Districts Amendment and the basic principles of democratic self-governance. Neither our constitution nor the Voting Rights Act implicitly condones or justifies the practice.
+As explained by the United States Supreme Court, the [Voting Rights Act] "was designed by Congress to banish the blight of racial discrimination in voting," South Carolina v. Katzenbach, 383 U.S. 301, 308, 86 S. Ct. 803, 15 L. Ed. 2d 769 (1966), and to help effectuate the Fifteenth Amendment's guarantee that no citizen's right to vote shall "be denied or abridged . . . on account of race, color, or previous condition of servitude." Voinovich v. Quilter, 507 U.S. 146, 152, 113 S. Ct. 1149, 122 L. Ed. 2d 500 (1993) (quoting U.S. Const. amend. XV).
+Id. at 621.
+Historically, the Voting Rights Act protected minority voters from attempts to dilute their voting power. Enacted in 1965, it sought to eliminate traditional disenfranchisement mechanisms like literacy tests. See Pub. L. No. 89-110, 79 Stat. 437 (1965). In response, states turned to "second-generation barriers"—the principal tool being the gerrymandering of voting districts. See Shelby Cnty., Ala. v. Holder, 133 S. Ct. 2612, 2634-35, 186 L. Ed. 2d 651 (2013) (Ginsburg, J., dissenting). Courts invalidated the most blatant racial gerrymanders as unconstitutional violations of the right to vote. See Gomillion v. Lightfoot, 364 U.S. 339, 348, 81 S. Ct. 125, 5 L. Ed. 2d 110 (1960); see, e.g., League of United Latin American Citizens v. Perry, 548 U.S. 399, 126 S. Ct. 2594, 165 L. Ed. 2d 609 (2006) (holding that a congressional district violated the Voting Rights Act's prohibition on election practices or procedures with a discriminatory effect); Allen v. Va. State Bd. of Elections,  393 U.S. 544, 565, 89 S. Ct. 817, 22 L. Ed. 2d 1 (1969) (holding that the preclearance provisions of the Voting Rights Act apply to redistricting changes).
+In the decades that followed, minority Democrats and white Republicans often formed alliances during redistricting sessions.17  Under the guise of protecting minority voters, line-drawers would group large numbers of minority voters into small numbers of districts, a practice known as "packing." See, e.g., Voinovich v. Quilter, 507 U.S. 146, 153-54, 113 S. Ct. 1149, 122 L. Ed. 2d 500 (1993). Consequently, the surrounding districts contained very few minority voters, an effect known as "bleaching." See Pamela S. Karlan, The Fire Next Time: Reapportionment After the 2000 Census, 50 Stan. L. Rev. 731, 740 (1998). Minority Democrats and white Republicans who supported these plans increased the reelection prospects for individuals in both groups: minority Democrats ran in districts replete with like-minded minority voters, while white Republicans ran in districts replete with like-minded white voters. See, e.g., Hays v. Louisiana, 839 F. Supp. 1188, 1205 n.54 (W.D. La. 1993) ("Testimony at the trial revealed that [the redistricting plan] was passed by a legislative alliance between the Black and the Republican Caucuses, historically uncommon bedfellows but, according to expert testimony, a phenomenon occurring with increasing frequency across the country."), vacated, 512 U.S. 1230, 114 S. Ct. 2731, 129 L. Ed. 2d 853 (1994).
+To understand the effect on the redistricting process, consider the example of State X, a small state comprised of fifty people. Thirty people belong to the Orange party and twenty people belong to the Purple party. The state's line-drawers must divide the state into five congressional districts. Drawing the lines one way—in this case, vertically down the state—results in Orange winning 60% of the seats, and Purple winning 40% of the seats—an identical reflection of the partisan components of the state.
+Now assume that the line-drawers are controlled by the Purple party. Knowing that their party is numerically disadvantaged, population-wise, the Purple line-drawers divide the state in an unwieldy manner, such that Purple wins 60% of the seats (despite support from only a 40% minority of the people) and Orange wins 40% of the seats (despite support from a 60% supermajority of the people).18 
+  Proportionate Representation
+
+3 Orange districts, 2 Purple districts
+Compact but Disproportionate
+
+5 Orange districts, 0 Purple districts
+Neither Compact nor Proportionate
+
+2 Orange districts, 3 Purple districts
+When the legislature draws congressional districts and a single party controls both legislative chambers, the party has unfettered power in the redistricting process. Partisan-controlled legislatures often create redistricting plans that ensure the controlling members' party is disproportionately represented in the state's congressional delegation in comparison to the actual political makeup of the state. In exchange for working with the controlling party, the incumbents from the non-controlling party practically ensure their own reelections.
+This Court is uniquely aware of how closely divided Florida's electorate can be. See Gore v. Harris, 772 So. 2d 1243, 1247 n.4 (Fla. 2000), rev'd, Bush v. Gore, 531 U.S. 98, 121 S. Ct. 525, 148 L. Ed. 2d 388 (2000); see also Porter v. Bowen, 496 F.3d 1009, 1012 (9th Cir. 2007) (describing Florida as a "swing state"). Florida's political dead heat suggests that its members of Congress should be split relatively evenly between the two parties. Yet, the Republican Party holds a virtual supermajority. The Republican political advantage is, in large part, a result of the party's influence on the redrawing of boundary lines. However, "[t]he desire of a political party to provide its representatives with an advantage in reapportionment is not a Republican or Democratic tenet, but applies equally to both parties." Apportionment I, 83 So. 3d at 615; In re Senate Joint Resolution 2G, Special Apportionment Session 1992, 597 So. 2d 276, 285 (Fla. 1992) ("[S]everal of the opponents observe that the Joint Resolution is nothing more than a gerrymandering effort by the Democratic majority of the legislature to protect Democratic incumbents. We have little doubt that politics played a large part in the adoption of this plan.") (footnote omitted).
+The people of this great state passed a constitutional amendment seeking to address the errors of the past. See Apportionment I, 83 So. 3d at 597. Floridians voted to add these new redistricting mandates,  and they "could not have spoken louder or with more clarity." Id. at 695 (Perry, J., concurring). "The Florida Constitution now expressly prohibits what the United States Supreme Court has in the past termed a proper, and inevitable, consideration in the apportionment process." Id. at 616 (citations omitted). Specifically, the Fair Districts Amendment prohibits lines "drawn with the intent or result of denying or abridging the equal opportunity of racial or language minorities to participate in the political process or to diminish their ability to elect representatives of their choice." Art. III, § 20(a), Fla. Const. In other words, "the standards governing the . . . apportionment process are now more stringent than the requirements under the United States Constitution and prior versions of the Florida Constitution." Apportionment I, 83 So. 3d at 604. Despite this populous mandate, those who were elected to represent the interests of the citizenry instead chose to use the undeniably gerrymandered 2002 map as the starting point and then opted to make as few changes as possible to create maps that could pass constitutional muster.
+After more than three years of litigation and appeals, even with clear instruction from this Court, League of Women Voters of Florida v. Detzner, 172 So. 3d 363, 372 (Fla. 2015), there is criticism that the representatives of the people have spent more than $10 million in taxpayer dollars19  and have failed to pass a single constitutionally-sound plan. It now falls to this Court to provide the Supervisors of Elections with a constitutionally compliant map.
+Judge Lewis has worked tirelessly and diligently below to do just that. The efforts to paint this process as partisan or invoke the antebellum period are an unjustified attack on the integrity of our judicial system. Had those who were elected by the people heeded their electorate, our involvement would never have been required.
+As it stands, once adopted, the plan we approve today increases the number of districts where minorities, both racial and ethnic, will have the opportunity to elect the representatives of their choice. The boundaries may have changed, but the purpose and goal of the Voting Rights Act and Florida's Fair Districts Amendment have been better met under this plan.
+I understand that it is nearly impossible to remove politics from an inherently political process, and both parties have had the advantages of drawing the lines at some point in history. However, this Court is constitutionally required not to protect any individual incumbent, but to protect the interests of each individual voter. To do otherwise would be contrary to the democratic principles embodied in our constitution.
+Originally, the right to vote was limited to white male landowners. Others had to fight and die for the privilege to be extended to them. It is an insult to their struggle for politicians to now use that sacrifice for personal benefit. The Florida Constitution protects the ability of minority communities to elect representatives of their choice. See art. III, § 20, Fla. Const. That protection belongs to the minority community—not to the incumbents they choose to elect.
+QUINCE, J., concurs.

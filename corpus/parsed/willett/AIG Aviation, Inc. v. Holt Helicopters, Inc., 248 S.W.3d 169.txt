@@ -1,0 +1,21 @@
+  
+Dissent
+
+
+
+
+ JUSTICE WILLETT, dissenting from the denial of the motion for rehearing of the petition.
+This Court has held--recently and repeatedly--that insurance contracts should be enforced according to their express terms:
+• Healthcare insurance contracts--we enforce them as written. 1 
+• Homeowners insurance contracts--we enforce them as written. 2 
+• Commercial general liability insurance contracts--we enforce them as written. 3 
+Not so with aviation insurance contracts. In Puckett v. U. S. Fire Insurance Co., we engrafted a causal-connection requirement into the policy, requiring the insurer to show that the insured's breach actually caused  the damage or accident. 4  The Court held that while the policy unequivocally suspended coverage if there was no valid airworthiness certificate, public policy nonetheless trumped the contract's express terms and barred the insurer from denying coverage if the insured's violation of the aircraft-inspection requirement did not contribute to the crash. 5  In short, Puckett granted an unbargained-for expansion of coverage in the face of a bargained-for exclusion from coverage.
+Puckett's judicial rewriting of the parties' contract clashes head-on with our "modest, text-based approach" to interpreting contract language. 6  As we have stressed, Texas courts must stick to what policies say, not what we wish they said. 7  I agree with Chief Justice Pope's spirited dissent in Puckett: "Courts are not in the business of writing insurance contracts. Our duty is to apply unambiguous contracts as they are written." 8  We should either (1) overrule Puckett, (2) distinguish it, 9  or (3) explain forthrightly why we insist on applying a hazy, public policy-based interpretive standard to aviation insurance contracts (an area where public safety concerns should urge hard-and-fast enforcement of safety-related provisions). 10 
+Puckett's nontextual approach is starkly at odds with our insurance decisions generally, and with most American jurisdictions' aviation-insurance decisions specifically. 11  The Court should join the mainstream, not grant aviation contracts their own interpretive jet stream. Because "we should strive for uniformity" in giving effect to unequivocal contract terms, 12  we should not apply one enforcement rule to aviation contracts and a different enforcement rule to all other contracts.
+ I would decide the case, and because the Court declines to do so, I respectfully dissent.
+Don R. Willett
+Justice
+OPINION DELIVERED: January 11, 2008
+
+ 
+

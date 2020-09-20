@@ -1,0 +1,17 @@
+  
+Concur
+
+
+
+
+Justice Willett, joined by Justice Lehrmann, concurring.
+The Court addresses application of Texas Rule of Evidence 701 and the Property Owner Rule when a business organization owns the property condemned by the government. It holds that when a business entity owns the property, a natural person can testify as to its value under the Property Owner Rule if the person is "an officer in a management position with duties that at least in some part relate to the property at issue, or an employee of the entity in a substantially equivalent position." 1  The Court concludes that the Property Owner Rule does not apply because LaBeff was not an officer or employee of the limited partnership that owned the property; rather, he was an officer of the corporation serving as the general partner of the limited partnership.
+ The Court further holds that one key to whether LaBeff's affidavit was admissible under Rule 701 was "his personal familiarity with both the property and its value." 2  The Court notes the lack of proof in this regard. The opinion, as I read it, leaves open the question whether LaBeff's affidavit would have been admissible under Rule 701 (but not the Property Owner Rule) if he had such personal knowledge, even though he was not an officer of the limited partnership that owned the property.
+Limited partnerships, including real-estate limited partnerships, are popular investment vehicles. 3  They commonly consist of passive limited partners 4  and a general partner that is a corporation. 5  Since limited partnerships are managed by the general partner or partners, 6  there is no particular reason for a limited partnership to have any managerial employees—or indeed any employees at all. Therefore, the Court's treatment of the Property Owner Rule means that many, if not most, limited partnerships could never proffer a witness on the value of their real estate holdings under the Property Owner Rule.
+Yet the Court does contemplate application of the Property Owner Rule to a managing officer of the entity owning the property or an employee of the entity in a "substantially equivalent" position. In the case of a limited partnership, I would hold that a managing officer of the corporate general partner with duties relating to the property may testify as to the value of partnership property without being qualified as a expert witness, provided the officer is familiar with the specific property in issue and its value. Such a rule would provide some parity of treatment of limited partnerships and corporations in condemnation proceedings. I do not think it matters whether this rule is seen as an application of the Property Owner Rule or Rule 701 or both. Regardless, in this case LaBeff did not meet the personal knowledge requirement and his affidavit was properly excluded, as the Court holds.
+Don R. Willett
+Justice
+OPINION DELIVERED: March 11, 2011
+
+ 
+

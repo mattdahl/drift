@@ -1,0 +1,16 @@
+  
+Concur
+
+
+
+
+JUSTICE WILLETT, concurring.
+Privileges, to be effective, must be predictable; an uncertain privilege, or one subject to widely varying applications, is barely better than no privilege at all.
+The United States Supreme Court declared a generation ago, "Although the work-product doctrine most frequently is asserted as a bar to discovery in civil litigation, its role in assuring the proper functioning of the criminal justice system is even more vital." 1  In my view, mandating testimony from DA personnel on these facts would impose an unwarranted burden on our State's finite prosecutorial resources and impede the vigorous deployment of such resources. 
+When interpreting the rules of procedure and evidence, courts must always be mindful of the mandates of Rule of Civil Procedure 1 and Rule of Evidence 102. The former declares this paramount objective: "to obtain a just, fair, equitable and impartial adjudication . . . with as great expedition and dispatch and at the least expense both to the litigants and to the state as may be practicable." The latter states a similar overarching purpose: "to secure . . . elimination of unjustifiable expense and delay." These two policy pronouncements, both adopted by this Court, govern construction of the rules and require the promotion of fair and efficient proceedings. And both rules necessarily inform our analysis of whether Texas law permits private plaintiffs to force DA testimony in cases like this.
+The DA's Office's brief advances various practical reasons for its view that "turning every prosecutor's office into civil litigants' private investigators and witnesses on the public's dime is not sound public policy." One argument is that allowing malicious prosecution plaintiffs to commandeer DA personnel to testify under a Rule 511 waiver theory would actually cause plaintiffs more problems than it would cure. I agree with the DA's Office that granting  Crudup's demand for live testimony would, if anything, exacerbate evidentiary challenges for future malicious prosecution plaintiffs. District attorneys are chiefly focused on their criminal caseloads--"the primary duty of all prosecuting attorneys . . . [is] to see that justice is done" 2 --not on being taxpayer-funded witnesses and investigators in private damages suits. If selective production of a case file effected a sweeping subject-matter waiver that forfeited the testimonial privilege and obliged DAs to endure civil depositions, hearings, and trials while their criminal caseloads languished, prosecutors would simply forswear cooperation altogether and never disclose anything. Plaintiffs like Crudup would then be forced to prove "substantial need" and "undue hardship" for each individual document in the prosecutor's file, a laborious practice that would succeed only in wasting time and expense for the bench and bar alike.
+The Court properly limited the scope of the work-product waiver resulting from the DA's disclosure to the documents themselves, not to live testimony concerning the thoughts and communications underlying each document's contents.
+I write separately only to make these practical points, which while unnecessary to our holding today, are nonetheless compelling.
+Don R. Willett
+Justice
+Opinion Delivered: May 4, 2007 

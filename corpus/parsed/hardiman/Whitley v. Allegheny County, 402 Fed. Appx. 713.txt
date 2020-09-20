@@ -1,0 +1,7 @@
+, concurring.
+I concur with the result reached by the majority. Unlike my colleagues, however, I disagree with the District Court's holding that Whitley's malicious prosecution claims are barred by the doctrine of collateral estoppel.
+In denying Whitley's motion to suppress, the state court ruled that the August 18, 1988 affidavit in support of a warrant to search Whitley's home was supported by probable cause. This holding collaterally estops Whitley from claiming in federal court that there was no cause to search his home. But Whitley's malicious prosecution claims were based on the alleged absence of probable cause underlying his eventual arrest. Whitley claimed the February 20, 1989 affidavit in support of the arrest warrant contained inaccuracies and omissions, some of which also allegedly plagued the search warrant affidavit, but some of which only became known to the police in the intervening months. Because the state court never  adjudicated Whitley's challenge to the February 20, 1989 affidavit, the District Court erred in applying collateral estoppel.
+Nevertheless, my review of the record leads to the conclusion that, even though it was later determined that Whitley was innocent of the crime with which he was charged and convicted, there was probable cause for his arrest. See Wilson v. Russo, 212 F.3d 781, 789 (3d Cir. 2000) (excising any inaccuracies and inserting any facts recklessly omitted to determine whether or not a "corrected" affidavit would establish probable cause). Accordingly, his malicious prosecution claims must fail.
+
+ 
+

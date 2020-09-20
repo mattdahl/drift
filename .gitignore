@@ -1,3 +1,5 @@
+corpus/other/
+
 # R project
 *.Rproj
 .Rproj.user

@@ -1,0 +1,9 @@
+; CAVANAGH (In Part)  
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+I concur in the order. I write separately only to point out that, contrary to Justice Cavanagh's statement, causation is necessarily intertwined with the serious impairment inquiry under MCL 500.3135, because such an inquiry requires a preliminary finding with regard to the permanence or non-permanence of the plaintiff's preexisting injury.
+Justice Cavanagh would allow a court to consider causation only after determining whether the plaintiff's combined injuries meet the serious impairment threshold. This would allow a plaintiff who has suffered an earlier, permanent injury that itself amounts to a serious impairment of body function (such as the amputation of a leg) to recover noneconomic damages for any injury caused by a subsequent accident, however minor those actual injuries are. Such a result is inconsistent with the no-fault statutory scheme, which allows  plaintiffs to recover noneconomic damages when the injuries caused by the defendant's negligence meet the serious impairment threshold. Even the Court of Appeals acknowledged that a plaintiff is not entitled to use a preexisting, permanent injury to reach the serious impairment threshold. Benefiel v Auto-Owners Ins Co, 277 Mich App 412, 419-420; 745 N.W.2d 174 (2007). Accordingly, I concur in the entirety of this Court's order.

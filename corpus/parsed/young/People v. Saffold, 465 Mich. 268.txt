@@ -1,0 +1,16 @@
+, Jr.    
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+I join in the majority opinion and fully concur that an omission from the plea  proceedings of one or another of the rights attendant to trial, other than a Jaworski right, does not necessarily require reversal. However,  I write separately because I wish to clarify that, in my view, there was no omission of the "presumption of innocence," and thus, no error under MCR 6.302(B)(3)(c) occurred in this case. 
+The trial court, during the plea proceeding, advised defendant that he had a right to a trial by jury and that he had a right to have his guilt proven beyond a reasonable doubt. Specifically, the trial judge directly said the following to defendant:
+The Court: You obviously know what a jury trial is. You've been sitting here during jury selection, and you've seen witnesses testify so you understand that you're here because you have the right to be here. Meaning you have the right to have this trial, and you have the right to have the jury decide the facts, and decide whether or not your guilt is proven beyond a reasonable doubt. And you've seen cross-examination so you understand you have the right to see, hear and cross-examine the State's witnesses. Am I correct in inferring that? [Emphasis added.]
+* * *
+The Court: Do you understand that you give up those rights, and give up the right to a trial if you change your plea to guilty? 
+In my view, advising defendant that he had a right to have his guilt proven beyond a reasonable doubt necessarily encompassed the advice that he would have been presumed innocent. The presumption of innocence is "nothing more than an amplification of the prosecution's burden of persuasion." See 2 McCormick, Evidence (5th ed), § 342, p 437. If the presumption of innocence adds anything, it is merely "a warning not to treat certain things improperly as evidence." 9 Wigmore, Evidence (3d ed), § 2511, p 409. 
+ The court did not recite literally the court rule terminology. However, when defendant was told that he had a right to have his guilt proven beyond a reasonable doubt, he necessarily learned that he would be considered innocent in the absence of such proof of his guilt. In my view, this advice adequately informed defendant of the "presumption of innocence." No single method of recital is required.  Guilty Plea Cases, 395 Mich. 96, 119-120; 235 N.W.2d 132 (1975). 
+I believe that the phrase "presumption of innocence" is merely a shorthand way of referring to the right to have a jury find a defendant guilty beyond a reasonable doubt. Accordingly, I believe defendant was in fact informed of the "presumption of innocence" and that no omission of advice as required by the rule occurred in this case.
+CORRIGAN, C.J., concurred with YOUNG, J. 

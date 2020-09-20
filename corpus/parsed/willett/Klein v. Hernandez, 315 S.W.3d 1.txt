@@ -1,0 +1,44 @@
+  
+Concur
+
+
+
+
+JUSTICE WILLETT, concurring.
+The Court is right that Chapter 312 extends to Baylor College of Medicine resident-physicians the same protection and benefits enjoyed by state agency employees providing services at public hospitals.  The Court is also right that Chapter 312 compels this answer "by its own terms." 1  Because "the words of the chapter" decide this case, 2  it is imprudent to look outside those words, specifically by peeking into legislative minutiae surrounding the passage of Chapter 312's predecessor. As today's case can be decided without consulting legislative history, it should be decided without consulting legislative history. 
+The Court says the Code Construction Act "guides our analysis" 3  and permits consideration of several extra-textual factors beyond the Legislature's chosen language, including legislative history. The Act, phrased in permissive language ("a court may consider"), 4  indeed invites judges to consult factors like legislative history "whether or not the statute is considered ambiguous on its face." 5  Several of our cases, both before and after enactment of the Code Construction Act, posit a simpler and less-manipulable principle: unambiguous text equals dispositive text.
+
+. "Where text is clear, text is determinative of [legislative] intent." 6 
+
+. "If a statute is clear and unambiguous, we apply its words according to their common meaning without resort to rules of construction or extrinsic aids." 7  
+
+. "[O]ver-reliance on secondary materials should be avoided, particularly where a statute's language is clear. If the text is unambiguous, we must take the Legislature at its word and not rummage around in legislative minutiae." 8  
+
+. "Unless a statute is ambiguous, we must follow the clear language of the statute. This principle has been set forth in a number of Texas cases. . . . [and] adopted and utilized by this court many times." 9  
+
+. "If the disputed statute is clear and unambiguous extrinsic aids and rules of statutory construction are inappropriate . . . ." 10  
+
+. "If the statute being construed is plain and unambiguous, there is no need to resort to rules of construction, and it would be inappropriate to do so." 11  
+Faced with unequivocal language, "the judge's inquiry is at an end." 12   Today's holding is firmly rooted in the statutory text--"[i]n the words of the chapter," 13  declares the Court--and our analysis should end there; definitive ought to be determinative. Mining legislative minutiae to divine legislative intent may be commonplace, but as we have held, relying on such materials is verboten where the statute itself is absolutely clear. 14  
+ I suppose it is fortunate that the senate bill analysis in today's case is consonant with Chapter 312's text. But what about tomorrow's case, where a shrewd snippet from a bill analysis (perhaps unread), committee hearing (perhaps unattended), or floor debate (perhaps unheard) calls into question what the statute unquestionably requires? The peril in citing such background materials even to reinforce what the statute already makes clear ("by its own terms," 15  as the Court says today) is that it suggests the statute--the words that everyday Texans use to guide their behavior--is not in fact controlling, but is instead vulnerable to challenge by a stray comment entombed somewhere in the legislative record. Questions abound: 
+
+. What if the text, unambiguous on its face, commands X but a committee witness testifies Y? 
+
+. What if the text, unambiguous on its face, requires X but the judge dislikes the "consequences of [that] particular construction"? 16  
+
+. What if the text, unambiguous on its face, compels X but that outcome clashes with what the judge considers "a just and reasonable result"? 17  
+
+. What if the text, unambiguous on its face, mandates X but the judge believes that result subordinates the "public interest" to "private interest"? 18  
+My view: judicial deference requires that judges read the laws that govern our lives in a manner faithful to what those laws actually say. 
+That said, I accept a confined role for extra-textual aids when laws are nebulous and susceptible to varying interpretations or when necessary to fill in gaps left (perhaps intentionally) by the Legislature. But even then, and preferably only then, we proceed "cautiously," 19  mindful that such materials conflict as often as they converge, and that our goal is "to solve, but not to create, an ambiguity." 20  
+ As we have held, the "truest manifestation" of what lawmakers intended is what lawmakers enacted--"the literal text they voted on." 21  And where the Legislature's words yield a single inescapable interpretation, they are not only the best evidence of intent but the exclusive evidence. "The statute itself is what constitutes the law; it alone represents the Legislature's singular will, and it is perilous to equate an isolated remark or opinion with an authoritative, watertight index of the collective wishes of 181 individual legislators, who may have 181 different motives and reasons for voting the way they do." 22  
+The Legislature passes and the Governor signs bills, not bill analyses, and we are governed by laws, not by legislative histories. So long as judges resort to external materials even when statutes are clear, lawmakers and lobbyists will keep peppering the legislative record with their preferred interpretation, not to inform legislators enacting statutes but to influence judges interpreting them. And then, when litigation ensues, statutory construction devolves into statutory excavation. The legal scavenger hunt begins, and the often-contradictory tidbits are unearthed and cited--perhaps inaccurately, selectively, or misleadingly 23 --in order to hoodwink earnest judges and enable willful ones to reach a decision foreclosed by the text itself. 
+Supplanting (or even supplementing) the clarity of what was passed by the legislative branch and signed by the executive branch with what an individual legislator thought, staffer wrote, witness testified, lobbyist assured, or interest group asserted invites jurisprudential kudzu. And once it takes hold, it threatens to choke off the surest guarantee of modest, no-favorites judging: taking the Legislature at its word. 
+Materials beyond the statute matter little, actually not at all, when the statute itself decides the case. Boiled down, my view is less prudish than prudent: since it is not necessary to look further, it is necessary not to look further. 24  Here, I would not look beyond the words of the chapter since the answer is found "[i]n the words of the chapter." 25  
+Don R. Willett 
+Justice 
+
+OPINION DELIVERED: May 7, 2010
+
+ 
+

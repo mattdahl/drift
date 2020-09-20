@@ -1,0 +1,17 @@
+ MANSFIELD  
+Concur
+
+
+
+
+MANSFIELD, J. (concurring specially)
+This case requires us to construe the "Forfeiture Reform Act," Iowa Code chapter 809A. Both the State and Young agree that the text of the Act is problematic. So do we.
+Section 809A.13(2) provides that the State can bring an action in rem "pursuant to a notice of forfeiture or verified complaint for forfeiture." (Emphasis added.) On its face, this provision allows the State to file a verified complaint for in rem forfeiture even if it did not previously file a notice of forfeiture. However, section 809A.13(3) provides that only an owner or interest holder in the property "who has timely filed a proper claim pursuant to section 809A.11" may file an answer to such a verified complaint. Yet, such a claim "pursuant to section 809A.11" would only have been filed in response to a notice of forfeiture. See Iowa Code § 809A.8(1)(b). Thus, where the State proceeds directly to a complaint for forfeiture, without previously filing a notice, there appears to be no opportunity for anyone with a claim to the property to appear and contest the forfeiture. That seems unfair and unconstitutional. See U.S. Const. amend. XIV ("[N]or shall any State deprive any person of . . . property, without due process of law."); Iowa Const. art. I, § 9 ("[N]o person shall be deprived of . . . property, without due process of law.").
+Confronted with this dilemma, the district court did the logical thing. It gave Young an opportunity to answer the complaint even though he had not "timely filed a proper claim pursuant to section 809A.11." The majority views what the district court did as a form of statutory construction. While the majority opinion is very well-reasoned, I have some difficulty with that approach. Section 809A.13(3) is unambiguous. It explicitly denies anyone the right to file an answer unless that person "timely filed a proper claim pursuant to section 809A.11." I do not believe we can avoid the constitutional issue in this case.
+However, the district court can be affirmed on a slightly different basis. Where an application of a statute is unconstitutional, principles of severability normally apply. That is, we will remedy the constitutional violation, but leave other applications of the statute unaffected if that will fulfill legislative intent. See Gacke v. Pork Xtra, L.L.C., 684 N.W.2d 168, 172-75 (Iowa 2004). Iowa Code section 4.12 codifies this principle:
+If any provision of an Act or statute or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Act or statute which can be given effect without the invalid provision or application, and to this end the provisions of the Act or statute are severable.
+Accordingly, I would hold that Iowa Code section 809A.13(3) is unconstitutional, but only to the extent it denies the opportunity to file an answer when the State has not previously filed a notice of forfeiture.
+Here, the district court cured the constitutional defect by giving Young the opportunity to file an answer despite the language of section 809A.13(3). Young declined to file an answer. Indeed, at oral argument he conceded that he probably had no substantive grounds for contesting the forfeiture of his handgun. Accordingly, I agree the judgment below should be affirmed.
+
+ 
+

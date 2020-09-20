@@ -1,0 +1,11 @@
+  
+Concur
+
+
+
+
+ YOUNG, J., concurs and states as follows:
+I concur in the Court's decision to remand this matter to the Court of Appeals for consideration as on leave granted. I write separately to set forth what I believe to be the proper application of the Michigan Rules of Evidence in this case.
+Defendant fraudulently posed as an agent of a homeowner and purported to "sell" the property to the victim. He obtained $ 20,000 from the victim as a "down payment." During the preliminary examination, the district court refused to allow hearsay evidence to establish that the homeowner told the victim that he did not authorize defendant to sell his home. Without that key testimony, the prosecutor was forced to rest her  case, and, subsequently, the district court dismissed the charges against defendant for failure to establish probable cause.
+MRE 1101(b)(8) allows hearsay evidence in preliminary examinations "to prove, with regard to property, the ownership, authority to use, value, possession and entry." In this case, the meaning of the phrase "authority to use" is clear. 1  The word "use" is defined as "employing for some purpose; . . . availing oneself of; applying one's own purposes;" 2  "exploiting for one's own advantage or gain." 3  Defendant "used" the property to defraud the victim. In other words, he "exploited [the property] for his own advantage" by representing that he had the authority to sell it to the victim. The homeowner's hearsay statement directly pertained to defendant's authority to "use" the property for this purpose. Furthermore, the homeowner's hearsay statement would have shown that the defendant did not own the property. MRE 1101(b)(8) permits the introduction of hearsay evidence to prove ownership of property. The victim's statement was therefore admissible under MRE 1101(b)(8) for this purpose as well.
+For these reasons, I believe the district court erred in refusing to admit the hearsay evidence in the preliminary examination. 
