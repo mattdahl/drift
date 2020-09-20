@@ -1,0 +1,50 @@
+
+  NeutralAs of: September 19, 2020 9:22 PM Z
+City of Dallas v. Martin
+Supreme Court of Texas
+December 17, 2009, Argued; December 16, 2011, Opinion Delivered
+NO. 07-0288
+
+Reporter
+361 S.W.3d 560 *; 2011 Tex. LEXIS 931 **; 55 Tex. Sup. J. 180
+ CITY OF DALLAS, PETITIONER, v. DAVID S. MARTIN AND GEORGE G. PARKER, ET AL., RESPONDENTS  
+Subsequent History: Released for Publication April 20, 2012.
+Motion for rehearing on petition for review denied by City of Dallas v. Martin, 2012 Tex. LEXIS 359 (Tex., Apr. 20, 2012)
+Decision reached on appeal by, Summary judgment denied by, Judgment entered by City of Dallas v. Martin, 2017 Tex. App. LEXIS 6835 (Tex. App. Dallas, July 20, 2017)  
+Prior History:  [**1] ON PETITION FOR REVIEW FROM THE COURT OF APPEALS FOR THE FIFTH DISTRICT OF TEXAS.
+City of Dallas v. Martin, 214 S.W.3d 638, 2006 Tex. App. LEXIS 10867 (Tex. App. Dallas, Dec. 21, 2006)  
+Counsel: For City of Dallas, Petitioner: Ms. Barbara E. Rosenberg, Mr. Peter Brooke Haskel, Mr. James B. Pinson, Assistant City Attorneys, Dallas, TX; Ms. Madeleine B. Johnson, Southwest Airlines, Office of the Vice President, Dallas, TX; Mr. E. Leon Carter, Munck Carter P.C., Dallas, TX; Mr. Richard A. Sayles, Mr. John Andrew Conway, Sayles | Werbner, P.C., Dallas, TX; Mr. Thomas P. Perkins Jr., Dallas City Attorney, Dallas, TX; Ms. Deborah G. Hankinson, Mr. William Richard Thompson II, Hankinson Levinger LLP, Dallas, TX. 
+For Martin, David S., Respondent: Mr. Charles W. McGarry, Law Office of Charles McGarry, Dallas, TX; Mr. Robert C. Lyon, Robert Lyon & Associates, Rowlett, TX; Mr. Bob Gorsky, Lyon, Gorsky, Haring & Gilbert, LLP, Dallas, TX. 
+For Dallas Police, Intervenor: Mr. Eric G. Calhoun, Travis & Calhoun, P.C., Dallas, TX. 
+For State of Texas, Amicus Curiae: Mr. Philip A. Lionberger, Office of the Attorney General, Assistant Solicitor General, Austin, TX.  
+Judges: JUSTICE JOHNSON delivered the opinion of the Court, in which CHIEF JUSTICE JEFFERSON, JUSTICE HECHT, JUSTICE WAINWRIGHT, JUSTICE MEDINA, JUSTICE GREEN, JUSTICE GUZMAN, and JUSTICE LEHRMANN joined. JUSTICE WILLETT filed a dissenting opinion.  
+Opinion by: Phil Johnson  
+Opinion
+
+
+
+
+ [*560]  This appeal involves issues of governmental immunity from suit. With the exception that this matter is a class action, which does not affect our analysis or conclusions, and one argument that we address separately, the material facts, procedural background, issues, and arguments presented are similar to those we considered in City of Dallas v. Albert, 354 S.W.3d 368, 2011 Tex. LEXIS 636 (Tex. 2011). Thus, our conclusions and holdings are the same as those in Albert.
+The matter1  arises out of a dispute over whether the City of Dallas paid its firefighters and police officers in accordance with a 1979 ordinance adopted pursuant to a voter-approved referendum.2  Claiming the City had not properly paid them, some firefighters and police officers (collectively, the Officers) brought a class action asserting  [*561]  breach of contract claims and seeking a declaratory judgment.
+As it did in Albert, the City filed a counterclaim, later filed a plea to the jurisdiction based on governmental immunity, and then  [**3] dismissed its counterclaim. The trial court denied the City's plea to the jurisdiction and the City filed an interlocutory appeal. See Tex. Civ. Prac. & Rem. Code § 51.014(a)(8). While the appeal was pending at the court of appeals, the Legislature amended the Local Government Code to provide for a limited, retroactive waiver of certain local governmental entities' immunity from suit. See Tex. Loc. Gov't Code § 271.152.3  In light of judicial4  and legislative proceedings that took place after the trial court made its rulings, the court of appeals affirmed in part, reversed in part, and remanded the case for reconsideration by the trial court. 214 S.W.3d 638, 644.
+For the reasons set out in Albert we conclude that: (1) the ordinance's adoption by means of referendum did not result in the City's loss of immunity from suit;354 S.W.3d at 371, 2011 Tex. LEXIS 636, *3-4; (2) the City has immunity from suit as to the declaratory judgment action; 354 S.W.3d at 371, 2011 Tex. LEXIS 636, *3-4; (3) by non-suiting its counterclaim the City did not reinstate immunity from suit as to the Officers' claims that were pending against the City when it non-suited the counterclaim; 354 S.W.3d at 371, 2011 Tex. LEXIS 636, *3-4; and (4) the case must be remanded for the trial court to consider whether the Legislature waived the City's immunity by amending the Local Government Code. 354 S.W.3d at 371, 2011 Tex. LEXIS 636, *3-4.
+In addition to arguments made in Albert and addressed above, the Officers in this case assert  [**5] that the City's immunity from suit is waived because the suit implicitly involves the validity of pay resolutions adopted by the city council. See Tex. Civ. Prac. & Rem. Code § 37.006(b) ("In any proceeding that involves the validity of a municipal ordinance . . . the municipality must be made a party . . . ."). However, the Officers' pleadings do not support this contention. Their pleadings reference the ordinance as having become a term of their employment contracts and two resolutions as possible bases for calculating their damages. They do not question the validity of either the ordinance or a resolution.
+We reverse the judgment of the court of appeals and remand the case to the trial court for further proceedings.
+Phil Johnson
+Justice
+OPINION DELIVERED: December 16, 2011
+Dissent by: Don R. Willett  
+Dissent
+
+
+
+
+Justice Willett, dissenting.
+For the reasons stated in my dissent in Albert, 354 S.W.3d at 384, 2011 Tex. LEXIS 636, *41, I would decline to reach the issues decided by the Court, and would instead remand to the trial court to consider first whether amendments  [*562]  to Chapter 271 of the Local Government Code effect a waiver of the City's immunity.
+Don R. Willett
+Justice
+OPINION DELIVERED: December 16, 2011
+
+ 
+
+End of Document

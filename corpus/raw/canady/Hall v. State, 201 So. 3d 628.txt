@@ -1,0 +1,316 @@
+
+  NeutralAs of: September 19, 2020 7:26 PM Z
+Hall v. State
+Supreme Court of Florida
+September 8, 2016, Decided
+No. SC10-1335
+
+Reporter
+201 So. 3d 628 *; 2016 Fla. LEXIS 1994 **; 41 Fla. L. Weekly S 372
+ FREDDIE LEE HALL, Appellant, vs. STATE OF FLORIDA, Appellee.  
+Prior History:  [**1] An Appeal from the Circuit Court in and for Sumter County, Richard Tombrink, Jr., Judge — Case No. 601978CF000052CFAXF.
+Hall v. State, 109 So. 3d 704, 2012 Fla. LEXIS 2593 (Fla., 2012)  
+Counsel: James Vincent Viggiano, Jr., Capital Collateral Regional Counsel, and Eric Calvin Pinkard, Assistant Capital Collateral Regional Counsel — Middle Region, Tampa, Florida; and Mark Evan Olive of the Law Office of Mark Olive, P.A., Tallahassee, Florida, for Appellant. 
+Pamela Jo Bondi, Attorney General, Tallahassee, Florida; and Carol Marie Dittmar, Senior Assistant Attorney General, Tampa, Florida, for Appellee.  
+Judges: LABARGA, C.J., and PARIENTE, and PERRY, JJ., concur. LEWIS, J., concurs in result. QUINCE, J., recused. CANADY, J., dissents with an opinion, in which POLSTON, J., concurs.  
+Opinion
+
+
+
+
+ [*629]  PER CURIAM.
+This case comes before this Court on remand from the decision of the United States Supreme Court in Hall v. Florida, 134 S. Ct. 1986, 188 L. Ed. 2d 1007 (2014). In our previous decision in Hall v. State (Hall IX), 109 So. 3d 704 (Fla. 2012), we affirmed the Fifth Circuit court's denial of Hall's postconviction motion, holding that our interpretation of section 921.137(1), Florida Statutes, in Cherry v. State, 959 So. 2d 702, 712-13 (Fla. 2007), was proper. We concluded that because Hall failed to establish that his IQ was below 70, the circuit court properly denied his claim. The United States Supreme Court reversed our decision, holding that our decision interpreted section 921.137 so narrowly [**2]  that it precluded sentencing courts from considering substantial evidence that is accepted by the medical community to be probative of intellectual disability.
+Following the Supreme Court's decision in Hall v. Florida, on July 25, 2014, we granted Hall's motion for supplemental briefing. After careful consideration of the parties' briefs, the voluminous record, and the United States Supreme Court's decision, we withdraw our prior opinion and conclude that Hall has demonstrated that he meets the clinical, statutory, and constitutional requirements to establish that his intellectual disability serves as a bar to execution. Accordingly, we reverse the circuit court's order denying postconviction relief, vacate Hall's sentence of death, and remand for imposition of a life sentence.
+  [*630]  FACTS
+Freddie Lee Hall was tried and convicted in Putnam Country for the 1978 murder of Karol Hurst.1  Hall v. State (Hall I), 403 So. 2d 1321, 1323 (Fla. 1981). This Court upheld Hall's conviction and sentence on direct appeal. Id. at 1325. On September 9, 1982, the governor signed Hall's first death warrant, effective for the week of October 1-8, 1982. Hall v. State (Hall II), 420 So. 2d 872, 873 (Fla. 1982). Hall filed a motion to vacate, a habeas petition, and an application for stay of execution, all of which were denied. Id. Hall then sought [**3]  habeas relief in the federal court, which was denied without an evidentiary hearing. Hall v. Wainwright (Hall III), 733 F.2d 766, 769 (11th Cir. 1984). Hall appealed to the Eleventh Circuit Court of Appeals, which reversed in part and remanded for a hearing. Id. at 777 (finding that Hall was entitled to a hearing on the issues of his absence from the courtroom and whether he deliberately bypassed his ineffective assistance of counsel claim).
+On remand, the district court again denied relief, finding that Hall's absences from trial occurred in non-critical stages and were therefore harmless, and that he deliberately bypassed the ineffective assistance of counsel claim. Hall v. Wainwright (Hall IV), 805 F.2d 945, 946 (11th Cir. 1986). The Eleventh Circuit affirmed the denial. Id. at 948. Hall then petitioned for habeas relief with this Court based on the United States Supreme Court's ruling in Hitchcock v. Dugger, 481 U.S. 393, 107 S. Ct. 1821, 95 L. Ed. 2d 347 (1987). This Court held that any error in the sentencing was harmless. Hall v. Dugger (Hall V), 531 So. 2d 76 (Fla. 1988).
+The governor then signed a second death warrant on September 20, 1988. Hall v. State (Hall VI), 541 So. 2d 1125, 1126 (Fla. 1989). Hall filed [**5]  his second 3.850 motion, alleging error under Hitchcock. The trial court found that this Court's ruling on the issue in Hall V was a procedural bar to Hall's raising the claim again. Id. This Court disagreed, stating that the "case involves significant additional non-record facts" that had not been considered on habeas review. Id. Ultimately, this Court determined that a Hitchcock error occurred, and that such error could not be considered harmless. Id. at 1128. This Court then vacated Hall's death sentence and remanded for a new sentencing proceeding. Id.
+ [*631]  During the resentencing,2  the trial court found Hall intellectually disabled as a mitigating factor and gave it "unquantifiable" weight. State v. Hall, No. 78-52-CF (Fla. 5th Jud. Cir. Feb. 21, 1991) (Findings of Fact for Sentencing Order). The court again condemned Hall, and this Court affirmed. Hall VII, 614 So. 2d at 479. Hall sought postconviction relief, which was denied. Hall VIII, 742 So. 2d at 225. This Court affirmed the denial. Id. at 230. In finding that the trial court properly denied Hall's claim that the court erred in finding him competent to proceed at the resentencing, this Court stated "While there is no doubt that [Hall] has serious mental difficulties, is probably somewhat retarded, and [**6]  certainly has learning difficulties and a speech impediment, the Court finds that [Hall] was competent at the resentencing hearings." Id. at 229. In a special concurrence, Justice Anstead wrote that while the majority was technically correct regarding the procedural bars to Hall's claim, his intellectual disability should provide a bar to his execution. Quoting Chief Justice Barkett's dissent in Hall VII, he noted that the evidence showed Hall's mental retardation:
+The testimony reflects that Hall has an IQ of 60; he suffers from organic brain damage, chronic psychosis, a speech impediment, and a learning disability; he is functionally illiterate; and he has a short-term memory equivalent to that of a first grader. The defense's four expert witnesses who testified regarding Hall's mental condition stated that his handicaps would have affected him at the time of the crime. As the trial judge noted in the resentencing order, Freddie Lee Hall was "raised under the most horrible family circumstances imaginable."
+Indeed, the trial judge found that Hall had established substantial mitigation. The judge wrote that the evidence conclusively demonstrated that Hall "may have been suffering from mental and [**7]  emotional disturbances and may have been, to some extent, unable to appreciate the criminality of his conduct or to conform his conduct to the requirements of law." Additionally, the judge found that Hall suffers from organic brain damage, has been mentally retarded all of his life, suffers from mental illness, suffered tremendous emotional deprivation and disturbances throughout his life, suffered tremendous physical abuse and torture as a child, and has learning disabilities and a distinct speech impediment that adversely affected his development.
+Hall's mental deficiency as an adult is not surprising. The sixteenth of seventeen children, Hall was tortured by his mother and abused by neighbors. Various relatives testified that Hall's mother tied him in a "croaker" sack, swung it over a fire, and beat him; buried him in the sand up to his neck to "strengthen his legs"; tied his hands to a rope that was attached to a ceiling beam and beat him while he was naked; locked him in a smokehouse for long intervals; and held a gun on Hall and his siblings while she poked them with sticks. Hall's mother withheld food from her children because she believed a famine was imminent, and she allowed [**8]  neighbors to punish Hall by forcing him to stay underneath a bed for an entire day.
+ [*632]  Hall's school records reflect his mental deficiencies. His teachers in the fourth, sixth, seventh, and eighth grades described him as mentally retarded. His fifth grade teacher stated that he was mentally maladjusted, and still another teacher wrote that "his mental maturity is far below his chronological age."
+Hall VIII, 742 So. 2d at 231 (Anstead, J. specially concurring (quoting Hall VII, 614 So. 2d at 479-80 (Barkett, C.J. dissenting))).
+In 2002, the Supreme Court ruled that the Eighth Amendment prohibited the execution of a person with an intellectual disability. Atkins v. Virginia, 536 U.S. 304, 321, 122 S. Ct. 2242, 153 L. Ed. 2d 335 (2002). Hall filed a motion to declare section 921.137, Florida Statutes, unconstitutional. While the motion was pending, this Court adopted rule 3.203 as a mechanism to file Atkins claims. Hall timely filed such a claim on November 30, 2004. No action was taken on the motion until, on March 27, 2008, Hall filed an unsuccessful motion to prohibit relitigation of the intellectual disability issue. The [**9]  court then held an evidentiary hearing on Hall's successive motion to vacate his sentence.
+At the evidentiary hearing held on December 7-8, 2009, Hall presented testimony from Dr. Valerie McClain, who testified that she did not obtain Hall's IQ; Lugene Ellis, Hall's half-brother, who testified about his recollection of Hall as a child; James Hall, Hall's brother, who testified regarding Hall's problems with reading, writing, and caring for himself; Dr. Harry Krop, who testified that Hall's IQ using the Wechsler Adult Intelligence Scale Revised was 73; and Dr. Gregory Prichard, who testified that Hall scored a 71 on the Wechsler Adult Intelligence Scale Third Edition. Hall sought to introduce a report compiled by then-deceased Dr. Bill Mosman through Dr. Prichard, but the court denied it and only allowed Hall to proffer the report for the record. After reviewing the evidence presented, the court determined that Hall could not meet the first prong to establish his intellectual disability—an IQ below 70. The court denied relief in an order issued May 26, 2010, and entered an amended order on June 16, 2010.
+Dr. Gregory Prichard reported that Hall started the first grade in public school [**10]  in 1950, at age six, and then failed. A second grade report in 1952 by the school guidance counselor reported seven-year-old Hall's mental maturity as far below his chronological age. In 1953, eight-year-old Hall was described as very inattentive and extra slow in comprehension. In 1954, nine-year-old Hall was described as slow in all his work. Then in 1955, when he was in the fourth grade and age ten, Hall was characterized as "Mentally Retarded" by school counselors. During his fifth-grade year, Hall was again described as slow in all phases of his work and described as mentally maladjusted. In 1957 (at age eleven to twelve), Hall was described as "Mentally Retarded." In 1958 (at age twelve to thirteen), Hall was again described as "Mentally Retarded," and in 1961 (at age fourteen to fifteen) Hall was once more described as "Mentally Retarded." Hall's elementary school grades were Cs, Ds, and Fs, in a vast majority of classes in grades one through six. In middle school, grades seven and eight, Hall had one D and eleven Fs, and in high school his grades were Ds and Fs in all classes before he dropped out in eleventh grade. Hall was socially promoted, a fact corroborated by a Florida [**11]  Department of Corrections (DOC) Classification and Admission Summary Report dated December 24, 1968. In short, all of the information in Hall's school and military records shows  [*633]  a history of low intellectual functioning and provides strong evidence of his mental retardation claim.
+The record reflects that attempts to locate Florida Public School records for psychological testing administered during the 1950s were not successful. However, based on Hall's academic record, it is reasonable to believe that some testing must have occurred because Hall was referred for placement in Special Education classes and referred to as intellectually disabled in the school record.
+The results of the testing performed on Hall are summarized in the following chart:
+ Mental Health Evidence
+Dates/Hall's Age
+Administrator/Test/Records
+Results
+12/24/68   Age 23
+DOC Beta IQ
+IQ Score 76
+
+
+Reading level 2.6
+2/11/69   Age 23
+California Achievement
+Level 3.8
+2/13/69   Age 23
+DOC Report
+4-F Military
+8/22/69   Age 24
+DOC Vocational Report
+Adaptive deficits
+
+Psychological DOC Screening
+Reading level 2.6
+
+Report
+
+9/13/78   Age 33
+DOC Confidential Evaluation
+"borderline
+
+DSM-Diagnosis
+retardation in
+
+
+intellectual ability"
+1/10/79   Age 33
+DOC
+Score 79 [**12] 
+
+Kent IQ Test
+Borderline
+
+
+intelligence
+
+
+Social difficulties
+
+
+Illiteracy
+
+
+Reading level 2.8
+9/8/86   Age 41
+Dr. Barbara Bard
+Severe adaptive
+
+Woodcock Johnson
+deficits
+
+Psycho-Educational Battery
+
+9/10/86   Age 41
+Dr. Dorothy Lewis, M.D.
+Chronic brain
+
+NYU Medical Center
+damage
+
+Neuropsychological Evaluation
+Severe learning
+
+(Halstead-Reitan)
+disabled
+9/10/86   Age 41
+Marilyn Feldman, M.A.
+FSIQ-80
+
+WAIS-R
+Organic brain
+
+
+damage
+
+
+Limited intelligence
+9/15/86   Age 41
+Dr. Lelie Prichep, Ph.D.
+Moderately abnormal
+
+NY Medical Center
+
+
+Neurometric Exam
+
+8/22/88   Age 43
+Dr. Jethro Toomer, Ph.D.
+IQ: 60
+
+Psychologist, Florida
+Organic brain
+
+International University
+damage
+
+Revised Beta/Bender Gestalt
+DX: Mental
+
+Adaptive Behavior Evaluated
+retardation
+10/18/90   Age 45
+Dr. Johnathan Pincus, M.D.
+DX: Mildly retarded
+
+Georgetown University
+
+
+Hospital
+
+
+Neurological Exam/Evaluation
+
+3/16/90   Age 45
+Dr. Harry Krop, Ph.D.
+FSIQ-73
+
+Psychologist
+Cognitive deficits
+1/8/91   Age 46
+WAIS-R
+Mental age 13 years
+
+
+DX: Functional
+
+
+retardation
+10/6/90   Age 45
+Dr. Kathleen M. Heide, Ph.D
+Cognitive deficits
+
+Criminologist
+Adaptive deficits:
+
+
+Restricted
+
+
+personality
+
+
+development
+5/12/95   Age 48
+Dr. Mark Zimmerman,
+FSIQ-74
+
+Psychologist
+Deficiencies noted
+
+WAIS
+Deficiencies noted
+
+Wide Range Assessment
+Deficiencies noted [**13] 
+
+Woodcock Johnson
+Mildly deficient
+
+Westwood Adult Scale Revised
+Brain damage
+
+Retention Test
+Deficits
+
+Short Category Test
+DX: Mentally
+
+Adaptive Functioning
+retarded and brain
+
+Evaluation
+damaged. Possible
+
+
+psychosis.
+
+
+
+11/19/01   Age 51
+Dr. Bill E. Mosman,
+FSIQ-69
+
+Psychologist
+FSIQ-52
+
+WAIS-III
+Mental age-10
+
+Leiter Adult Intelligence Scale
+1st grade child
+
+Slosson Intelligence
+Adaptive deficits
+
+WRAT-III
+DX: Mental
+
+Vineland
+retardation
+8/14/02   Age 57
+Dr. Gregory Prichard,
+FSIQ-71
+
+Psychologist
+1st-2nd grade level
+
+WAIS-III
+Adaptive deficits
+8/15/02
+WRAT-III
+DX: Mentally
+
+Vineland
+retarded
+11/25/08   Age 63
+Dr. Joseph Sesta
+FSIQ-72
+
+WAIS-IV
+
+
+IQ Testing Administration Only
+
+ [*634]  As this Court stated in Hall VI, 541 So. 2d at 1127, "Hall's childhood was marked by an existence which can only be described as pitiful. Teachers and siblings alike immediately recognized him to be significantly mentally retarded."
+ United States Supreme Court's Decision in Hall v. Florida
+The United States Supreme Court held:
+On its face, the Florida statute could be consistent with the views of the medical community noted and discussed in Atkins. Florida's statute defines intellectual disability for purposes of an Atkins proceeding as "significantly subaverage general intellectual functioning existing [**14]  concurrently with deficits in adaptive behavior and manifested during the period from conception to age 18." Fla. Stat. §921.137(1) (2013). The statute further defines "significantly subaverage general intellectual functioning" as "performance that is two or more standard deviations from the mean score on a standardized intelligence test." Ibid. The mean IQ test score is 100. The concept of standard deviation describes how scores are dispersed in a population. Standard deviation is distinct from standard error of measurement, a concept which describes the reliability of a test and is discussed further below. The standard deviation on an IQ test is approximately 15 points, and so two standard deviations is approximately 30 points. Thus a test taker who performs "two or more standard deviations from the mean" will score approximately 30 points below the mean on an IQ test, i.e., a score of approximately 70 points.
+Hall v. Florida, 134 S. Ct. at 2000-2001.
+The Court explained that our statute may be interpreted consistently with Atkins because it does not preclude taking the standard of error into account. Id. at 2001. The Court opined that the problem with our decision in Hall IX is that it interpreted the statute too narrowly and held that a person with a [**15]  score of above 70, including a score within the margin for error, is barred from presenting evidence that would show intellectual disability. Id. Because of this mandatory cutoff, the Court opined that sentencing courts cannot consider substantial evidence such as medical history, school and test reports, and testimony regarding past behavior, even though this evidence is accepted by the medical community to be probative of intellectual disability. Id. at 1994.
+The Court further explained that our decision in Hall IX disregards established medical practice in two interrelated ways. Id. at 1995. First, it takes an IQ score as final and conclusive evidence of a defendant's intellectual capacity when experts in the field would also consider other evidence. Id. Second, it relies on the IQ score while refusing to recognize that the score may be imprecise. Id. Instead of using a fixed number IQ score as determinative of intellectual disability, Florida's courts must also use other indicative evidence such as past performance, environment, and upbringing. Id. at 1996. In  [*635]  sum, when determining the eligibility for the death penalty of a defendant who has an IQ test score approaching 70, Florida courts may not bar the consideration [**16]  of other evidence of deficits in intellectual and adaptive functioning. Florida courts may continue to abide by section 921.137(1), but may not have a bright-line cutoff IQ test score because "[i]t is not sound to view a single factor as dispositive of a conjunctive and interrelated assessment." Hall v. Florida, 134 S. Ct. at 2001.
+ Application to Freddie Lee Hall
+The Supreme Court stated:
+Florida's rule is in direct opposition to the views of those who design, administer, and interpret the IQ test. By failing to take into account the standard error of measurement, Florida's law not only contradicts the test's own design but also bars an essential part of a sentencing court's inquiry into adaptive functioning. Freddie Lee Hall may or may not be intellectually disabled, but the law requires that he have the opportunity to present evidence of his intellectual disability, including deficits in adaptive functioning over his lifetime.
+Id. We therefore turn to the record to determine whether Hall has presented sufficient evidence to establish that he meets the statutory definition of intellectual disability. Because we find that Hall has demonstrated that he is intellectually disabled, we vacate his sentence of death and remand with instructions to [**17]  enter a life sentence.
+At the evidentiary hearing below, despite granting the State's motion in limine to prevent Hall from introducing any evidence relating to adaptive functioning, the court permitted Hall to proffer evidence related to all three statutory prongs. The circuit court found that Hall failed to establish that he had concurrent deficits in adaptive functioning. Specifically, the court relied on our opinion in Phillips v. State, 984 So. 2d 503 (Fla. 2008), stating that the expert witnesses failed to properly interview correctional officers. The lower court's reading of Phillips is too narrow, especially in light of the Supreme Court's decision in Hall v. Florida.
+In Phillips, this Court held that Phillips' experts' reliance on retrospective diagnosis, which focused solely on Phillips' adaptive functioning prior to age 18, was insufficient to satisfy the second prong of the intellectual disability prong. Phillips, 984 So. 2d at 511 (citing Jones v. State, 966 So. 2d 319, 325-27 (Fla. 2007)). We opined that a defendant must demonstrate significantly subaverage general intellectual functioning to exist with concurrent deficits in adaptive behavior. Id. In Phillips, we were able to determine from the record that:
+Phillips does not suffer from deficiencies in adaptive functioning. Phillips supported [**18]  himself. He worked as a short-order cook, a garbage collector, and a dishwasher. The mental health experts generally agreed that Phillips possessed job skills that people with mental retardation lacked. Specifically, the defense's expert admitted that Phillips's position as a short-order cook was an "unusually high level" job for someone who has mental retardation.
+Id. The record further demonstrated that Phillips lived with his mother where he paid most of the bills and did a majority of the household chores. Phillips also cared for his nieces and nephews overnight, cooked, and went grocery shopping. Id. In short, there was record evidence that Phillips lived a normal life prior to his crimes, and our decision was not based solely on the retrospective analysis performed. The retrospective analysis in Phillips was focused solely on Phillips'  [*636]  adaptive skills prior to the age of 18 and failed to consider any of his adult skills. It was that limitation coupled with the record evidence that led to our decision.
+Indeed, in Jones v. State, 966 So. 2d 319 (Fla. 2007), we considered whether a determination of the second prong was limited to an assessment of adaptive functioning prior to age 18 "instead of an assessment of [a defendant's] [**19]  adaptive functioning as an adult." Id. at 325. We rejected that the statute and rule should be read so narrowly. However, the lower court incorrectly read this Court's decision to preclude a retrospective analysis of Hall prior to his incarceration but while he was an adult.
+Section 921.137(1) of the Florida Statutes defines "adaptive behavior" as "the effectiveness or degree with which an individual meets the standards of personal independence and social responsibility expected of his or her age, cultural group, and community." § 921.137(1), Fla. Stat. (2016). Evaluating the adaptive behavior of an individual who has spent much of his adult life incarcerated can be difficult. In another case before this Court, Williams v. State, No. SC13-1472, Dr. Thomas Oakland explained that the Adaptive Behavior Assessment System II (ABAS) scale is not normed on prison populations because:
+prison represents clearly the antithesis of the environment in which adaptive behavior can be displayed. The assumption in the assessment of adaptive behavior is that a person has considerable degrees of freedom and opportunity to decide what he or she will do with his or her time and how they will progress. And within a prison setting the people of course are highly restricted as to the [**20]  behaviors that they can display, and therefore we are not going to get an accurate assessment of adaptive behavior by . . . acquiring information on prison related behaviors.
+Transcript of Evidentiary Hearing, Record on Appeal Vol. 48 at 4681, State v. Williams, No. 93-003005CF10A (Fla. 17th Cir. Ct. Sept. 21, 2012). This difficulty has also been acknowledged by the American Association on Intellectual and Developmental Disabilities. See Dufour v. State, 69 So. 3d 235, 258 (Fla. 2011) (Pariente, J., concurring in part and dissenting in part) ("much of the clinical definition of adaptive behavior is much less relevant in prisons"). Accordingly, we reject the trial court's narrow reading of Phillips and the State's argument that mental health experts may only evaluate a prisoner's adaptive functioning during his or her incarceration.
+Hall committed the murder at issue in 1978 at the age of thirty-two, and has been incarcerated ever since. As such, it would be illogical to preclude a retrospective analysis of Hall's deficits in adaptive functioning at the time of the murder. The prohibition against executing the intellectually disabled is based, in part, on their culpability at the time the crimes were committed. The reason that defendants [**21]  claiming intellectual disability must demonstrate its onset prior to adulthood is to differentiate them from those who have suffered brain damage in adulthood that rendered them incompetent but not intellectually disabled.
+At the evidentiary hearing in 2009, the unrefuted opinion presented by Dr. Gregory Prichard was that Hall meets the clinical definition of an intellectually disabled person. Dr. Prichard made this determination in 2002 based on his personal evaluation of Hall and the records and reports of the multiple other mental health experts who evaluated Hall. Relating to adaptive functioning, Dr. Prichard administered the Vineland Adaptive Behavior Scales Test and the Wide Range Achievement Test in addition to reviewing Hall's school records, DOC records, prior mental health evaluation  [*637]  records, and speaking to Hall's family members. Thus, to find that Dr. Prichard failed to adequately determine Hall's adaptive functioning because he failed to speak to corrections officers ignores the depth and breadth of Dr. Prichard's evaluation and—worse—ignores that Dr. Prichard had access to DOC records that also considered Hall to lack the skills necessary to adequately cope with the more [**22]  complex factors in his environment. Accordingly, we find that Hall has presented evidence that satisfies the second prong.
+We also find that Hall has established the third prong. As noted by the United States Supreme Court, age of onset was "not at issue" in this case. Hall v. Florida, 134 S. Ct. at 1994. The State's argument that a proper IQ test prior to the age of 18 is the only valid evidence to establish this prong is unjustifiable and would effectively preclude a finding of intellectual disability in most people born prior to a certain era. This Court has never held that in order to find an intellectual disability, the defendant must have been given a specific IQ test prior to the age of 18. Such an inflexible view would not be supported by Hall v. Florida, which recognized that, based on a consensus within the medical community, this prong simply requires the "onset of these deficits during the developmental period." Id. at 1994. Further, this argument was raised and rejected in Oats v. State, 181 So. 3d 457, 469 (Fla. 2015) (holding that section 921.137(1), Florida Statutes, requires only that intellectual disability be demonstrated to have manifested prior to age eighteen, not that it be diagnosed).
+ CONCLUSION
+In sum, the United States Supreme Court has made clear that when determining whether an individual [**23]  meets the criteria to be considered intellectually disabled, the definition that matters most is the one used by mental health professionals in making this determination in all contexts, including those "far beyond the confines of the death penalty." Hall v. Florida, 134 S. Ct. at 1993. As such, courts cannot disregard the informed assessments of experts. Id. at 2000. Here, the record evidence amassed over nearly thirty-seven years, and the unrefuted testimony at the 2009 evidentiary hearing is that Hall meets the medical definition of intellectually disabled.
+The State argues that it has not had a chance to have a full adversarial proceeding to challenge Hall's claim that he is intellectually disabled. Notably, this argument was not raised in the State's initial supplemental brief, where it merely asked this Court to affirm the lower court's order based on Hall's failure to establish deficits in adaptive functioning, but only in its supplemental reply brief. Additionally, at the evidentiary hearing, the State did not attempt to rebut the testimony of the experts, but instead stated that "a clinician's approach to mental retardation . . . is not relevant to this proceeding." Furthermore, the State's assertion is not supported by [**24]  the record. As previously noted in Justice Pariente's concurring opinion after Hall's most recent postconviction motion, the State came into this proceeding forewarned for twenty years of Hall's claim of intellectual disability and was afforded the opportunity of a full adversarial proceeding under Atkins. Hall IX, 109 So. 3d at 712-14 (Pariente, J., concurring) (noting that "in 2010, there was a true adversarial testing of whether Hall was [intellectually disabled] under Florida's statutory definition."). The fact that the State has chosen not to avail itself of prior opportunities is not a sufficient reason to  [*638]  expend further resources to continue to litigate this issue.
+The United States Supreme Court was clear that this state is not free "to define intellectual disability as [it] wishe[s]," and the unrefuted evidence in this case has consistently demonstrated that Hall meets the clinical and statutory definition of intellectual disability. The record evidence in this case overwhelmingly supports the conclusion that "Hall has been [intellectually disabled] his entire life." Accordingly, we vacate his sentence of death and remand with instructions to enter a life sentence.
+It is so ordered.
+LABARGA, C.J., and PARIENTE, and PERRY, [**25]  JJ., concur.
+LEWIS, J., concurs in result.
+QUINCE, J., recused.
+CANADY, J., dissents with an opinion, in which POLSTON, J., concurs.
+Dissent by: CANADY  
+Dissent
+
+
+
+
+CANADY, J., dissenting.
+In this case, the Supreme Court held "that an individual with an IQ test score 'between 70 and 75 or lower' . . . may show intellectual disability by presenting additional evidence regarding difficulties in adaptive functioning." Hall v. Florida, 134 S. Ct. 1986, 2000, 188 L. Ed. 2d 1007 (2014) (quoting Atkins v. Virginia, 536 U.S. 304, 309 n.5, 122 S. Ct. 2242, 153 L. Ed. 2d 335 (2002)). The Court recognized that "Freddie Lee Hall may or may not be intellectually disabled," and instructed "that he have the opportunity to present evidence of his intellectual disability, including deficits in adaptive functioning over his lifetime." Hall, 134 S. Ct. at 2001. As instructed by the Supreme Court, I would reverse the circuit court's order denying Hall's motion for postconviction relief and remand for a new evidentiary hearing in which Hall and the State would have an opportunity to litigate this intellectual disability claim under the standard that has now been articulated by the Supreme Court. I therefore dissent from the majority's decision to foreclose further evidentiary proceedings and to impose a sentence of life.
+The majority asserts that Hall has presented sufficient evidence to establish that he [**26]  meets the statutory definition of intellectual disability. Majority op. at 13. The majority relies on the fact that the circuit court permitted Hall to proffer evidence related to all three statutory prongs of intellectual disability at the evidentiary hearing, majority op. at 13, and the circuit court's order denying postconviction relief and the transcript from the evidentiary hearing reflect that Hall proffered the testimony of Lugene Ellis, James Hall, and much of the testimony of Dr. Prichard—including Dr. Prichard's report in which he assessed Hall for intellectual disability. But "[p]roffered evidence is merely a representation of what evidence the defendant proposes to present and is not actual evidence." Grim v. State, 841 So. 2d 455, 462 (Fla. 2003); LaMarca v. State, 785 So. 2d 1209, 1216 (Fla. 2001) (same); see also Blackwood v. State, 777 So. 2d 399, 410 (Fla. 2000) ("In order to preserve a claim based on the court's refusal to admit evidence, the party seeking to admit the evidence must proffer the contents of the excluded evidence to the trial court."). The proffered evidence was not subjected to adversarial testing, and its credibility was not evaluated by the trier of fact. The majority thus errs by relying on proffered evidence to support its conclusion that Hall has presented sufficient evidence  [*639]  to establish that he is [**27]  intellectually disabled. It is a cardinal error for an appellate court to step outside its proper role and make findings of fact based on a proffer.
+The majority asserts that the State is not entitled to a new evidentiary hearing because it was afforded the opportunity of a full adversarial proceeding where it failed to rebut or refute the proffered testimony of Hall's experts. Majority op. at 18-19. But the State, of course, had no obligation to rebut or refute the proffered evidence. And it is doubly inappropriate to now fault the State for failing to rebut evidence when that evidence only requires rebuttal because the law has subsequently changed. At the time of the 2009 evidentiary hearing Hall failed to provide evidence of an IQ score of 70 or below. Hall v. State, 109 So. 3d 704, 707-10 (Fla. 2012) (affirming the denial of Hall's postconviction motion in relevant part because Hall failed to present evidence of an IQ score of 70 or below), rev'd and remanded, 134 S. Ct. 1986, 188 L. Ed. 2d 1007 (2014). And under clearly established Florida law at that time, the State did not need to rebut or refute the testimony of Hall's experts because Hall's claim was precluded by his failure to provide evidence of an IQ score of 70 or below. See, e.g., Cherry v. State, 959 So. 2d 702, 712-13 (Fla. 2007) (holding that a person whose [**28]  test score is above 70, including a score within the margin for measurement error, does not have an intellectual disability and is barred from presenting other evidence that would show his faculties are limited), cert. denied, 552 U.S. 993, 128 S. Ct. 490, 169 L. Ed. 2d 344 (2007), abrogated by Hall v. Florida, 134 S. Ct. 1986, 188 L. Ed. 2d 1007 (2014). This Court should not penalize the State for failing in 2009 to anticipate the ruling the Supreme Court would hand down in 2014.
+POLSTON, J., concurs.
+
+ 
+
+End of Document

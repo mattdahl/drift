@@ -1,0 +1,67 @@
+
+  NeutralAs of: September 19, 2020 8:30 PM Z
+Jensen v. City Council of Cambridge
+Court of Appeals of Iowa
+June 16, 2010, Filed
+No. 0-087 / 09-0697
+
+Reporter
+2010 Iowa App. LEXIS 573 *
+ DENNIS V. JENSEN, Plaintiff-Appellant, vs. CITY COUNCIL OF CAMBRIDGE, IOWA, Defendant-Appellee.  
+Notice: NO DECISION HAS BEEN MADE ON PUBLICATION OF THIS OPINION. THE OPINION IS SUBJECT TO MODIFICATION OR CORRECTION BY THE COURT AND IS NOT FINAL UNTIL THE TIME FOR REHEARING OR FURTHER REVIEW HAS PASSED. AN UNPUBLISHED OPINION MAY BE CITED IN A BRIEF; HOWEVER, UNPUBLISHED OPINIONS SHALL NOT CONSTITUTE CONTROLLING LEGAL AUTHORITY.
+  
+Subsequent History: Reported at Jensen v. City Council, 786 N.W.2d 873, 2010 Iowa App. LEXIS 1199 (Iowa Ct. App., 2010)  
+Prior History:  [*1] Appeal from the Iowa District Court for Story County, Michael J. Moon, Judge. A plaintiff challenges the constitutionality of a city's mowing ordinance and asserts that he was inappropriately denied an exemption from that ordinance.
+  
+Disposition: AFFIRMED.
+  
+Counsel: Wallace L. Taylor, Cedar Rapids, for appellant. 
+Michael Lewis of Lewis Law Firm, Cambridge, for appellee.  
+Judges: Considered by Vaitheswaran, P.J., and Potterfield and Mansfield, JJ. Potterfield, J., concurs. Mansfield, J., specially concurs.  
+Opinion by: VAITHESWARAN  
+Opinion
+
+
+
+
+VAITHESWARAN, P.J.
+Dennis Jensen challenges the constitutionality of a city's mowing ordinance and asserts that he was inappropriately denied an exemption from that ordinance.
+ I. Background Facts and Proceedings
+Dennis Jensen purchased a home in Cambridge, Iowa. Over time, Jensen developed an organic garden and indigenous grasses in his backyard. The city periodically informed Jensen that he needed to maintain his lawn "properly." Eventually, the mayor instructed Jensen to begin caring for his lawn "in the appropriate manner" or the city would take "corrective measures."
+The city subsequently adopted an ordinance requiring residents of Cambridge to keep their lawns mowed to a height of under eight inches. 1  The  [*2] ordinance allowed the mayor or designee, titled "The Weed Official," to designate lots as "conservation" areas, which would be exempt from the eight-inch mowing requirement, subject to the removal of noxious weeds.
+Shortly after the ordinance was passed, the city served Jensen with a notice that he was in violation of it. Jensen responded that he wished to avail himself of the exemption for "conservation" areas. In a recorded hearing, the mayor denied Jensen's request, noting that this was a developed lot and his plan was not compatible with that of his adjoining neighbors. Jensen requested a due process hearing before the city council to challenge this decision. The mayor agreed to schedule such a hearing.
+Meanwhile, Jensen filed a formal appeal with the Cambridge City Council  [*3] and moved to dismiss the ordinance violation on the ground that his lawn qualified for the exemption. A hearing before the city council was scheduled and was apparently held, although the record contains no recording of that hearing and no written decision on the notice of violation or Jensen's request for an exemption.
+Jensen petitioned the district court for a temporary and permanent injunction. He took issue with what he alleged was the city council's decision "that [his] property was not a conservation area" and its apparent decision to "defer[] a decision on the Violation Notice." He maintained "[t]he action of the [City Council] in deciding that [his] property was not a conservation area" was illegal. The district court granted Jensen's application for a temporary injunction but denied his request for a permanent injunction. Jensen moved to enlarge the court's findings. He asserted in part that the adoption of the weed ordinance was marked by a procedural irregularity. The district court summarily denied the motion and this appeal followed.
+ II. Analysis  
+A. Constitutional Challenge
+Jensen contends the city's exemption for conservation areas is unconstitutionally vague. 2  "[A] civil  [*4] statute is unconstitutionally vague under the Due Process Clause when its language does not convey a sufficiently definite warning of the proscribed conduct." Devault v. City of Council Bluffs, 671 N.W.2d 448, 451 (Iowa 2003). The same is true of city ordinances. See id. The legal test for vagueness is as follows:
+"If the statute's meaning is fairly ascertainable by reliance on generally accepted and common meaning of words used, or by reference to the dictionary, related or similar statutes, the common law or previous judicial constructions, due process is satisfied."
+Id. (quoting Knight v. Iowa Dist. Ct., 269 N.W.2d 430, 432 (Iowa 1978)).
+"Conservation area" is defined  [*5] by Cambridge ordinance as "an area that is planted with ground cover plants of a size and texture compatible with the environment and maintained accordingly." Jensen maintains that the word "environment" within this definition has different meanings that prevented the mayor from knowing how to determine if his property "was a conservation area as defined in the ordinance." The district court recognized that the term has different meanings but concluded that under a generally accepted dictionary definition, "it would not have been unreasonable for the Weed Official to interpret the term environment in the Ordinance to only include the area immediately adjacent to Plaintiff's property."
+We agree with the district court's analysis. Jensen was obligated to negate every reasonable basis on which the ordinance could be sustained. See id. He did not do so. The mayor chose and applied one of several reasonable definitions of "environment." See Webster's Third New International Dictionary 760 (unabridged 2002). While he could have chosen another definition, his failure to do so does not render the ordinance unconstitutionally vague. As the court stated in Devault, "[a] statute is not unconstitutionally  [*6] vague merely because a key word has not been specifically defined." Devault, 671 N.W.2d at 451.
+ B. Challenge to City Council's Action
+Jensen next contends that the city council's apparent denial of his application to designate his property as a conservation area was "arbitrary, capricious, unreasonable, illegal, an abuse of discretion, and not based on substantial evidence." As noted, the record does not contain the city council's decision or a recording or transcript of the evidentiary hearing that preceded it. Accordingly, we have nothing to review. Cf. Alvarez v. IBP, Inc., 696 N.W.2d 1, 3 (Iowa 2005) ("Having concluded the agency record is not properly before us, we are left with nothing to review."); City Council of Marion v. Nat'l Loan & Inv. Co., 122 Iowa 629, 632-35, 98 N.W. 488, 489-90 (1904).
+ C. Claimed Procedural Irregularity in the Adoption of Ordinance
+In his posttrial motion, Jensen raised an argument not previously raised. He asserted that the ordinance was illegal because the mayor cast the tie-breaking vote. The district court denied his motion without specifically mentioning this particular argument.
+"It is a fundamental doctrine of appellate review that issues must ordinarily  [*7] be both raised and decided by the district court before we will decide them on appeal." Meier v. Senecaut, 641 N.W.2d 532, 537 (Iowa 2002). A motion to enlarge or amend findings pursuant to Iowa Rule of Civil Procedure 1.904(2) is one vehicle to preserve error "when the district court fails to resolve an issue, claim, or other legal theory properly submitted for adjudication." Id. at 539 (emphasis added) (citation omitted). "The motion relates to issues properly raised in the district court before entry of final judgment and not ruled on by the court." Rouse v. Union Twp., 530 N.W.2d 714, 717 (Iowa 1995).
+The claimed procedural irregularity in the adoption of the ordinance was not properly submitted to the district court for adjudication prior to entry of the final order. Accordingly, error was not preserved, and we decline to address this issue.
+We affirm the district court's denial of Jensen's request for a permanent injunction.
+ AFFIRMED.
+Potterfield, J., concurs. Mansfield, J., specially concurs.
+Concur by: MANSFIELD  
+Concur
+
+
+
+
+MANSFIELD, J. (concurring specially)
+I agree with the result, but disagree with a portion of the majority's analysis. In section II.B of their opinion, my colleagues rely on a ground  [*8] for decision that the City of Cambridge did not advance below. Specifically, they state that we cannot review the city council's action in this case because "the record does not contain the city council's decision or a recording of the evidentiary hearing that preceded it. Accordingly, we have nothing to review." My colleagues then cite a workers' compensation case, Alvarez v. IBP, Inc., 696 N.W.2d 1 (Iowa 2005), as support for this contention. In Alvarez, the supreme court made it clear that Iowa courts should not review the decision of a state agency unless the agency record has been transmitted to them. I do not agree, however, that the same rule applies to city council decisions.
+When a state agency action is reviewed, Iowa law requires the agency record to be transmitted to the reviewing court. See Iowa Code §§ 86.26 (2007) (workers' compensation appeals); 17A.19(6) (administrative appeals generally). However, when a city acts in a quasi-judicial manner, as here, the action is typically reviewed by certiorari. See Lewis Investments, Inc. v. City of Iowa City, 703 N.W.2d 180, 185-86 (Iowa 2005). The certiorari rules are different from the laws applicable to state administrative  [*9] appeals.
+The certiorari rules provide that the petition "may be supported by copies of relevant portions of the record of the proceedings being challenged." Iowa R. Civ. P. 1.1402(3) (emphasis added). This is not a requirement. "May" is not "must." See also Iowa R. Civ. P. 1.1410 (stating that the court "may receive any transcript or recording of the original proceeding and such other oral or written evidence explaining the matters contained in the return.") (emphasis added). 3  I believe we are not authorized to rewrite those rules.
+Municipalities, school boards, and other local governmental entities often do not have the same resources as the state. See, e.g., Hawkeye Outdoor Adver., Inc. v. Bd. of Adjustment, 356 N.W.2d 544, 547 (Iowa 1984) ("City councils in places such  [*10] as Algona normally do not make a verbatim record of oral proceedings."). The City of Cambridge, for example, had only 819 residents as of the 2000 census. There is good reason, therefore, for reviews of their actions not to be subject to the same formal requirements as reviews of state agency actions. Instead, the greater flexibility inherent in the certiorari rules makes sense.
+Here there was testimony from both Mr. Jensen and Mayor DeYoung about what happened at the September 17, 2007 city council hearing and some of the reasons that were given. There is no doubt that the city declined Jensen's request for designation of his property as a conservation area. After considering all the evidence, the district court concluded that the city council did not act "arbitrarily, capriciously or unreasonably in denying his request for "conservation area' status for his property." I believe our job as a court is now to consider Jensen's appeal on the merits, not to erect a procedural bar that is unsupported by precedent and contrary to the Iowa rules.
+Jensen, the party seeking relief, had the burden of showing the city's action in denying conservation area status was arbitrary, capricious, or unreasonable.  [*11] Waddell v. Brooke, 684 N.W.2d 185, 189 (Iowa 2004). I would affirm here on the ground that he failed to meet that burden.
+
+ 
+
+End of Document

@@ -1,0 +1,41 @@
+
+  NeutralAs of: September 19, 2020 9:12 PM Z
+In re Hall
+United States Court of Appeals for the Sixth Circuit
+June 29, 2020, Filed
+No. 19-6223
+
+Reporter
+2020 U.S. App. LEXIS 20392 *
+ In re: MONTEZ HALL, Movant.  
+Prior History: Hall v. United States, 2016 U.S. Dist. LEXIS 45449 (M.D. Tenn., Apr. 4, 2016)  
+Counsel:  [*1] In re: MONTEZ HALL, Movant, Pro se, Yazoo City, MS. 
+For United States of America, Respondent: Cecil Woods VanDevender, Office of the U.S. Attorney, Nashville, TN.  
+Judges: Before: MOORE, WHITE, and THAPAR, Circuit Judges. THAPAR, Circuit Judge, concurring.  
+Opinion
+
+
+
+
+ ORDER
+Montez Hall, a federal prisoner proceeding pro se, moves this court for an order authorizing the district court to consider a second or successive 28 U.S.C. § 2255 motion to vacate, set aside, or correct his sentence. See 28 U.S.C. § 2255(h). The government opposes the motion.
+In 2012, Hall pleaded guilty, pursuant to a written plea agreement, to conspiring to participate in racketeering activity, in violation of 18 U.S.C. § 1962(d), and using and carrying a firearm during and in relation to a crime of violence, in violation of 18 U.S.C. § 924(c)(1)(A), with the predicate crime of violence being murder in aid of racketeering under 18 U.S.C. § 1959(a)(1). The district court sentenced him to 360 months of imprisonment, followed by three years of supervised release. Hall did not file a direct appeal.
+In March 2015, Hall filed a § 2255 motion, in which he argued that trial counsel rendered ineffective assistance and that the inordinate delay between indictment and trial violated his due-process rights. The district court denied Hall's § 2255 motion as untimely [*2]  and declined to issue him a certificate of appealability. This court likewise declined to issue Hall a certificate of appealability. Hall v. United States, No. 16-5624, slip op. at 3 (6th Cir. Jan. 4, 2017) (order).
+In January 2020, Hall filed in this court a corrected motion for authorization to file a second or successive § 2255 motion. Noting that the Supreme Court in United States v. Davis, 139 S. Ct. 2319, 2336, 204 L. Ed. 2d 757 (2019), invalidated the residual clause of § 924(c)(3)(B) as unconstitutionally vague, Hall argues that Davis should apply retroactively to invalidate his § 924(c) conviction because the predicate crime of violence for that conviction no longer qualifies as a crime of violence.
+Before we may grant permission to file a second or successive § 2255 motion, Hall must make a prima facie showing that he relies on either: (1) newly discovered evidence that "would be sufficient to establish by clear and convincing evidence that no reasonable factfinder would have found [him] guilty of the offense"; or (2) "a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable." 28 U.S.C. § 2255(h); see also 28 U.S.C. § 2244(b)(3)(C).
+Hall seeks to proceed under § 2255(h)(2), citing Davis as a basis for relief. Davis is a new rule of constitutional law that the Supreme Court has made retroactive [*3]  to cases on collateral review, In re Franklin, 950 F.3d 909, 910-11 (6th Cir. 2020) (per curiam) (order), and, therefore, Davis might apply to Hall's case.
+Hall incorrectly contends that the crime of violence undergirding his § 924(c) conviction is his conviction for conspiring to participate in racketeering activity in violation of § 1962(d). On the contrary, the record makes clear that the predicate offense for Hall's § 924(c) conviction is murder in aid of racketeering under § 1959(a)(1), and Hall's second superseding indictment for that offense referenced, among others, Tennessee's first-degree murder statute, Tennessee Code Annotated § 39-13-202. But Hall's confusion regarding which offense serves as the predicate to his § 924(c) conviction is not fatal to his motion for authorization. We recently granted authorization for a prisoner "to file a second or successive § 2255 motion because our precedents do not 'conclusively establish that a violation of Tenn. Code Ann. § 39-13-202(a)(1) is categorically a crime of violence [under § 924(c)(3)'s still-valid elements clause] in that it involves the use of violent physical force.'" In re Williamson, No. 19-6302, 2020 U.S. App. LEXIS 9380 at 4 (6th Cir. Mar. 25, 2020) (order) (quoting In re Wilson, No. 18-6058, 2019 U.S. App. LEXIS 4626, at *3-6 (6th Cir. Feb. 14, 2019)). Thus, to the extent that the predicate murder-in-aid-of-racketeering offense underlying Hall's § 924(c) conviction is premised on section 39-13-202, Hall has made a prima facie showing that this offense might [*4]  no longer qualify as a crime of violence.
+Finally, the government argues that Hall's plea agreement included a provision waiving his right to collaterally challenge his convictions in a § 2255 motion, except in limited circumstances. We have at times relied on that type of waiver to deny motions for authorization to file second or successive § 2255 motions. See, e.g., In re Garner, 664 F. App'x 441, 442 (6th Cir. 2016); In re Acosta, 480 F.3d 421, 423 (6th Cir. 2007). "But, in this case, we think it appropriate to leave this issue for the district court to determine, in the first instance, whether this waiver would independently bar [Hall's] Davis challenge and whether any exceptions might otherwise apply if it did." In re Thompson, No. 19-3700, 2020 U.S. App. LEXIS 4478 (6th Cir. Feb. 12, 2020) (order).
+Considering the foregoing, Hall's claim that he is entitled to relief pursuant to Davis "warrant[s] a fuller exploration in the district court." In re Lott, 366 F.3d 431, 432-33 (6th Cir. 2004) (order) (quoting Bennett v. United States, 119 F.3d 468, 469 (7th Cir. 1997)). Accordingly, we GRANT Hall's motion for authorization to file a second or successive § 2255 motion.
+Concur by: THAPAR  
+Concur
+
+
+
+
+THAPAR, Circuit Judge, concurring. Given our limited review at this stage, I agree that we should grant Hall authorization to file a second-or-successive § 2255 motion. See 28 U.S.C. § 2255(h); In re Lott, 366 F.3d 431, 432-33 (6th Cir. 2004) (order). That seems especially appropriate here given that our court has previously granted [*5]  two of his co-defendants authorization for similar claims. See In re Williamson, No. 19-6302, 2020 U.S. App. LEXIS 9380 at 4 (6th Cir. Mar. 25, 2020) (order); In re Wilson, No. 18-6058, 2019 U.S. App. LEXIS 4626 at 4 (6th Cir. Feb. 14, 2019) (order). That said, I have little doubt that Hall's motion will fail on the merits—either because the waiver in his plea agreement bars this collateral attack or because Tennessee first-degree murder is a "crime of violence" under 18 U.S.C. § 924(c)(3)(A) (or for both these reasons). And the fact that there's any uncertainty about the latter point—whether first-degree murder is a "crime of violence"—just goes to show the absurdity of the so-called "categorical approach." See, e.g., Mathis v. United States, 136 S. Ct. 2243, 2266-71, 195 L. Ed. 2d 604 (2016) (Alito, J., dissenting); Lowe v. United States, 920 F.3d 414, 420 (6th Cir. 2019) (Thapar, J., concurring); United States v. Burris, 912 F.3d 386, 407-10 (6th Cir. 2019) (en banc) (Thapar, J., concurring). But until Congress or the Supreme Court tells us otherwise, we must continue to entertain such absurd possibilities.
+For these reasons, I respectfully concur.
+
+ 
+
+End of Document

@@ -1,0 +1,55 @@
+
+  CautionAs of: September 19, 2020 7:27 PM Z
+Bogle v. State
+Supreme Court of Florida
+December 19, 2019, Decided
+No. SC17-2151
+
+Reporter
+288 So. 3d 1065 *; 2019 Fla. LEXIS 2352 **; 44 Fla. L. Weekly S 327; 2019 WL 6904538
+ BRETT A. BOGLE, Appellant, vs. STATE OF FLORIDA, Appellee.  
+Subsequent History: Rehearing denied by Bogle v. State, 2020 Fla. LEXIS 216 (Fla., Feb. 11, 2020)
+Petition for certiorari filed at, 07/10/2020  
+Prior History:  [**1] An Appeal from the Circuit Court in and for Hillsborough County, Michelle Sisco, Judge - Case No. 291991CF012952000AHC.
+Bogle v. State, 655 So. 2d 1103, 1995 Fla. LEXIS 227 (Fla., Feb. 16, 1995)  
+Counsel: Linda McDermott of McClain & McDermott, P.A., Estero, Florida, for Appellant. 
+Ashley Moody, Attorney General, Tallahassee, Florida, and Timothy A. Freeland, Senior Assistant Attorney General, Tampa, Florida, for Appellee.  
+Judges: POLSTON, LABARGA, LAWSON, and MUÑIZ, JJ., concur. CANADY, C.J., concurs in result with an opinion.  
+Opinion
+
+
+
+
+ [*1067]  PER CURIAM.
+Brett A. Bogle, a prisoner under sentence of death, appeals the circuit court's order summarily denying his successive motion for postconviction relief.1  For the reasons that follow, we affirm the order.
+ FACTS
+In 1992, Bogle was convicted of the first-degree murder of Margaret Torres, burglary with assault or battery, and retaliation against a witness. Bogle v. State (Bogle I), 655 So. 2d 1103, 1104-1105 (Fla. 1995). At an initial penalty phase, the jury recommended death by a seven-to-five vote, but the trial court granted a new penalty phase due to an erroneous admission of evidence. Id. at 1105. The trial judge sentenced Bogle to death after the second penalty phase resulted in a jury recommendation of death by a ten-to-two vote. Id. This Court affirmed Bogle's conviction and sentence on direct appeal, id. at 1110, and Bogle's [**2]  death sentence became final in 1995.2  This Court also affirmed the denial of Bogle's initial postconviction motion and denied habeas relief. Bogle v. State (Bogle II), 213 So. 3d 833, 855 (Fla. 2017).
+There were no eyewitnesses to Bogle's murder of Torres. Torres was the sister of a woman with whom Bogle had lived, and Bogle and Torres did not get along. Bogle I, 655 So. 2d at 1105. On the night of the murder, Bogle and Torres had been at a bar; Bogle left shortly after Torres. The next day, Torres's "nude and badly beaten body" was found outside the bar. Id. Her head had been "crushed with a piece of cement." Id. "Additionally, she had semen in her vagina and trauma to her anus consistent with sexual activity that was likely inflicted before death." Id. One of the state's witnesses at trial was Agent Michael Malone, an FBI lab examiner. Malone testified that a pubic hair found on Bogle's pants after the murder "microscopically matched the pubic hairs of Margaret Torres." Bogle II, 213 So. 3d at 847. On cross-examination, Malone acknowledged that "hair comparisons do not constitute a basis for absolute personal identification." Id. Unrelated to Malone's testimony, expert witnesses testified at trial and at the evidentiary hearing on Bogle's first postconviction motion that Bogle's DNA was consistent [**3]  with DNA found in Torres's body and underwear. Id. at 838, 846, 851.
+In 2014, Bogle filed a successive postconviction motion claiming he had newly discovered evidence of Brady3  and Giglio4  violations related to Agent Malone's hair analysis testimony. Specifically, Bogle cited the results of a 2013 federal government review concluding that Malone's testimony in Bogle's case overstated the reliability of microscopic hair comparisons. The successive postconviction motion also alleged that Bogle was entitled to relief under Hurst v. State, 202 So. 3d 40 (Fla.  [*1068]  2016), and under changes to Florida's capital sentencing statute enacted after Hurst. In September 2017, the circuit court entered an order summarily denying Bogle's second amended successive postconviction motion, finding that the newly discovered evidence claim was procedurally barred and that Bogle's Hurst-related claims lacked merit. This appeal followed.
+ ANALYSIS
+Summary denial of a successive postconviction motion is appropriate "[i]f the motion, files, and records in the case conclusively show that the movant is entitled to no relief." Fla. R. Crim. P. 3.851(f)(5)(B). Applying a de novo standard of review, we find that test satisfied here, and we therefore affirm the circuit court's summary denial of Bogle's motion.
+ Brady, [**4]  Giglio, and Newly Discovered Evidence Claims
+Bogle's successive postconviction motion alleges that the state withheld exculpatory evidence about the asserted unreliability of Malone's testimony (in violation of Brady) and knowingly presented Malone's "false" testimony (in violation of Giglio). The trial court summarily denied these claims, finding them procedurally barred. We agree.
+Bogle's claims rely on the results of a Department of Justice and FBI review of cases in which Agent Malone had testified about microscopic hair analysis. Released to the state in August 2013 and later provided to Bogle, the review found that Malone's testimony in Bogle's case "exceeded the limits of science" in three ways: (1) by stating or implying that an evidentiary hair could be associated with a specific individual to the exclusion of all others; (2) by assigning a statistical weight or probability to the likelihood that an evidentiary hair originated from a particular source; and (3) by citing prior cases to assign a predictive value to bolster the conclusion that an evidentiary hair belonged to a particular individual.
+The 2013 DOJ/FBI review is of no help to Bogle here, however, because he cannot [**5]  use a successive 3.851 motion to litigate issues that he could have raised in his initial postconviction motion. See Fla. R. Crim. P. 3.851(e)(2); Schwab v. State, 969 So. 2d 318, 325 (Fla. 2007).5  Bogle was well aware of potential deficiencies in Malone's testimony long before the 2013 review (which, in any event, on its face says nothing about what the state did or did not know about the reliability of Malone's testimony). In our opinion in Bogle II, for example, we noted that "Bogle . . . claims that his trial counsel was deficient in failing to demonstrate that the hair comparison in this case was unreliable and flawed." 213 So. 3d at 847. Relatedly, the record in Bogle's initial postconviction motion shows that Bogle's counsel had received notice of the results of an earlier DOJ review of Malone's work in Bogle's case. That 1999 review found that the lab reports of Malone's work were not sufficiently documented to determine whether the work had been done in a scientifically reliable manner. With diligence, Bogle could have litigated in his initial postconviction motion the same Brady and Giglio claims that he raises now.
+To the extent that Bogle asserts a newly discovered evidence claim that is independent of his Brady and Giglio claims, that claim fails as [**6]  well. To prevail on a newly discovered evidence claim, the defendant must satisfy a two-prong test: first, the evidence was not at the time of trial known by the trial court, by the party,  [*1069]  or by counsel, and the defendant or his counsel could not have known of it by the use of diligence; and second, the newly discovered evidence must be of such a nature that it would probably produce an acquittal on retrial. Duckett v. State, 231 So. 3d 393, 399 (Fla. 2017); Jones v. State, 709 So. 2d 512, 521 (Fla. 1998). A court applying the second prong of this test must evaluate the importance of the newly discovered evidence in the broader context of any admissible evidence that could be introduced at a new trial. Duckett, 231 So. 3d at 399.
+Even if we assume that the 2013 review constitutes "evidence" that did not previously exist (and which Bogle therefore could not have known about or uncovered), Bogle cannot demonstrate that the information in the report would probably produce an acquittal on retrial. The report does little more than amplify what Malone already acknowledged on cross-examination at Bogle's trial: that "hair comparisons do not constitute a basis for absolute personal identification." Bogle II, 213 So. 3d at 847. And even more importantly, the DNA evidence showing that Bogle's semen was in the murder victim's body and underwear [**7]  overwhelms the significance of Malone's testimony that a pubic hair of the victim was on Bogle's pants. See Duckett, 231 So. 3d at 399-400 (denying a similar newly discovered evidence claim arising out of a 2013 federal government review of Malone's testimony); Long v. State, 183 So. 3d 342, 347 (Fla. 2016) (same). The record in this case conclusively refutes Bogle's newly discovered evidence claim.
+ Hurst Claims
+Bogle also challenges the summary denial of his claim that the Sixth and Eighth Amendments, together with post-Hurst changes to Florida's capital sentencing statute, demand full retroactive application of this Court's decision in Hurst v. State. Under this Court's precedents, Hurst relief is not available to defendants, like Bogle, whose death sentences were final prior to the Supreme Court's decision in Ring v. Arizona, 536 U.S. 584, 122 S. Ct. 2428, 153 L. Ed. 2d 556 (2002). This Court has repeatedly denied claims similar to Bogle's, and we decline to revisit our precedents here. See, e.g., Reese v. State, 261 So. 3d 1246, 1246-47 (Fla. 2019).
+ CONCLUSION
+For the foregoing reasons, we affirm the postconviction court's summary denial of Bogle's second amended successive postconviction motion.
+It is so ordered.
+POLSTON, LABARGA, LAWSON, and MUÑIZ, JJ., concur.
+CANADY, C.J., concurs in result with an opinion.
+Concur by: CANADY  
+Concur
+
+
+
+
+CANADY, C.J., concurring in result.
+I agree that the order summarily denying postconviction [**8]  relief should be affirmed. I concur in the denial of Bogle's Brady, Giglio, and newly discovered evidence claims. I also agree that Bogle is not entitled to relief on his Hurst claims. But I would deny the Hurst claims on two grounds. First, I would conclude that no Hurst error occurred in this case. I adhere to the view that Hurst v. Florida, 136 S. Ct. 616, 193 L. Ed. 2d 504 (2016), only requires that the jury find an aggravating circumstance that renders a defendant eligible for a death sentence. See Hurst v. State, 202 So. 3d 40, 77-82 (Fla. 2016) (Canady, J., dissenting), cert. denied, 137 S. Ct. 2161, 198 L. Ed. 2d 246 (2017). Here, that requirement was satisfied because the jury's verdict that Bogle had committed "burglary with force . . . on the victim" and her sister two weeks before the murder established  [*1070]  the existence of the prior violent felony aggravator. Bogle v. State, 655 So. 2d 1103, 1105 (Fla. 1995). Second, even if Hurst error were present in this case, I would still deny relief. In my view, Hurst should not be given retroactive application. See Mosley v. State, 209 So. 3d 1248, 1285-91 (Fla. 2016) (Canady, J., concurring in part and dissenting in part).
+
+ 
+
+End of Document

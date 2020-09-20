@@ -1,0 +1,34 @@
+
+  NeutralAs of: September 19, 2020 8:23 PM Z
+TES Filer City Station Ltd. P'ship v. Consumers Energy Co. (In re Consumers Energy Co.)
+Supreme Court of Michigan
+March 30, 2016, Decided
+SC: 150395
+
+Reporter
+499 Mich. 885 *; 876 N.W.2d 566 **; 2016 Mich. LEXIS 616 ***
+ In re Application of CONSUMERS ENERGY COMPANY for Reconciliation of 2009 Costs;TES FILER CITY STATION LIMITED PARTNERSHIP, Appellant, v CONSUMERS ENERGY COMPANY, Petitioner-Appellee, and MICHIGAN PUBLIC SERVICE COMMISSION and ATTORNEY GENERAL, Appellees.  
+Prior History:  [***1] COA: 305066. Public Service Commission: 00-015675.
+TES Filer City Station Ltd. P'ship v. Consumers Energy Co. (In re Consumers Energy Co.), 307 Mich. App. 32, 859 N.W.2d 216, 2014 Mich. App. LEXIS 1825 (2014)  
+Judges: Robert P. Young, Jr., Chief Justice. Stephen J. Markman, Brian K. Zahra, Bridget M. McCormack, David F. Viviano, Richard H. Bernstein, Joan L. Larsen, Justices. LARSEN, J. (dissenting).  
+Opinion
+
+
+
+
+  [**566]   [*885]  Order
+On January 13, 2016, the Court heard oral argument on the application for leave  [**567]  to appeal the September 25, 2014 judgment of the Court of Appeals. On order of the Court, the application is again considered. MCR 7.305(H)(1). In lieu of granting leave to appeal, we AFFIRM on alternate grounds the result reached by the Court of Appeals in affirming the Michigan Public Service Commission's (MPSC) determination that the appellant was not allowed to recover the cost of purchasing NOx allowances. The exception to the $1 million recovery limit provided in MCL 460.6a(8) applies to "costs that are incurred due to changes in federal or state environmental laws or regulations that are implemented" after the effective date of the statute, which was October 6, 2008. Here, the MPSC correctly concluded that no change in state law took place after October 6, 2008, because no statute was enacted and no rule was promulgated after that date. Because there had been no change in the law, the exception [***2]  to the recovery limit was simply inapplicable. We therefore VACATE that part of the Court of Appeals judgment in Docket No. 305066 regarding the meaning of the term "implemented." Given that there was no change in the law, there was no need for the panel to resolve that issue. In all other respects, leave to appeal is DENIED, because we are not persuaded that the remaining question presented should be reviewed by this Court.
+Dissent by: LARSEN  
+Dissent
+
+
+
+
+Larsen, J. (dissenting).
+I respectfully dissent from the Court's order in this case. I would reverse the judgment of the Court of Appeals and remand this case to the Public Service Commission for further proceedings.
+MCL 460.6a(8) provides that the inflation-adjusted limit for recovery of an energy plant's fuel and variable operation and maintenance costs  [*886]  does not apply to "costs that are incurred due to changes in federal or state environmental laws or regulations that are implemented after" October 6, 2008. The Court of Appeals majority erred by conflating the implementation of the nitrogen oxide regulations at issue in this case with the legal effective date of those regulations. A majority of this Court also errs by requiring the "change[] in [the] federal or state environmental [***3]  law[] or regulation[]" to have occurred after October 6, 2008. Both of these readings of MCL 460.6a(8) fail to take into account that changes to regulatory and legal schemes often are put into effect over an extended period of time, and the Legislature recognized this by using the word "implemented" in MCL 460.6a(8). As a result, even though the regulations at issue here were promulgated and had a legal effective date before October 6, 2008, they were not "implemented" until 2009, when they imposed new restrictions on appellant's nitrogen oxide emissions.
+Viviano, J., joins the statement of Larsen, J.
+
+ 
+
+End of Document

@@ -1,0 +1,78 @@
+
+  CautionAs of: September 19, 2020 8:30 PM Z
+State v. Jaquez
+Supreme Court of Iowa
+December 5, 2014, Filed
+No. 12-2264
+
+Reporter
+856 N.W.2d 663 *; 2014 Iowa Sup. LEXIS 104 **
+ STATE OF IOWA, Appellee, vs. JOSE FERNANDO JAQUEZ SR., Appellant.  
+Prior History:  [**1] On review from the Iowa Court of Appeals. Appeal from the Iowa District Court for Louisa County, John M. Wright, Judge. The State seeks further review of a court of appeals decision reversing a defendant's conviction because the district court allowed expert testimony vouching for the victim's credibility.
+State v. Jaquez, 846 N.W.2d 529, 2014 Iowa App. LEXIS 154 (Iowa Ct. App., 2014)  
+Disposition: DECISION OF COURT OF APPEALS AFFIRMED; DISTRICT COURT JUDGMENT REVERSED AND CASE REMANDED.
+  
+Counsel: Benjamin D. Bergmann of Parrish, Kruidenier, Dunn, Boles, Gribble, Gentry & Fisher, L.L.P., Des Moines, for appellant. 
+Thomas J. Miller, Attorney General, Katie A. H. Fiala, Assistant Attorney General, and David L. Matthews, County Attorney, for appellee.  
+Judges: WIGGINS, Justice. All justices concur except Mansfield, J., Cady, C.J., and Waterman, J., who dissent.  
+Opinion by: WIGGINS  
+Opinion
+
+
+
+
+ [*663]  WIGGINS, Justice.
+This case involves a charge of sexual abuse in the second degree in violation of Iowa Code sections 709.1 and 709.3(2) (2011). A jury returned a guilty verdict on this charge. In this appeal, the defendant contends an expert witness vouched for  [*664]  the credibility of the victim and therefore he is entitled to a new trial. We transferred the case to our court of appeals. The court of appeals agreed the defendant is entitled to a new trial on the ground the expert [**2]  witness vouched for the credibility of the victim.
+The State asked for further review, which we granted. On further review, we find the court of appeals is correct that the defendant is entitled to a new trial on the ground an expert witness vouched for the credibility of the victim. Therefore, we affirm the decision of the court of appeals and remand the case for a new trial.
+ I. Background Facts and Proceedings.
+In October 2006, Jose Francisco Jaquez moved in with his new girlfriend and her three children, including her oldest daughter M.M. While living with his girlfriend, M.M. claimed Jaquez had sexual intercourse with her on more than one occasion. At trial, M.M. testified Jaquez had sex with her at least once a week for two years, but she told forensic interviewer Kiesa Kay he had sex with her three times total. M.M. also testified to acts in addition to sexual intercourse that occurred over the course of two years, from the time she was ten until she was twelve. M.M. disclosed the alleged abuse to her best friend when she was twelve and then to her mother. On January 9, 2012, at the Child Protection Center, Dr. Colette Hostetler examined M.M. and forensic interviewer Kay interviewed [**3]  the child. On April 13, the State charged Jaquez with one count of sexual abuse in the second degree.
+Jaquez filed a motion in limine seeking to exclude any testimony by Kay that would serve to bolster the credibility of the child. The district court granted the motion stating, "The Court will rule that the State may not ask questions of the witness that would tend to give the impression to the jury that the jury should give more credibility to the witness's testimony, the child witness's testimony."
+At trial, Dr. Hostetler testified without objection that she performed a physical exam on the child. She testified she found scar tissue in the child's anal area and the hymen did not show any "transections or irregularities." Kay testified she conducted a forensic interview of M.M. During her testimony, the following colloquy occurred between her and the county attorney:
+Q: All right. First of all, what was your impression of [M.M.] when you spoke to her? Basically, how did she appear emotionally? A: She was quiet and very polite.
+Q: Okay. A: She was not extremely emotionally expressive or upset. She was just very polite.
+Q: In your experience in those prior interviews that you conducted, [**4]  is that unusual that a child not be overly emotional in that type of a situation? A: Oh, no, not at all. Her demeanor was completely consistent with a child who has been traumatized, particularly multiple times.
+The jury found Jaquez guilty of sexual abuse in the second degree. Jaquez filed a motion for new trial, arguing the verdict was against the weight of the evidence and jury misconduct had occurred when Kay had contact with jurors outside the courtroom. The district court denied the motion. Jaquez filed a notice of appeal. We transferred this case to our court of appeals. The court of appeals reversed the decision of the district court and remanded the case for a new trial. The court found,
+Kay did not present her opinion in the context of PTSD, did not only show the typical symptoms of a person being  [*665]  traumatized, and instead of waiting for independent evidence of trauma, she directly drew that conclusion for the jury.
+The court of appeals did not address the other issues raised by Jaquez's appeal. The State then filed this application for further review, which we granted.
+ II. Issue.
+In this appeal, we will only reach the issue as to whether error occurred when the expert testified [**5]  the child's "demeanor was completely consistent with a child who has been traumatized, particularly multiple times," because this issue is dispositive of this appeal.
+ III. Standard of Review.
+In State v. Brown, we said:
+We review the admission of the objected to paragraph for an abuse of discretion. The district court abuses its discretion when it exercises its discretion on grounds or for reasons that are clearly untenable or to an extent clearly unreasonable. A ground or reason is untenable when it is not supported by substantial evidence or when it is based on an erroneous application of the law.
+856 N.W.2d 685, 688, 2014 Iowa Sup. LEXIS 102, *7 (Iowa 2014) (citations omitted) (internal quotation marks omitted).
+ IV. Analysis.
+This case involves the situation where an expert directly or indirectly vouches for a witness's credibility thereby commenting on a defendant's guilt or innocence. In regards to this type of testimony, we have stated:
+Although we are committed to the liberal view on the admission of psychological evidence, we continue to hold expert testimony is not admissible merely to bolster credibility. Our system of justice vests the jury with the function of evaluating a witness's credibility. The reason for not allowing this testimony [**6]  is that a witness's credibility is not a fact in issue subject to expert opinion. Such opinions not only replace the jury's function in determining credibility, but the jury can employ this type of testimony as a direct comment on defendant's guilt or innocence. Moreover, when an expert comments, directly or indirectly, on a witness's credibility, the expert is giving his or her scientific certainty stamp of approval on the testimony even though an expert cannot accurately opine when a witness is telling the truth. In our system of justice, it is the jury's function to determine the credibility of a witness. An abuse of discretion occurs when a court allows such testimony.
+We again reaffirm that we are committed to the legal principle that an expert witness cannot give testimony that directly or indirectly comments on the child's credibility. We recognize there is a very thin line between testimony that assists the jury in reaching its verdict and testimony that conveys to the jury that the child's out-of-court statements and testimony are credible.
+State v. Dudley, 856 N.W.2d 668, 676 , 2014 Iowa Sup. LEXIS 103, *16-*17 (Iowa 2014) (citations omitted) (internal quotation marks omitted).
+Applying these principles to the objectionable testimony, we find the expert witness's [**7]  testimony indirectly vouched for M.M.'s credibility thereby commenting on the defendant's guilt or innocence. By opining M.M.'s demeanor was "completely consistent with a child who has been traumatized, particularly multiple times," Kay was vouching for the credibility of the child. In other words, the expert witness is saying M.M.'s demeanor means the child suffered a sexual abuse trauma, therefore, the child must be telling the truth. See id. at 677, 2014 Iowa Sup. LEXIS 103, *18.  [*666]  We allow an expert witness to testify generally that victims of child abuse display certain demeanors. Id. at 677, 2014 Iowa Sup. LEXIS 103, *18; see also State v. Gettier, 438 N.W.2d 1, 4 (Iowa 1989). However, when an expert witness testifies a child's demeanor or symptoms are consistent with child abuse, the expert crosses that very thin line and indirectly vouches for the victim's credibility, thereby commenting on the defendant's guilt or innocence.
+In its brief, the State claims Jaquez was not prejudiced by the admission of this testimony. We disagree.
+M.M.'s testimony was not consistent with her out-of-court statements. She testified the abuse occurred at least once a week at trial, but told the forensic investigator it only happened three times.
+M.M. also testified the alleged abuse began when she was ten years old. [**8]  However, her mother testified she was exhibiting sexual behavior towards her peers at the age of eight, inconsistent with when M.M. alleged the incidents began.
+Furthermore, M.M. testified while the alleged abuse was occurring her mother would be in the home cooking or showering in a bathroom with a shared wall to the room where the incidents were occurring. M.M. testified she would cry during the abuse and that she would bleed afterwards. This testimony is inconsistent with her mother's testimony. Her mother testified she did not hear any crying or notice any abnormal bleeding and that she was unaware of any of the alleged incidents occurring in her house until the child made the accusation.
+Finally, the physical evidence did not support M.M.'s claim of child abuse. Dr. Hostetler testified there was nothing abnormal about the child's physical examination other than a little scar tissue around her anal opening. Dr. Hostetler first testified the scar tissue, which was approximately a half a centimeter in length, "could be from anything from having repeated hard stools that passed through and caused fissures, or other kind of trauma like penetrating trauma." However, M.M. had not made [**9]  any allegations of anal contact until after the doctor's examination. Additionally, because of the new allegation following Dr. Hostetler's examination, the child was taken for a second forensic interview immediately following the exam. Dr. Hostetler testified in all the years she has been examining children at the Child Protection Center she had never had a child do a forensic interview, then the exam, and then go back for a second interview.
+Moreover, the county attorney emphasized this wrongly admitted testimony in his presentation to the jury. In his opening statement, the county attorney warned the jury the child was not going to be emotional in her testimony. He was preparing the jury to ensure the jury did not see the child's seemingly odd behavior of emotional apathy as a lack of credibility. He then elicited a direct answer from Kay regarding this exact behavior, ensuring he was not the only person telling the jury it was normal for M.M. to act in this manner. This testimony set the tone for the remainder of Kay's testimony regarding what the child told her occurred.
+ V. Disposition.
+Accordingly, we affirm the decision of the court of appeals, reverse Jaquez's conviction, and [**10]  remand the case for a new trial.
+DECISION OF COURT OF APPEALS AFFIRMED; DISTRICT COURT JUDGMENT REVERSED AND CASE REMANDED.
+ [*667]  All justices concur except Mansfield, J., Cady, C.J., and Waterman, J., who dissent.
+Dissent by: MANSFIELD  
+Dissent
+
+
+
+
+MANSFIELD, Justice (dissenting).
+While I agree with the analytical framework set forth in the court's well-reasoned opinions of today, see, e.g., State v. Dudley, 856 N.W.2d 668, 681, 2014 Iowa Sup. LEXIS 103, *28 (Iowa 2014), I would not send this particular case back for a new trial. In my view, the evidentiary error in this case did not prejudice the defendant.
+As the majority opinion indicates, the district court's error in this case was quite limited. Specifically, the district court should have granted the defendant's motion to strike one sentence volunteered by the State's expert. That sentence was: "[M.M.'s] demeanor was completely consistent with a child who has been traumatized, particularly multiple times."
+I agree with the majority that this volunteered testimony was improper. However, I do not believe it prejudiced substantial rights of the defendant. Reading the record in this case, the victim's unrebutted testimony was clear, convincing, and generally consistent. The victim told her best friend and her mother of the defendant's acts of [**11]  sexual abuse after the defendant had left for New Mexico and her mother had broken up with the defendant. At that point, and when she later testified in court, the victim was twelve years old. According to the victim, over a period of approximately two years, the defendant took advantage of her when her mother was at work or in the shower or cooking. A medical examination revealed that the victim had scarring in her anus, which was the result of some type of repeated action, although it could have been repeated hard stools.
+When the victim was interviewed by Kiesa Kay, she told Kay about numerous instances of various forms of sexual abuse over those two years. According to Kay's report, the victim said Jaquez had only forced her to engage in vaginal intercourse three times total (at least according to Kay's report). At trial and when deposed, the victim said the defendant forced her into sexual intercourse three times a week. In other respects, the victim's trial testimony and the Kay report were consistent.
+The defendant did not take the stand or present any other evidence on his behalf. Furthermore, while the State's expert should not have been permitted to make the foregoing statement, [**12]  it was only one sentence, and it simply connected the dots between the expert's observations of the victim's demeanor and general characteristics of child abuse victims. The jury likely could have connected those same dots themselves.
+The prosecutor did not mention the victim's demeanor or Kay's testimony on that subject in closing argument. In fact, the prosecutor deemed it necessary to deliver very little by way of closing argument. In the transcript, the State's closing argument runs for less than nine pages, including rebuttal.
+We will not reverse when an evidentiary ruling did not prejudice the defendant. See, e.g., Iowa R. Evid. 5.103(a) ("Error may not be predicated upon a ruling which admits or excludes evidence unless a substantial right of the party is affected . . . ."); State v. Parker, 747 N.W.2d 196, 209 (Iowa 2008). In my view, the defendant was not prejudiced here.
+I also believe the remaining issues raised by Jaquez on appeal are without merit. I would affirm his conviction.
+Cady, C.J., and Waterman, J., join this dissent.
+
+ 
+
+End of Document

@@ -1,0 +1,89 @@
+
+  NeutralAs of: September 19, 2020 9:05 PM Z
+United States v. Castillo
+United States Court of Appeals for the Armed Forces
+October 21, 2014, Argued; February 12, 2015, Decided
+No. 14-0457
+
+Reporter
+74 M.J. 39 *; 2015 CAAF LEXIS 142 **
+ UNITED STATES, Appellee v. Eric R. CASTILLO, Sergeant, U.S. Army, Appellant  
+Prior History:  [**1] Crim. App. No. 20110935. Military Judge: T. Mark Kulish.
+United States v. Castillo, 73 M.J. 411, 2014 CAAF LEXIS 651 (C.A.A.F., 2014)  
+Counsel: For Appellant: Captain Aaron R. Inkenbrandt (argued); Colonel Kevin Boyle, Lieutenant Colonel Jonathan F. Potter, and Captain Michael J. Millios (on brief); Lieutenant Colonel Peter Kageleiry Jr. and Major Vincent T. Shuler. 
+For Appellee: Captain Janae M. Lepir (argued); Colonel John P. Carrell, Lieutenant Colonel James L. Varley, and Major Kenneth W. Borgnino (on brief).  
+Judges: BAKER, C.J., delivered the opinion of the Court, in which ERDMANN and OHLSON, JJ., joined. STUCKY, J., filed a separate concurring opinion. RYAN, J., filed a separate opinion concurring in the result.  
+Opinion by: BAKER  
+Opinion
+
+
+
+
+ [*40]  Chief Judge BAKER delivered the opinion of the Court.
+Contrary to his pleas, a general court-martial composed of officer and enlisted members at Camp Humphreys, Republic of Korea, convicted Appellant of rape and assault consummated by battery, in violation of Articles 120 and 128, UCMJ, 10 U.S.C. §§ 920, 928 (2006). He was sentenced to confinement for two years, forfeitures of all pay and allowances, reduction to the lowest enlisted grade, and a dishonorable discharge. The convening authority reduced the term of confinement by one month, and the United States Army Court of Criminal [**2]  Appeals summarily affirmed. United States v. Castillo, No. ARMY 20110935 (A. Ct. Crim. App. Jan. 29, 2014) (per curiam). We granted review of a single issue:
+WHETHER, UNDER THE TOTALITY OF THE CIRCUMSTANCES, THE MILITARY JUDGE ERRED IN DENYING THE DEFENSE IMPLIED BIAS CHALLENGE AGAINST LTC DS IN LIGHT OF HIS PERSONAL EXPERIENCE AS A SEXUAL ASSAULT VICTIM, HIS DIRECT SUPERVISORY ROLE OVER TWO OTHER MEMBERS, HIS ONGOING RELIANCE ON THE TRIAL COUNSEL FOR MILITARY JUSTICE ADVICE, THE PRESENCE OF FOUR OTHER MEMBERS WHO ALSO RECEIVED MILITARY JUSTICE ASSISTANCE FROM THE TRIAL COUNSEL, AND THE FACT THAT THE PANEL WAS SELECTED EXCLUSIVELY FROM APPELLANT'S BRIGADE.
+For the reasons stated below, we conclude that the military judge did not err in denying the implied bias challenges raised by the defense. In contrast to United States v. Peters, 74 M.J. 31, 2015 CAAF LEXIS 143 (C.A.A.F. 2015), the panel members' relationships with trial counsel in this case were not of a qualitative nature to rise above the normative sorts of relationships expected in military service that could impact perceptions of fairness.
+  [*41]  Background
+Appellant was charged with raping and assaulting Specialist CC while stationed in Korea. Following individual voir dire, trial defense counsel challenged [**3]  several panel members on the basis of actual and implied bias. The military judge granted the defense's challenge for cause against a panel member whose wife had been the victim of sexual assault, but denied the other challenges. This appeal centers on the defense's challenge for cause against Lieutenant Colonel (LTC) DS.
+During voir dire, LTC DS testified that he had been a victim of sexual assault as a child "twenty, almost thirty years ago." He testified that the assault would not impact his ability to judge the case, because he did not view the case on trial "as the same issue at all." He also testified that he was acquainted with the trial counsel:
+Q. Captain Sandys, how is it that you know him?
+A. He's the brigade trial counsel for the aviation brigade.
+Q. How often do you interact with him?
+A. Once every week or once every other week. It depends on the individuals that we're having any military justice issues with.
+Q. Have you personally consulted with him with respect to military justice related issues?
+A. Yes, I have.
+Q. In what way?
+A. Asking his opinion on charges I'm bringing up against Soldiers under my command.
+Q. And how did you view his advice?
+A. Very well.
+Q. Your view was that [**4]  he gave you sound advice?
+A. He gave me confident advice, yes.
+Q. Did you use that advice to then make recommendations to your own commander?
+A. Sometimes. Sometimes I agree with him and sometimes I do not.
+Q. And you said that this was on a weekly to bi-weekly basis?
+A. Roger.
+Q. How long have you known my colleague?
+A. I've been in command for 90 days, so since I took command 90 days ago.
+Prior to challenging LTC DS for cause, the defense brought a challenge against a separate panel member, LTC James Duncan, on the grounds that he supervised three panel members and on the basis of his relationship with trial counsel, who served as the brigade trial counsel.1  As to his interaction with trial counsel, the defense argued:
+CDC: Lieutenant Colonel Duncan . . . regularly meets with his brigade judge advocate I think is the right term for Captain Sandys. Regularly meets with him, he has a very favorable view of -- well he has a favorable view of Captain Sandys's legal advice and Captain Sandys is going to continue to serve as his legal advisor[,] and I just don't see how you can have a panel member whose lawyer, organization counsel, is serving as a prosecutor. You certainly would never have a case [**5]  where the defense attorney's former client was on the panel.
+The military judge denied the challenge for cause, finding that he relies on Captain Sandys's advice "in part," and "he doesn't rely on him exclusively or follow his advice automatically." The defense then brought the following challenge for cause against LTC DS:
+CDC: With respect to [LTC DS], sir, it's a nearly identical argument to [the defense's previous challenge to LTC Duncan,] with the addition of two issues. One is going to be on experiences as a victim. And two is going to be his additional [sexual assault] training as an ROTC professor . . . .
+The military judge denied the challenge for cause, finding that:
+[LTC DS] sometimes agrees with Captain Sandys' advice and sometimes not. So even over a period of three months, there  [*42]  have been times when he's disagreed with the advice that Captain Sandys has given him as brigade trial counsel. . . . With regard to the fact that [LTC DS] may have been molested in some way when he was a child, he, again without prompting, [**6]  said there would be no effect here and "it is not the same issue at all." . . . With regard to this course at Western Michigan University, he and all the other members of the faculty sat through a sexual assault prevention course . . . . So the court finds no actual bias and finds further that viewed objectively through the eyes of the public, an objective observer would not have a substantial [doubt] about the fairness of the accused's court-martial panel if [LTC DS] served as a member and I have considered the liberal grant mandate.
+The defense also brought challenges against three other panel members -- Command Sergeant Major (CSM) Felicioni, CSM Merriwether, and Captain (CPT) Little -- on the basis of their interaction with trial counsel in his capacity as the brigade trial counsel. The military judge denied these challenges, finding that their interactions amounted to no more than receiving information regarding cases in the military justice system.
+ Analysis
+We review implied bias challenges pursuant to a standard that is less deferential than abuse of discretion, but more deferential than de novo review. United States v. Moreno, 63 M.J. 129, 134 (C.A.A.F. 2006); United States v. Napoleon, 46 M.J. 279, 283 (C.A.A.F. 1997).
+R.C.M. 912(f)(1)(N) sets the basis for an implied bias challenge, which stems from the:
+"historic [**7]  concerns about the real and perceived potential for command influence" in courts-martial. Unlike the test for actual bias, this Court looks to an objective standard in determining whether implied bias exists. The core of that objective test is the consideration of the public's perception of fairness in having a particular member as part of the court-martial panel. In reaching a determination of whether there is implied bias, namely, a "perception or appearance of fairness of the military justice system," the totality of the circumstances should be considered. While cast as a question of public perception, this test may well reflect how members of the armed forces, and indeed the accused, perceive the procedural fairness of the trial as well.
+Peters,     M.J. at     (8), 2015 CAAF LEXIS 143, at *18 (citations omitted). Applying these standards to this case, we conclude that the military judge did not err in denying Appellant's challenge for cause on the following grounds, or based on the cumulative effect of these grounds.
+ LTC DS's Experience as a Sexual Assault Victim
+There is no per se rule that a panel member must be excused because he or she has been the victim of a similar crime. See United States v. Smart, 21 M.J. 15, 19 (C.M.A. 1985) ("The [crimes] of which [the member] had been a victim [**8]  did not of themselves disqualify him to participate in trying appellant."). A panel member's experience as a victim similar in theme or close in time to the charged offense may, in some cases, present an issue of implied bias. United States v. Daulton, 45 M.J. 212, 217 (C.A.A.F. 1996). No such relationship exists in this case. Moreover, the military judge found LTC DS's statement that he did not view his experience as a victim as "the same issue at all" to be credible, and concluded, "based on observing his demeanor . . . that the incident will not affect [LTC DS's] deliberations in this case." These statements are not dispositive. However, the statements in tone and content as well as the absence of a presumptive rule of disqualification supports the military judge's decision. Thus, the military judge did not err in denying the challenge for cause.
+ LTC DS's Relationship with Trial Counsel
+
+[I]n military practice, the qualitative nature of the relationships between trial attorneys and officers in the commands those attorneys advise will cover a wide range of experiences. Some officers . . . will establish a close personal and professional  [*43]  bond [with the attorneys, or] the contact may be singular or passing; formal and professional, but not indicative [**9]  of special deference or bonding.
+United States v. Richardson, 61 M.J. 113, 119 (C.A.A.F. 2005). Here, in contrast to Peters,     M.J. at     (3), 2015 CAAF LEXIS 143, at*11 there is no evidence of a personal bond or a particularly deferential professional bond. Further, LTC DS had only been in his position ninety days, a fact that weighs against a finding of implied bias. The military judge did not err.
+ LTC DS's Rating of Two Panel Members
+"It is well settled that a senior-subordinate/rating relationship does not per se require disqualification of a panel member." United States v. Wiesen, 56 M.J. 172, 175 (C.A.A.F. 2001) (citations omitted). LTC DS's rating of CPT Little and CSM Merriwether did not require the military judge to excuse LTC DS in the context of this case, given the broader composition of the panel. Further, the military judge concluded that all three panel members "credibly disclaimed that they would feel any restraint or discomfort in freely expressing their views during deliberations if they all three remained on the panel."
+ Other Members' Favorable Impressions of Trial Counsel
+Apart from LTC DS, CSM Felicioni, CSM Merriwether, and CPT Little received information from trial counsel regarding military justice matters, and CSM Felicioni once played cards with trial counsel. These facts do not constitute a claim of close personal or deferential [**10]  professional bonding under Richardson, 61 M.J. at 119, and the military judge did not err.
+ The Panel Was Drawn Entirely from Appellant's Brigade and Cumulative Error
+Appellant did not raise the issue of panel members being drawn exclusively from his brigade at trial, and as a result, this issue is waived as a discrete ground for challenge. Rule for Courts-Martial 912(f)(2), (4). Nonetheless, Appellant asserts this issue along with the other asserted grounds for a finding of implied bias in their cumulative effect.
+"It is well-established that an appellate court can order a rehearing based on the accumulation of errors not reversible individually." United States v. Dollente, 45 M.J. 234, 242 (C.A.A.F. 1996). Appellant cites no authority indicating that a panel drawn entirely from one brigade, including this brigade in Korea, is an unusual or unlawful practice in the military justice system. As a result, Appellant's asserted errors lack merit, and they do not combine to create error.
+ Conclusion
+The military judge did not err in denying Appellant's challenges for cause. Accordingly, the decision of the United States Army Court of Criminal Appeals is affirmed.
+Concur by: STUCKY; RYAN  
+Concur
+
+
+
+
+STUCKY, Judge (concurring):
+I join the majority's opinion with one reservation. The majority opinion quotes United States v. Peters,     M.J.     (8), 2015 CAAF LEXIS 143 at *8 (C.A.A.F. 2015), to say: "While cast as a question [**11]  of public perception, this [implied bias] test may well reflect how members of the armed forces, and indeed the accused, perceive the procedural fairness of the trial as well." United States v. Castillo,     M.J.     (7) (C.A.A.F. 2015). This sentence appears to expand the ambit of the "public perception" test contrary to our case law: The accused's perception of the fairness of his trial has never been part of the implied bias test. I write separately solely to clarify that the test for implied bias is a question of public perception only.
+RYAN, Judge (concurring in the result):
+We have long held that a military judge is entitled to deference on issues of implied bias under Rule for Courts-Martial 912(f)(1)(N), if less deference than on issues of actual bias. United States v. Napoleon, 46 M.J. 279, 283 (C.A.A.F. 1997). I stand by this Court's guidance in United States v. Clay, 64 M.J. 274 (C.A.A.F. 2007): "[W]here a military judge considers a challenge based on implied bias, recognizes his duty to liberally grant defense challenges, and places his reasoning on the  [*44]  record, instances in which the military judge's exercise of discretion will be reversed will indeed be rare." Id. at 277.
+It is my view that, where the correct law is recognized and there is no erroneous application of the law or view of the facts, military judges should receive the deference to which they are entitled under our precedent [**12]  on matters of implied bias. This Court is better suited to remind military judges that challenges are to be liberally granted -- and, relatedly, that excusing a member on the basis of implied bias is not a condemnation of any particular member's sincerity, integrity, or fitness -- than to review on a case-by-case basis how much qualitative and quantitative contact between a convening authority and a trial counsel who serves as the legal counsel for that convening authority a member of the public would view as unfair.
+This Court has repeatedly eschewed a bright-line rule requiring military judges to grant challenges for cause on the basis of implied bias against members who have or have had a professional relationship with legal counsel. See United States v. Rome, 47 M.J. 467, 469 (C.A.A.F. 1998) (holding a member's "professional relationship with the trial counsel was not per se disqualifying"); United States v. Hamilton, 41 M.J. 22, 25 (C.M.A. 1994) (finding no "per se ground for challenge" where three members had received legal assistance from the assistant trial counsel); see also United States v. Peters,     M.J.    ,     (1-2), 2015 CAAF LEXIS 143, at *18 (C.A.A.F. 2015) (Ryan, J., dissenting). However reasonable I might find such a bright-line rule in the case of an implied bias challenge against a commanding officer sitting as a panel member, even as her [**13]  legal advisor served as trial counsel, if presented with it as a matter of first impression, I agree that the military judge should receive deference. I respectfully concur in the result.
+
+ 
+
+End of Document

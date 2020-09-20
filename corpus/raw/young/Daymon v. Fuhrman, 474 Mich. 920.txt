@@ -1,0 +1,46 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+Daymon v. Fuhrman
+Supreme Court of Michigan
+November 10, 2005, Decided 
+SC: 127425 
+
+Reporter
+474 Mich. 920 *; 705 N.W.2d 347 **; 2005 Mich. LEXIS 2281 ***
+ MICHAEL L. DAYMON and KATHRYN DAYMON, Plaintiffs-Appellees, v TED L. FUHRMAN, Defendant-Appellant.  
+Subsequent History: Reconsideration denied by Daymon v. Fuhrman, 474 Mich. 1064; 711 N.W.2d 18; 2006 Mich. LEXIS 379 (Mich., Feb. 27, 2006)  
+Prior History:  [***1]  COA: 249007. Gratiot CC: 00-006637-CZ.
+Daymon v. Fuhrman, 2004 Mich. App. LEXIS 2607 (Mich. Ct. App., Oct. 5, 2004)  
+Judges: TAYLOR, C.J., dissents and states. CORRIGAN, J., dissents and states. YOUNG, J., dissents and states.    
+Opinion
+
+
+
+
+ [*920]  On order of the Court, the application for leave to appeal the October 5, 2004 judgment of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the question presented should be reviewed by this Court.  
+Dissent by: TAYLOR; CORRIGAN; YOUNG  
+Dissent
+
+
+
+
+ [**347]  TAYLOR, C.J., dissents and states as follows: 
+I would grant leave to appeal to consider Judge MURRAY'S conclusion in his dissent that piercing the corporate veil was improper where plaintiffs failed to prove a causal link between any wrong committed by defendant and the plaintiffs' injury.
+CORRIGAN, J., dissents and states as follows:
+I would grant leave to appeal to consider Judge Murray's dissent.
+Defendant was the president and sole stockholder of E-Z Living Homes, Inc., a company that was in the business of selling manufactured or mobile homes. E-Z Living became insolvent and ceased operations in April 1998. At that time, defendant took control of the corporation's remaining assets. E-Z Living was not formally dissolved until 2000.
+ [**348]  In June 1998, plaintiffs sued [***2]  E-Z Living, alleging that the manufactured home that they had purchased in 1996 was defective. Plaintiffs obtained a default judgment in October 1998. Plaintiffs were unable to collect on the judgment because of the corporation's insolvency. In December 2000, plaintiffs brought this suit to pierce the corporate veil and hold defendant personally liable for the judgment.
+Following trial, the trial court held that it was appropriate to pierce the corporate veil because defendant had used the corporation as his "alter ego" by using it to pay his personal bills over a long period without shareholder loans or corporate record documentation. The court further found that defendant's "'flexible' approach to the corporation's distinct existence had the foreseeable effect of perpetrating a wrong resulting in unjust loss" to plaintiffs.
+ [*921]  The Court of Appeals majority, explaining that "cases involving the piercing of a corporate veil are fact intensive and often hinge on the equities of the case," held that the trial court did not err in finding that the corporate veil should be pierced on these facts.
+I disagree with the conclusion of the Court of Appeals majority. The majority's decision hinged [***3]  on a purely equitable standard. Judge Murray's dissent pointed out that the corporate veil should not have been pierced because plaintiffs failed to prove a causal link between any wrong committed by defendant and the injury caused to plaintiffs.
+In Foodland Distributors v Al-Naimi, 220 Mich. App. 453, 457; 559 N.W.2d 379 (1996), the Court of Appeals offered the following standard for piercing the corporate veil:
+"'First, the corporate entity must be a mere instrumentality of another entity or individual. Second, the corporate entity must be used to commit a fraud or wrong. Third, there must have been an unjust loss or injury to the plaintiff.'" [Id., quoting SCD Chem. Distribs. v Medley, 203 Mich. App. 374, 381, 512 N.W.2d 86 (1994) (citation omitted).]
+Judge MURRAY persuasively argued that the second and third prongs of this test were not met because there is no evidence that defendant used the corporate entity to commit a wrong that caused an unjust injury or loss to plaintiffs. First, defendant ceased business operations in April 1998, but plaintiffs did not sue defendant until June 1998, nor did plaintiffs obtain the default judgment against E-Z Living [***4]  until October 1998. There is no evidence that defendant had ceased operations to avoid paying the default judgment. The corporation's insolvency was the reason plaintiffs could not collect on their default judgment.
+Further, the corporation's insolvency apparently did not spring from any wrong committed by defendant, but from an accounting error three years earlier that inflated the corporation's accounts receivable. Even if defendant acted improperly, it is undisputed that plaintiffs would not have been able to collect on the default judgment in light of all the secured creditors with priority over plaintiffs. Thus, plaintiffs' injuries did not result from defendant's improper use of the corporate form.
+Finally, this case presents a jurisprudentially significant problem. This Court has never adopted clear standards for determining when the corporate veil should be pierced. The most recent comprehensive discussion of piercing a corporate veil appeared in Foodland Distributors, supra. In that case, the Court of Appeals stated that "[t]here is no single rule delineating when the corporate entity may be disregarded." Foodland Distributors, supra at 456. [***5]  Nonetheless, the  [**349]  Court adopted a three-pronged standard for piercing the corporate veil. Id. at 457. This standard has been followed in a number of other Court of Appeals cases involving piercing a corporate veil. It has never been accepted or rejected by this Court. This Court should review the prevailing Court of Appeals standard for piercing the corporate veil and delineate a clear legal standard for our courts to follow.
+ [*922]  YOUNG, J., dissents and states as follows:
+I fully concur in Justice CORRIGAN'S dissenting statement. While this Court has long recognized that the corporate form may be disregarded in certain circumstances, see, e.g., Fors v Farrell 271 Mich. 358; 260 N.W. 886 (1935), this Court has never adopted a clear test to determine when piercing the corporate veil is appropriate. Because the issue is jurisprudentially significant, and deserves the full attention of this Court, I would grant leave to appeal.  
+
+ 
+
+End of Document

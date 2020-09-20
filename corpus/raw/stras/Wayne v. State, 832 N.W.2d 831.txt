@@ -1,0 +1,56 @@
+
+  NeutralAs of: September 19, 2020 9:08 PM Z
+Wayne v. State
+Supreme Court of Minnesota
+June 12, 2013, Filed
+A12-0868
+
+Reporter
+832 N.W.2d 831 *; 2013 Minn. LEXIS 340 **; 2013 WL 2494705
+ Michael Wayne, petitioner, Appellant, vs. State of Minnesota, Respondent.  
+Prior History:  [**1] Waseca County.
+State v. Fenney, 448 N.W.2d 54, 1989 Minn. LEXIS 276 (Minn., Nov. 3, 1989)  
+Disposition: Affirmed.
+  
+Syllabus
+
+
+
+
+1. Appellant's motion filed pursuant to Minn. Stat. § 590.01, subd. 1a (2012), was properly denied by the postconviction court because the motion failed to establish that the evidence to be tested was subject to a chain of custody and was materially relevant to appellant's actual innocence.
+2. If appellant's motion was properly treated as a petition, his claim was time-barred pursuant to Minn. Stat. § 590.01, subd. 4(c) (2012), because appellant knew or should have known of the claim more than two years before the petition was filed.
+Counsel: Michael Wayne, Rush City, Minnesota, Pro se. 
+Lori Swanson, Attorney General, Matthew Frank, Assistant Attorney General, Saint Paul, Minnesota; and Paul Dressler, Waseca County Attorney, Waseca, Minnesota, for respondent.  
+Judges: Page, J. Concurring, Stras, J. Took no part, Lillehaug, J.  
+Opinion by: PAGE  
+Opinion
+
+
+
+
+ [*832]  Considered and decided by the court without oral argument.
+PAGE, Justice.
+Appellant Michael Wayne was convicted of murder in connection with the death of Mona Armendariz. Wayne was sentenced to life in prison. We consolidated Wayne's direct appeal and his appeal from the denial of his first petition for postconviction relief and ultimately affirmed his conviction.  [**2] State v. Fenney, 448 N.W.2d 54, 56-57 (Minn. 1989).1  Wayne filed three subsequent petitions for postconviction relief, which were all denied by the postconviction court and affirmed by our court. Wayne v. State (Wayne IV), 747 N.W.2d 564 (Minn. 2008); Wayne v. State (Wayne III), 601 N.W.2d 440 (Minn. 1999); Wayne v. State (Wayne II), 498 N.W.2d 446 (Minn. 1993).
+Armendariz was murdered on July 29, 1986. She had been beaten and stabbed, and died when her throat was slit. When found, her body was naked from the waist down, her T-shirt was torn and pushed up over her breasts, and a curling iron had been inserted into her vagina. The facts underlying Wayne's conviction for this crime are set forth in Fenney and will not otherwise be repeated here. See 448 N.W.2d at 55-57.
+On February 14, 2012, Wayne filed what he captioned as a "Motion for DNA Analysis" pursuant to Minn. Stat. § 590.01, subd. 1a (2012). Wayne requested DNA testing of Armendariz's underwear to prove he did not sexually assault Armendariz and that  [*833]  Armendariz was in sexual relationships with  [**3] other individuals. Construing Wayne's motion as his fifth petition for postconviction relief, the postconviction court found the petition was barred under both State v. Knaffla, 309 Minn. 246, 252, 243 N.W.2d 737, 741 (1976), and Minn. Stat. § 590.01, subd. 4(c) (2012).
+The parties did not brief the threshold issue of whether the postconviction court erred when it treated Wayne's subdivision 1a motion as a petition for postconviction relief. We need not address that threshold issue because, whether treated as a subdivision1a motion or as a petition for postconviction relief, Wayne's claim fails.
+Under subdivision 1a, an individual convicted of a crime may bring a motion for "fingerprint or forensic DNA testing to demonstrate the person's actual innocence" if the evidence to be tested: (1) was "secured in relation to the trial which resulted in the conviction"; and (2) "was not subject to the testing because either the technology for the testing was not available at the time of the trial or the testing was not available as evidence at the time of the trial." Id., subd.1a (a). A person who makes a motion under subdivision 1a must present a prima facie case that "identity was an issue in  [**4] the trial; and . . . the evidence to be tested has been subject to a chain of custody sufficient to establish that it has not been substituted, tampered with, replaced, or altered in any material aspect." Id., subd.1a (b). Additionally, the testing must have "the scientific potential to produce new, noncumulative evidence materially relevant to the defendant's assertion of actual innocence." Id., subd.1a (c)(2). We conclude that Wayne's motion fails to satisfy the requirements of Minn. Stat. § 590.01, subd. 1a.
+Here, the record before us does not establish that Armendariz's underwear, "the evidence to be tested[,] has been subject to a chain of custody sufficient to establish that it has not been substituted, tampered with, replaced, or altered in any material aspect." Id., subd.1a (b)(2). In fact, Wayne admits that "[i]t is unknown if the victim's undergarments are [even] available."
+Wayne's motion also fails to articulate how DNA testing of Armendariz's underwear is "materially relevant to [Wayne's] assertion of actual innocence." Id., subd. 1a (c)(2). At trial, evidence related to the sexual assault of Armendariz focused on the curling iron inserted into her vagina. Fenney, 448 N.W.2d at 56-57.  [**5] Wayne argues that DNA testing will verify that he did not sexually assault Armendariz and would prove Armendariz was having sexual relationships with others. But Wayne's motion does not explain how establishing those facts is materially relevant to who committed the sexual assault with the curling iron. Thus, Wayne's motion for DNA testing fails to satisfy the requirements of subdivision 1a as a matter of law.
+Finally, even if it was proper to treat Wayne's motion as a petition for postconviction relief, Wayne's claim was time-barred. Under Minn. Stat. § 590.01, subd. 4(a) (2012), "[n]o petition for postconviction relief may be filed more than two years after . . . the entry of judgment of conviction or sentence . . . [or] an appellate court's disposition of petitioner's direct appeal." For Wayne, whose conviction was final before August 1, 2005, the subdivision 4(a) time-bar expired on July 31, 2007. Sanchez v. State, 816 N.W.2d 550, 555 (Minn. 2012). Because Wayne filed his motion on February 14, 2012, his claim is time-barred by subdivision 4(a) unless an exception applies. Id. at 555-56. Consequently, to be timely Wayne's claim must fall within one of the five exceptions to the  [**6] subdivision 4(a) time-bar. See Minn. Stat. § 590.01, subd. 4(b) (2012).  [*834]  Even if Wayne's claim falls within one of the exceptions, however, it still "must be filed within two years of the date the claim arises" because "[t]he plain language of [Minn. Stat. § 590.01, subd. 4(c)] clearly and unambiguously applies the time limit . . . to all of the exceptions in subdivision 4(b)." Sanchez, 816 N.W.2d at 556. Similar to the subdivision 4(a) time-bar, Wayne also had until July 31, 2007, before subdivision 4(c) could bar his postconviction claims. Act of June 2, 2005, ch. 136, art. 14, § 13, 2005 Minn. Laws 901, 1097-98 (codified at Minn. Stat. § 590.01, subd. 4 (2012)).
+The test for assessing the accrual of a claim for the purpose of the subdivision 4(c) time-bar is "an objective knew or should have known standard." Sanchez, 816 N.W.2d at 558 (citations omitted) (internal quotation marks omitted). The postconviction court here found that in 1998 Wayne "knew that DNA testing could be performed and he knew of [Armendariz's] underwear." That finding is not clearly erroneous because Wayne admits that he knew of Armendariz's underwear in 1986 and our opinion in Wayne III establishes that Wayne  [**7] had knowledge of DNA testing in 1998. See 601 N.W.2d at 441-42 (discussing Wayne's request for DNA testing of bloodstained clothing relied on by the prosecutor at trial). Therefore, Wayne knew or should have known of the claim to test Armendariz's underwear in 1998, but did not petition for testing until February14, 2012, almost six and a half years after July31, 2007. Thus, even if Wayne's motion is construed to be a petition for postconviction relief, the postconviction court's denial of the petition as time-barred under Minn. Stat. § 590.01, subd. 4(c), was not an abuse of its discretion.
+Affirmed.
+LILLEHAUG, J., not having been a member of this court at the time of submission, took no part in the consideration or decision of this case.
+Concur by: STRAS  
+Concur
+
+
+
+
+STRAS, Justice (concurring).
+I agree with the court that Wayne has not established that the evidence he seeks to test, the victim's underwear, has "been subject to a chain of custody sufficient to establish that it has not been substituted, tampered with, replaced, or altered in any material aspect." Minn. Stat. § 590.01, subd.1a (b)(2) (2012). I would end the analysis there, however, because "judicial restraint bids us to refrain from deciding  [**8] any issue not essential to the disposition of the particular controversy before us." Lipka v. Minn. Sch. Emps. Ass'n, Local 1980, 550 N.W.2d 618, 622 (Minn. 1996). As tempting as it may be to slam the door shut on an unmeritorious legal claim, alternative holdings come perilously close to the rendering of an advisory opinion. See Phelps v. Alameda, 366 F.3d 722, 729 (9th Cir. 2004); Karsten v. Kaiser Found. Health Plan of the Mid-Atl. States, Inc., 36 F.3d 8, 11 (4th Cir. 1994). Indeed, we have a duty to decide only those legal questions necessary to the disposition of any particular case "'and not . . . give opinions upon moot questions or abstract propositions, or to declare principles or rules of law which cannot affect the matter in issue in the case before [us].'" Local No. 8-6, Oil, Chem. & Atomic Workers Int'l Union v. Missouri, 361 U.S. 363, 367, 80 S. Ct. 391, 4 L. Ed. 2d 373 (1960) (quoting Mills v. Green, 159 U.S. 651, 653, 16 S. Ct. 132, 40 L. Ed. 293 (1895)); see also Cal. Fed. Sav.& Loan Ass'n v. Guerra, 479 U.S. 272, 296, 107 S. Ct. 683, 93 L. Ed. 2d 613 (1987) (Scalia, J., concurring)(explaining that alternative holdings are rarely appropriate for a court of last resort).
+ [*835]  The court's analysis in this case vividly demonstrates the dangers of alternative holdings.  [**9] Here, the court assumes away an unsettled legal issue—whether motions for scientific testing under Minn. Stat. § 590.01, subd. 1a (2012), are subject to the two-year limitations period set forth in Minn. Stat. § 590.01, subd. 4 (2012)—and then applies a limitations period that may not apply in holding that Wayne did not timely file his motion for scientific testing. Because the court's analysis regarding the timeliness of Wayne's motion is based on a flawed legal premise, I concur only in the judgment of the court.
+
+ 
+
+End of Document

@@ -1,0 +1,46 @@
+
+No Shepard’s  Signal™As of: September 19, 2020 8:13 PM Z
+United States v. Salgado
+United States Court of Appeals for the Eighth Circuit
+April 15, 2016, Submitted; July 21, 2016, Filed
+No. 15-2793
+
+Reporter
+656 Fed. Appx. 264 *; 2016 U.S. App. LEXIS 13309 **; 2016 WL 3923885
+ United States of America, Plaintiff - Appellee v. Fernando Salgado, Defendant - Appellant  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Prior History:  [**1] Appeal from United States District Court for the Eastern District of Arkansas - Little Rock.
+  
+Counsel: For United States of America, Plaintiff - Appellee: Hunter Bridges, Assistant U.S. Attorney, Michael S. Gordon, Assistant U.S. Attorney, Benecia Betton Moore, U.S. Attorney's Office, Eastern District of Arkansas, Little Rock, AR. 
+For Fernando Salgado, Defendant - Appellant: Jenniffer Morris Horan, Federal Public Defender, Sylvia Talley, Federal Public Defender's Office, Little Rock, AR. 
+Fernando Salgado, Defendant - Appellant, Pro se, Oklahoma City, OK.  
+Judges: Before GRUENDER, BRIGHT, and KELLY, Circuit Judges. GRUENDER, Circuit Judge, concurring.  
+Opinion
+
+
+
+
+ [*264]  PER CURIAM.
+A jury convicted appellant-defendant Fernando Salgado (Salgado) of assault by striking, beating, or wounding in violation of 18 U.S.C. § 113(a)(4), a crime committed during Salgado's incarceration for an unrelated crime. The district court1  sentenced Salgado to a 12-month term of imprisonment to run consecutive to his sentence of 210-months' imprisonment for the unrelated crime. Salgado appeals, arguing  [*265]  the sentence is substantively unreasonable because it is greater than necessary to comply with the purposes of 18 U.S.C. § 3553(a). We affirm.
+I
+On March 29, 2012, three inmates, including Salgado, attacked a fourth inmate in a recreation-yard cage in the Special Housing Unit at the Federal Correctional Complex in Forrest City, Arkansas. Salgado allegedly served 33 months in solitary confinement as a result of the assault. The government charged Salgado and two other inmates in a one-count indictment with assault resulting in serious bodily injury, pursuant to 18 U.S.C. § 113(a)(6).
+Salgado and a codefendant proceeded to a jury trial. The jury found Salgado guilty of assault by striking, beating, or wounding, in violation of 18 U.S.C. § 113(a)(4)—a lesser-included offense of the charged crime.
+The district court held Salgado's sentencing hearing on July 29, 2015. The district court determined Salgado had a criminal history category of VI and an advisory guideline range of 21 to 27 months' imprisonment. But Salgado's conviction carried a statutory maximum penalty of 12-months' imprisonment. Neither party moved for a departure. Salgado requested the sentence run concurrent to Salgado's sentence for the unrelated crime in light of the 33 months Salgado allegedly spent in solitary confinement. The district court considered [**3]  and denied Salgado's request. The judge noted Salgado's codefendants received consecutive sentences and the conduct amongst the codefendants was not appreciably different. The district court sentenced Salgado to 12-months' imprisonment to run consecutively to Salgado's sentence for the unrelated crime. Salgado timely appealed.
+II
+"We apply an abuse-of-discretion standard to review the substantive reasonableness of a sentence." United States v. Garcia, 774 F.3d 472, 476 (8th Cir. 2014) (per curiam) (quoting United States v. Sandoval-Sianuqui, 632 F.3d 438, 444 (8th Cir. 2011)). Salgado argues his sentence is substantively unreasonable because it is greater than necessary to comply with the purposes of section 3553(a) in light of the time Salgado spent in solitary confinement. We disagree.
+A district court's sentence is substantively unreasonable "when it fails to consider a relevant factor, gives significant weight to an irrelevant or improper factor, or considers only appropriate factors but nevertheless commits a clear error of judgment by arriving at a sentence that lies outside the limited range of choice dictated by the facts of the case." United States v. French, 719 F.3d 1002, 1009 (8th Cir. 2013) (quoting United States v. Jones, 509 F.3d 911, 913 (8th Cir. 2007)). None of these circumstances is present here. At sentencing, the district court expressly considered all of the section 3553(a) factors, the attorneys' arguments, and the advisory Guidelines. [**4]  Further, the district court considered Salgado's sentence in light of the sentences received by Salgado's codefendants and determined a consecutive sentence avoided unwarranted sentencing disparities between codefendants whose conduct was not appreciably different. See 18 U.S.C. § 3553(a)(6) (noting the need to avoid unwarranted disparities among defendants).
+Salgado argues the time he allegedly spent in solitary confinement should be a mitigating factor warranting a consecutive  [*266]  sentence.2  Even if the record contained sufficient evidence substantiating the time Salgado allegedly spent in solitary confinement, "a sentencing court has wide latitude to weigh the section 3553(a) factors in each case and assign some factors greater weight than others." United States v. Roberts, 747 F.3d 990, 992 (8th Cir. 2014) (quoting United States v. Lozoya, 623 F.3d 624, 627 (8th Cir. 2010)). Here the district court considered Salgado's request relating to solitary confinement and to run his sentence concurrently, but gave more weight to the sentences imposed on Salgado's codefendants. Given this explanation, the district court adequately considered the section 3553(a) factors and Salgado's sentence is substantively reasonable.
+For the foregoing reasons, we affirm the district court.
+Concur by: GRUENDER  
+Concur
+
+
+
+
+GRUENDER, Circuit Judge, concurring.
+I concur in the judgment and the opinion of the court except for footnote 2, which I consider unnecessary to resolve this case.
+
+ 
+
+End of Document

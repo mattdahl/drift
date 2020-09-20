@@ -1,0 +1,48 @@
+
+  NeutralAs of: September 19, 2020 8:23 PM Z
+In re Trotter
+United States Court of Appeals for the Sixth Circuit
+February 27, 2018, Filed
+No. 17-2035
+
+Reporter
+2018 U.S. App. LEXIS 5012 *
+ In re: VANTANEZ TROTTER, Movant.  
+Prior History: United States v. Trotter, 2016 U.S. Dist. LEXIS 98375 ( E.D. Mich., July 28, 2016)  
+Counsel:  [*1] In re: VANTANEZ TROTTER, Movant, Pro se, Bruceton Mills, WV. 
+For United States of America, Respondent: John N. O'Brien II, Assistant U.S. Attorney, United States Attorneys Office, Eastern District of Michigan, Detroit, MI.  
+Judges: Before: BATCHELDER, GRIFFIN, and LARSEN, Circuit Judges. LARSEN, J., concurring in part and dissenting in part.  
+Opinion
+
+
+
+
+ ORDER
+Vantanez Trotter, a pro se federal prisoner, moves this court for an order authorizing the district court to consider a second or successive motion to vacate, set aside, or correct his sentence under 28 U.S.C. § 2255. See 28 U.S.C. §§ 2244(b), 2255(h). Trotter has also filed a motion to disqualify the Assistant United States Attorneys ("AUSAs") representing the government in this case.
+In December 2012, Trotter was arrested for carjacking and taken into federal custody. In December 2013, he was mistakenly transferred into state custody in connection with sentencing for violations of his state probation. Several months later, Trotter was transferred back to federal custody.
+In April 2014, Trotter pleaded guilty, pursuant to a written plea agreement, to one count of carjacking, one count of brandishing a firearm during and in relation to a crime of violence, and one count of possession of a controlled [*2]  substance. At his plea colloquy, Trotter ultimately agreed to the terms of the plea agreement, but expressed reservations about an alleged promise, not included in the terms of the plea agreement, about receiving sentence credit for time served in state custody. In September 2014, the district court sentenced Trotter to an aggregate term of 155 months of imprisonment. Trotter did not appeal.
+In October 2015, Trotter filed a "Motion/Request to Correct Judgment & Commitment Errors," construed by the district court as a motion to amend judgment of sentence, arguing that he did not receive credit for the time that he spent in state custody. Trotter also filed a § 2255 motion to vacate, set aside, or correct sentence, arguing that he was entitled to relief pursuant to Johnson v. United States, 135 S. Ct. 2551, 192 L. Ed. 2d 569 (2015).
+The district court summarily denied Trotter's § 2255 motion because Johnson did not affect the validity of Trotter's convictions for carjacking or brandishing a firearm during a crime of violence. The district court denied Trotter's construed motion to amend judgment of sentence because it was not able to grant the relief sought by Trotter. The district court noted that Trotter could possibly bring that claim under 28 U.S.C. § 2241, but that Trotter [*3]  had not yet exhausted his administrative remedies and, in any case, he needed to file a § 2241 petition in the district court having jurisdiction over his custodian.
+Around the same time, Trotter filed a motion for authorization to file a second or successive motion in this court, seeking to file a motion identical to the § 2255 motion that he had filed in the district court. We denied that motion as moot because it was duplicative of the § 2255 motion denied by the district court.
+In August 2017, Trotter filed another § 2255 motion in the district court. He claimed that counsel rendered ineffective assistance by advising him to enter a guilty plea on the promise that he would receive pre-trial sentence credit of one year and that he would remain in federal custody, and that he would not have entered the plea but for the advice. He also claimed that counsel rendered ineffective assistance by allowing him to be transferred to state custody, because the sentences that he received in state custody increased his criminal history category and thus his sentencing guidelines range. Trotter argued that the motion was not "second or successive" because he could not have brought his ineffective assistance of counsel [*4]  claim until the Bureau of Prisons ("BOP") denied him credit. Trotter also filed a motion for recusal of the court and a motion to disqualify AUSAs John O'Brien and Jeanine Brunson. The district court denied Trotter's motions for recusal and disqualification and transferred Trotter's § 2255 motion to this court as second or successive. See In re Sims, 111 F.3d 45, 47 (6th Cir. 1997) (per curiam).
+Trotter argues that his § 2255 motion should not have been transferred because it was not truly second or successive. He asserts that his claims were not yet ripe at the time of his previous § 2255 motion because the BOP did not notify Trotter that he would not receive credit for time spent in pre-trial detention until March 22, 2017, and thus he did not know that counsel had rendered ineffective assistance by advising him that he would receive the credit should he plead guilty. Trotter has also filed a motion to disqualify O'Brien and Brunson because he believes that they would be called as witnesses in a future evidentiary hearing.
+"The phrase 'second or successive' is not self-defining." Panetti v. Quarterman, 551 U.S. 930, 943, 127 S. Ct. 2842, 168 L. Ed. 2d 662 (2007). Thus, "[c]ourts have not . . . construed 'second or successive' to encompass all § 2255 motions or habeas petitions that are 'numerically' second in the sense that they [*5]  are literally the second motion filed." Lang v. United States, 474 F.3d 348, 351 (6th Cir. 2007). Numerically successive petitions are not "second or successive" if they are based on claims that were unripe or could not have been discovered at the time of the original court's filing. See In re Salem, 631 F.3d 809, 813-15 (6th Cir. 2011); In re Jones, 652 F.3d 603, 605-06 (6th Cir. 2010).
+Trotter argues that his claim of ineffective assistance of counsel for advising him that he would receive credit for time served in state custody if he entered into the plea agreement was not second or successive because he could not have discovered that counsel was incorrect until the BOP refused to provide such credit in March 2017. But, at his plea colloquy, Trotter acknowledged that his plea agreement did not provide for such credit, and he agreed to the terms of the plea agreement. Thus, the factual predicate for Trotter's first claim—that counsel advised him of something that was not guaranteed—could have been discovered at the time Trotter filed his original § 2255 motion. Likewise, the factual predicate for Trotter's second claim—that his sentence was increased due to his transfer to state custody—was discoverable at the time that Trotter was sentenced. Trotter's § 2255 motion is therefore "second or successive" within the meaning of § 2255(h) and is subject to its [*6]  requirements.
+We cannot grant authorization to file a second or successive § 2255 motion unless the movant makes a prima facie showing that the proposed motion relies on either:
+(1) newly discovered evidence that, if proven and viewed in light of the evidence as a whole, would be sufficient to establish by clear and convincing evidence that no reasonable factfinder would have found the movant guilty of the offense; or
+(2) a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable.
+28 U.S.C. § 2255(h); see also 28 U.S.C § 2244(b)(3)(C).
+Trotter fails to meet these requirements. He does not rely upon newly discovered evidence such that no reasonable factfinder would have found him guilty of the offense, nor does he rely on a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable. The recent Supreme Court case on which he relies, Lee v. United States, 137 S. Ct. 1958, 198 L. Ed. 2d 476 (2017), has not been made retroactive to cases upon collateral review by the Supreme Court, nor does it appear to have announced a new rule of constitutional law.
+Accordingly, we DENY Trotter's motion for authorization to file a second or successive motion to vacate, [*7]  and DENY as moot his motion to disqualify O'Brien and Brunson.
+Concur by: LARSEN (In Part)  
+Dissent by: LARSEN (In Part)  
+Dissent
+
+
+
+
+LARSEN, J., concurring in part and dissenting in part. I agree with my colleagues' conclusion that Trotter's motion to disqualify the AUSAs should be denied. I also agree that his motion for authorization to file a second or successive motion to vacate should be denied as to his claim that his counsel was ineffective for allowing him to be transferred to state custody. Unlike my colleagues, however, I would hold that Trotter's claim that counsel was ineffective in advising him that he would receive credit for time served in state custody if he entered into the plea agreement is not second or successive. See In re Jones, 652 F.3d 603, 606 (6th Cir. 2010) (evaluating the ripeness of each claim in the motion for authorization to file a successive petition in turn). I read Trotter's claim not as asserting that his plea agreement was not fulfilled, but that he was erroneously assured by his counsel that he would receive the credit, the plea bargain notwithstanding. He could neither have discovered that counsel was wrong, nor shown that he was prejudiced from the advice, until the BOP denied him the credit in March 2017. Therefore, this claim [*8]  was not ripe when he filed his first § 2255 motion. Accordingly, I would dismiss his motion to vacate as unnecessary as to this claim.
+
+ 
+
+End of Document

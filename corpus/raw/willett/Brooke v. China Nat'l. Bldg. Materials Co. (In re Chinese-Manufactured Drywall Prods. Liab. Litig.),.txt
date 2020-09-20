@@ -1,0 +1,48 @@
+
+  NeutralAs of: September 19, 2020 9:22 PM Z
+Brooke v. China Nat'l. Bldg. Materials Co. (In re Chinese-Manufactured Drywall Prods. Liab. Litig.)
+United States Court of Appeals for the Fifth Circuit
+July 9, 2020, Filed
+No. 18-30742
+
+Reporter
+811 Fed. Appx. 910 *; 2020 U.S. App. LEXIS 21479 **; 2020 WL 3885081
+ IN RE: CHINESE-MANUFACTURED DRYWALL PRODUCTS LIABILITY LITIGATION;EDUARDO AMORIN; STEPHEN BROOKE; PERRY FONTENOT; DAVID GROSS; KENNETH WILTZ, Plaintiffs - Appellees v. CHINA NATIONAL BUILDING MATERIALS COMPANY, LIMITED; BEIJING NEW BUILDING MATERIALS PUBLIC LIMITED COMPANY; BEIJING NEW BUILDING MATERIAL GROUP COMPANY LIMITED, Defendants - Appellants  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Prior History:  [**1] Appeal from the United States District Court, for the Eastern District of Louisiana. USDC No. 2:09-MD-02047.
+In re Chinese-Manufactured Drywall Prods. Liab. Litig., 2017 U.S. Dist. LEXIS 60914 (E.D. La., Apr. 21, 2017)  
+Counsel: For Eduardo Amorin, Stephen Brooke, Perry Fontenot, David Gross, Kenneth Wiltz, Plaintiff - Appellees: Arnold Levin, Levin, Sedran & Berman, Philadelphia, PA; Sandra Duggan, Levin, Sedran & Berman, Philadelphia, PA; Russ M. Herman, Esq., Senior Attorney, Herman Herman & Katz, L.L.C., New Orleans, LA; Stephen Jay Herman, Esq., Herman Herman & Katz, L.L.C., New Orleans, LA; Frederick S. Longer, Levin, Sedran & Berman, Philadelphia, PA; Robert Stephen Peck, Center for Constitutional Litigation, P.C., Washington, DC. 
+For China National Building Materials Company, Limited, Defendant - Appellant: Eric Shumsky, Orrick, Herrington & Sutcliffe, L.L.P., Washington, DC; Benjamin Paul Chagnon, Orrick, Herrington & Sutcliffe, L.L.P., Washington, DC; Donna Phillips Currault, U.S. District Court, Eastern District of Louisiana, New Orleans, LA; Kory James DeClark, Orrick, Herrington & Sutcliffe, L.L.P., San Francisco, CA; Ewell Elton Eagan Jr., Esq., Gordon Arata Montgomery Barnett, New Orleans, LA; Alex Benjamin Rothenberg, Gordon Arata Montgomery Barnett, New Orleans, LA; Marc Shapiro, Orrick, [**2]  Herrington & Sutcliffe, L.L.P., New York, NY; James Stengel, Orrick, Herrington & Sutcliffe, L.L.P., New York, NY; Charles William Tyler, Orrick, Herrington & Sutcliffe, L.L.P., Orrick Building, San Francisco, CA; Lawrence Christopher Vejnoska, Esq., Orrick, Herrington & Sutcliffe, L.L.P., Orrick Building, San Francisco, CA; Xiang Wang, Orrick, Herrington & Sutcliffe, L.L.P., Beijing.  
+Judges: Before DENNIS, GRAVES, and WILLETT, Circuit Judges. DON R. WILLETT, Circuit Judge, concurring in part and dissenting in part.  
+Opinion
+
+
+
+
+ [*911]  PER CURIAM:* 
+This appeal involves the denial or partial denial of four motions for dismissal filed by the Defendants/Appellants in the Chinese-manufactured drywall multi-district litigation. This court has considered this appeal based on the briefs, record, applicable law and oral arguments. Having done so, we conclude that the matter should be affirmed for essentially the same reasons set out by the district court. Because the district court did not err, we AFFIRM.1 
+Concur by: DON R. WILLETT (In Part)  
+Dissent by: DON R. WILLETT (In Part)  
+Dissent
+
+
+
+
+DON R. WILLETT, Circuit Judge, concurring in part and dissenting in part.
+I agree that we should affirm the district court on the Florida-law claims (though not [**3]  for the reasons stated in the district court opinion). As for the non- Florida claims, the district court had no valid grounds to disregard Louisiana law. For those claims, I would remand to the district court for a new choice-of-law analysis.
+In MDL cases like this one, federal courts generally apply the substantive state law that the transferor court would apply.1  That includes the forum state's choice-of-law rules.2  The district court correctly held that under both Florida and Louisiana law, the choice-of-law rules point to the place of incorporation—here, China—for determining whether veil piercing is appropriate for establishing jurisdiction.3  Yet the district court applied forum-state law rather than Chinese law because, according to the district court, Defendants conceded that, "whether the Court applies Chinese or forum-state law, there is no meaningful difference in outcome."4 
+ [*912]  Respectfully, I don't believe any such concession was made.5  Defendants argued vigorously that Chinese law applies and that Chinese law sets a higher hurdle for veil piercing than any of the forum states' laws. But Defendants [**4]  also argued, as any savvy litigant would, that they win no matter whose law is applied. It's an argument in the alternative, and it would have bordered on legal malpractice not to make it.
+Moreover, it's difficult to accept the district court's conclusion that Chinese law is no different than Florida or Louisiana law when the court's jurisdictional analysis led to different outcomes under Florida and Louisiana law. The district court ruled, for example, that it had jurisdiction over only one Defendant in Florida but three in Louisiana because Louisiana, unlike Florida, recognizes a "Single Business Enterprise" theory.6  If applying Florida law and Louisiana law lead to different outcomes, it's hard to understand how both states' laws yield the same result as Chinese law.
+Absent a concession from the parties, two important questions remain:
+1. Whose law should control?
+2. What result does that law produce?
+The answers depend on the forum.
+For the Florida plaintiffs, Florida law should control. I join the majority on this point, but not for reasons discussed in the district court's opinion. Our precedent in this MDL is helpful [**5]  in divining what the Florida Supreme Court would say about Florida's choice-of-law rules here. In Drywall II, we did rely on the defendant's concession that Florida and Chinese corporate law were not materially different.7  But we also looked to a Florida state court case—Lennar Homes LLC v. Knauf Gips KG8  —to determine what law Florida courts would apply.9 
+ [*913]  Lennar Homes held that Florida law applied in this very circumstance because "Florida courts have adopted the 'significant relationships' test as set forth in the Restatement (Second) of Conflict of laws."10  Because the property damage suffered by Florida residents comprised "the foundation of this litigation," the court reasoned that "Florida law should apply in determining whether the [subsidiary's] actions can be attributed to [the parent] under Florida principles of agency."11  We should simply follow Drywall II in looking to Lennar Homes for guidance on what law Florida courts would apply.12  The clear answer: Florida law. There is no need to examine whether there is a conflict between Chinese law and Florida law. And I agree with the majority that under Florida agency principles, the district court correctly held [**6]  that it had jurisdiction over BNMB.
+But Louisiana, unlike Florida, does not recognize the significant relationships test. Because Louisiana choice-of-law rules point to the place of incorporation for a veil-piercing inquiry,13  Louisiana law cannot be applied unless there is indeed "no conflict" with Chinese law. To my mind, there hasn't been sufficient analysis on this question because the district court improperly relied on a concession that Defendants never made.
+In sum, I concur in the judgment as to the Florida plaintiffs because Florida courts would apply Florida law. But as to the non-Florida plaintiffs, I would remand to the district court for a proper comparison of Chinese law with Louisiana law to determine whether there truly is no conflict.
+
+ 
+
+End of Document

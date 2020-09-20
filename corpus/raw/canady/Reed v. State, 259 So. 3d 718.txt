@@ -1,0 +1,58 @@
+
+  CautionAs of: September 19, 2020 7:26 PM Z
+Reed v. State
+Supreme Court of Florida
+November 15, 2018, Decided
+No. SC17-896
+
+Reporter
+259 So. 3d 718 *; 2018 Fla. LEXIS 2210 **; 2018 WL 5994085
+ GROVER B. REED, Appellant, vs. STATE OF FLORIDA, Appellee.  
+Subsequent History: Rehearing denied by Reed v. State, 2018 Fla. LEXIS 2424 (Fla., Dec. 11, 2018)  
+Prior History:  [**1] An Appeal from the Circuit Court in and for Duval County, Linda McCallum, Judge - Case No. 161986CF006123AXXXMA.
+Reed v. State, 560 So. 2d 203, 1990 Fla. LEXIS 320 (Fla., Mar. 1, 1990)  
+Counsel: Martin J. McClain of McClain & McDermott, P.A., Wilton Manors, Florida, for Appellant. 
+Pamela Jo Bondi, Attorney General, and Charmaine Millsaps, Assistant Attorney General, Tallahassee, Florida, for Appellee.  
+Judges: PARIENTE, QUINCE, POLSTON, LABARGA, and LAWSON, JJ., concur. CANADY, C.J., specially concurs with an opinion. LEWIS, J., concurs in result.  
+Opinion
+
+
+
+
+ [*719]  PER CURIAM.
+We have for review Grover B. Reed's appeal of the postconviction court's order denying Reed's motion filed pursuant to Florida Rule of Criminal Procedure 3.851.1  Because we conclude that the judge who heard this motion should have recused herself, we reverse the postconviction court's order and remand for a different trial judge to consider Reed's postconviction motion.
+ FACTS AND BACKGROUND
+Reed was sentenced to death following a jury's recommendation for death by a vote of eleven to one. Reed v. State, 560 So. 2d 203, 204 (Fla. 1990). His sentence of death became final in 1990. Reed v. Florida, 498 U.S. 882, 111 S. Ct. 230, 112 L. Ed. 2d 184 (1990). In the nearly thirty years since, Reed has engaged in extensive postconviction litigation in both state and federal courts but has not received any relief from his convictions or death sentence. See Reed v. State, 116 So. 3d 260, 262-63 (Fla. 2013) (explaining procedural history). [**2] 
+On January 12, 2017, Reed filed the successive postconviction motion at issue in this case seeking relief pursuant to the United States Supreme Court's decision in Hurst v. Florida, 136 S. Ct. 616, 193 L. Ed. 2d 504 (2016), and our decision on remand in Hurst v. State (Hurst), 202 So. 3d 40 (Fla. 2016), cert. denied, 137 S. Ct. 2161, 198 L. Ed. 2d 246 (2017). The postconviction court, specifically Judge Linda McCallum, summarily denied Reed's motion.
+After receiving Judge McCallum's order denying his motion, Reed filed a motion to disqualify Judge McCallum.2  Reed's motion stated in pertinent part:
+Judge McCallum was employed by the Duval County State Attorney's Office from 1986 until her appointment as a county judge in 1994. During her tenure with the State Attorney's Office, Judge McCallum handled capital prosecutions and was part of the team of capital attorneys. In at least one case during that time, she represented the State at a  [*720]  capital trial and penalty phase that resulted in a death sentence. Thomas Moore, the defendant in that case, is currently still on death row.
+Mr. Reed was tried and convicted in late 1986. A death sentence was imposed in January of 1987. Postconviction proceedings involving capital prosecutors from the State Attorney's Office were ongoing in the early 1990's. Throughout this time period Judge McCallum [**3]  was employed by the State Attorney's Office, handling capital prosecutions, and working with the attorneys who prosecuted Mr. Reed and represented the State in collateral proceedings. As part of the capital team during her tenure with the State Attorney's Office, each capital prosecutor including Judge McCallum had input in the decision making in each other's cases.
+. . . While Mr. Reed's [successive postconviction] motion sought specifically to vacate his death sentence, a finding that he was entitled to collateral relief would mean that in the capital cases that Judge McCallum prosecuted between 1986 and 1994 that resulted in the imposition of a death sentence, relief would likely have to also be granted. A ruling in Mr. Reed's case would impact the death sentences that Judge McCallum successfully sought and which have yet to be carried out. As a result, Judge McCallum's ruling on Mr. Reed's motion would impact the death sentences that she was successful in obtaining and which are still intact and have yet to be carried out.
+(Emphasis added.)
+On March 22, 2017, Judge McCallum denied Reed's motion to disqualify as legally insufficient. Acknowledging Reed's allegation that she "was an [**4]  Assistant State Attorney working on capital cases at the time of his postconviction proceedings," Judge McCallum concluded that Reed's allegations were "speculative" and "cursory" and neither "allege[d] any specific instances of prejudice or bias of the Court" nor "an objectively reasonable fear that he will not receive a fair hearing."
+Reed appealed to this Court. This Court stayed Reed's appeal pending the disposition of Hitchcock v. State, 226 So. 3d 216 (Fla.), cert. denied, 138 S. Ct. 513, 199 L. Ed. 2d 396 (2017). After this Court decided Hitchcock, Reed responded to this Court's order to show cause arguing why Hitchcock should not be dispositive in this case. After reviewing Reed's response to the order to show cause, we directed briefing on Reed's non-Hurst related claims.
+In the briefs filed in response to this Court's order, Reed argued that: (1) Judge McCallum erred in denying his motion to disqualify; (2) he is entitled to reevaluation of his prior postconviction claims in light of Hurst and its progeny; and (3) his death sentence violates the Eighth Amendment to the United States Constitution under the United States Supreme Court's decision in Johnson v. Mississippi, 486 U.S. 578, 590, 108 S. Ct. 1981, 100 L. Ed. 2d 575 (1988). Because we grant relief on Reed's first claim, we decline to address Reed's second and third claims.
+ ANALYSIS
+At the outset, the State argues that Reed's motion [**5]  to disqualify was untimely. Because the postconviction court denied Reed's claim to Hurst relief without holding a Huff3  hearing, Reed alleged that he learned that his case had been reassigned to Judge McCallum only after he received the denial order on March 6, 2017. Reed's motion to disqualify was filed within ten days of that date, on March 15, 2017. Thus,  [*721]  Reed complied with Florida Rule of Judicial Administration 2.330(e), requiring that "[a] motion to disqualify shall be filed within a reasonable time not to exceed 10 days after discovery of the facts constituting the grounds for the motion and shall be promptly presented to the court for an immediate ruling."
+On the merits, we review the postconviction court's denial of Reed's motion to disqualify de novo. See Barnhill v. State, 834 So. 2d 836, 842-43 (Fla. 2002).4  This Court has stated that "[t]he question of disqualification focuses on those matters from which a litigant may reasonably question a judge's impartiality rather than the judge's perception of his ability to act fairly and impartially." Livingston v. State, 441 So. 2d 1083, 1086 (Fla. 1983). In reviewing a motion to disqualify, "the judge shall determine only the legal sufficiency of the motion and shall not pass on the truth of the facts alleged." Cave v. State, 660 So. 2d 705, 707-08 (Fla. 1995); see Fla. R. Crim. P. 3.231. In "determining whether a motion is legally sufficient," courts [**6]  must review "whether the facts alleged would place a reasonably prudent person in fear of not receiving a fair and impartial trial." Barnhill, 834 So. 2d at 843 (quoting MacKenzie v. Super Kids Bargain Store, Inc., 565 So. 2d 1332, 1335 (Fla. 1990)); see Wall v. State, 238 So. 3d 127, 142-43 (Fla.), cert. denied, 139 S. Ct. 329, 202 L. Ed. 2d 230 (U.S. 2018).
+Reed relies on Williams v. Pennsylvania, 136 S. Ct. 1899, 195 L. Ed. 2d 132 (2016), where the United States Supreme Court explained that a judge may violate a defendant's rights under the Due Process Clause of the Fourteenth Amendment if he or she formerly served as a prosecutor and, in doing so, played a critical role in the defendant's prosecution. Id. at 1906. Although we do not agree that Williams requires recusal, we nevertheless determine that the allegations in the motion to disqualify were sufficient to warrant recusal under this Court's standard—"whether the facts alleged would place a reasonably prudent person in fear of not receiving a fair and impartial trial." Barnhill, 834 So. 2d at 843.
+While Judge McCallum was not the assigned prosecutor on Reed's case, she was actively prosecuting capital cases during the time period when Reed's prosecution was ongoing. It was alleged that she was a part of the team of capital prosecutors and that, "as part of the capital team during her tenure with the State Attorney's Office, each capital prosecutor including Judge McCallum had input in the decision making in each other's cases." [**7]  Considering the unique aspects of death penalty cases, including the very decision to seek the death penalty, we conclude that, in these narrow circumstances, Reed's motion was legally sufficient to require Judge McCallum to recuse herself from Reed's case. See id. Thus, Judge McCallum should have granted Reed's motion to disqualify and should not preside over further proceedings pertaining to Reed's case, should there be future proceedings.
+ CONCLUSION
+For the reasons explained above, we reverse the postconviction court's order denying Reed's motion to disqualify and remand for reassignment to another judge for evaluation of Reed's claims.
+It is so ordered.
+PARIENTE, QUINCE, POLSTON, LABARGA, and LAWSON, JJ., concur.
+CANADY, C.J., specially concurs with an opinion.
+LEWIS, J., concurs in result.
+ANY MOTION FOR REHEARING OR CLARIFICATION MUST BE FILED WITHIN SEVEN DAYS. A RESPONSE  [*722]  TO THE MOTION FOR REHEARING/CLARIFICATION MAY BE FILED WITHIN FIVE DAYS AFTER THE FILING OF THE MOTION FOR REHEARING/CLARIFICATION. NOT FINAL UNTIL THIS TIME PERIOD EXPIRES TO FILE A REHEARING/CLARIFICATION MOTION AND, IF FILED, DETERMINED.
+Concur by: CANADY  
+Concur
+
+
+
+
+CANADY, C.J., specially concurring.
+I concur with the majority's decision [**8]  except that I would not rely on "the unique aspects of death penalty cases." Majority op. at 6.
+
+ 
+
+End of Document

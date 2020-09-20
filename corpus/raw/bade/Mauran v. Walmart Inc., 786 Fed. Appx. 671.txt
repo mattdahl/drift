@@ -1,0 +1,48 @@
+
+  CitedAs of: September 19, 2020 7:05 PM Z
+Mauran v. Walmart Inc.
+United States Court of Appeals for the Ninth Circuit
+September 12, 2019, Argued and Submitted, Pasadena, California; October 7, 2019, Filed
+No. 17-56494
+
+Reporter
+786 Fed. Appx. 671 *; 2019 U.S. App. LEXIS 30043 **
+ WARREN MAURAN, Plaintiff-Appellant, v. WALMART INC., a Delaware corporation; et al., Defendants-Appellees.  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Prior History:  [**1] Appeal from the United States District Court for the Central District of California R. Gary Klausner, District Judge, Presiding. D.C. No. 2:16-cv-07808-RGK-JC.
+  
+Disposition: AFFIRMED in part; REVERSED and VACATED in part; REMANDED.
+  
+Counsel: For WARREN MAURAN, Plaintiff - Appellant: Amir Mostafavi, Attorney, Mostafavi Law Group, APC, Los Angeles, CA. 
+For WALMART INC., a Delaware corporation, Defendant - Appellee: Cheryl Johnson-Hartwell, Attorney, Paloma Peracchio, Esquire, Burke, Williams & Sorensen, LLP, Los Angeles, CA.  
+Judges: Before: WARDLAW, BERZON, and BADE, Circuit Judges.  
+Opinion
+
+
+
+
+  [*673]  MEMORANDUM* 
+Warren Mauran appeals the district court's entry of summary judgment in favor of Walmart on his age discrimination, failure to prevent discrimination, and declaratory relief claims under California's Fair Employment and Housing Act ("FEHA"), Cal. Gov. Code §§ 12920-12923, and his wrongful termination in violation of public policy and defamation claims. Mauran also appeals the district court's orders denying his request to extend the discovery schedule, striking certain filings for violating the local rules, and awarding costs to Walmart. We have jurisdiction pursuant to 28 U.S.C. § 1291. We review the district court's entry of summary judgment de novo, Bravo v. City of Santa Maria, 665 F.3d 1076, 1083 (9th Cir. 2011), and affirm. We review [**2]  case management rulings and awards of costs for an abuse of discretion, Bias v. Moynihan, 508 F.3d 1212, 1223 (9th Cir. 2007); Draper v. Rosario, 836 F.3d 1072, 1087 (9th Cir. 2016), and affirm the district court's case management rulings, reverse the denial of  [*674]  Mauran's motion to re-tax costs, and vacate.
+I.
+Mauran argues he was wrongfully terminated from his position at Walmart because of his age. The district court properly characterized Mauran's evidence as circumstantial and applied the McDonnell Douglas burden-shifting analysis to Mauran's employment discrimination claims. See DeJung v. Superior Court, 169 Cal. App. 4th 533, 87 Cal. Rptr. 3d 99, 111 (Cal. Ct. App. 2008). The district court correctly concluded that although Mauran established a prima facie case of age discrimination, Walmart articulated legitimate, non-discriminatory reasons for Mauran's termination, and Mauran failed to present sufficient evidence to create a triable issue that Walmart's proffered reasons were mere pretext for unlawful discrimination. See Merrick v. Hilton Worldwide, Inc., 867 F.3d 1139, 1146-47 (9th Cir. 2017) (citing Guz v. Bechtel Nat'l Inc., 24 Cal. 4th 317, 100 Cal. Rptr. 2d 352, 8 P.3d 1089, 1113 (Cal. 2000)).
+There was evidence that one of the decisionmakers whose earlier discipline of Mauran was part of the basis for his eventual termination had made negative remarks about Mauran's age. But any plausible connection between those remarks and the disciplinary decision was absent because (1) the conclusion that Mauran violated AP-09 was a reasonable one, [**3]  given the wording of the policy and the behavior shown on the videotape in the record, and (2) a much younger employee was terminated for the same behavior for which Mauran was "coached" but not terminated. The totality of the evidence, viewed in light most favorable to Mauran, was not sufficiently specific or substantial to show that Walmart's proffered reasons for terminating Mauran were unworthy of credence. See Cornwell v. Electra Cent. Credit Union, 439 F.3d 1018, 1028-29 (9th Cir. 2006).
+Because Mauran failed to establish his age discrimination claim under the FEHA, his failure to prevent discrimination and wrongful termination in violation of public policy claims also failed. See Caldera v. Dep't of Corrs. & Rehab., 25 Cal. App. 5th 31, 235 Cal. Rptr. 3d 262, 273 (Cal. Ct. App. 2018); Hanson v. Lucky Stores, Inc., 74 Cal. App. 4th 215, 87 Cal. Rptr. 2d 487, 496-97 (Cal. Ct. App. 1999).
+The district court also correctly applied Harris v. City of Santa Monica, 56 Cal. 4th 203, 152 Cal. Rptr. 3d 392, 294 P.3d 49 (Cal. 2013), and concluded that the FEHA authorizes declaratory relief as a remedy to prevent ongoing discrimination, not as an independent cause of action. See id. at 67-68. Because Mauran failed to establish his age discrimination claim, the district court correctly entered summary judgment on Mauran's claim for declaratory relief.
+II.
+Mauran also argues that Walmart's stated reason for his termination was defamatory and was published during the meeting when he was terminated and when he was required to explain the reason for his termination to prospective [**4]  employers. The district court correctly concluded that even if the statement were published, it fell under the common interest privilege, codified in section 47 of California's Civil Code, because Mauran failed to show that Walmart acted with actual malice. See Noel v. River Hills Wilsons, Inc., 113 Cal. App. 4th 1363, 7 Cal. Rptr. 3d 216, 220-21 (Cal. Ct. App. 2003) (citing Lundquist v. Reusser, 7 Cal. 4th 1193, 31 Cal. Rptr. 2d 776, 875 P.2d 1279, 1285 (Cal. 1994)). Because Mauran did not establish that Walmart  [*675]  was motivated by age-related animus, and failed to make any alternative showing of actual malice, summary judgment on Mauran's defamation claim was appropriate. See King v. United Parcel Serv., Inc., 152 Cal. App. 4th 426, 60 Cal. Rptr. 3d 359, 372 (Cal. Ct. App. 2007).
+III.
+The district court did not abuse its discretion in denying Mauran's motion to extend the discovery deadline or by striking two filings that violated the local rules. See Wong v. Regents of the Univ. of Cal., 410 F.3d 1052, 1060 (9th Cir. 2005); Christian v. Mattel, Inc., 286 F.3d 1118, 1129 (9th Cir. 2002). The district court, however, abused its discretion in denying Mauran's motion to re-tax costs. The district court failed to appreciate the potential chilling effect on future civil rights actions or to consider whether severe injustice would result from an award of costs. See Stanley v. Univ. of S. Cal., 178 F.3d 1069, 1079-80 (9th Cir. 1999). The district court also abused its discretion by failing to consider the economic disparity between the parties. See Draper, 836 F.3d at 1088-89. We therefore reverse the denial of Mauran's motion to re-tax costs, vacate the award of costs to Walmart, and remand to the district court to reconsider its cost award in light [**5]  of this disposition.
+AFFIRMED in part; REVERSED and VACATED in part; REMANDED.
+Dissent by: Bade (In Part)  
+Dissent
+
+
+
+
+Bade, Circuit Judge, dissenting in part.
+I respectfully dissent from the conclusion in part III that the district court abused its discretion in awarding costs to Walmart. The district court properly applied Rule 54(d)(1), considered Mauran's arguments against awarding costs, and did not abuse its discretion by concluding that Mauran had not rebutted the presumption for awarding costs to the prevailing party. See Fed. R. Civ. P. 54(d)(1); Save Our Valley v. Sound Transit, 335 F.3d 932, 944-45 (9th Cir. 2003). I would affirm the award of costs.
+
+ 
+
+End of Document

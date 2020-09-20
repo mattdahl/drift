@@ -1,0 +1,87 @@
+
+  NeutralAs of: September 19, 2020 8:30 PM Z
+State v. Vela
+Court of Appeals of Iowa
+March 7, 2011, Filed
+No. 1-050 / 10-0662
+
+Reporter
+2011 Iowa App. LEXIS 190 *
+ STATE OF IOWA, Plaintiff-Appellee, vs. MICHAEL PAUL VELA, Defendant-Appellant.  
+Notice: NO DECISION HAS BEEN MADE ON PUBLICATION OF THIS OPINION. THE OPINION IS SUBJECT TO MODIFICATION OR CORRECTION BY THE COURT AND IS NOT FINAL UNTIL THE TIME FOR REHEARING OR FURTHER REVIEW HAS PASSED. AN UNPUBLISHED OPINION MAY BE CITED IN A BRIEF; HOWEVER, UNPUBLISHED OPINIONS SHALL NOT CONSTITUTE CONTROLLING LEGAL AUTHORITY.
+  
+Subsequent History: Reported at State v. Vela, 798 N.W.2d 736, 2011 Iowa App. LEXIS 793 (Iowa Ct. App., 2011)  
+Prior History:  [*1] Appeal from the Iowa District Court for Scott County, J. Hobart Darbyshire, Judge. Defendant appeals his conviction claiming trial counsel was ineffective for failing to request a jury instruction.
+  
+Disposition: AFFIRMED IN PART, REVERSED IN PART AND REMANDED FOR RESENTENCING.
+  
+Counsel: Mark C. Smith, State Appellate Defender, and Patricia Reynolds, Assistant State Appellate Defender, for appellant. 
+Thomas J. Miller, Attorney General, Jean C. Pettinger, Assistant Attorney General, Michael J. Walton, County Attorney, and Joe Grubisich and Jerald Feuerbach, Assistant County Attorneys, for appellee.  
+Judges: Considered by Sackett, C.J., and Potterfield and Mansfield, JJ. Tabor, J., takes no part. Potterfield, J., concurs; Mansfield, J., dissents.  
+Opinion by: SACKETT  
+Opinion
+
+
+
+
+SACKETT, C.J.
+The defendant, Michael Paul Vela, appeals his conviction for domestic abuse assault third or subsequent offense, in violation of Iowa Code section 708.2A(4) (2009) and from the sentence imposed on him as an habitual offender pursuant to sections 902.8, and 902.9(3). Vela contends his trial counsel was ineffective for failing to request a jury instruction defining the term "family or household members" as an element of domestic abuse under section 236.2(2)(a).  [*2] We affirm in part and reverse in part and remand for resentencing.
+I. BACKGROUND AND PROCEEDINGS.  [*3] On August 8, 2009, Vela was at his mother's birthday party with his girlfriend, Amber Strawhacker. After staying a couple of hours at the party, Vela decided he wanted to leave. He had been consuming alcohol at the party, which Strawhacker testified made him violent. He grabbed Strawhacker by the back of her neck and pushed her toward the car, which was owned by Strawhacker's mother, Melissa Stremlow. As Strawhacker drove, Vela told her to take him to get a gun so he could kill her. When Strawhacker told him no, he began punching her in the face, stomach, arm, mouth, nose, eye and head. Strawhacker estimated that the attack lasted about ten or fifteen minutes. Strawhacker was able to pull the car into a Kwik Shop parking lot and stop in front of the store. She told Vela that she needed to go inside to get something to wipe the blood from her nose. After she entered the store, the clerk called the police and Strawhacker called her mother. The police responded to the scene and Strawhacker was taken to the hospital. Vela had taken the car and fled the scene prior to the arrival of the police.
+Vela was located that night a few blocks away and arrested. He was charged by trial information  [*4] on August 19, 2009, with domestic abuse assault, third or subsequent offense, operating a vehicle without owner's consent, and habitual offender. Vela pled not guilty and proceeded to trial on February 16, 2010.
+At trial, Strawhacker testified that she was in a relationship with Vela and he was her boyfriend at the time of the assault. She stated that she had been in a relationship with him for a year and had been living with him for six months at her apartment. She testified she was not pregnant and she had no children with the defendant. Strawhacker's mother, Stremlow, also testified that she has known Vela for as long as he has known her daughter. Stremlow confirmed that Vela and her daughter lived together at the apartment belonging to her and her daughter, though Stremlow stated she did not live at the apartment with them. Vela did not testify in his defense and the defense rested without putting on any evidence.
+The jury was instructed on the crime of assault causing injury as follows:
+1. On or about the 8th of August, 2009, in Scott County, Iowa, the defendant did an act to Amber Strawhacker with resulted in physical contact which was meant to cause pain or injury, but was without  [*5] the intent to inflict serious injury.
+2. The defendant had the apparent ability to do the act.
+3. The defendant's act caused a bodily injury to Amber Strawhacker as defined in Instruction No. 15.
+4. The State must prove the defendant was not acting with justification.
+If the State has proved all of the elements, the Defendant is guilty of Assault Causing Injury. If the State has failed to prove any one of the elements, the Defendant is not guilty of that charge, and you must then consider the charge of Simple Assault explained in Instruction No. 13.
+If you find that the State has proven each of the elements of Assault Causing Injury, then you must determine if the assault was domestic abuse by answering the interrogatory attached to the verdict forms at the end of these instructions.
+The interrogatory submitted to the jury regarding domestic abuse stated:
+Domestic abuse means committing an assault under any of the following circumstances:
+a. The assault is between family or household members who reside together at the time of the assault.
+b. The assault is between separated spouses or persons divorced from each other and not residing together at the time of the assault.
+c. The assault is between  [*6] persons who are parents of the same minor child, regardless of whether they have been married or have lived together at any time.
+d. The assault is between persons who have been family or household members together within the past year and are not residing together at the time of the assault.
+If you have found the Defendant guilty of Assault Resulting in Injury or Assault, you must answer the following interrogatory:
+Was the Assault Resulting in Injury or Simple Assault committed by the Defendant against Amber Strawhacker "Domestic Assault" as defined above?
+Yes         
+No         
+There was no instruction defining "family or household members." Neither Vela nor the State had any objection or addition to the court's proposed jury instructions. After deliberating for a little over an hour, the jury returned a guilty verdict on the assault resulting in bodily injury charge and answered yes to the interrogatory on domestic abuse. The jury found the defendant not guilty of operating a vehicle without owner's consent.
+Vela then admitted he had two prior convictions for domestic abuse assault making this conviction his third offense. He also admitted he had two prior felony convictions establishing  [*7] his status as an habitual offender. Vela proceeded to sentencing on March 24, 2010 where he was sentenced to an indeterminate period not to exceed fifteen years with a minimum confinement of three years before being eligible for parole pursuant to Iowa Code sections 902.8 and 902.9(3). Vela filed a notice of appeal April 20, 2010. Defendant appeals this judgment and sentence alleging his counsel was ineffective for failing to request a jury instruction on the definition of "family or household members" in the domestic abuse interrogatory.
+II. SCOPE AND STANDARD OF REVIEW. The scope of review for ineffective-assistance-of-counsel claims is de novo. Everett v. State, 789 N.W.2d 151, 158 (Iowa 2010). Under this review, we independently evaluate the issues considering the totality of the evidence. Id. Normally ineffective-assistance-of-counsel claims are preserved for postconviction relief proceedings in order to develop a more complete record. State v. Graves, 668 N.W.2d 860, 869 (Iowa 2003). However, this court may address the claim on direct appeal if the record is adequate. State v. Fountain, 786 N.W.2d 260, 263 (Iowa 2010).
+III. ERROR PRESERVATION. Objections to the jury instructions  [*8] are normally waived on direct appeal if they were not raised before closing argument. Id. at 262. However, ineffective-assistance-of-counsel claims are an exception to the normal error preservation rules. Id. at 263. Thus, Vela may raise an ineffective assistance of counsel claim for the first time on appeal.
+III. INEFFECTIVE ASSISTANCE OF COUNSEL. To prevail on a claim of ineffective assistance of counsel, Vela must demonstrate 1) his trial counsel failed to perform an essential duty, and 2) prejudice resulted. Anfinson v. State, 758 N.W.2d 496, 499 (Iowa 2008). If either element is not met, the claim will fail. Id. To demonstrate prejudice, the defendant must show that "but for the counsel's unprofessional errors, the result of the proceeding would have been different." Id.
+Vela claims his counsel was ineffective for failing to request a jury instruction defining "family or household members" as used in the interrogatory submitted to the jury on the domestic abuse charge. "In criminal cases, the court is required to instruct the jury on the definition of the crime." State v. Kellogg, 542 N.W.2d 514, 516 (Iowa 1996). While words of ordinary usage do not need to be defined, "technical  [*9] terms or legal terms of art must be explained." Id.
+The term "family or household members" as used in the domestic abuse code section has been defined as "spouses, persons cohabitating, parents, or other persons related by consanguinity or affinity." Iowa Code § 236.2(4). The term "persons cohabitating" has been further defined by the Iowa Supreme Court in Kellogg, 542 N.W.2d at 518. While the court in Kellogg found there was no precise definition of "cohabitating," it did hold the term required more than a finding the parties were "dwelling or living together in the same place." Id. Under such a definition, the jury could find domestic abuse between mere roommates or persons living in the same apartment building and the legislature never intended such a broad application of domestic abuse. Id.
+On the opposite extreme, the court found the term "cohabitating" did not require that the jury find the persons lived together as man and wife. Id. The legislative history demonstrated an intent to protect more relationships than man and wife. Id. at 517-18. The court in Kellogg adopted six nonexclusive factors for a jury to consider in determining whether a couple is "cohabitating." Id. at 518.  [*10] The factors include:
+1. Sexual relations between the parties while sharing the same living quarters.
+2. Sharing of income or expenses.
+3. Joint use or ownership of property.
+4. Whether the parties hold themselves out as husband and wife.
+5. The continuity of the relationship.
+6. The length of the relationship.
+The court ultimately held that the determination of whether two people are cohabitating is a factual question to be answered by the jury. Id.
+In this case, the jury was not given the definition of the term "family or household members" and also was not given the six factors to consider in determining whether Vela and Strawhacker were cohabitating at the time of the assault. Because they were not given these definitions, the jury was able to find domestic abuse based only on the fact that Vela and Strawhacker were residing in the same home. See Livingood v. Negrete, 547 N.W.2d 196, 197 (Iowa 1996) (holding "the meaning of persons cohabitating cannot be legally established solely by proving that the defendant and victim were living together"). The interrogatory in this case did not correctly present the issue of cohabitation to the jury and the State concedes this as well. We find that  [*11] counsel failed to perform an essential duty by failing to request the definitional jury instruction, but this does not end our inquiry.
+In addition to finding his counsel breached an essential duty, Vela must demonstrate prejudice. Anfinson, 758 N.W.2d at 499. The prejudice "must give rise to a reasonable probability the outcome of the proceeding would have been different had counsel not erred." State v. Oetken, 613 N.W.2d 679, 684 (Iowa 2000). The jury in this case, like the jury in Kellogg, was instructed to consider solely whether the defendant and victim were living together at the time of the assault. Kellogg, 542 N.W.2d at 518. This instruction is erroneous as a matter of law. Id.
+The State argues there is no prejudice in this case, because even if the jury were instructed properly on domestic abuse, they would have found Vela was cohabitating with Strawhacker. We do not find the evidence to be sufficient to sustain his conviction. There was no testimony as to the sharing of income or expenses or the joint use of the property. There was no testimony that Vela and Strawhacker held themselves out to be husband and wife. The only reference to their relationship was that they were  [*12] boyfriend/girlfriend for about a year. This alone is not sufficient to establish cohabitation under Kellogg.
+Vela has demonstrated prejudice that undermines the confidence in the outcome of the trial. Everett, 789 N.W.2d at 158. Both parties concede that if we find Vela was prejudiced by the failure to properly instruct the jury, we can reverse the conviction of domestic abuse assault and remand for entry of judgment on the charge of assault resulting in bodily injury. The defendant does not dispute he assaulted Strawhacker and the jury did render a guilty verdict on assault resulting bodily injury before addressing the domestic abuse interrogatory. Vela's domestic abuse assault conviction and sentence are hereby reversed, Vela's conviction for assault causing bodily injury is affirmed and this case is remanded for resentencing on the charge of assault causing bodily injury.
+AFFIRMED IN PART, REVERSED IN PART AND REMANDED FOR RESENTENCING.
+Potterfield, J., concurs; Mansfield, J., dissents.
+Dissent by: MANSFIELD  
+Dissent
+
+
+
+
+MANSFIELD, J. (dissenting)
+I respectfully dissent and would affirm the defendant's convictions in their entirety.
+This is an appeal from what appears to be Vela's fourth conviction for a crime  [*13] involving domestic abuse. His presentence report details a lengthy criminal history, running over five full pages, and including convictions for going armed, assault with injury, aggravated battery, domestic battery, domestic assault with injury, domestic assault, assault, criminal mischief, willful injury, and domestic abuse. The record amply supports the district court's conclusion that:
+I don't think your needs can be met outside of the prison setting, and I believe that . . . incarceration is the most appropriate alternative . . . so that you can at least once again try to get your life straightened [out], and at the same time assure that you are not going to commit other offenses.
+The only issue Vela has raised on appeal relates to the jury instructions, not to sufficiency of evidence. Vela contends his counsel was ineffective because he did not request an instruction defining "household members" to assist the jury in deciding whether Vela's most recent assault involved domestic abuse. I agree that Vela's counsel should have asked for the jury instruction, but I do not believe Vela can demonstrate prejudice.
+There is ample evidence in my view that Vela and the victim were members  [*14] of the same household because they were "cohabiting" within the meaning of Iowa Code section 236.2(4). The victim testified that she and Vela were "in a relationship together" and that he was her "boyfriend." She further testified that during the relationship, they lived together for a period of six months at her apartment. In closing argument, Vela's own counsel referred to the victim as Vela's "live-in girlfriend."
+In addition to the victim's testimony, we have that of her mother. The victim's mother explained that her daughter called her on the phone from the party as she and Vela were leaving. The mother overheard Vela threatening her daughter in what appeared to be a fit of jealousy: "[H]e had called my daughter a nigger lover and told her that's all she wants." The mother got in the car immediately, but when she caught up with her daughter, she was already bleeding from Vela's blows. The mother confirmed that Vela and the victim were "living together" in the apartment.
+In short, this is far from the "mere roommates" situation that the supreme court referred to in State v. Kellogg, 542 N.W.2d 514, 518 (Iowa 1996). Rather, the undisputed evidence indicates that Vela and the victim  [*15] were living together as part of a romantic relationship.
+
+ 
+
+End of Document

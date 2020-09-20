@@ -1,0 +1,49 @@
+
+No Shepard’s  Signal™As of: September 19, 2020 9:20 PM Z
+People v. Mitchell
+Supreme Court of Michigan
+June 15, 2007, Decided
+SC: 132102
+
+Reporter
+478 Mich. 905 *; 732 N.W.2d 534 **; 2007 Mich. LEXIS 1307 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellant, v GARETH MITCHELL, Defendant-Appellee.  
+Prior History:  [***1] COA: 271295. Kent CC: 05-012396-FH.
+  
+Judges: YOUNG, J., concurs. MARKMAN, J., dissents.  
+Opinion
+
+
+
+
+ [*905]   [**534]  On order of the Court, the application for leave to appeal the August 3, 2006 order of the Court of Appeals is considered,  [**535]  and it is DENIED, because we are not persuaded that the question presented should be reviewed by this Court.
+Concur by: YOUNG  
+Concur
+
+
+
+
+YOUNG, J., concurs and states as follows:
+I concur in the order denying leave to appeal. However, I write separately to note that I believe that the evidence proffered in this case may well have satisfied the Michigan corpus delicti rule. A defendant's confession may not be admitted unless there is direct  [*906]  or circumstantial evidence independent of the confession establishing the occurrence of a specific injury and some criminal agency as the source of the injury. People v Konrad, 449 Mich. 263, 269-270; 536 N.W.2d 517 (1995). However, the elements need not be proved beyond a reasonable doubt and courts may draw reasonable inferences and weigh the probabilities. People v Mumford, 171 Mich. App. 514, 517; 430 N.W.2d 770 (1988). Moreover, it is not necessary to present independent evidence on all elements of the crime before the confession can be admitted. People v Williams, 422 Mich. 381, 391; 373 N.W.2d 567 (1985). Where the  [***2] defendant makes admissions of fact that do not amount to confessions of guilt, those admissions may be admitted to prove the corpus delicti of the crime. People v Rockwell, 188 Mich. App. 405, 407; 470 N.W.2d 673 (1991). Nevertheless, rather than appeal the circuit court's ruling on the sufficiency of the evidence, the prosecutor concedes the point and asks that this Court adopt an alternative rule. As the evidence in this case would seem to satisfy the current corpus delicti rule, I see no basis for the intervention of this Court in this case.
+Dissent by: MARKMAN  
+Dissent
+
+
+
+
+MARKMAN, J., dissents and states as follows:
+I respectfully dissent and would grant the prosecutor's application for leave to appeal to consider: (1) whether the evidence presented in the instant case was sufficient to satisfy the requirements of the Michigan corpus delicti rule; (2) if the evidence was not sufficient to satisfy the requirements of this rule, whether the evidence was sufficient to satisfy the requirements of the federal corpus delicti rule; and (3) if the evidence was sufficient only to satisfy the federal rule, whether this Court should replace the Michigan corpus delicti rule with the federal corpus delicti rule.
+Defendant  [***3] confessed to his wife, his parents-in-law, his minister, police officers, and a Department of Human Services worker that he had sexually abused his infant son. Moreover, defendant both wrote down and videotaped his confession. Despite all of this, the trial court concluded that the evidence presented in this case was insufficient to establish the corpus delicti of criminal sexual conduct under Michigan law.
+The Michigan corpus delicti rule provides that "a defendant's confession may not be admitted unless there is direct or circumstantial evidence independent of the confession establishing (1) the occurrence of the specific injury . . . and (2) some criminal agency as the source of the injury." People v Konrad, 449 Mich. 263, 269-270; 536 N.W.2d 517 (1995). However, "courts may draw reasonable inferences and weigh the probabilities." People v Mumford, 171 Mich. App. 514, 517; 430 N.W.2d 770 (1988).
+The federal corpus delicti rule provides that a defendant's confession is admissible if the prosecutor "introduce[d] substantial independent evidence which would tend to establish the trustworthiness of the statement." Opper v United States, 348 U.S. 84, 93; 75 S. Ct. 158; 99 L. Ed. 101 (1954). Independent evidence is sufficient "if [it] supports the  [***4] essential facts admitted sufficiently to justify a jury inference of their truth." Id.
+ [**536]  The principal distinction between the state and federal rules is that, under the latter, the focus is on ensuring the trustworthiness of the confession, while under the former the focus is on the force of the independent evidence.
+In the instant case, defendant admitted to his wife that he was sexually aroused when changing the diapers of their then-two-month-old  [*907] son, and that he had sexually fondled the infant. At the insistence of his wife and his in-laws, both of whom are ministers, defendant wrote a statement and made a videotape in which he reiterated his sexual desire for his son. Defendant and his wife subsequently divorced. After several months of counseling in Georgia, defendant returned home and remarried his ex-wife. Defendant told the members of his church about how he had been cured. However, defendant's wife and mother-in-law began to notice unusual behavioral changes in their then-two-year-old son, namely, that when his mother changed his diapers, the child covered his penis and said "owie" and "no," and he developed an aversion to defendant, ran away from defendant, and refused to hold  [***5] his hand during prayers. On the basis of her prior experience as a day care worker, defendant's wife concluded that the child must have been molested again and confronted defendant. Defendant's mother-in-law reached the same conclusion, on the basis of her experience as a mother and a grandmother. Defendant admitted to his wife, his parents-in-law, and the church that he continued to sexually abuse the child. Defendant also admitted the fondling to police officers and to a social worker.
+I am not yet persuaded, as are the trial court and the prosecutor, that no reasonable inference can be drawn independently from these facts to corroborate defendant's confession of criminal sexual abuse under the Michigan corpus delicti rule. Moreover, I strongly disagree with the trial court's conclusion that defendant's confession would be inadmissible as untrustworthy under any rule. The trial court stated in this regard, 
+Even if this case were governed by the federal rule, defendant's confessions would likely be inadmissible . . . . The evidence tends to undermine the trustworthiness of defendant's confessions. This Court is very concerned, having carefully read [the confessions], that they reflect  [***6] what defendant has come to believe and/or has been convinced, out of religious fervor, he must have done, given his and his fellow congregants' beliefs about homosexuality. The Court readily accepts that defendant, his wife and her family hold their beliefs in good faith, but that does not establish that his confessions are accurate. Fervor can be distorting. 
+After reviewing defendant's written confessions, I see no evidence that defendant's confessions were somehow a function of his "religious fervor" and I see no relevance in defendant's church's "beliefs about homosexuality." Indeed, not only do I view defendant's religious convictions as not being "distorting," but I see them as rehabilitating and cleansing in causing defendant to recognize the wrongfulness of his conduct and to seek atonement for such conduct. There is no factual basis for the trial court to transform something positive into something suspect. Moreover, defendant made his first confessions to his wife and in-laws, and recorded such confessions, before he even became involved with the church.
+Under the federal corpus delicti rule, I believe that the number and circumstances of defendant's confessions, the actions  [***7] taken by the  [*908]  parties after the first confessions, and the change in the child's behavior clearly establish the trustworthiness of  [**537]  defendant's statements. I would grant leave to appeal to consider whether this rule should be adopted by our state.
+There is no more compelling and generally trustworthy evidence available to the criminal justice system than confession evidence. Before such evidence becomes increasingly unavailable under our state's corpus delicti rule, I would grant leave to consider the merits and demerits of the federal rule. 1  
+
+ 
+
+End of Document

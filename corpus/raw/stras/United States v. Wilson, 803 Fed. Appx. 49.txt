@@ -1,0 +1,43 @@
+
+  NeutralAs of: September 19, 2020 9:08 PM Z
+United States v. Wilson
+United States Court of Appeals for the Eighth Circuit
+April 13, 2020, Submitted; April 28, 2020, Filed
+No. 19-2132
+
+Reporter
+803 Fed. Appx. 49 *; 2020 U.S. App. LEXIS 13560 **
+ United States of America, Plaintiff - Appellee v. Montarrance Wilson, Defendant - Appellant  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Prior History:  [**1] Appeal from United States District Court for the Northern District of Iowa - Cedar Rapids.
+United States v. Wilson, 2015 U.S. Dist. LEXIS 6622 (N.D. Iowa, Jan. 21, 2015)  
+Counsel: For United States of America, Plaintiff - Appellee: Martin Joseph McLaughlin, Assistant U.S. Attorney, Patrick J. Reinert, Assistant U.S. Attorney, U.S. Attorney's Office, Northern District of Iowa, Cedar Rapids, IA. 
+For Montarrance Wilson, Defendant - Appellant: John Bishop, The Armstrong Centre, Cedar Rapids, IA. 
+Montarrance Wilson, Defendant - Appellant, Pro se, Pekin, IL.  
+Judges: Before KELLY, WOLLMAN, and STRAS, Circuit Judges. STRAS, Circuit Judge, dissenting.  
+Opinion
+
+
+
+
+ [*50]  PER CURIAM.
+The district court1  revoked Montarrance Wilson's supervised release and sentenced him to 12 months in prison followed by one year of supervised release, which included a special condition that he spend the first 120 days in a residential re-entry center. Wilson appeals, arguing that the district court imposed a substantively unreasonable sentence.
+Wilson began his most recent term of supervised release in January 2018. In April 2019, his probation officer filed a petition to revoke his supervised release, alleging Wilson had repeatedly failed to submit to substance abuse testing and had been arrested in Iowa for operating a vehicle while [**2]  intoxicated (OWI), second offense. At the hearing on the petition, Wilson admitted to all of the allegations, including that his blood alcohol concentration registered at .166 shortly after his OWI arrest. The parties agreed that the advisory Guidelines range was 12 to 18 months in prison. The government sought a 12-month sentence, and Wilson asked for placement in a residential re-entry center so that he could continue working and providing for his two young children. The district court imposed a sentence of 12 months in prison.
+On appeal, Wilson argues the district court imposed a substantively unreasonable sentence because it did not consider several positive attributes he raised at the revocation hearing, including that he had held a job consistently for 14 months and was financially responsible for his children. According to Wilson, the district court overlooked these mitigating factors and instead gave undue weight to his criminal history.
+"We review a district court's revocation sentencing decisions using the same standards that we apply to initial sentencing decisions." United States v. Miller, 557 F.3d 910, 915-16 (8th Cir. 2009). We consider the substantive reasonableness of the sentence under an abuse-of-discretion standard. Id. at 917. "A sentence [**3]  is substantively unreasonable if the district court fails to consider a relevant factor that should have received significant weight, gives significant weight to an improper or irrelevant factor, or considers only the appropriate factors but commits a clear error of judgment in weighing those factors." United States v. Lozoya, 623 F.3d 624, 626 (8th Cir. 2010) (cleaned up).
+We find no abuse of discretion. The district court explained that it considered the Guidelines range and the relevant statutory factors in arriving at its sentence. The court noted that Wilson had a lengthy criminal history and that it had already once revoked his supervised release after he failed to maintain employment, failed to keep in communication with his probation officer, and unlawfully used a controlled substance. The court had also previously modified the terms of Wilson's supervised release to require 20 hours of community  [*51]  service after he failed to submit to substance abuse testing. The court explained that it had "considered the possibility" of sending Wilson to a residential re-entry center but that such a sentence "would be inadequate in view of the 3553(a) factors," given Wilson's "serious offense" of drinking and driving.
+A district court has "wide latitude" [**4]  in weighing the relevant factors. United States v. Farmer, 647 F.3d 1175, 1180 (8th Cir. 2011). While the court emphasized Wilson's criminal history and his repeated violations of supervised release, it also expressly considered the arguments Wilson raised at the revocation hearing but decided those factors did not warrant a more lenient revocation sentence. As such, this is not "the unusual case when we reverse a district court sentence . . . as substantively unreasonable." See United States v. Feemster, 572 F.3d 455, 464 (8th Cir. 2009) (en banc) (citation omitted).
+We affirm the judgment of the district court.2 
+Dissent by: STRAS  
+Dissent
+
+
+
+
+STRAS, Circuit Judge, dissenting.
+It is time to pause for a moment. I suspect that this case has already become moot, and in my view, we have an obligation to find out. Thomas v. Basham, 931 F.2d 521, 522-23 (8th Cir. 1991) (stating that we have a "special obligation" to consider our "own jurisdiction"). The Bureau of Prisons lists Montarrance Wilson's current location as a residential re-entry center, precisely where he asked to be placed in lieu of serving a sentence in federal prison. Ante at 2; Revocation Hr'g Tr. 11, ECF No. 74; Appellant Br. 9-11; Find an Inmate, Fed. Bureau of Prisons, http://bop.gov/inmateloc (last visited April 22, 2020); see Revocation J. 5, ECF No. 69 (prescribing a period of residence in a residential re-entry center [**5]  following release from custody). If so, we are unable to give him anything he does not already have. I would ask the parties to clarify whether the case has become moot, and if not, why not. See Miller v. Whitehead, 527 F.3d 752, 756, 758 (8th Cir. 2008) (dismissing requests for a transfer to a residential re-entry center because the petitioners had already received a transfer while the case was pending on appeal). What I would not do is duck a possible jurisdictional problem by rushing to decide the merits. I respectfully dissent.
+
+ 
+
+End of Document

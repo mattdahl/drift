@@ -1,0 +1,44 @@
+
+  NeutralAs of: September 19, 2020 8:13 PM Z
+United States v. Recker
+United States Court of Appeals for the Eighth Circuit
+June 9, 2014, Submitted; August 21, 2014, Filed
+No. 13-2639
+
+Reporter
+576 Fed. Appx. 644 *; 2014 U.S. App. LEXIS 16092 **; 114 A.F.T.R.2d (RIA) 2014-5787
+ United States of America, Plaintiff - Appellee v. Michael Recker, Defendant - Appellant  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Subsequent History: US Supreme Court certiorari denied by Recker v. United States, 135 S. Ct. 1463, 191 L. Ed. 2d 410, 2015 U.S. LEXIS 1459 (U.S., 2015)
+Post-conviction relief denied at, Certificate of appealability denied Recker v. United States, 2016 U.S. Dist. LEXIS 38457 (N.D. Iowa, Mar. 24, 2016)  
+Prior History:  [**1] Appeal from United States District Court for the Northern District of Iowa, Waterloo.
+United States v. Recker, 2013 U.S. Dist. LEXIS 45170 (N.D. Iowa, Mar. 29, 2013)  
+Counsel: For United States of America, Plaintiff - Appellee: Charles J. Williams, U.S. Attorney's Office, Northern District of Iowa, Cedar Rapids, IA. 
+Michael Recker, Defendant - Appellant, Pro se, Rochester, MN. 
+For Michael Recker, Defendant - Appellant: Roger L. Sutton Sr., Sutton Law Office, Charles City, IA.  
+Judges: Before LOKEN, BEAM, and GRUENDER, Circuit Judges. GRUENDER, Circuit Judge, concurring in part and concurring in the judgment.  
+Opinion
+
+
+
+
+ [*644]  PER CURIAM.
+Michael Recker appeals his sentence of forty-six months' imprisonment, following his guilty plea to conspiracy and fraud charges. Recker defrauded DeBruce Grain, the operator of two federally licensed grain warehouses in Iowa. From approximately October 2008 to October 2009, Recker first bribed, and then threatened, an elevator employee into issuing false certificates and payments for grain that was either substandard, or had not actually been delivered to the elevator, in violation of 18 U.S.C. § 371. In conjunction [*645]  with this scheme, Recker interfered with Internal Revenue laws, in violation of 26 U.S.C. § 7212, by concealing the proceeds obtained from the false grain tickets. While investigating the [**2]  false grain ticket scheme, the government discovered that Recker also committed bankruptcy fraud, in violation of 18 U.S.C. §152(2), by failing to disclose his ownership and subsequent sale of a combine on his bankruptcy schedules, and by lying under oath about the combine's ownership at a meeting of bankruptcy creditors.
+As relevant to this appeal, at sentencing, the district court 1  applied an obstruction of justice enhancement pursuant to United States Sentencing Guidelines Manual § 3C1.1, based upon Recker's conduct of lying to Internal Revenue Service agents during the grain elevator investigation and submitting a false letter (purportedly from another person claiming to own the combine at issue) to the bankruptcy court. This resulted in an advisory Guidelines range of 33 to 41 months, based upon an offense level of 20 and criminal history category I. However, the court granted an upward departure under U.S.S.G. § 4A1.3, finding that Recker's criminal history category substantially understated the seriousness of his criminal history and the likelihood he would commit other crimes, resulting in a Guidelines range of 37 to 46 months. Accordingly, after hearing arguments and noting that it considered the 18 U.S.C. § 3553(a) factors, the court sentenced Recker at the top of the Guidelines [**3]  range to 46 months in prison.
+On appeal, Recker asserts that the district court erred in assessing the two enhancements. We first review a sentence for significant procedural error, such as an improper calculation of the advisory Sentencing Guidelines range; and second, absent significant procedural error, we review the sentence's substantive reasonableness for an abuse of discretion. United States v. Castillo, 713 F.3d 407, 411 (8th Cir.), cert. denied, 571 U.S. 918, 134 S. Ct. 297, 187 L. Ed. 2d 213 (2013). We review the district court's interpretation of the Sentencing Guidelines de novo and its application of the Guidelines to the facts for clear error. United States v. Holmes, 751 F.3d 846, 852 (8th Cir. 2014).
+The district court did not clearly err in finding that the facts of Recker's criminal investigation gave rise to the obstruction enhancement. Recker did more than simply deny guilt; he denied knowing the elevator employee involved in the scheme, and disclaimed any knowledge of the checks written on a girlfriend's account to the employee. This conduct is enough to support the enhancement for the grain fraud counts. See United States v. Finck, 407 F.3d 908, 914 (8th Cir. 2005) (affirming application of the obstruction enhancement where the defendant made false statements to law enforcement [**4]  officers and the agents had to investigate further to refute the false statements). Further, the false letter about the combine that Recker submitted to the bankruptcy court justified the obstruction enhancement with regard to the bankruptcy fraud. United States v. Anderson, 68 F.3d 1050, 1055-56 (8th Cir. 1995) (affirming the obstruction enhancement in a bankruptcy fraud case where the defendant provided incomplete financial information to the probation office in an effort to conceal assets). Recker argues this conduct was already taken into account because his offense level was increased two levels for lying under oath about ownership  [*646]  of the combine during a meeting of bankruptcy creditors. However, while both instances involved the ownership of the combine, they were two separate and distinct forms of obstruction. Accordingly, we find no error with regard to the obstruction enhancement.
+Nor do we find that the district court misapplied the Guidelines with regard to the § 4A1.3 upward departure. Recker fell within criminal history Category I because of the age of his fifteen previous convictions and because of lenient treatment within the state courts. Examining this criminal history, the district court found that Recker was an atypical Category I offender [**5]  who was prone to violence toward women, and opted to impose the enhancement. We cannot say the district court clearly erred in so finding, and thus correctly applied the enhancement. See United States v. Mendez, 685 F.3d 769, 771 (8th Cir. 2012) (affirming upward departure where the court found that the defendant was a "serial recidivist," despite the fact that many of the convictions occurred before the defendant turned twenty-one).
+Finally, to the extent that Recker makes the argument that the sentence is substantively unreasonable, we disagree. The district court did not abuse its discretion and appropriately imposed the sentence pursuant to the factors set forth in § 3553(a). Id. at 772. We affirm.
+Concur by: GRUENDER (In Part)  
+Concur
+
+
+
+
+GRUENDER, Circuit Judge, concurring in part and concurring in the judgment.
+I agree that Recker's sentence must be affirmed. I write separately to note my adherence to this court's well-established rule that we review de novo the district court's application of USSG § 3C1.1 to undisputed facts. "The question whether section 3C1.1 applies to [the defendant's] conduct calls for an interpretation of the scope of the guideline. It is therefore a question of law which this court may review de novo." United States v. Werlinger, 894 F.2d 1015, 1016 (8th Cir. 1990); United States v. Finck, 407 F.3d 908, 913-14 (8th Cir. 2005) (same). Indeed, the case that the court cites for the proposition that a [**6]  district court's application of the sentencing guidelines is reviewed for clear error actually states that "[t]his court reviews de novo the district court's interpretation and application of the Sentencing Guidelines and reviews for clear error its findings of fact." United States v. Holmes, 751 F.3d 846, 852 (8th Cir. 2014). The appropriate standard of review for the imposition of an enhancement pursuant to § 3C1.1, it must be noted, has been the subject of some debate within our circuit. United States v. Brown, 539 F.3d 835, 839 n.4 (8th Cir. 2008); id. at 842-44 (Bye, J., concurring in part and dissenting in part). Nonetheless, following our rule that a district court's application of § 3C1.1 to undisputed facts is reviewed de novo, I agree that Recker's sentence must be affirmed and therefore concur.
+
+ 
+
+End of Document

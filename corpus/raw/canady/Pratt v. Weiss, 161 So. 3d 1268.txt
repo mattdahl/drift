@@ -1,0 +1,93 @@
+
+  CautionAs of: September 19, 2020 7:26 PM Z
+Pratt v. Weiss
+Supreme Court of Florida
+April 16, 2015, Decided
+No. SC12-1783
+
+Reporter
+161 So. 3d 1268 *; 2015 Fla. LEXIS 802 **; 40 Fla. L. Weekly S 201
+ ANCEL PRATT, JR., Petitioner, vs. MICHAEL C. WEISS, D.O., et al., Respondents.  
+Subsequent History: On remand at, Decision reached on appeal by, Remanded by Pratt v. Weiss, 2015 Fla. App. LEXIS 16979 (Fla. Dist. Ct. App. 4th Dist., Nov. 12, 2015)  
+Prior History:  [**1] Application for Review of the Decision of the District Court of Appeal - Direct Conflict of Decisions. Fourth District - Case No. 4D10-4398. (Broward County).
+Pratt v. Weiss, 92 So. 3d 851, 2012 Fla. App. LEXIS 6888 (Fla. Dist. Ct. App. 4th Dist., 2012)  
+Counsel: Linda Anderson Alley of Sheldon J. Schlesinger, P.A., Fort Lauderdale, Florida, and Philip Mead Burlington and Andrew A. Harris of Burlington & Rockenbach, P.A., West Palm Beach, Florida, for Petitioner. 
+James C. Sawran, Andrea Candace Marcus, and Kimberly J. Kanoff of McIntosh, Sawran & Cartaya, P.A., Fort Lauderdale, Florida, for Respondent Florida Medical Center.  
+Judges: LABARGA, C.J., and PARIENTE, QUINCE and PERRY, JJ., concur. CANADY, J., dissents with an opinion, in which POLSTON, J., concurs.  
+Opinion by: LEWIS  
+Opinion
+
+
+
+
+ [*1269]  LEWIS, J.
+Petitioner Ancel Pratt, Jr., seeks review of the decision of the Fourth District Court of Appeal in Pratt v. Weiss, 92 So. 3d 851 (Fla. 4th DCA 2012), on the basis that it expressly and directly conflicts with decisions of this Court and other district courts on a question of law. We have jurisdiction. See art. V, § 3(b)(3), Fla. Const.
+ BACKGROUND
+At issue in this negligence case is whether a settlement offer complied with the requirements delineated by the Florida Statutes and the Florida Rules of Civil Procedure so as to justify an award of attorney's fees and costs. Section 768.79, Florida Statutes (2014),1  provides, in relevant part:
+(1) [**2]  In any civil action for damages filed in the courts of this state, if a defendant files an offer of judgment which is not accepted by the plaintiff within 30 days, the defendant shall be entitled to recover reasonable costs and attorney's fees incurred by her or him or on the defendant's behalf pursuant to a policy of liability insurance or other contract from the date of filing of the offer if the judgment is one of no liability or the judgment obtained by the plaintiff is at least 25 percent less than such offer, and the court shall set off such costs and attorney's fees against the award. . . . If a plaintiff files a demand for judgment which is not accepted by the defendant within 30 days and the plaintiff recovers a judgment in an amount at least 25 percent greater than the offer, she or he shall be entitled to recover reasonable costs and attorney's fees incurred from the date of the filing of the demand. . . .
+(2) The making of an offer of settlement which is not accepted does not preclude the making of a subsequent offer. An offer must:
+(a) Be in writing and state that it is being made pursuant to this section.
+(b) Name the party making it and the party to whom it is being made. [**3] 
+(c) State with particularity the amount offered to settle a claim for punitive damages, if any.
+(d) State its total amount.
+The offer shall be construed as including all damages which may be awarded in a final judgment.
+Florida Rule of Civil Procedure 1.442 articulates the procedures that implement section 768.79. See Willis Shaw Express, Inc. v. Hilyer Sod, Inc., 849 So. 2d 276, 278 (Fla. 2003). The rule provides, in relevant part:
+(c) Form and Content of Proposal for Settlement.
+. . . .
+(2) A proposal shall:
+(A) name the party or parties making the proposal and the party or parties to whom the proposal is being made;
+ [*1270]  . . . .
+(C) state with particularity any relevant conditions;
+(D) state the total amount of the proposal and state with particularity all nonmonetary terms of the proposal;
+. . . .
+(3) A proposal may be made by or to any party or parties and by or to any combination of parties properly identified in the proposal. A joint proposal shall state the amount and terms attributable to each party.
+Fla. R. Civ. P. 1.442 (emphasis supplied).2 
+The Fourth District in the decision below provided a brief summation of the facts of the case:
+In 1998, [Pratt] filed a medical malpractice action against multiple defendants, including FMC Hospital, Ltd., a Florida Limited Partnership d/b/a Florida Medical Center [FMC Hospital], and FMC Medical, Inc., f/k/a FMC Center Inc., d/b/a Florida Medical Center [FMC Medical]. The complaint alleged that these two entities "owned, operated, maintained, and controlled" Florida Medical Center. The plaintiff also alleged that FMC Hospital, Ltd. was a limited partnership, and that FMC Medical, Inc. was a general partner of Florida Medical Center.3 
+The complaint alleged two claims (negligent hiring/retention and vicarious liability for the negligence of two doctors) against each of these defendants using [**5]  exactly the same wording.
+Pratt, 92 So. 3d at 852.
+A proposal for settlement was served upon Pratt which stated, in part:
+
+DEFENDANT, FLORIDA MEDICAL CENTER'S, PROPOSAL FOR SETTLEMENT/OFFER OF JUDGMENT TO THE PLAINTIFF, ANCEL PRATT, JR., INDIVIDUALLY
+The Defendant(s), FMC HOSPITAL LTD., a Florida Limited Partnership d/b/a FLORIDA MEDICAL CENTER; FMC MEDICAL, INC. f/k/a FMC CENTER, INC. d/b/a FLORIDA MEDICAL CENTER, by and through their undersigned counsel, and pursuant to Florida Statute § 768.79 and Fla. R. Civ. P. 1.442 state as follows:
+The Party making this proposal are Defendants, FMC HOSPITAL LTD., a Florida Limited Partnership d/b/a FLORIDA MEDICAL CENTER; FMC MEDICAL, INC. f/k/a FMC CENTER, INC. d/b/a FLORIDA MEDICAL CENTER, and this proposal is being made to the Plaintiff, ANCEL PRATT, JR., individually.
+1. This Proposal for Settlement is made in an attempt to resolve all pending matters between the Plaintiff and the named Defendants as noted above.
+2. The relevant conditions of this Proposal for Settlement are that the  [*1271]  lawsuit be settled, each Party to bear their own costs and [**6]  attorneys' fees, with the Plaintiff signing a full and complete General Release and Hold Harmless Agreement. . . .
+3. The total amount of the Proposal for Settlement is TEN THOUSAND DOLLARS ($10,000.00), with the conditions as stated above.
+. . . .
+This Proposal for Settlement includes all costs and attorneys' fees incurred by Plaintiff in the prosecution of this case, and by making this Proposal for Settlement, the Defendants FMC HOSPITAL LTD., a Florida Limited Partnership d/b/a FLORIDA MEDICAL CENTER; FMC MEDICAL, INC. f/k/a FMC CENTER, INC. d/b/a FLORIDA MEDICAL CENTER, does not admit the allegations contained in Plaintiff's Complaint, and deny each and every allegation.
+Pratt did not accept the offer. A jury returned a verdict adverse to Pratt with respect to the claims, and the trial court entered final judgment in favor of FMC Hospital and FMC Medical.
+FMC Hospital and FMC Medical subsequently filed a motion for attorney's fees and costs pursuant to section 768.79 and rule 1.442. Pratt opposed the motion, asserting that the entities were joint offerors, and the proposal was invalid because it failed to apportion the amount offered, as required by the statute and the rule. FMC Hospital and FMC Medical responded [**7]  that there was only a single offeror—Florida Medical Center—and, therefore, apportionment of the amount offered was not required. The trial court agreed with FMC Hospital and FMC Medical and entered a judgment that awarded their attorney's fees and costs.
+On appeal, the Fourth District affirmed. Pratt, 92 So. 3d at 852. The district court held that because the offer was made on behalf of the single hospital entity that was allegedly responsible for the injury to Pratt, the settlement proposal complied with section 768.79 and rule 1.442. Id. at 854-55. We granted review based upon conflict with cases that hold apportionment of a settlement amount is required where an offer of judgment is made by or to multiple parties. See, e.g., Hilyer Sod, 849 So. 2d at 278-79; Lamb v. Matetzschk, 906 So. 2d 1037, 1040 (Fla. 2005).
+ ANALYSIS  
+Proposals for Settlement
+The eligibility to receive attorney's fees and costs pursuant to section 768.79 and rule 1.442 is reviewed de novo. See Frosti v. Creel, 979 So. 2d 912, 915 (Fla. 2008). This Court has held that subdivision (c)(3) of rule 1.442, which requires a joint proposal to state the amount and terms attributable to each offeror or offeree, must be strictly construed because it, as well as the offer of judgment statute, is in derogation of the common law rule that each party is responsible for its own fees. See Hilyer Sod, 849 So. 2d at 278; see also Gershuny v. Martin McFall Messenger Anesthesia Prof. Ass'n, 539 So. 2d 1131, 1132 (Fla. 1989) ("[T]he rule in Florida requires that statutes awarding attorney's fees [**8]  must be strictly construed.").4  Thus, to be valid, an offer of judgment presented by multiple offerors must apportion the amount that is attributable to each offeror. Hilyer Sod, 849 So. 2d at 278-79.
+ [*1272]  The purpose of the apportionment requirement in the rule is to allow each offeree to evaluate the terms and the amount of the offer as it pertains to him or her. See id. at 278 (quoting Allstate Ins. Co. v. Materiale, 787 So. 2d 173, 175 (Fla. 2d DCA 2001)). On more than one occasion, the Fourth District has referred to the requirement as a "bright line rule," to be applied without exception. See Cano v. Hyundai Motor America, Inc., 8 So. 3d 408, 411 (Fla. 4th DCA 2009); Graham v. Yeskel, 928 So. 2d 371, 373 (Fla. 4th DCA 2006). Strict application of the requirement has resulted in the invalidation of offers of judgment where two plaintiffs presented an unapportioned settlement offer to one defendant, see Hilyer Sod, 849 So. 2d at 277; where one plaintiff presented an unapportioned settlement offer to two defendants, even though one defendant was alleged to be only vicariously liable, see Lamb, 906 So. 2d at 1040;5  and where one defendant presented an offer to two plaintiffs that was conditioned upon the acceptance of both plaintiffs, see Attorneys' Title Insurance Fund, Inc. v. Gorka, 36 So. 3d 646, 647-48 (Fla. 2010). We held that the proposal [**9]  in Gorka was invalid because the conditional nature of the offer divested each plaintiff of independent control over the decision to settle. Id. at 649.
+ This Case
+We conclude that the plain language of the settlement offer in this case demonstrates it was a joint proposal. Although the offer was titled "Defendant, Florida Medical Center's, Proposal for Settlement/Offer of Judgment," the text of the proposal unambiguously refers to the defendant offerors in the plural. Thus, under the clear wording of the proposal, two offerors—FMC Hospital and FMC Medical—presented the offer. Accordingly, under section 768.79 and rule 1.442 the proposal was invalid because it failed to apportion the settlement amount between FMC Hospital and FMC Medical.
+This conclusion is supported by the amended complaint filed by Pratt, which treated FMC Hospital and FMC Medical as separate defendants. Counts VI and VII were directed at FMC Hospital, and Counts VIII and IX were directed at FMC Medical. The complaint also noted that FMC Hospital was a Florida Limited Partnership, and FMC Medical was a general partner of the limited partnership of FMC Hospital. Florida law recognizes that "[a] limited [**10]  partnership is an entity distinct from its partners." § 620.1104(1), Fla. Stat. (2014); see also § 620.8201, Fla. Stat. (1997) ("A partnership is an entity distinct from its partners."). Thus, FMC Hospital was a distinct entity from FMC Medical.
+Moreover, despite the assertion that Florida Medical Center was the only party in interest, both FMC Hospital and FMC Medical sought attorney's fees and costs in a motion the entities filed together. FMC Hospital and FMC Medical are repeatedly referred to in the motion as "Defendants, FLORIDA MEDICAL CENTER." (Emphasis supplied.) The motion is even titled: "DEFENDANTS, FMC HOSPITAL, LTD. D/B/A FLORIDA MEDICAL CENTER AND FMC MEDICAL, INC. F/K/A FMC CENTER, INC. D/B/A FLORIDA MEDICAL CENTER'S MOTION FOR ENTITLEMENT TO ATTORNEYS' FEES AND COSTS." (Emphasis supplied.)
+To the extent any alleged liability of FMC Hospital and FMC Medical could be viewed as coextensive, this does not constitute an exception to the apportionment requirement. Even where no logical apportionment can be made, it is nonetheless  [*1273]  required where more than one offeror or offeree is involved. See Easters v. Russell, 942 So. 2d 1008, 1009 (Fla. 2d DCA 2006), rev. denied, 966 So. 2d 966 (Fla. 2007). In Easters, a plaintiff filed an action against her physician and a professional association that was exclusively [**11]  owned and controlled by the physician. Id. The plaintiff submitted an unapportioned offer of settlement to the physician and the association. Id. After a verdict was entered in favor of the plaintiff, she sought attorney's fees pursuant to section 768.79 and rule 1.442. Id. at 1008-09. The Second District held that the offer of settlement was invalid because it failed to apportion the amount offered:
+The fact that the professional association is entirely owned and controlled by Dr. Russell, that its liability is purely vicarious for her actions, and that damages could not be logically apportioned between these two defendants is . . . not a basis to permit such an offer of judgment. The fact that the offer permits either or both defendants to pay the proposed settlement and gives them the option to determine whether or how to apportion their contribution to the settlement is likewise not an exception to the rule announced in Lamb.
+Id. at 1009.
+Although Easters involved the vicarious liability of a professional association, whereas this case involved allegations of negligent hiring and retention by both FMC Hospital and FMC Medical, we conclude that the strict construction utilized in Easters is equally applicable here. While it [**12]  may have been difficult for FMC Hospital and FMC Medical to apportion the settlement amount based upon their purported liability, and even though they could have later apportioned their contribution had Pratt accepted the offer, these are not recognized legal elements to disregard or circumvent the rule that requires apportionment of a settlement amount where a proposal is presented by multiple parties. Hilyer Sod, 849 So. 2d at 278. The complaint in this case treated FMC Hospital and FMC Medical as two defendants, and the offer of settlement referenced two defendants—FMC Hospital and FMC Medical. Attorney's fees and costs were requested by two defendants. Thus, the offer constituted a joint proposal and, under a strict construction of section 768.79 and rule 1.442, apportionment of the settlement amount was required. Id. FMC Hospital and FMC Medical failed to apportion the amount and, therefore, the proposal was invalid. Accordingly, the Fourth District erred when it affirmed the award of attorney's fees and costs to these defendants.
+ CONCLUSION
+Based on the foregoing, we quash the decision in Pratt. We reiterate that parties must strictly adhere to the requirements of section 768.79 and rule 1.442 to be eligible for an award of attorney's fees and costs. We [**13]  remand this case for further proceedings consistent with this opinion.
+It is so ordered.
+LABARGA, C.J., and PARIENTE, QUINCE and PERRY, JJ., concur.
+CANADY, J., dissents with an opinion, in which POLSTON, J., concurs.
+Dissent by: CANADY  
+Dissent
+
+
+
+
+CANADY, J., dissenting.
+Because I conclude that the decision of the Fourth District Court of Appeal in Pratt v. Weiss, 92 So. 3d 851 (Fla. 4th DCA 2012), does not expressly and directly conflict with decisions of the other district courts of appeal or this Court, I would dismiss this case for lack of jurisdiction  [*1274]  under article V, section 3(b)(3) of the Florida Constitution.
+The majority granted review of this case "based upon conflict with cases that hold apportionment of a settlement amount is required where an offer of judgment is made by or to multiple parties." Majority op. at 6 (citing Willis Shaw Express, Inc. v. Hilyer Sod, Inc., 849 So. 2d 276, 278-79 (Fla. 2003); Lamb v. Matetzschk, 906 So. 2d 1037, 1040 (Fla. 2005)). While Florida caselaw does require apportionment in an offer of judgment made by or to multiple parties, the Fourth District below concluded that the offer at issue was not jointly made by multiple parties. Instead, it was "made on behalf of the single hospital entity allegedly responsible." Pratt, 92 So. 3d at 854. In support of this conclusion, the district court found that the parties were treated as a single entity during litigation, they were represented by the same lawyer, they filed a single answer, [**14]  and they were listed on the verdict form as "FMC Hospital, Ltd., a Florida Limited Partnership d/b/a Florida Medical Center." Id. Additionally, the district court determined that "[t]he singular nature of the entity [was] most evident in the parties' ultimate agreement that FMC Hospital, Ltd. was the only proper defendant." Id. Because the settlement offer was made by a single entity, the district court held that the "defendants' failure to apportion the offer did not run afoul of section 768.79, rule 1.442, or any case law interpreting those provisions." Id. at 854-55. Pratt is therefore distinguishable from the cases with which the majority finds conflict and does not provide a basis for this Court to exercise jurisdiction based on express and direct conflict. None of those cases have facts that are similar to Pratt.
+For these reasons, I conclude that this Court is without jurisdiction to review Pratt based on express and direct conflict. Accordingly, I dissent.
+POLSTON, J., concurs.
+
+ 
+
+End of Document

@@ -1,0 +1,50 @@
+
+  CitedAs of: September 19, 2020 7:22 PM Z
+Martinez v. State
+Court of Appeals of Georgia
+May 1, 2012, Decided
+A12A0395.
+
+Reporter
+315 Ga. App. 727 *; 728 S.E.2d 255 **; 2012 Ga. App. LEXIS 422 ***; 2012 Fulton County D. Rep. 1617; 2012 WL 1506952
+ MARTINEZ v. THE STATE.  
+Prior History: Drug violation, etc. Fayette Superior Court. Before Judge Hankinson.
+  
+Disposition:  [***1] Judgment affirmed.
+  
+Counsel: Walker L. Chandler, for appellant.  
+Scott L. Ballard, District Attorney, Robert W. Smith, Jr., Assistant District Attorney, for appellee.  
+Judges: MIKELL, Presiding Judge. Miller, J., concurs and Blackwell, J., concurs fully and specially.  
+Opinion by: MIKELL  
+Opinion
+
+
+
+
+ [**256]   [*727]  Mikell, Presiding Judge.
+Jackson Martinez was convicted by a jury of one count each of trafficking in cocaine and reckless driving. Martinez appeals from the order denying his motion for new trial, challenging the sufficiency of the evidence and arguing that the trial court erred in admitting prior bad acts into evidence and by failing to give an appropriate limiting instruction. Discerning no error, we affirm.
+On appeal from a criminal conviction, we view the evidence
+in the light most favorable to the verdict, and [Martinez] no longer enjoys a presumption of innocence; moreover, an appellate court determines evidence sufficiency and does not weigh the evidence or determine witness credibility. The verdict must be upheld if any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt.1 
+So viewed, the record shows that a confidential informant notified Special Agent Angel  [***2] Santos, an officer with the Fayette County Drug Task Force, that the informant and others would be bringing a large quantity of cocaine from Gwinnett County to Fayette County. The informant told Santos that two specific vehicles, a Crown Victoria and a Honda Civic, would be transporting four kilograms of cocaine to an address on Pine Trail in Fayette County. Members of the task force assembled near the location on Pine Drive and waited for the  [*728]  two vehicles to arrive. When they arrived, the occupants of the Crown Victoria were apprehended. Seeing  [**257]  this, Martinez, driving the Honda Civic, fled from the scene through a ditch, breaking a culvert pipe, nearly striking police officers standing in the street, and damaging several police vehicles before Officer Santos was able to stop the Honda Civic by striking it head-on with his own vehicle. In the back of the Honda Civic, a black backpack containing approximately four kilograms of cocaine was found.
+Martinez was arrested and transported to the hospital for evaluation after the crash. After being released, Officer Jody Thomas and Captain Mike Pruitt advised Martinez of his Miranda rights, which Martinez waived by making a voluntary statement  [***3] admitting that he was the driver of the Honda Civic and that he did know that the car contained illegal drugs.
+1. Martinez contends that the evidence was insufficient to sustain his trafficking in cocaine conviction,2  arguing that the state failed to prove that he had knowledge that the contraband he was transporting was cocaine.
+Martinez argues that the evidence was insufficient to prove that he knew that the black bookbag in the Honda Civic contained cocaine because the evidence presented did not exclude the hypothesis that the confidential informant could have placed the cocaine in the car without Martinez's knowledge. A conviction based upon circumstantial evidence “is supported only if the proved facts exclude every reasonable hypothesis save that of the defendant's guilt.”3  In this case,  [***4] (1) the jury was presented with the following evidence sufficient to determine beyond a reasonable doubt that Martinez was guilty of trafficking in cocaine: in his custodial statement, Martinez admitted that he was the driver of the Honda Civic and that he had been paid to drive drugs from Gwinnett County to Fayette County. Martinez further stated that he had transported both cocaine and marijuana in the past; that he had been told he was transporting marijuana; and that he had charged a lower fee based on that belief. The backseat passenger told Martinez he was transporting four kilos of cocaine only as they spotted the police officers. Martinez further admitted to fleeing and trying to damage cars during his flight because he knew he would be caught and wanted to tear things up in the process.
+ [*729]  “It is the jury's role to resolve evidentiary conflicts, determine witness credibility, and decide the reasonableness of hypotheses based upon the circumstantial evidence.”4  Further, doubts as to the reasonableness of the hypotheses are
+to be decided by the jury which heard the evidence and where the jury is authorized  [***5] to find that the evidence, though circumstantial, was sufficient to exclude every reasonable hypothesis save that of guilt, that finding will not be disturbed unless the verdict of guilty is insupportable as a matter of law.5 
+Accordingly, we conclude that the evidence was sufficient to support the jury's verdict that Martinez was guilty of trafficking in cocaine beyond a reasonable doubt.6 
+2. Martinez next contends that the trial court erred in denying his motion in limine to redact references to prior drug trafficking from the statement he made to Officer Thomas after his arrest because these references impermissibly placed his character in evidence. We disagree.
+After being advised of his Miranda rights, Martinez made a statement to Officer Thomas  [**258]  admitting that he was the driver of the Honda Civic containing four kilograms of cocaine, that he had transported narcotics several times before and that he had pre-arranged prices based upon whether he was to transport cocaine or marijuana. Officer Thomas  [***6] stated that Martinez made this statement to explain that he only found out that he was transporting cocaine once officers began trying to apprehend his car and that is why he tried to escape in such a reckless manner. The portions of the statement challenged by Martinez “were an integral part of a criminal confession, and such statements are not rendered impermissible because the language used therein indicates that the accused has committed another and separate offense.”7 
+3. Martinez next argues that (2) the trial court erred by not giving a limiting instruction to the jury on the references to the prior acts of drug trafficking. However, “[t]he failure to give a requested charge  [*730]  which is authorized by the evidence can be harmless error. The inquiry is whether it is highly probable that the error contributed to the verdict.”8  Even disregarding Martinez's statement regarding his prior acts of drug trafficking, the evidence of his guilt is overwhelming. In  [***7] addition, the court gave the pattern jury instruction on credibility, including language that the jury may consider a witness's credibility. Under these circumstances, we find it highly probable that the failure to issue the requested limiting instruction, even if in error, was harmless and did not contribute to the jury verdict.9 
+Judgment affirmed. Miller, J., concurs. Blackwell, J., concurs fully and specially.
+Concur by: BLACKWELL  
+Concur
+
+
+
+
+Blackwell, Judge, concurring fully and specially.
+I concur fully in the opinion of the Court, but I write separately to explain why we need not decide in this case whether Martinez is right when he argues that the State was required to prove that he knew the identity of the controlled substance in which he was trafficking. Even if he were right, there was evidence at trial that, when Martinez encountered law enforcement officers, a passenger informed Martinez that they were transporting several kilograms of cocaine. After the passenger informed Martinez that they had cocaine, Martinez attempted to drive away with the cocaine, an act that, the jury could have found,  [***8] itself amounted to trafficking. Accordingly, even assuming that Martinez is right about the knowledge element of OCGA § 16-13-31 — something about which I offer no opinion — there is enough evidence in this case to sustain his conviction for trafficking in cocaine. Cf. Harrison v. State, 309 Ga. App. 454, 457-458 (2) (a) (711 SE2d 35) (2011) (declining to decide whether, to prove trafficking in cocaine, the State must prove that the defendant knew of weight of cocaine because, even assuming that it is required to prove such knowledge, jury instruction adequately conveyed that requirement).
+
+ 
+
+End of Document

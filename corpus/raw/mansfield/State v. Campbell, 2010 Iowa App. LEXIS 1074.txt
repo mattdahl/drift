@@ -1,0 +1,63 @@
+
+  NeutralAs of: September 19, 2020 8:30 PM Z
+State v. Campbell
+Court of Appeals of Iowa
+September 22, 2010, Filed
+No. 0-580 / 10-0161
+
+Reporter
+2010 Iowa App. LEXIS 1074 *
+ STATE OF IOWA, Plaintiff-Appellee, vs. ROBERT CAMPBELL, Defendant-Appellant.  
+Notice: NO DECISION HAS BEEN MADE ON PUBLICATION OF THIS OPINION. THE OPINION IS SUBJECT TO MODIFICATION OR CORRECTION BY THE COURT AND IS NOT FINAL UNTIL THE TIME FOR REHEARING OR FURTHER REVIEW HAS PASSED. AN UNPUBLISHED OPINION MAY BE CITED IN A BRIEF; HOWEVER, UNPUBLISHED OPINIONS SHALL NOT CONSTITUTE CONTROLLING LEGAL AUTHORITY.
+  
+Subsequent History: Reported at State v. Campbell, 791 N.W.2d 428, 2010 Iowa App. LEXIS 1736 (Iowa Ct. App., 2010)  
+Prior History:  [*1] Appeal from the Iowa District Court for Black Hawk County, Thomas N. Bower, Judge.
+Robert Campbell appeals from the judgment and sentence entered on his conviction of escape.
+Disposition: AFFIRMED.
+  
+Counsel: Mark C. Smith, State Appellate Defender, and David Adams, Assistant Appellate Defender, for appellant. 
+Thomas J. Miller, Attorney General, Jean Pettinger, Assistant Attorney General, Thomas J. Ferguson, County Attorney, Suzanne Swan, Assistant County Attorney, and Holly Stott, Student Legal Intern, for appellee.  
+Judges: Considered by Vogel, P.J., and Doyle and Mansfield, JJ. Tabor, J., takes no part.  
+Opinion by: VOGEL  
+Opinion
+
+
+
+
+VOGEL, P.J.
+Robert Campbell appeals from the judgment and sentence entered on his conviction of escape in violation of Iowa Code section 719.4(1) (2009). He was sentenced to an indeterminate term not to exceed five years. Campbell asserts he was denied effective assistance of counsel when counsel failed to request a jury instruction on voluntary absence as a lesser included offense of escape. We affirm.
+ I. Background Facts and Proceedings
+In January 2008, Campbell was placed at a community based correctional facility in Waterloo as a result of a felony conviction. As a part of his probation agreement he consented to  [*2] obey the rules of the facility, which included following the procedures for checking in and out when utilizing furlough time. Violation of the facility's rules banning alcohol or drug use at any time, including while on furlough, could lead to a revocation of a resident's furlough privileges.
+On May 11, 2008, Campbell returned from a furlough, and upon check-in, the residential officers detected alcohol on him. In a breathalyzer test, he registered having .025 blood alcohol content, and in compliance with facility policy, a second test was conducted fifteen minutes later, at which time he registered .027. He also admitted to cocaine use, and was thereafter restricted from leaving the facility. On July 4, Campbell was granted a furlough from 11:30 a.m. until 9:30 p.m. He returned to the facility approximately one hour before his furlough was scheduled to end, and upon attempting to sign out again, Officer Matthew Kennis smelled alcohol on Campbell's breath. He asked Campbell to submit to a breathalyzer, and with the initial test he registered .028. Officer Kennis directed Campbell to the hearing room to wait the requisite fifteen minutes before a second test could be conducted. Campbell  [*3] waited briefly in the hearing room but then attempted to leave the facility. Officer Kennis told him to "stop, you can't go." As Campbell pushed open the first of two doors, Officer Kennis repeated his warning to stop. Officer Luke Aldrich, who had gone outside to inform Campbell's ride that there was a delay in Campbell's leaving the facility, saw Campbell exit the building. He then informed Campbell that if he left in the waiting car he would be placed on escape. Campbell appeared to hear the warnings, but entered the waiting car and rode off. Nearly a year later, on June 26, 2009, Campbell was arrested on outstanding warrants, including one for escape.
+Campbell was charged by trial information for escape in violation of Iowa Code section 719.4(1). In October 2009, the State filed a motion in limine to prohibit Campbell from arguing to the jury that he should have instead been charged with the offense of voluntary absence, in violation of 719.4(3). The district court granted the motion, agreeing with the State that voluntary absence was not a lesser-included offense of escape. The jury found Campbell guilty as charged of escape. He appeals.
+ II. Standard of Review
+Campbell asserts that  [*4] his trial counsel was ineffective for failing to request a jury instruction on voluntary absence as a lesser-included offense of escape. See State v. Fountain, 786 N.W.2d 260, 262 (Iowa 2010) (discussing that generally an objection must be made to jury instructions in order to preserve the issue for appeal, but ineffective-assistance-of-counsel claims are an exception to the traditional error preservation rules). We review ineffective-assistance-of-counsel claims de novo. State v. Stewart, 691 N.W.2d 747, 750 (Iowa 2004). In order to succeed on a claim of ineffective assistance of counsel, a defendant must prove by a preponderance of evidence that (1) counsel failed to perform an essential duty, and (2) prejudice resulted. Fountain, 786 N.W.2d 260, 266-67. A claim may be resolved on either prong. Id. Although we ordinarily preserve ineffective-assistance-of-counsel claims for postconviction proceedings, we find that in the present case the record is adequate to decide on direct appeal. See Stewart, 691 N.W.2d at 751.
+ III. Ineffective Assistance of Counsel
+The State asserts Campbell's counsel had no duty to object to the jury instruction because voluntary absence is not a lesser-included offense  [*5] of escape. In order to determine if one offense is included in a greater offense, the court applies an "impossibility test," to determine the submissibility of lesser-included offenses. State v. Coffin, 504 N.W.2d 893, 894 (Iowa 1993). "That test is whether the greater offense cannot be committed without also committing all elements of the lesser offense." Id. The court then applies an elements test as an aid in applying the impossibility test. Id. at 894-95. Under the legal or elements test, "if the lesser offense contains an element not required for the greater offense, the lesser cannot be included in the greater." Id. at 895.
+The elements of Iowa Code section 719.4(1), escape, are:
+(1) A person convicted of a felony
+(2) who intentionally escapes
+(3) from a detention facility or community-based correctional facility
+The elements of Iowa Code section 719.4(3), voluntary absence, are:
+(1) A person who has been committed to a community-based correctional facility
+(2) who knowingly and voluntarily is absent
+(3) from a place where the person is required to be
+Escape applies "when a person convicted or charged with a felony intentionally departs without authority from a detention facility or institution  [*6] to which the person has been committed on the conviction or charge." State v. Burtlow, 299 N.W.2d 665, 669 (Iowa 1980) (emphasis added). A voluntary absence applies "when a prisoner is absent without authority from a place he is required to be." Id. (emphasis added) The court in Burtlow found that "[T]he fact that the legislature delineated separate escape offenses is some indication it did not intend subsection one to embrace all offenses which might constitute escape under a general escape statute." Burtlow, 299 N.W.2d at 669.
+In ruling on the motion in limine, the district court found,
+My understanding is, and I will go back and check again, but my understanding is that voluntary absence is not a lesser-included offense of escape. It would be improper and impermissible to have you argue that it is something that it can't be. Because the law says it can't be a voluntary absence.
+So for you to argue that it is something that it's not legally allowed to be would be improper. And obviously it would seem to me that, you know, your question, although you're a fine attorney, you will have to figure out whether the jury finds that he escaped or left, however the marshalling instruction I wrote  [*7] out, but it's improper to talk about it being a voluntary absence because according to the case law it's not.
+We agree with the district court that voluntary absence is not a lesser-included offense of escape. State v. Beeson, 569 N.W.2d 107.112 (Iowa 1997) ("The crimes of escape and voluntary absence are distinct from each other and contain different elements. Therefore, voluntary absence is not a lesser-included offense of escape."). Campbell's attorney had no duty to request the jury be instructed on voluntary absence as a lesser-included offense of escape without a factual basis to warrant the instruction, and therefore did not breach a duty. Campbell cannot prevail on this claim of ineffective assistance of counsel. 1 
+ AFFIRMED.
+Vogel, P.J., and Doyle, J., concur; Mansfield, J. specially concurs.
+Concur by: MANSFIELD  
+Concur
+
+
+
+
+MANSFIELD, J. (concurring specially)
+If I were free to do so, I would hold that voluntary absence is a lesser-included offense of escape. Once a person has escaped from a correctional facility,  [*8] he or she is clearly absent from a place where he or she is required to be. Thus, I do not believe it is possible to commit the offense of escape as defined in Iowa Code section 719.4(1) without also committing the offense of voluntary absence as set forth in section 719.4(3). I agree with my colleagues, however, that State v. Beeson, 569 N.W.2d 107 (Iowa 1997), states otherwise and controls this case. See id. at 112 ("[V]oluntary absence is not a lesser-included offense of escape."). I also agree with the State that the evidence Campbell committed the offense of escape is strong. Accordingly, I specially concur.
+
+ 
+
+End of Document

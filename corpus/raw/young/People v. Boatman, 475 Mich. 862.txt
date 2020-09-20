@@ -1,0 +1,38 @@
+
+  CautionAs of: September 19, 2020 9:20 PM Z
+People v. Boatman
+Supreme Court of Michigan
+May 26, 2006, Decided 
+SC: 129999 
+
+Reporter
+475 Mich. 862 *; 714 N.W.2d 290 **; 2006 Mich. LEXIS 989 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellee, v JOE LUIS BOATMAN, Defendant-Appellant.  
+Subsequent History: On remand at, Remanded by People v. Boatman, 2006 Mich. App. LEXIS 3797 (Mich. Ct. App., Dec. 28, 2006)  
+Prior History:  [***1]  COA: 265657. Saginaw CC: 99-017170-FH.  
+  
+Judges: YOUNG, J., dissents. CORRIGAN, J., joins the statement of YOUNG, J.    
+Opinion
+
+
+
+
+ [**290]   [*862]  On order of the Court, the application for leave to appeal the November 4, 2005 order of the Court of Appeals is considered and, pursuant to MCR 7.302(G)(1), in lieu of granting leave to appeal, we REMAND this case to the Court of Appeals for consideration, as on leave granted, of whether defendant's plea was understanding when defendant was not informed of the maximum possible sentence as an habitual offender. MCR 6.302(B)(2).
+We do not retain jurisdiction.  
+Dissent by: YOUNG  
+Dissent
+
+
+
+
+YOUNG, J., dissents and states as follows: 
+I respectfully dissent from the majority's decision to remand this case to the Court of Appeals for consideration as on leave granted. I believe that defendant's plea was "understanding" for purposes of MCR 6.302(B).
+MCR 6.302(B) only requires that the court inform a defendant of the maximum possible prison sentence for the offense to which the defendant pleads guilty. Nothing in the language of MCR 6.302(B) [***2]  requires the trial court to inform defendants of the possible sentencing enhancement they face as a result of their status as habitual offenders. Although defendant faced a possible sentence of 15 years imprisonment because of his status as a fourth habitual offender, the status of being a habitual offender is not an offense. 1  [***3]  Rather, Michigan's habitual offender statutes provide a "'sentence-enhancement procedure with a deterrent and punitive purpose.'" 2  Consequently, MCR 6.302(B) does not require the trial court to inform a defendant about the maximum sentence he faces based on habitual offender enhancement. It only requires the defendant to be informed of the "maximum possible prison sentence for the offense" to which he pled guilty. Indeed, the trial court complied with this rule by informing defendant that the charge of resisting arrest carries a two-year statutory maximum sentence. 
+ [*863]  Moreover, a reviewing court will not set aside a defendant's plea for lack of "understanding" when the trial court has substantially complied with MCR 6.302(B). 3   [**291]  A violation of MCR 6.302(B) only requires reversal when the trial court fails to inform the defendant of one of the [***4]  following three constitutional rights: (1) the right to trial by jury; (2) the right to confront one's accusers; or (3) the privilege against self-incrimination. 4  Otherwise, an appellate court must determine whether "the defendant was informed of such constitutional rights and incidents of a trial as is reasonable to warrant the conclusion that he understood what a trial is and that by pleading guilty he was knowingly and voluntarily giving up his right to a trial and such rights and incidents." 5  Substantial compliance with MCR 6.302(B) is sufficient. 6  The trial court substantially complied with the court rule by stating that the sentence it imposed would be within the correctly scored guidelines, and then imposing a minimum sentence that fell within the guidelines. Defendant made no objection that the minimum sentence exceeded the two year maximum for resisting arrest. 
+ [***5]  There is no "'talismanic chant'" that must be uttered by the trial court during plea proceedings. 7  [***6]  It is not necessary for the trial judge to personally impart all of the required information contained in MCR 6.302(B), as long as the information is imparted to defendant "in the hearing of the judge and defendant." 8  In this case, the prosecution stated on the record that it calculated the minimum guidelines range to be five to 46 months. Defendant pleaded guilty pursuant to an agreement that his minimum sentence would be within the guidelines. Assuming arguendo that the trial court failed to inform defendant of the maximum possible prison sentence for the offense, defendant was put on notice that he faced the possibility of a sentence greater than two years when the prosecutor stated on the record in defendant's presence that defendant's recommended minimum guidelines range was five to 46 months. Consequently, defendant has failed to show that he was not made aware of the "rights and incidents" of trial that he was waiving by pleading guilty, or that the trial court failed to substantially comply with MCR 6.302(B).
+Accordingly, I would deny leave to appeal.
+CORRIGAN, J., joins the statement of YOUNG, J.  
+
+ 
+
+End of Document

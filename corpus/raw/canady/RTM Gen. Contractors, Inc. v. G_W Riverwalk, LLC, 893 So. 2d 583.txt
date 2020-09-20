@@ -1,0 +1,49 @@
+
+  PositiveAs of: September 19, 2020 7:27 PM Z
+RTM Gen. Contractors, Inc. v. G/W Riverwalk, LLC
+Court of Appeal of Florida, Second District
+August 18, 2004, Opinion Filed 
+Case No. 2D03-3073 
+
+Reporter
+893 So. 2d 583 *; 2004 Fla. App. LEXIS 12123 **; 29 Fla. L. Weekly D 1903
+ RTM GENERAL CONTRACTORS, INC., Appellant, v. G/W RIVERWALK, LLC, a Delaware Limited Liability Company, as General Partner of RIVERWALK APARTMENTS, LP, a Delaware Limited Partnership; AFFIRMATIVE EQUITIES, INC., a New York Corporation, as General Partner of AFFIRMATIVE EQUITIES COMPANY LP, a Delaware Limited Partnership; and GENERAL ACCIDENT INSURANCE COMPANY OF AMERICA, a Pennsylvania Corporation n/k/a ONEBEACON INSURANCE COMPANY, Appellees.  
+Subsequent History: Rehearing denied by R.T.M. v. Gen. Accident, 2005 Fla. App. LEXIS 9060 (Fla. Dist. Ct. App. 2d Dist., Feb. 1, 2005)
+Review denied by Rtm Gen. Contrs., Inc. v. G/W Riverwalk, LLC, 902 So. 2d 791, 2005 Fla. LEXIS 943 (Fla., Apr. 19, 2005)  
+Prior History:  [**1]  Appeal from the Circuit Court for Hillsborough County; Gregory P. Holder, Judge.  
+RTM Gen. Contrs., Inc. v. G/W Riverwalk, L.L.C., 840 So. 2d 241, 2003 Fla. App. LEXIS 911 (Fla. Dist. Ct. App. 2d Dist., 2003)  
+Disposition: Affirmed.  
+  
+Counsel: Rosemary Hanna Hayes and Tina L. Caraballo of Hayes & Associates, Orlando, for Appellant. 
+A. J. Stanton, Jr., and Tara C. Early of Stanton & Gasdick, P.A., Orlando, for Appellees.    
+Judges: SALCINES, Judge. CANADY, J., Concurs specially with opinion.    
+Opinion by: SALCINES  
+Opinion
+
+
+
+
+ [*583]  SALCINES, Judge.
+RTM General Contractors, Inc. (RTM), appeals from a summary final judgment which awarded damages for a fraudulent lien to G/W Riverwalk, LLC (Riverwalk), in the amount of $  [*584]  245,243. 1  We affirm.
+In July 1998, RTM and Riverwalk entered into three contracts for renovations to Riverwalk's property. RTM filed a construction lien for the unpaid amounts it alleged was owed to it for those renovations. In October 1998, RTM filed a single count lawsuit against Riverwalk to foreclose its construction [**2]  claim of lien. 2  Riverwalk filed an answer, affirmative defenses, and two-count counterclaim with the trial court. In its counterclaim, Riverwalk alleged that RTM had breached the construction contracts and that RTM had filed a fraudulent lien.
+The parties were sent to arbitration and disputes arose concerning whether the matter should proceed in arbitration. Ultimately, the trial court entered an order lifting a stay of arbitration. Riverwalk appealed that nonfinal order. This court found that the decision concerning whether the matter was arbitrable required an evidentiary hearing to determine whether the construction contracts were valid.  [**3]  Thus, we reversed and remanded "for further evidentiary proceedings as to the validity of the agreements." Riverwalk Apts., L.P. v. RTM Gen. Contractors, Inc., 779 So. 2d 537, 540 (Fla. 2d DCA 2000) ("RTM I"). Mandate issued on January 9, 2001.
+On remand, the trial court conducted the mandated evidentiary hearing on October 10-11, 2002. The trial court entered a written order setting forth factual findings which led it to conclude that the contracts were null, void, and unenforceable in that RTM allowed another party, DeVore and Associates, to use its contractor's license in conjunction with the Riverwalk construction project in violation of a Florida statute which criminalizes such conduct. See § 489.127(4)(b), Fla. Stat. (1997). The trial court further found that the claim of lien filed by RTM was unenforceable, willfully included amounts not owed to RTM, and was fraudulent.
+RTM appealed that nonfinal order. 3  This court affirmed that nonfinal order without opinion. RTM Gen. Contractors v. G/W Riverwalk, LLC, 840 So. 2d 241 (Fla. 2d DCA 2003) ("RTM II"). A timely motion for rehearing and rehearing en banc [**4]  was denied by this court, and mandate issued on March 18, 2003.
+After prevailing in that appeal, Riverwalk proceeded on its motion for summary judgment. In its motion, Riverwalk asserted that RTM could not enforce its claim of lien in light of the trial court's determination that the operative contracts between RTM and Riverwalk were null, void, and unenforceable. Riverwalk also asserted that it was entitled to various damages as a result of the fraudulent lien. The trial court entered a summary final judgment on June 13, 2003, in favor of Riverwalk and against RTM. It is that summary final judgment from which RTM brings this appeal.
+In this appeal, RTM asks this court to revisit the nonfinal order previously reviewed and affirmed by this court in RTM II. RTM urges this court to reverse that decision claiming that new facts have come  [*585]  to [**5]  light, new law requires such a reversal and/or manifest injustice will occur if we do not reverse our prior decision. 4 
+ [**6]  Each of RTM's assertions is simply factually incorrect or totally immaterial. Further, although an appellate court is not necessarily bound to give preclusive effect to the law of the case where the prior decision was based upon review of an interlocutory order on a different issue, see Arch Southeast Communications, Inc. v. Abraham Communications, Inc., 702 So. 2d 556 (Fla. 2d DCA 1997), the present case involves an interlocutory order which was subject to review on the dispositive issues now before this court. 5  Thus, we find the present case to be distinguishable from Arch, where the issue of the validity of the underlying oral agreements was not raised until after the appellate court's affirmance of the denial of a motion to compel arbitration. In the present case, the validity of the agreements was litigated in the trial court. This court affirmed the trial court's legal conclusion that the contracts were null, void, and unenforceable, and we have been presented with no viable argument by RTM to reverse this court's prior decision in RTM II in the present appeal.
+ [**7]  Affirmed.
+CASANUEVA, J., Concurs.
+CANADY, J., Concurs specially with opinion.  
+Concur by: CANADY  
+Concur
+
+
+
+
+CANADY, Judge, Specially concurring.
+I concur with the majority's decision to affirm. In my view, however, the summary judgment can be affirmed simply on the basis that our earlier decision in RTM II established as the law of the case that the contracts between Riverwalk and RTM were unenforceable. Although our decision in RTM II was a per curiam affirmance without opinion, that decision necessarily determined that the subject contracts were unenforceable. In addition, RTM has failed to present a sufficient argument to support the conclusion that  [*586]  application of the law of the case will result in a manifest injustice. See Fla. Dep't of Transp. v. Juliano, 801 So. 2d 101, 105-06, 108 (Fla. 2001); Klak v. Eagles' Reserve Homeowners' Ass'n, 862 So. 2d 947 (Fla. 2d DCA 2004).   
+
+ 
+
+End of Document

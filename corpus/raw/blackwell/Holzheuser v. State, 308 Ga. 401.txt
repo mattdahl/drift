@@ -1,0 +1,39 @@
+
+  NeutralAs of: September 19, 2020 7:22 PM Z
+Holzheuser v. State
+Supreme Court of Georgia
+April 6, 2020, Decided
+S19C1565.
+
+Reporter
+308 Ga. 401 *; 841 S.E.2d 735 **; 2020 Ga. LEXIS 246 ***
+ HOLZHEUSER v. THE STATE.  
+Prior History: Certiorari to the  [***1] Court of Appeals of Georgia — 351 Ga. App. 286.
+Holzheuser v. State, 351 Ga. App. 286, 828 S.E.2d 664, 2019 Ga. App. LEXIS 430 (June 12, 2019)  
+Counsel: Ross & Pines, Andrew S. Fleischman, for appellant.  
+Jacquelyn L. Johnson, District Attorney, Thomas E. Buscemi, Assistant District Attorney, for appellee.  
+Judges: Melton, C. J., Nahmias, P. J., and Blackwell, Boggs, Peterson, Warren, Bethel, and Ellington, JJ., concur.  
+Opinion
+
+
+
+
+ Order of the Court.
+The Supreme Court today denied the petition for certiorari in this case.
+Melton, C. J., Nahmias, P. J., and Blackwell, Boggs, Peterson, Warren, Bethel, and Ellington, JJ., concur.
+Concur by: BLACKWELL  
+Concur
+
+
+
+
+ [*401]   [**736] Blackwell, Justice, concurring in the denial of certiorari.
+When Robert Holzheuser was tried for child molestation and public indecency, the trial court admitted evidence of digital images of young girls that a detective had retrieved from several websites. The detective earlier had searched Holzheuser's mobile phone, and his search revealed the web addresses and internet search terms that led him to the websites from which he retrieved the images. The prosecution offered these images — and the trial court admitted them without objection — as representative of the sort of images that Holzheuser accessed with his mobile phone, and the prosecution argued that the images were evidence that Holzheuser had a sexual interest in prepubescent girls. After he was convicted and sentenced, Holzheuser appealed, claiming that he was denied the effective assistance of counsel at trial [***2]  when his lawyer failed to raise several objections to the images, including that the State failed to properly authenticate the images, that the images were irrelevant, and that the images should have been excluded under OCGA § 24-4-403 (“Rule 403”). In  [*402] Holzheuser v. State, 351 Ga. App. 286 (828 SE2d 664) (2019), the Court of Appeals rejected this claim of ineffective assistance and affirmed his convictions.
+In Division 1 (a) of its opinion, the Court of Appeals reasoned that the failure to object to the images did not deny Holzheuser the effective assistance of counsel because any objection to the images would have been meritless. I am not so sure. About authentication, the Court of Appeals noted that a party offering evidence need only show that the evidence “is what its proponent claims[,]” OCGA § 24-9-901 (a), and the proponent can carry its burden by offering “[t]estimony of a witness with knowledge that a matter is what it is claimed to be[,]” OCGA § 24-9-901 (b) (1). See Holzheuser, 351 Ga. App. at 289 (1) (a) (i). In this case, the detective testified that he personally visited the websites and retrieved the images and that the images were fair and accurate depictions of what appeared on the websites when he viewed them. That testimony was enough, the Court of Appeals said, to authenticate the images. See id. at 290 (1) (a) (i). To the extent that the prosecution [***3]  only claimed that the images were representative of the sort of images that appeared on the websites at a particular point in time — the day the detective accessed the websites and retrieved the images — the Court of Appeals may well have been right that the testimony of the detective was sufficient to authenticate the images under OCGA § 24-9-901 (a).
+The problem, however, is that the content of websites is not static, and it is hardly uncommon for the content of a particular website to vary over time. Moreover, the ownership of an internet domain may change, and as a result, a single web address may direct to altogether different websites at different points in time. Consequently, although the testimony of the detective may have been sufficient to establish that the images presented at trial were representative of images found on the websites he accessed on the day that he retrieved the images, that testimony might not establish that the images were more than minimally probative of the sort of images that Holzheuser would have seen if he had used the same web addresses and search terms to access websites (perhaps the same websites, perhaps not) at a different point in time. The images depicted prepubescent [***4]  girls in underwear and lingerie and undoubtedly were prejudicial. In addition, evidence of this sort — representative images retrieved from the internet in the course of a criminal investigation and offered as proof of the sort of images that a person would have found on the internet at an earlier point in time by using certain web addresses and search terms — has the potential of confusing issues and misleading the jury, at least in the absence of evidence about the precise point in time at which the [**737]  accused allegedly used the web [*403]  addresses and search terms. These circumstances add up to a colorable objection under OCGA § 24-4-403, which provides: “Relevant evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice, confusion of the issues, or misleading the jury … .” See also Olds v. State, 299 Ga. 65, 70 (2) (786 SE2d 633) (2016). The Court of Appeals held that the images were probative because they were “helpful in demonstrating the type of content in Holzheuser's phone and web activity,” but the Court of Appeals did not grapple in any meaningful way with the reality that internet content may vary substantially over time, see Holzheuser, 351 Ga. App. at 291-292 (1) (a) (iii), and for that reason, I find its analysis wholly unconvincing. [***5] 
+This case, however, is not a good vehicle to address these issues. In his petition for a writ of certiorari, Holzheuser now contends only that his lawyer should have objected on authentication grounds, and he does not seek review of the determination by the Court of Appeals that the images were unobjectionable on relevance and Rule 403 grounds. And even if he did, it is not clear that the correctness of that determination would matter much in this case. More specifically, the evidentiary issues arise only in the context of an ineffective assistance claim; even if the images were objectionable, it would not necessarily follow that a reasonable trial lawyer would have known that they were objectionable and would have objected (three judges of the Court of Appeals, after all, didn't think they were objectionable); and especially considering that Holzheuser admitted that he had viewed child pornography online, it seems doubtful that the admission of the images affected the outcome of the trial here. For those reasons, I concur in the denial of certiorari, but I write to caution prosecuting attorneys and trial courts about the danger inherent in offering and admitting evidence of this sort. [***6] 
+I am authorized to state that Justices Boggs, Peterson, and Bethel join this opinion.
+
+ 
+
+End of Document

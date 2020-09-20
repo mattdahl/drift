@@ -1,0 +1,56 @@
+
+No Shepard’s  Signal™As of: September 19, 2020 9:08 PM Z
+United States v. Smith
+United States Court of Appeals for the Eighth Circuit
+May 18, 2018, Submitted; August 3, 2018, Filed
+No. 17-2620
+
+Reporter
+744 Fed. Appx. 966 *; 2018 U.S. App. LEXIS 21531 **; 2018 WL 3699175
+ United States of America, Plaintiff - Appellee v. Jason Andrew Smith, Defendant - Appellant  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Prior History:  [**1] Appeal from United States District Court for the Southern District of Iowa - Des Moines.
+  
+Counsel: For United States of America, Plaintiff - Appellee: Stephan Kenneth Bayens, Assistant U.S. Attorney, Craig Peyton Gaumer, Assistant U.S. Attorney, U.S. ATTORNEY'S OFFICE, Des Moines, IA. 
+For Jason Andrew Smith, Defendant - Appellant: Andrew J. Dunn, PARRISH LAW FIRM, Des Moines, IA. 
+Jason Andrew Smith, Defendant - Appellant, Pro se, Oklahoma City, OK.  
+Judges: Before WOLLMAN, BENTON, and STRAS, Circuit Judges. STRAS, Circuit Judge, concurring in part and concurring in the judgment.  
+Opinion
+
+
+
+
+ [*966]  PER CURIAM.
+Jason A. Smith pled guilty to possessing child pornography in violation of 18 U.S.C. § 2252(a)(4)(B) and 2252(b)(2). The district  [*967]  court1  sentenced him to 90 months' imprisonment. He appeals. Having jurisdiction under 28 U.S.C. § 1291, this court affirms.
+Smith believes the district court erred in "relying on unproven and unchallengeable information outside the record when imposing a 90-month prison sentence." Specifically, he asserts the court improperly relied on its "own internal research on recidivism" in imposing his sentence. Because Smith did not raise this issue in district court, review is for plain error. See United States v. McDill, 871 F.3d 628, 632 (8th Cir. 2017). Under plain error review, this court may reverse if "(1) [**2]  there is an error; (2) the error is plain; (3) the error affects the defendant's substantial rights; and (4) the error seriously affects the fairness, integrity or public reputation of judicial proceedings." Id. (internal quotation marks omitted).
+The facts do not support Smith's argument. At sentencing, he called his therapist to testify on his behalf. She said there was no indication that Smith ever committed a sexual offense against a child and that it was unlikely for someone "who engages in Internet or online offenses . . . to have hands-on victims." Based on this, she classified him as having a low-likelihood to re-offend. Later, the district court said:
+There is no evidence in this case of a hands-on victim; but given the testimony here today, I should pause for just a moment to note that we study in this court sexual offenses and sexual offenders who come before the court. We have on retainer one of the five most published criminologists in the world that is studying our offender base. After his study of all of our sex offenders for five years and the polygraph information that they gave after they came out of prison, he informed us that 70 percent of them had hands-on victims, [**3]  admitted to it with no incentive to admit to that, and that study is being replicated across the country with very, very consistent results. But there's no evidence of a hands-on victim here, and I'm a judge of evidence, not speculation, not percentages. So I simply note that for the record, and that is not impacting this sentence. At least the studies that we've done is not going to impact the sentence.
+District courts cannot "rely[] on information at sentencing that was not presented in advance to the defendant." United States v. Lovelace, 565 F.3d 1080, 1092 (8th Cir. 2009). But the district court here explicitly stated that the studies it discussed would not "impact[] this sentence." The district court did not err, let alone plainly err, in discussing (but not relying on) this research at sentencing. See United States v. Meyer, 790 F.3d 781, 783 (8th Cir. 2015) (distinguishing Lovelace and holding there was no plain error where the court mentioned extra-record information but the "record does not show that the district court relied on extra-record information to select an appropriate sentence"); United States v. Lisenbery, 866 F.3d 934, 936-37 (8th Cir. 2017) (holding no abuse of discretion where the court discussed, but "did not consider," facts outside the record).
+Smith argues his within-guidelines 90-month sentence (guidelines range of 78 to 97 months) is [**4]  substantively unreasonable. This court evaluates the substantive reasonableness of a sentence under an abuse-of-discretion standard. United States v. Feemster, 572 F.3d 455, 461 (8th Cir. 2009)  [*968]  (en banc). "A district court abuses its discretion when it (1) fails to consider a relevant factor that should have received significant weight; (2) gives significant weight to an improper or irrelevant factor; or (3) considers only the appropriate factors but in weighing those factors commits a clear error of judgment." Id. (internal quotation marks omitted). "[I]t will be the unusual case when we reverse a district court sentence—whether within, above, or below the applicable Guidelines range—as substantively unreasonable." Id. at 464.
+Imposing the sentence, the district court said:
+In fashioning an appropriate sentence, I have considered each of the factors found in Title 18, United States Code, Section 3553(a). That means I have considered the nature and circumstances of this offense, as well as the history and characteristics of Mr. Smith. I have considered the seriousness of this crime. It's serious because of the quantity of material we're talking about. It's a quantity that's so large that it's certainly within the top five I've seen. It's serious because of the length of time. It's serious because [**5]  of the number of sites. It's serious because of the effort that it had to take to download and store 1,600 videos; but most importantly of all, it's serious because of the nature of the images and videos that you're attracted to.
+Paragraph 21(a) of the presentence report is very difficult to read, and I didn't look at the images; but I've seen these kind of images before, and I know what we're talking about here. I tried a jury trial once with those kinds of images, and jurors were sobbing, crying when they viewed it.
+I've considered the question of just punishment and note a very minor criminal history, which is fairly common in these cases.
+I've considered the need for adequate deterrence to criminal conduct, the need to promote respect for the law.
+I've considered the sentencing options that are available to the court.
+I've looked to the sentencing guidelines as an important though not in any way controlling factor to be considered.
+I've considered his education, his good work history, his family support.
+. . . .
+Based on all of the factors identified, as well as the arguments, both written and oral, from counsel, the court concludes that the following sentence is sufficient but not greater [**6]  than necessary to address the essential sentencing considerations.
+The district court considered the § 3553(a) factors and did not abuse its discretion imposing a within-guidelines sentence.
+* * * *
+The judgment is affirmed.
+Concur by: STRAS (In Part)  
+Concur
+
+
+
+
+STRAS, Circuit Judge, concurring in part and concurring in the judgment.
+While explaining Smith's sentence and without any prompting from the parties, the district court discussed an unidentified study conducted by a court-retained criminologist. Even if this alone was not error, the court did not allow the parties to read the study, much less address its applicability to Smith or subject its methodology or conclusions to meaningful adversarial testing. By discussing the study without notifying the parties in advance or giving them a chance to respond, the court erred. See, e.g., United States v. Gant, 663 F.3d 1023, 1029-30 (8th Cir. 2011) (stating that, at sentencing, a court "may consider . . . uncorroborated hearsay, provided the defendant  [*969]  is given a chance to rebut or explain it" (internal quotation marks, brackets, and citation omitted)); cf. U.S.S.G. § 6A1.3(a) ("When any factor important to the sentencing determination is reasonably in dispute, the parties shall be given an adequate opportunity to present information to the court [**7]  regarding that factor.").
+To be sure, the district court disclaimed any reliance on the study when it sentenced Smith, saying the study had no "impact" on its decision. But the court's statement did not cure its error. Rather, it reveals that the error did not affect Smith's substantial rights. See Puckett v. United States, 556 U.S. 129, 142 n.4, 129 S. Ct. 1423, 173 L. Ed. 2d 266 (2009); United States v. Becker, 636 F.3d 402, 405-07 (8th Cir. 2011) (holding that the district court's "academic discussion" of undisclosed information, which "did not ultimately affect [the] sentencing decision," had no impact on the defendant's substantial rights). After all, saying that an error had no "impact" on a decision is the equivalent of saying that the error is harmless. E.g., United States v. Johnson, 848 F.3d 872, 880 (8th Cir. 2017). Accordingly, I too conclude that the district court's discussion of the study does not require us to reverse Smith's sentence, but for a different reason: the error did not affect his substantial rights.
+
+ 
+
+End of Document

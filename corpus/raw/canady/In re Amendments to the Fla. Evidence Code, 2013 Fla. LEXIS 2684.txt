@@ -1,0 +1,47 @@
+
+  WarningAs of: September 19, 2020 7:27 PM Z
+In re Amendments to the Fla. Evidence Code
+Supreme Court of Florida
+December 12, 2013, Decided
+No. SC13-98
+
+Reporter
+2013 Fla. LEXIS 2684 *; 38 Fla. L. Weekly S 889; 2013 WL 6500888
+ IN RE: AMENDMENTS TO THE FLORIDA EVIDENCE CODE.  
+Subsequent History: Released for Publication July 10, 2014.
+Rehearing granted by, Opinion withdrawn by, Substituted opinion at In re: Amendments to the Fla. Evidence Code, 144 So. 3d 536, 2014 Fla. LEXIS 2156 (Fla., July 10, 2014)  
+Prior History: Amendments to the Fla. Evidence Code, 891 So. 2d 1037, 2004 Fla. LEXIS 2244 (Fla., Dec. 9, 2004)  
+Counsel:  [*1] Thomas Charles Allison, Chair, Code and Rules of Evidence Committee, Fox Rothschild LLP, West Palm Beach, Florida; Thomas D. Shults, Past Chair, Code and Rules of Evidence Committee, Kirk-Pinkerton, P.A., Sarasota, Florida; John Harkness, Executive Director, and Ellen Sloyer, Bar Staff Liaison, The Florida Bar, Tallahassee, Florida, for Petitioner. 
+Wayne Lawrence Helsby, Winter Park, Florida, Theodore C. Eastmoore, Sarasota, Florida, and Hector Antonio Moré, Orlando, Florida, on behalf of The Trial Lawyers Section of the Florida Bar; Jay Cohen of the Law Office of Jay Cohen, P.A., Ft. Lauderdale, Florida; Scott Ramsey McMillen of McMillen Law Firm, Orlando, Florida; Stuart Z. Grossman, Neal Allan Roth, Andrew B. Yaffa, Seth Eric Miles, Brett Elliott Von Borke, Natasha Santiago Cortes, Susan C. Odess, David Marc Buckner, and Robert Cecil Gilbert of Grossman Roth, P.A., Coral Gables, Florida; Gary M. Cohen of Grossman Roth, P.A., Boca Raton, Florida; William E. Partridge and Patrick Stephen McArdle of Grossman Roth and Partridge, Sarasota, Florida; Sean C. Domnick of Domnick and Shevin PL, Palm Beach Gardens, Florida; James William Gustafson, Jr. of Searcy Denney Scarola Barnhart & Shipley,  [*2] P.A., Tallahassee, Florida; Larry Scott Stewart of Stewart Tilghman Fox Bianchi & Gain, P.A., Miami, Florida; and Lee Delton Gunn, IV of the Gunn Law Group, Tampa Florida, Responding with comments.  
+Judges: POLSTON, C.J., and PARIENTE, LEWIS, QUINCE, LABARGA, and PERRY, JJ., concur. CANADY, J., dissents with an opinion.  
+Opinion
+
+
+
+
+Original Proceedings — Florida Bar Code and Rules of Evidence Committee
+PER CURIAM.
+We have for consideration the regular-cycle report filed by the Florida Bar Code and Rules of Evidence Committee (Committee) concerning recent legislative changes to the Florida Evidence Code (Code), see ch. 2011-183, § 1, Laws of Fla.; ch. 2012-152, § 1, Laws of Fla.; and to section 766.102(12) of the Florida Statutes, see Ch. 2011-233, § 10, Laws of Fla. We have jurisdiction. See art. V, § 2(a), Fla. Const.
+The Committee recommends that the Court adopt the above provisions to the extent that they concern court procedure. The amendments at issue in this case are those enacted by the Florida Legislature since this Court last considered amendments to the Florida Evidence Code. See In re Amendments to the Florida Evidence Code, 53 So. 3d 1019 (Fla. 2011). For the reasons discussed below, we decline  [*3] to adopt the Committee's recommendations.
+In chapter 2011-183, section 1, Laws of Florida, the Legislature enacted section 90.5021, Florida Statutes, which establishes a "[f]iduciary lawyer-client privilege." According to the Committee, whether a fiduciary is entitled to the lawyer-client privilege when the fiduciary employs an attorney in connection with his or her fiduciary duties has been an issue in several cases; for example, the Committee cites Jacob v. Barton, 877 So. 2d 935 (Fla. 2d DCA 2004), and Tripp v. Salkovitz, 919 So. 2d 716 (Fla. 2d DCA 2006). We decline to follow the Committee's recommendation to adopt the new provision of the Code because we question the need for the privilege to the extent that it is procedural.
+In chapter 2012-152, section 1, Laws of Florida, the Legislature amended section 90.804 to include the hearsay exception of "Statement offered against a party that wrongfully caused the declarant's unavailability." See § 90.804(2)(f), Fla. Stat. (2012). According to the Committee, the provision is a codification of the common law rule that one who wrongfully procures the absence of a witness from court cannot complain of the admission of the hearsay statement  [*4] of the witness. See Reynolds v. United States, 98 U.S. 145, 158-59, 25 L. Ed. 244 (1878). We decline to adopt this amendment to the extent it is procedural in light of constitutional concerns. See Crawford v. Washington, 541 U.S. 36, 124 S. Ct. 1354, 158 L. Ed. 2d 177 (2004) (holding that the Confrontation Clause of the Sixth Amendment bars the admission of a witness's testimonial statement unless the witness was unavailable to testify and the defendant had a prior opportunity for cross-examination); In re Amendments to the Fla. Evidence Code, 782 So. 2d 339 (Fla. 2000) (declining to adopt chapter 98-2, § 1, Laws of Florida, amending section 90.803(22), Florida Statutes, which allows the admission of former testimony although the declarant is available as witness, in part because of concerns about its constitutionality).
+Finally, in chapter 2011-233, section 10, Laws of Florida, the Legislature created section 766.102(12), Florida Statutes, which provides as follows:
+766.102 Medical negligence; standards of recovery; expert witness.
+(12) If a physician licensed under chapter 458 or chapter 459 or a dentist licensed under chapter 466 is the party against whom, or on whose behalf, expert testimony about the prevailing professional standard  [*5] of care is offered, the expert witness must be licensed under chapter 458, chapter 459, or chapter 466 or possess a valid expert witness certificate issued under s. 458.3175, s. 459.0066, or s. 466.005.
+§ 766.102(12), Fla. Stat. (2012). The Committee voted 14-13 to recommend that the statutory provision be adopted as a rule of procedure to the extent that it is procedural. The Board of Governors voted 34-5 to recommend that the Court reject the Committee's proposal, on the grounds that the provision is unconstitutional, will have a chilling effect on the ability to obtain expert witnesses, and is prejudicial to the administration of justice. Numerous comments were filed with respect to this proposal, all in opposition to its adoption. After hearing oral argument and carefully considering the Committee's recommendation in light of those comments, we decline to follow this recommendation due to the concerns raised.
+Accordingly, the Court declines to adopt the legislative changes to the Code or newly created section 766.102(12), Florida Statutes, to the extent they are procedural.
+It is so ordered.
+POLSTON, C.J., and PARIENTE, LEWIS, QUINCE, LABARGA, and PERRY, JJ., concur.
+CANADY, J., dissents  [*6] with an opinion.
+Dissent by: CANADY  
+Dissent
+
+
+
+
+CANADY, J., dissenting.
+I would adopt each of the rule amendments recommended by the Code and Rules of Evidence Committee. I therefore dissent from the majority's rejection of those proposals.
+
+ 
+
+End of Document

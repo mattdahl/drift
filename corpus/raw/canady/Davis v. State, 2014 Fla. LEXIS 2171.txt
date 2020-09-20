@@ -1,0 +1,44 @@
+
+  NeutralAs of: September 19, 2020 7:27 PM Z
+Davis v. State
+Supreme Court of Florida
+June 26, 2014, Decided
+CASE NO.: SC14-1178
+
+Reporter
+2014 Fla. LEXIS 2171 *
+ EDDIE WAYNE DAVIS, Appellant(s) vs. STATE OF FLORIDA, Appellee(s)  
+Notice: DECISION WITHOUT PUBLISHED OPINION
+  
+Subsequent History: Post-conviction relief denied at, Stay denied by Davis v. State, 142 So. 3d 867, 2014 Fla. LEXIS 2148 (Fla., July 7, 2014)  
+Prior History:  [*1] Lower Tribunal No(s).: 1994-CF-1248A-XX.
+Davis v. State, 698 So. 2d 1182, 1997 Fla. LEXIS 726 (Fla., 1997)  
+Judges: PARIENTE, LEWIS, QUINCE, LABARGA, and PERRY, JJ., concur. CANADY, J., dissents with an opinion, in which POLSTON, C.J., concurs.  
+Opinion
+
+
+
+
+Eddie Wayne Davis, a prisoner under sentence of death and for whom a death warrant has been signed, appeals the summary denial of his successive motion for postconviction relief, filed pursuant to Florida Rule of Criminal Procedure 3.851, and also seeks a stay of execution. Although he raised an as-applied challenge to Florida's lethal injection protocol during the circuit court proceedings held in accordance with this Court's expedited scheduling order following the signing of his death warrant, Davis proffered no expert affidavit or specific evidence in support of his claim, which the circuit court summarily denied.
+However, Davis has now filed in this Court, along with his motion for stay, an affidavit alleging that he suffers from the medical condition porphyria, and that the use of midazolam hydrochloride as the first drug of Florida's lethal injection protocol, as applied to him, is unconstitutional. Specifically, the affidavit from Dr. Joel Zivot states that it is his expert medical opinion "that a substantial risk exists that, during the execution, Mr. [*2]  Davis will suffer from extreme or excruciating pain as a result of abdominal pain, tachycardia, hypertension, nausea, and vomiting."
+Based on the allegations in the affidavit, the expedited nature of the proceedings, and our constitutional obligation to ensure that the method of lethal injection in this state comports with the Eighth Amendment, we hereby temporarily relinquish jurisdiction to the Circuit Court of the Tenth Judicial Circuit, Polk County, to permit the parties and the circuit court to address whether Davis' alleged porphyria creates a risk that is sure or very likely to cause serious illness and needless suffering and give rise to sufficiently imminent dangers. While the procedural posture of this case is different from prior lethal injection cases, in that Davis did not present the affidavit to the circuit court during the expedited proceedings, this temporary relinquishment is consistent with the approach this Court has taken in death warrant cases that raise factual allegations, not conclusively refuted by the record, concerning an as-applied violation of the Eighth Amendment during an impending execution. See, e.g., Henry v. State, No. SC14-398 (Fla. Sup. Ct. order filed Mar. 6, 2014) (relinquishing [*3]  jurisdiction to allow factual development on inmate's claim that due to his alleged hypertension, high cholesterol level, and coronary artery disease, the use of midazolam hydrochloride as the first drug of Florida's lethal injection protocol, as applied to him, would violate the Eighth Amendment); Howell v. State, No. SC14-167 (Fla. Sup. Ct. order filed Feb. 6, 2014) (relinquishing jurisdiction to allow factual development on inmate's as-applied claim as to whether the use of midazolam, in conjunction with his medical history and mental conditions, would violate the Eighth Amendment).
+Upon the conclusion of the relinquishment period, the circuit court shall enter a written order. The proceedings shall be concluded and the order entered no later than 5:00 p.m., Tuesday, July 1, 2014. Upon issuance of the circuit court's order, the circuit court clerk shall immediately transmit a copy of the order to this Court. The circuit court clerk shall file a record of the entire relinquishment proceeding, including transcripts, with this Court no later than 12:00 p.m., Wednesday, July 2, 2014. The record resulting from the above relinquishment proceeding shall reflect "supplemental record volume 2, etc.," and page numbering [*4]  should start with page 1 and run consecutively. Per In Re: Mandatory Submission of Electronic Copies of Documents, Fla. Admin. Order No. AOSC04-84 (Sept. 13, 2004), the court reporters are directed to transmit a copy of any transcripts, in addition to paper copies, in an electronic format as required by the provisions of that order. An electronic version of the circuit court's order and the transcripts shall be submitted to the following e-mail address: warrant@flcourts.org.
+Thereafter, the parties are directed to file supplemental briefs limited solely to issues raised during the relinquishment proceeding regarding the factual allegations contained in Dr. Zivot's affidavit, as related to Davis' as-applied challenge to the lethal injection protocol. The supplemental initial brief shall be filed no later than 5:00 p.m., Wednesday, July 2, 2014. The supplemental initial brief shall be limited to fifty pages. The supplemental answer brief shall be filed no later than 12:00 p.m., Thursday, July 3, 2014. The supplemental answer brief shall be limited to fifty pages. The supplemental reply brief shall be filed no later than 5:00 p.m., Thursday, July 3, 2014. The supplemental reply brief shall [*5]  be limited to twenty-five pages. NO MOTION FOR ENLARGEMENT OF THE BRIEFS SHALL BE CONSIDERED. The above briefs shall be filed in this Court and copies provided to opposing counsel via e-mail to the following address: warrant@flcourts.org.
+The Court defers ruling on the issues raised on appeal of the circuit court's summary denial of Davis' successive postconviction motion and on the motion for stay of execution until after the conclusion of the relinquishment proceeding and receipt of the supplemental record.
+PARIENTE, LEWIS, QUINCE, LABARGA, and PERRY, JJ., concur.
+CANADY, J., dissents with an opinion, in which POLSTON, C.J., concurs.
+Dissent by: CANADY  
+Dissent
+
+
+
+
+CANADY, J., dissenting.
+Because Davis's Eighth Amendment claim that Florida's lethal injection protocol is unconstitutional as applied to him is facially insufficient, I dissent.
+To state an Eighth Amendment claim under Baze v. Rees, 553 U.S. 35, 128 S. Ct. 1520, 170 L. Ed. 2d 420 (2008), the defendant has the burden to show that the State's lethal injection protocol is "'sure or very likely to cause serious illness and needless suffering' and give rise to 'sufficiently imminent dangers.'" Id. at 50 (quoting Helling v. McKinney, 509 U.S. 25, 33, 34-35, 113 S. Ct. 2475, 125 L. Ed. 2d 22 (1993)); see Howell v. State, 133 So. 3d 511, 521 (Fla.) (stating "[t]his heavy burden is borne by the defendant—not the State."), cert. denied, 134 S. Ct. 1376, 188 L. Ed. 2d 372 (2014). Moreover, we have held that "[s]ummary denial of a lethal injection challenge [*6]  is proper where the asserted reasons for holding an evidentiary hearing are based on conjecture or speculation." Chavez v. State, 132 So. 3d 826, 831 (Fla.), cert. denied, 134 S. Ct. 1156, 134 S. Ct. 1156, 188 L. Ed. 2d 144 (2014).
+Davis states in conclusory fashion that he may have brain damage and a disease called Porphyria and that he suffers from alcoholism. Thus, Davis contends that he may suffer unconstitutional levels of pain from Florida's lethal injection protocol. The affidavit attached to the motion filed in this Court does not cure this insufficiency. The expert's affidavit was not presented to the trial court and is now without justification introduced in these proceedings by filing in this Court. Accordingly, the affidavit should be stricken. In any event, the affidavit does not explain how or why Davis's alleged medical conditions would prevent Davis from quickly being rendered unconscious by the administration of the first drug in the lethal injection protocol. Nor does the affidavit specifically establish how or why any adverse reaction experienced by Davis would occur before Davis is rendered unconscious. Davis's claims are legally insufficient on their face and do not merit remand.
+POLSTON, C.J., concurs.
+
+ 
+
+End of Document

@@ -1,0 +1,57 @@
+
+  NeutralAs of: September 19, 2020 8:30 PM Z
+State v. Caballero
+Court of Appeals of Iowa
+June 16, 2010, Filed
+No. 0-277 / 09-0965
+
+Reporter
+2010 Iowa App. LEXIS 545 *
+ STATE OF IOWA, Plaintiff-Appellee, vs. JIMMY JOE CABALLERO JR., Defendant-Appellant.  
+Notice: NO DECISION HAS BEEN MADE ON PUBLICATION OF THIS OPINION. THE OPINION IS SUBJECT TO MODIFICATION OR CORRECTION BY THE COURT AND IS NOT FINAL UNTIL THE TIME FOR REHEARING OR FURTHER REVIEW HAS PASSED. AN UNPUBLISHED OPINION MAY BE CITED IN A BRIEF; HOWEVER, UNPUBLISHED OPINIONS SHALL NOT CONSTITUTE CONTROLLING LEGAL AUTHORITY.
+  
+Subsequent History: Reported at State v. Caballero, 786 N.W.2d 873, 2010 Iowa App. LEXIS 1212 (Iowa Ct. App., 2010)  
+Prior History:  [*1] Appeal from the Iowa District Court for Pottawattamie County, Gary K. Anderson, District Associate Judge. Appeal from the judgment and conviction of carrying weapons.
+  
+Disposition: AFFIRMED.
+  
+Counsel: Mark C. Smith, State Appellate Defender, and Bradley M. Bender, Assistant Appellate Defender, for appellant. 
+Thomas J. Miller, Attorney General, Bridget A. Chambers, Assistant Attorney General, Matthew D. Wilber, County Attorney, and Thomas Nelson, Assistant County Attorney, for appellee.  
+Judges: Considered by Sackett, C.J., and Eisenhauer and Mansfield, JJ. Tabor, J. takes no part.  
+Opinion by: SACKETT  
+Opinion
+
+
+
+
+SACKETT, C.J.
+Jimmy Caballero appeals from the judgment and conviction of carrying weapons, contending there is insufficient evidence to prove the knife was a dangerous weapon. We affirm.
+Background. A police officer familiar with appellant saw appellant driving a car and knew appellant's license was barred. When the officer stopped the vehicle and approached the driver's window, appellant kept reaching below the driver's seat. The officer ordered appellant to show his hands; he did not obey. The officer then drew his weapon and ordered appellant out of the car. When the officer searched under the driver's seat, he found a butterfly knife  [*2] or balisong open under the seat.
+Appellant was charged with driving while barred and carrying weapons. He pleaded guilty to the driving charge. The carrying weapons charge was tried to the court. Appellant claimed the knife was not a dangerous weapon as defined in Iowa Code section 702.7 (2007) because it had a blade less than five inches long and the State did not offer any expert testimony to support its contention the knife was a dangerous weapon. The trial court found:
+The court finds that there is no requirement that an expert witness be submitted by the State in order to have the finder of fact determine whether the instrument, the knife in this instance, is or is not a dangerous weapon as defined in section 702.7 of the Code.
+The court finds that it is the prerogative of the finder of fact to make a determination whether the knife in question is dangerous weapon whether or not the blade exceeds five inches in length or not. The court further finds it is the finder of fact's prerogative to determine whether the device is designed primarily for use in inflicting death or injury upon a human being or animal and which is capable of inflicting death upon a human being when used in the  [*3] manner for which it was designed.
+The court, as finder of fact, finds specifically that the knife in question does not have any other utility or use other than inflicting death or injury upon a human being or animal and clearly could be capable of inflicting death upon a human being when used against a human being. The knife is not one that has other uses or purposes such as a Swiss Army knife or even a fish fillet knife or a regular hunting knife that have other purposes other than inflicting harm.
+The court also finds that the dangerous weapon in this instance was on the floor directly below the defendant when he was stopped by the police officer, and it would appear quite obvious that he was attempting to locate the knife when the officer approached him.
+Scope of Review. We review challenges to the sufficiency of the evidence for correction of errors at law. State v. Canal, 773 N.W.2d 528, 530 (Iowa 2009). We view the evidence in the light most favorable to the State. State v. Millsap, 704 N.W.2d 426, 429 (Iowa 2005). The trial court's findings are binding on us if supported by substantial evidence. State v. Jorgensen, 758 N.W.2d 830, 834 (Iowa 2008).
+Merits. As relevant to the circumstances  [*4] before us, Iowa Code section 724.4 allows a person to be convicted of carrying weapons if the person carries a knife with a certain minimum blade length or if the person carries a "dangerous weapon." Iowa Code § 724.4(1), (3). The minimum blade length set forth in subsection (3) is five inches. The blade of the butterfly knife at issue here is less than five inches in length. Therefore, to be convicted of carrying weapons, appellant would have to have a "dangerous weapon concealed on or about [his] person." Id. § 724.4(1). Appellant contends the knife is not a "dangerous weapon" because it is not included in the statutory list of dangerous weapons and the State offered no expert testimony to prove either of the alternatives in the statute: "design and capability" or "actual or intended use." See State v. Tusing, 344 N.W.2d 253, 255 (Iowa 1984) (noting "the three means of establishing a device as a dangerous weapon" in section 702.7).
+Section 702.7 contains a non-exclusive list of items that are dangerous weapons per se, including a "knife having a blade exceeding five inches in length." See State v. Durham, 323 N.W.2d 243, 245 (Iowa 1982) (noting the listed items are dangerous items  [*5] per se). The butterfly knife at issue here has a blade less than five inches in length (see images at end), so it is not a dangerous weapon per se. Whether a knife with a shorter blade qualifies as a dangerous weapon is a matter of proof of one of the statutory alternatives. The State could show the knife was "designed primarily for use in inflicting death or injury upon a human being or animal," and "capable of inflicting death upon a human being when used in the manner for which it was designed" or was "actually used in such a manner as to indicate that the defendant intends to inflict death or serious injury upon the other," and "when so used, is capable of inflicting death." Iowa Code § 702.7.
+Under the first alternative, the issue "is whether [the knife is] capable of inflicting death; the actual intent of the user is not the issue." Tusing, 344 N.W.2d at 255 (emphasis added). If the knife is capable of inflicting death, it is a dangerous weapon under the statute "regardless of use or intended use." Id. The court determined it had the ability to find the knife was designed primarily for injuring or killing without expert testimony. Appellant contends proof of this element requires  [*6] testimony of an expert witness. The officer testified "it's, basically, the kind of thing if you don't have the proper training, you are going to cut your fingers. It's the nature of the weapon." The State offered no evidence the butterfly knife is "designed primarily for use in inflicting death or injury upon a human being or animal." Iowa Code § 702.7. We do not believe the primary design of the butterfly knife is a matter of common knowledge, observation, or experience. See State v. Geier, 484 N.W.2d 167, 171 (Iowa 1992) (quoting State v. Manning, 224 N.W.2d 232, 236 (Iowa 1974) for the proposition that fact finders "are not expected to lay aside matters of common knowledge or their own observation and experience of the affairs of life"). Substantial evidence does not support the court's finding the knife "does not have any other utility or use other than inflicting death or injury upon a human being or animal." There is no proof the knife has any special dangerous characteristic. We conclude the State did not prove the knife was a dangerous weapon under the "design and capability" statutory alternative. See Tusing, 344 N.W.2d at 255.
+The second alternative for proving the knife  [*7] is a dangerous weapon is to show it was "actually used in such a manner as to indicate that the defendant intends to inflict death or serious injury upon the other, and which, when so used, is capable of inflicting death." Iowa Code § 702.7. Appellant contends there is no evidence to establish these factors. We agree with the court it could determine the knife is "capable" of inflicting death without expert testimony. See Geier, 484 N.W.2d at 171.
+There is substantial evidence to support the court's finding concerning intent--the second alternative for determining the knife is a dangerous weapon.
+The officer testified concerning the appellant's actions in reaching down around the floor and under the driver's seat as the officer approached appellant's car. He testified the appellant refused to obey his command to show his hands until the officer drew his weapon. The officer further testified the knife was open on the floor when he searched the car. The court found the knife "in this instance was on the floor directly below the defendant when he was stopped by the police officer, and it would appear quite obvious that he was attempting to locate the knife when the officer approached him."  [*8] This is a finding of appellant's intended use of the knife. We affirm the court's finding the knife is a dangerous weapon under the "actual or intended use" alternative. See Tusing, 344 N.W.2d at 255. We therefore affirm appellant's conviction.
+ AFFIRMED.
+Eisenhauer, J., concurs; Mansfield, J., concurs specially.
+
+
+Concur by: MANSFIELD  
+Concur
+
+
+
+
+MANSFIELD, J. (concurring specially)
+I believe there is substantial evidence to support the district court's finding that the knife in question met the criteria for a dangerous weapon under the first statutory alternative, that is, the knife was "designed primarily for use in inflicting death or injury upon a human being" and "capable of inflicting death upon a human being when used in the manner for which it was designed." See Iowa Code § 702.7 (2007). In my view, the district court could make this finding based on its own inspection of the knife. As the court put it, "The knife is not one that has other uses or purposes such as a Swiss Army knife or even a fish fillet knife or a regular hunting knife that have other purposes other than inflicting harm." On this basis, I would affirm.
+
+ 
+
+End of Document

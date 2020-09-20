@@ -1,0 +1,547 @@
+
+  NeutralAs of: September 19, 2020 7:25 PM Z
+In re: Amendments to the Fla. Rules of Judicial Admin.
+Supreme Court of Florida
+July 3, 2014, Decided
+No. SC13-2381
+
+Reporter
+148 So. 3d 1171 *; 2014 Fla. LEXIS 2123 **; 39 Fla. L. Weekly S 467
+ IN RE: AMENDMENTS TO THE FLORIDA RULES OF JUDICIAL ADMINISTRATION; THE FLORIDA RULES OF CRIMINAL PROCEDURE; AND THE FLORIDA RULES OF APPELLATE PROCEDURE—CAPITAL POSTCONVICTION RULES.  
+Subsequent History: As Corrected October 2, 2014. Released for Publication October 2, 2014.
+Rehearing denied by, Without prejudice In re Amendments to the Fla. Rules of Judicial Admin., 148 So. 3d 1250, 2014 Fla. LEXIS 2914 (Fla., Oct. 2, 2014)  
+Prior History: In re Amendments to Fla. Rules of Appellate Procedure 9.142 & 9.200, 20 So. 3d 380, 2009 Fla. LEXIS 1793 (Fla., Oct. 15, 2009)
+In re Amendments to the Fla. Rules of Crim. Procedure, 26 So. 3d 534, 2009 Fla. LEXIS 1948 (Fla., Nov. 19, 2009)
+In re: Amendments to the Fla. Rules of Judicial Admin.--Rule 2.236, 41 So. 3d 128, 2010 Fla. LEXIS 1045 (Fla., July 1, 2010)  
+Counsel:  [**1] Kevin Emas, Judge, Third District Court of Appeal, Chair, Criminal Court Steering Committee, Miami, Florida, and Bart Schneider, Office of the State Courts Administrator, General Counsel's Office, Tallahassee, Florida, for Petitioner. 
+Julianne M. Holt, President, Florida Public Defender Association, Public Defender, Thirteenth Judicial Circuit, Tampa, Florida; Carlos J. Martinez, Public Defender, and John Eddy Morrison, Assistant Public Defender, Eleventh Judicial Circuit, Miami, Florida; Susan Odzer Hugentugler, Chair, The Florida Bar Criminal Law Section, Office of the State Attorney, Fort Lauderdale, Florida; James Vincent Viggiano, Jr., Capital Collateral Regional Counsel-Middle, Tampa, Florida, and Neal Andre Dupree, Capital Collateral Regional Counsel-South, and Suzanne Myers Keffer, Chief Assistant Capital Collateral Regional Counsel-South, Fort Lauderdale, Florida; Arthur Ivan Jacobs and Tyler Stubbs of Jacobs, Scholz & Associates, LLC, Fernandina Beach, Florida, on behalf of the Florida Prosecuting Attorneys Association; Pamela Jo Bondi, Attorney General, and Carolyn Marie Snurkowski, Associate Deputy Attorney General, Tallahassee, Florida, and Katherine Maria Diamandis, Assistant Attorney General, Tampa, Florida, on behalf of the State of Florida, Office of the Attorney General; Melanie L. Casper, Chair, Criminal Procedure Rules Committee, West Palm Beach, Florida, and John F. Harkness, Jr., Executive Director, and Heather Savage Telfer, Staff Liaison, The Florida Bar, Tallahassee, Florida, Responding with comments.  
+Judges: LABARGA, C.J., and PARIENTE, QUINCE, and PERRY, JJ., concur. LEWIS, J., concurs with an opinion. CANADY, J., concurs in part and dissents in part with an opinion in which POLSTON, J., concurs.  
+Opinion
+
+
+
+
+  [*1171]  Original Proceedings - Florida Rules of Judicial Administration, Florida Rules of Criminal Procedure and Florida Rules of Appellate Procedure
+PER CURIAM.
+This matter is before the Court for consideration of amendments to the Florida Rules of Judicial Administration, the Florida Rules of Criminal Procedure, and the Florida Rules of Appellate Procedure, proposed by the Capital Postconviction Proceedings Subcommittee of the Criminal Court Steering Committee. We have jurisdiction. See art. V, § 2(a), Fla. Const.
+This Court has previously stated a specific goal that capital postconviction proceedings in the trial court be concluded within two years from the filing of an initial postconviction motion. See In re: Circuit Court Death Penalty Postconviction Proceedings—Reporting and Processing Requirements [**2] , Fla. Admin. Order No. AOSC11-32 (Sept. 14, 2011). Consistent with this objective, the Capital Postconviction Proceedings Subcommittee undertook to determine the causes of delay in existing capital postconviction procedures and recommend solutions. Its proposed rule amendments in this case are intended to improve the overall efficiency of the capital postconviction process through, among other things, case management tools, new minimum qualifications for the lead attorney representing a defendant in a capital postconviction case, a new requirement that defendants in postconviction cases be represented by an attorney, and the application of realistic, meaningful time frames and deadlines. The proposals are also intended to encourage chief judges in each circuit, and trial judges assigned to capital postconviction cases, to engage in proactive case management, and to provide those judges with the tools to effectively manage capital cases.
+ BACKGROUND
+In conjunction with the Florida Legislature's enactment of the Timely Justice Act during the 2013 legislative session, see ch. 2013-216, Laws of Fla., on March 22, 2013, the Court established the Capital Postconviction Proceedings Subcommittee [**3]  (Subcommittee). See In re: Subcommittee on Capital Postconviction Proceedings, Fla. Admin. Order No. AOSC13-11 (Mar. 22, 2013). The Subcommittee was directed to "undertake a comprehensive review of  [*1172]  capital postconviction proceedings, including Florida Rule of Criminal Procedure 3.851, and to make recommendations to the Court whether that rule, or any other rule, should be amended to improve the overall efficiency of the capital postconviction process." Id. at 1.
+Consistent with the Court's direction, the Subcommittee has filed a petition to amend six rules impacting capital postconviction cases. According to the petition, the Subcommittee held several meetings and sought input from specific stakeholders identified in AOSC13-11—the Criminal Court Steering Committee, the Criminal Procedure Rules Committee, the Office of Capital Collateral Regional Counsel, and the Office of the Attorney General. The Subcommittee surveyed twenty-six circuit court judges with significant experience in capital postconviction cases. It also heard input from the Appellate Court Rules Committee, the Florida Prosecuting Attorneys Association, the Florida Public Defender Association, the Florida House of Representatives, the Governor's Office, and the Clerk [**4]  of the Florida Supreme Court. The Subcommittee indicates that the overwhelming consensus from these groups is that the existing rules governing the capital postconviction process generally work well, and that a complete overhaul of those rules is not necessary. It recommends amendments to six rules: Florida Rules of Judicial Administration 2.215 (Trial Court Administration) and 2.535 (Court Reporting); Florida Rules of Criminal Procedure 3.112 (Minimum Standards for Attorneys in Capital Cases), 3.851 (Collateral Relief After Death Sentence has been Imposed and Affirmed on Direct Appeal), and 3.852 (Capital Postconviction Public Records Production); and Florida Rule of Appellate Procedure 9.142 (Procedures for Review in Death Penalty Cases). The Subcommittee also proposes four new case management orders to assist circuit court judges in managing capital postconviction cases.
+After the Subcommittee filed its petition, the Court published the proposed amendments for comment. The Court received comments from six groups: the Florida Attorney General; the Criminal Law Section of The Florida Bar; the Criminal Procedure Rules Committee; the Florida Prosecuting Attorneys Association; Capital Collateral Regional Counsels for the Southern and Middle Regions of Florida; and the Florida Public Defender Association. The Subcommittee [**5]  also received an additional comment from Judge Chris W. Altenbernd, of the Second District Court of Appeal. The Subcommittee filed a response addressing all seven comments; in some instances, the response includes revised rule proposals.1  The Court heard oral argument on the proposed amendments.
+We have considered the Subcommittee's proposals and revised proposals, the comments provided, and the issues raised at oral argument. As discussed in this opinion, we defer to the expertise of the Subcommittee and adopt most of the proposed amendments, with some modifications. However, we decline to adopt the proposed amendment to Rule of Criminal Procedure 3.851(d)(2) (Time Limitation). We discuss the more significant rule amendments below.
+ AMENDMENTS  
+The Florida Rules of Judicial Administration
+First, Rule of Judicial Administration 2.215 (Trial Court Administration) is  [*1173]  amended to provide that the chief judge in a circuit shall monitor the status of all postconviction or collateral relief proceedings for defendants sentenced to death, beginning at the time this Court issues [**6]  the mandate affirming the death sentence. Additionally, capital postconviction cases are added to the list of "priority cases" in subdivision (g) (Duty to Expedite Priority Cases) that should be expedited to the extent reasonably possible.
+We also amend Rule of Judicial Administration 2.535 (Court Reporting), as proposed, to prohibit the use of digital court reporting as the primary court reporting system in trials where the state seeks the death penalty or in capital postconviction proceedings. The Subcommittee indicates its goal is that the circuit courts will use real-time transcription services to the extent possible.
+ The Florida Rules of Criminal Procedure
+In the Rules of Criminal Procedure, rule 3.112 (Minimum Standards for Attorneys in Capital Cases), is amended to add new subdivision (k) (Qualifications of Lead Counsel in Capital Postconviction Proceedings), which provides minimum qualifications for the attorney serving as lead counsel for the defendant in a capital postconviction case. Specifically, the lead attorney must have been a member of any state Bar for at least five years, and must have at least three years of experience with postconviction litigation. Additionally, the lead counsel must have participated in a total of five proceedings in any of the following categories: [**7]  (a) capital trials; (b) capital sentencings; (c) capital postconviction evidentiary hearings; (d) capital collateral postconviction appeals; or (e) capital federal habeas corpus proceedings. At least two of the five proceedings must have been capital postconviction evidentiary hearings or postconviction appeals, or federal habeas proceedings.
+With regard to these new minimum qualifications, Capital Collateral Regional Counsel urges the Court to require that the lead postconviction attorney have experience in handling federal habeas petitions. While we share Capital Collateral Regional Counsel's concern that a significant number of attorneys in Florida have apparently failed to meet federal filing deadlines in recent years, we ultimately defer to the Subcommittee and adopt new subdivision (k) as proposed. We believe the Subcommittee's proposal strikes the appropriate balance between requiring that attorneys have relevant experience, and adopting qualifications standards so stringent that it may prove difficult to find qualified lead counsel in some circuits.
+We also note that the qualifications in rule 3.112(k) are intended to apply only to the lead attorney handling a defendant's postconviction case; attorneys [**8]  that do not meet the new requirements are still permitted to assist the lead attorney in the representation. As provided in rule 3.112(c) (Applicability), the requirements in new subdivision (k) will apply to attorneys who are appointed or retained on or after April 1, 2015.
+Next, we make a number of amendments to Rule of Criminal Procedure 3.851 (Collateral Relief After Death Sentence has been Imposed and Affirmed on Direct Appeal).
+First, and perhaps most significantly, we add new subdivision (b)(6) (Appointment of Postconviction Counsel) to rule 3.851 to provide that a defendant who has been sentenced to death may not represent himself or herself in a capital postconviction case in state court; he or she must be represented by an attorney. Indeed, the only basis on which a defendant may seek to dismiss counsel is pursuant to statute due to an actual conflict, or pursuant to rule 3.851(i) (Dismissal of Postconviction  [*1174]  Proceedings). A defendant sentenced to death does not have a right to self-representation on direct appeal under either the United States or Florida Constitutions, and we have previously held that we will not accept pro se filings in direct appeals in capital cases. See Davis v. State, 789 So. 2d 978, 980-81 (Fla. 2001); see also Martinez v. Court of Appeal of Cal., 528 U.S. 152, 120 S. Ct. 684, 145 L. Ed. 2d 597 (2000). We have also held that defendants sentenced to death may not appear pro se in any postconviction [**9]  appeals. See Gordon v. State, 75 So. 3d 200, 202 (Fla. 2011). In adopting the Subcommittee's proposal, we now extend the prohibition against self-representation to include postconviction proceedings in the trial court. We agree with the Subcommittee that this change is consistent with our overarching goal to provide a fair and reliable postconviction process. As we stated in Gordon, "[w]e recognize that 'we have a constitutional responsibility to ensure the death penalty is administered in a fair, consistent and reliable manner, as well as having an administrative responsibility to work to minimize the delays inherent in the postconviction process'" and we believe these principles are best served when defendants in postconviction proceedings are represented by counsel. Id. (citing Arbelaez v. Butterworth, 738 So. 2d 326, 326-27 (Fla. 1999)). This new provision shall apply to all postconviction motions filed on or after January 1, 2015.
+Next, subdivision (c)(1) (Preliminary Procedures; Judicial Assignment and Responsibilities) of rule 3.851 is amended to provide that the judge assigned to a capital postconviction case is responsible for case management in order to ensure compliance with statutes, rules, and administrative orders that impose processing steps, time deadlines, and reporting requirements. Beginning from the [**10]  time of the assignment, the judge must issue case management orders for every step of the capital postconviction process. We also amend subdivision (c)(4) (Preliminary Procedures; Duties of Defense Counsel) to require a defendant's trial attorney to provide postconviction counsel with a copy of his or her original file, including all work product not otherwise subject to a protective order and all information pertaining to the case that was created and obtained during the representation. As we stated in Long v. Dillinger, 701 So. 2d 1168, 1169 (Fla. 1997), an attorney's original file is the property of the attorney, and the attorney is not required to surrender the original file to collateral counsel. However, collateral counsel is permitted to view and inspect the trial attorney's entire original file, and may obtain a copy of the file, at collateral counsel's expense.
+In subdivision (d)(2) (Time Limitation) of rule 3.851, the Subcommittee proposed new time limits to bring successive postconviction motions alleging newly discovered evidence or claims involving retroactive application of a newly announced rule of constitutional law. Currently, our case law provides that successive postconviction motions alleging newly discovered evidence must be filed within one year after the new [**11]  facts were discovered. See, e.g., Jimenez v. State, 997 So. 2d 1056, 1064 (Fla. 2008) ("To be considered timely filed as newly discovered evidence, the successive rule 3.851 motion was required to have been filed within one year of the date upon which the claim became discoverable through due diligence."). The Subcommittee's revised proposal would require that these claims be raised within 180 days; it would also require that claims based on a new fundamental constitutional right must be brought within 180 days after issuance of the mandate of the decision announcing retroactivity. Capital Collateral Regional Counsel objects to the new time frames, arguing that the time limits are too restrictive and will place a significant strain on  [*1175]  their resources. Based on these comments, and the discussion at oral argument, we decline to adopt the Subcommittee's new time frames in subdivision (d)(2).
+Subdivision (e) (Contents of Motion) of rule 3.851 is amended to provide new requirements for organizing an initial postconviction motion. We have modified the Subcommittee's revised proposal to provide that each claim or subclaim in the motion shall be separately pled and sequentially numbered. Also in subdivision (e), we eliminate the requirement that capital postconviction motions be filed under oath. The rule now [**12]  requires that the postconviction motion contain a certification from the attorney filing it that he or she discussed the contents of the motion fully with the defendant, that the attorney has complied with Rule Regulating the Florida Bar 4-1.4,2  and that the motion is filed in good faith. We agree with the Subcommittee that this provision should be sufficient to ensure that postconviction motions will be presented in good faith, and contain no frivolous or meritless claims.
+Next, we amend subdivision (f) (Procedure; Evidentiary Hearing; Disposition) of rule 3.851 to: require that a motion to amend a postconviction motion must be filed at least forty-five days before the evidentiary hearing; provide that the [**13]  trial judge shall conduct an evidentiary hearing on a successive postconviction motion within ninety days (rather than sixty days) after a case management conference; authorize the trial court to take witness testimony at the hearing by "contemporaneous video communication equipment," with or without the consent of any party; and direct that the transcripts of the evidentiary hearing shall be filed within ten days if real-time transcription was used, or forty-five days if real-time transcription was not used. We also amend subdivision (f) to authorize the trial court to accept written closing arguments from the parties. The written arguments must be filed by both parties within thirty days of the filing of the transcript, they shall conform to the requirements for a brief, they shall not exceed sixty pages in length without leave from the trial court, and they shall include proposed findings of fact and conclusions of law. If the trial court does permit written closing arguments, it shall render its final order within thirty days after the filing of the last written closing argument, and no later than sixty days from the filing of the transcript; if the court does not permit written closing arguments, [**14]  the final order shall be rendered within thirty days after the filing of the transcript. Subdivision (f) is further amended to require that all expert witnesses who will testify at the evidentiary hearing must submit written reports that will be disclosed to opposing counsel. Additionally, the subdivision is amended to provide that the trial court shall enter an order on any motion for rehearing within thirty days (rather than fifteen days); if the court does not render an order on rehearing in thirty days, the motion is deemed denied.
+Lastly in rule 3.851, we add a new subdivision (j) (Attorney General Notification to Clerk), which requires the Attorney General to notify the Clerk of this Court when it believes a defendant has completed his or her direct appeal, initial postconviction proceedings in state court, and habeas corpus  [*1176]  proceedings and appeal in federal court, and to serve a copy of the notification on the defendant's counsel. This new rule is intended to assist the Clerk of this Court in complying with section 922.052, Florida Statutes (2013).3 
+Turning next to Rule of Criminal Procedure 3.852 (Capital Postconviction Public Records Production), we amend the rule as proposed by the Subcommittee, with some modifications, in an effort to streamline the public records production process. In subdivision (d) (Action Upon Issuance of Mandate), we have revised the Subcommittee's proposed amendment to provide that the Attorney General shall make a good faith effort to assist in the timely production of public records. Similarly, we have revised the Subcommittee's proposal in subdivision (e) (Action Upon Receipt of Notice of Mandate) to require the state attorney to make a good faith effort to assist in the timely production of public records.
+Also in rule 3.852, new subdivision (f)(3) (Exempt or Confidential Public Records) requires collateral counsel to file a motion for an in camera inspection of sealed records within thirty days after receiving notice of delivery of the records to the central records repository. If the motion is not timely filed, the in camera inspection will be deemed waived. We also amend subdivision (g) (Demand for Additional Public Records) to provide [**16]  that the trial court shall hear and rule on any objection to a demand for additional public records no later than the next ninety-day status conference.
+ The Florida Rules of Appellate Procedure
+We amend Florida Rule of Appellate Procedure 9.142(a)(1)(B) (Procedures for Review in Death Penalty Cases; Procedure in Death Penalty Appeals; Record) to provide that the clerk of the trial court shall retain a copy of the complete record when it transmits the record to this Court on appeal.
+ Case Management Orders
+As noted, the Subcommittee also proposes four new form case management orders. Each of the four orders outlines the responsibilities of the relevant participants and the actions each is required to take. The first order is to be used following the chief judge's assignment of a trial judge to preside in a capital postconviction proceeding; the second order would be used following the United States Supreme Court's disposition of the petition for writ of certiorari, or after expiration of the time to file a certiorari petition; the third order is designed for use after the defendant files his or her initial postconviction motion; and the fourth order is to be used following the case management conference. While we authorize these four form [**17]  orders for use, we express no opinion as to their correctness. The Subcommittee indicates that the orders will be posted to the Court's Educational Resources for Judges and Lawyers website, and distributed to judges at the annual "Handling Capital Cases" course and refresher course.
+ CONCLUSION
+We wish to thank the Subcommittee for its diligent and thorough work to improve the quality and efficiency of the capital  [*1177]  postconviction process in this state. We also thank those who submitted comments in this matter for their valuable input. Additionally, we would like to acknowledge the excellent work of the trial courts, which have taken steps to ensure that capital postconviction cases are timely processed, consistent with the goals stated in In re Circuit Court Death Penalty Postconviction Proceedings—Reporting and Processing Requirements, Fla. Admin. Order No. AOSC11-32.
+Accordingly, we amend the Florida Rules of Judicial Administration, the Florida Rules of Criminal Procedure, and the Florida Rules of Appellate Procedure as set forth in the appendix to this opinion. New language is indicated by underscoring; deletions are indicated by struck-through type. The amendments shall become effective [**18]  on January 1, 2015, at 12:01 a.m., except that the new minimum qualifications in Rule of Criminal Procedure 3.112(k) will apply to attorneys appointed or retained on or after April 1, 2015.
+It is so ordered.
+ [*1178contd]  
+[EDITOR'S NOTE: The page numbers of this document may appear to be out of sequence; however, this pagination accurately reflects the pagination of the original published document.]
+LABARGA, C.J., and PARIENTE, QUINCE, and PERRY, JJ., concur.
+LEWIS, J., concurs with an opinion.
+CANADY, J., concurs in part and dissents in part with an opinion in which POLSTON, J., concurs.
+ APPENDIX  
+THE FLORIDA RULES OF JUDICIAL ADMINISTRATION
+RULE 2.215. TRIAL COURT ADMINISTRATION
+(a) [No change]
+(b) Chief Judge.
+(1) - (6) [No change]
+[EDITOR'S NOTE: TEXT IN ITALICS IS UNDERLINED IN THE SOURCE.]
+(7) The chief judge shall regulate the use of all court facilities, regularly examine the dockets of the courts under the chief judge's administrative supervision, and require a report on the status of the matters on the dockets. The chief judge may take such action as may be necessary to cause the dockets to be made current. The chief judge shall monitor the status of all 
+pending postconviction or collateral relief proceedings 
+brought byfor defendants who have been sentenced to death from the time that the mandate affirming the death sentence has been issued by the supreme court and shall take the necessary actions to assure that such cases [**19]  proceed without undue delay. On the first day of every January, April, July, and October, the chief judge shall inform the chief justice of the supreme court of the status of all such 
+pendingcases.
+(8) - (13) [No change]
+(c) - (f) [No change]
+(g) Duty to Expedite Priority Cases. Every judge has a duty to expedite priority cases to the extent reasonably possible. Priority cases are those cases that have been assigned a priority status or assigned an expedited disposition schedule by statute, rule of procedure, case law, or otherwise. Particular attention shall be given to all juvenile dependency and termination of parental rights cases, cases involving families and children in need of services, 
+andchallenges involving elections and proposed constitutional amendments, and capital postconviction cases. As part of an effort to make capital postconviction cases a priority, the chief judge shall have the discretion to create a postconviction division to handle capital postconviction, as well as non-capital postconviction cases, and may assign one or more judges to that division.
+(h) - (i) [No change]
+ Committee Notes
+[No change]
+ Court Commentary
+[No change]
+ Criminal Court Steering Committee Note
+2014 [**20]  Amendment. Capital postconviction cases were added to the list of priority cases.
+RULE 2.535. COURT REPORTING
+(a) - (h) [No change]
+(i) Court Reporting Services in Capital Cases. The chief judge, after consultation with the circuit court judges in the circuit, shall enter an administrative order developing and implementing a circuit-wide plan for court reporting in all trials in which the state seeks the death penalty and in capital postconviction proceedings. The plan shall prohibit the use of digital court reporting as the primary court reporting system and shall require the use of all measures necessary to expedite the preparation of the transcript, including but not limited to:
+(1) where available, the use of an approved court reporter who has the capacity to provide real-time transcription of the proceedings;
+(2) if real-time transcription services are not available, the use of a computer-aided transcription qualified court reporter;
+(3) the use of scopists, text editors, alternating court reporters, or other  [*1179]  means to expedite the finalization of the certified transcript; and
+(4) the imposition of reasonable restrictions on work assignments by employee or contract approved court reporters to ensure [**21]  that transcript production in capital cases is given a priority.
+(j) [No change]
+ Committee Note
+[No change]
+ THE FLORIDA RULES OF CRIMINAL PROCEDURE
+RULE 3.112. MINIMUM STANDARDS FOR ATTORNEYS IN CAPITAL CASES
+(a) - (b) [No change]
+(c) Applicability. This rule applies to all defense counsel handling capital trials and capital appeals, who are appointed or retained on or after July 1, 2002.Subdivision (k) of this rule applies to all lead counsel handling capital postconviction cases, who are appointed or retained on or after April 1, 2015.
+(d) - (e) [No change]
+(f) LeadTrial Counsel. Lead trial counsel assignments should be given to attorneys who:
+(1) are members of the bar admitted to practice in the jurisdiction or admitted to practice pro hac vice; and
+(2) are experienced and active trial practitioners with at least five years of litigation experience in the field of criminal law; and
+(3) have prior experience as lead counsel in no fewer than nine state or federal jury trials of serious and complex cases which were tried to completion, as well as prior experience as lead defense counsel or cocounsel in at least two state or federal cases tried to completion in which the death penalty was sought. In addition, of the nine jury [**22]  trials which were tried to completion, the attorney should have been lead counsel in at least three cases in which the charge was murder; or alternatively, of the nine jury trials, at least one was a murder trial and an additional five were felony jury trials; and
+(4) are familiar with the practice and procedure of the criminal courts of the jurisdiction; and
+(5) are familiar with and experienced in the utilization of expert witnesses and evidence, including but not limited to psychiatric and forensic evidence; and
+(6) have demonstrated the necessary proficiency and commitment which exemplify the quality of representation appropriate to capital cases, including but not limited to the investigation and presentation of evidence in mitigation of the death penalty; and
+(7) have attended within the last two years a continuing legal education program of at least twelve hours' duration devoted specifically to the defense of capital cases.
+(g) - (j) [No change]
+(k) Qualifications of Lead Counsel in Capital Postconviction Proceedings. In order to serve as lead counsel, as set forth in rule 3.851, for the defendant in a capital postconviction proceeding, an attorney shall have:
+(1) been a member of any bar for [**23]  at least 5 years; and
+(2) at least 3 years of experience in the field of postconviction litigation; and
+(3) prior participation in a combined total of 5 proceedings in any of the following areas, at least 2 of which shall be from subdivision (k)(3)(C), (k)(3)(D), or (k)(3)(E) below:
+(A) capital trials;
+(B) capital sentencings;
+ [*1180]  (C) capital postconviction evidentiary hearings;
+(D) capital collateral postconviction appeals;
+(E) capital federal habeas proceedings.
+(
+kl) Exceptional Circumstances. In the event that the trial court determines that exceptional circumstances require 
+appointment ofcounsel not meeting the requirements of this rule, the trial court shall enter an order specifying, in writing, the exceptional circumstances requiring deviation from the rule and the court's explicit determination that counsel chosen will provide competent representation in accord with the policy concerns of the rule.
+ Committee Comments
+[No change]
+ Criminal Court Steering Committee Note
+2014 Amendment. The Steering Committee added minimum requirements for lead counsel in capital postconviction proceedings to ensure a requisite level of expertise in capital postconviction cases and to permit the State the opportunity to seek opt-in treatment pursuant [**24]  to 28 U.S.C. §§ 2261-2266.
+RULE 3.851. COLLATERAL RELIEF AFTER DEATH SENTENCE HAS BEEN IMPOSED AND AFFIRMED ON DIRECT APPEAL
+(a) Scope. This rule shall apply to all postconviction proceedings that commence upon issuance of the appellate mandate affirming the death sentence to include all motions and petitions for any type of postconviction or collateral relief brought by a 
+prisonerdefendant in state custody who has been sentenced to death and whose conviction and death sentence have been affirmed on direct appeal. It shall apply to all postconviction motions filed on or after 
+October 1, 2001January 1, 2015, by 
+prisonersdefendants who are under sentence of death. Motions pending on that date are governed by the version of this rule in effect immediately prior to that date.
+(b) Appointment of Postconviction Counsel.
+(1) [No Change]
+(2) Within 30 days of the issuance of the mandate, the Capital Collateral Regional Counsel or Registry Counsel shall file either a notice of appearance 
+in the trial courtor a motion to withdraw 
+based on a conflict of interest or some other legal groundin the trial court. Motions to withdraw filed more than 30 days after the issuance of the mandate shall not be entertained unless based on a 
+specific [**25] conflict of interest as set forth in section 27.703, Florida Statutes.
+(3) [No Change]
+(4) In every capital postconviction case, one lawyer shall be designated as lead counsel for the defendant. The lead counsel shall be the defendant's primary lawyer in all state court litigation. No lead counsel shall be permitted to appear for a limited purpose on behalf of a defendant in a capital postconviction proceeding.
+(5) After the filing of a notice of appearance, Capital Collateral Regional Counsel, Registry Counsel, or a private attorney shall represent the defendant in the state courts until a judge allows withdrawal or until the sentence is reversed, reduced, or carried out, regardless of whether another attorney represents the defendant in a federal court.
+(6) A defendant who has been sentenced to death may not represent himself or herself in a capital postconviction proceeding in state court. The only bases for a defendant to seek to dismiss postconviction counsel in state court  [*1181]  shall be pursuant to statute due to actual conflict or subdivision (i) of this rule.
+(c) Preliminary Procedures.
+(1) Judicial Assignment and Responsibilities. Within 30 days of the issuance of mandate affirming a judgment and sentence of death on direct appeal, [**26]  the chief judge shall assign the case to a judge qualified under the Rules of Judicial Administration to conduct capital proceedings.The assigned judge is responsible for case management to ensure compliance with statutes, rules, and administrative orders that impose processing steps, time deadlines, and reporting requirements for capital postconviction litigation. From the time of assignment, the judge must issue case management orders for every step of the capital postconviction process, including at the conclusion of all hearings and conferences.
+(2) [No Change]
+(3) 
+Prisoner'sDefendant's Presence Not Required. The 
+prisoner'sdefendant's presence shall not be required at any hearing or conference held under this rule, except at the evidentiary hearing on the merits of any claim and at any hearing involving conflict with or removal of collateral counsel.
+(4) Duties of Defense Counsel. Within 45 days of appointment of postconviction counsel, the defendant's trial counsel shall provide to postconviction counsel a copy of the original file including all work product not otherwise subject to a protective order and 
+allinformation pertaining to the defendant's capital case which was created [**27]  and obtained during the representation of the defendant. Postconviction counsel shall maintain the confidentiality of all confidential information received.Postconviction counsel shall bear the costs of any copying. The defendant's trial counsel must retain the defendant's original file.
+(5) Record on Direct Appeal. The Clerk of the Circuit Court shall retain a copy of the record for the direct appeal when the record is transmitted to the Supreme Court of Florida. The Clerk of the Supreme Court of Florida shall 
+promptlydeliver the record on appeal to the records repositorywithin 30 days after the appointment of postconviction counsel.
+(d) Time Limitation.
+(1) Any motion to vacate judgment of conviction and sentence of death shall be filed by the 
+prisonerdefendant within 1 year after the judgment and sentence become final. For the purposes of this rule, a judgment is final:
+(A) on the expiration of the time permitted to file in the United States Supreme Court a petition for writ of certiorari seeking review of the Supreme Court of Florida decision affirming a judgment and sentence of death (90 days after the opinion becomes final); or
+(B) on the disposition of the petition for writ of certiorari [**28]  by the United States Supreme Court, if filed.
+(2) [No Change]
+(3) All petitions for extraordinary relief in which the Supreme Court of Florida has original jurisdiction, including petitions for writs of habeas corpus, shall be filed simultaneously with the initial brief filed on behalf of the death-sentenced 
+prisonerdefendant in the appeal of the circuit court's order on the initial motion for postconviction relief filed under this rule.
+(4) 
+The time limitation in subdivision (d)(1) is established with the understanding that each death-sentenced prisoner will have counsel assigned and available to begin addressing the prisoner's postconviction issues within the time specified in this rule. Should [*1182]  If the governor signs a death warrant before the expiration of the time limitation in subdivision (d)(1), the Supreme Court of Florida, on a defendant's request, will grant a stay of execution to allow any postconviction relief motions to proceed in a timely and orderly manner. 
+Furthermore, this time limitation shall not preclude the right to amend or to supplement pending pleadings under these rules.
+(5) An extension of time may be granted by the Supreme Court of Florida for the filing of postconviction pleadings if the 
+prisoner's [**29] defendant's counsel makes a showing 
+of good cause for counsel's inabilitythat due to exceptional circumstances, counsel was unable to file the postconviction pleadings within the 1-year period established by this rule.
+(e) Contents of Motion.
+(1) Initial Motion. A motion filed under this rule is an initial postconviction motion if no state court has previously ruled on a postconviction motion challenging the same judgment and sentence. An initial motion and memorandum of law filed under this rule shall not exceed 75 pages exclusive of the attachments.Each claim or subclaim shall be separately pled and shall be sequentially numbered beginning with claim number 1. If upon motion or upon the court's own motion, a judge determines that this portion of the rule has not been followed, the judge shall give the movant 30 days to amend. If no amended motion is filed, the judge shall deem the non-compliant claim, subclaim, and/or argument waived. Attachments shall include, but are not limited to, the judgment and sentence. The memorandum of law shall set forth the applicable case law supporting the granting of relief as to each separately pled claim. This rule does not authorize relief based upon [**30]  claims that could have or should have been raised at trial and, if properly preserved, on direct appeal of the judgment and sentence. If claims that were raised on appeal or should have or could have been raised on appeal are contained in the motion, the memorandum of law shall contain a brief statement explaining why these claims are being raised on postconviction relief. The motion 
+shall be under oath andneed not be under oath or signed by the defendant but shall include:
+(A) a description of the judgment and sentence under attack and the 
+name of thecourt that rendered the same;
+(B) a statement of each issue raised on appeal and the disposition thereof;
+(C) the nature of the relief sought;
+(D) a detailed allegation of the factual basis for any claim for which an evidentiary hearing is sought;
+and
+(E) a detailed allegation as to the basis for any purely legal or constitutional claim for which an evidentiary hearing is not required and the reason that this claim could not have been or was not raised on direct appeal; and
+.
+(F) a certification from the attorney that he or she has discussed the contents of the motion fully with the defendant, that he or she has complied with Rule 4-1.4 of the Rules of [**31]  Professional Conduct, and that the motion is filed in good faith.
+(2) Successive Motion. A motion filed under this rule is successive if a state court has previously ruled on a postconviction motion challenging the same judgment and sentence.A claim raised in a successive motion shall be dismissed if the trial court finds that it fails to allege new or different grounds  [*1183]  or relief and the prior determination was on the merits; or, if new and different grounds are alleged, the trial court finds that the failure to assert those grounds in a prior motion constituted an abuse of the procedure; or, if the trial court finds there was no good cause for failing to assert those grounds in a prior motion; or, if the trial court finds the claim fails to meet the time limitation exceptions set forth in subdivision (d)(2)(A), (d)(2)(B), or (d)(2)(C).
+A successive motion shall not exceed 25 pages, exclusive of attachments, and shall include:
+(A) - (B) [No Change]
+(C) if based upon newly discovered evidence, 
+Brady v. MarylandBrady v. Maryland, 373 U.S. 83, 83 S. Ct. 1194, 10 L. Ed. 2d 215 (1963), or 
+Giglio v. United States Giglio v. United States, 405 U.S. 150, 92 S. Ct. 763, 31 L. Ed. 2d 104 (1972), the following:
+(i) the names, addresses, and telephone numbers of all witnesses supporting the claim;
+(ii) a statement that the witness will be available, should an evidentiary hearing be [**32]  scheduled, to testify under oath to the facts alleged in the motion or affidavit;
+(iii) if evidentiary support is in the form of documents, copies of all documents shall be attached, including any affidavits obtained; and
+(iv) as to any witness or document listed in the motion or attachment to the motion, a statement of the reason why the witness or document was not previously available.
+(f) Procedure; Evidentiary Hearing; Disposition.
+(1) - (2) [No Change]
+(3) Answer.
+(A) Answer to the Initial Motion. Within 60 days of the filing of an initial motion, the state shall file its answer. The answer and accompanying memorandum of law shall not exceed 75 pages, exclusive of attachments and exhibits. The answer shall address the legal insufficiency of any claim in the motion, respond to the allegations of the motion, and address any procedural bars.The answer shall use the same claim numbering system contained in the defendant's initial motion. As to any claims of legal insufficiency or procedural bar, the state shall include a short statement of any applicable case law.
+(B) Answer to a Successive Motion. Within 20 days of the filing of a successive motion, the state shall file its answer. The [**33]  answer shall not exceed 25 pages, exclusive of attachments and exhibits.The answer shall use the same claim numbering system contained in the defendant's motion. The answer shall specifically respond to each claim in the motion and state the reason(s) that an evidentiary hearing is or is not required.
+(4) Amendments. A motion filed under this rule may not be amended 
+up to 30 days prior to the evidentiary hearing upon motion andunless good cause is shown.
+The trial court may in its discretion grant a motion to amend provided that the motion sets forth the reason the claim was not raised earlier and attaches aA copy of the claim sought to be addedmust be attached to the motion to amend. The trial court may in its discretion grant a motion to amend provided that the motion to amend was filed at least 45 days before the scheduled evidentiary hearing. Granting a motion under this subdivision shall not be a basis for granting a continuance of the [*1184]  evidentiary hearing unless a manifest injustice would occur if a continuance was not granted. If amendment is allowed, the state shall file an amended answer within 20 days after the 
+amended motion is filed judge allows the motion to be amended.
+(5) [**34]  Case Management Conference; Evidentiary Hearing.
+(A) [No Change]
+(B) Successive Postconviction Motion. Within 30 days after the state files its answer to a successive motion for postconviction relief, the trial court shall hold a case management conference. At the case management conference, the trial court also shall determine whether an evidentiary hearing should be held and hear argument on any purely legal claims not based on disputed facts. If the motion, files, and records in the case conclusively show that the movant is entitled to no relief, the motion may be denied without an evidentiary hearing. If the trial court determines that an evidentiary hearing should be held, the court shall schedule the hearing to be held within 
+6090 days. If a death warrant has been signed, the trial court shall expedite these time periods in accordance with subdivision (h) of this rule.
+(C) [No Change]
+(D) Taking Testimony. Upon motion, or upon its own motion and without the consent of any party, the court may permit a witness to testify at the evidentiary hearing by contemporaneous video communication equipment that makes the witness visible to all parties during the testimony. There must be appropriate safeguards [**35]  for the court to maintain sufficient control over the equipment and the transmission of the testimony so the court may stop the communication to accommodate objections or prevent prejudice. If testimony is taken through video communication equipment, there must be a notary public or other person authorized to administer oaths in the witness's jurisdiction who is present with the witness and who administers the oath consistent with the laws of the jurisdiction where the witness is located. The cost for the use of video communication equipment is the responsibility of either the requesting party or, if upon its own motion, the court.
+(
+DE) Procedures After Evidentiary Hearing. Immediately following an evidentiary hearing, the trial court shall order a transcript of the hearing, which shall be filed within 
+30 days. Within 30 days of receipt of the transcript, the court shall render its order, ruling on each claim considered at the evidentiary hearing and all other claims raised in the motion, making detailed findings of fact and conclusions of law with respect to each claim, and attaching or referencing such portions of the record as are necessary to allow for meaningful appellate review. [**36]  The order issued after the evidentiary hearing shall resolve all the claims raised in the motion and shall be considered the final order for purposes of appeal. The clerk of the trial court shall promptly serve upon the parties and the attorney general a copy of the final order, with a certificate of service.10 days if real-time transcription was utilized, or within 45 days if real-time transcription was not utilized. The trial judge may permit written closing arguments instead of oral closing arguments. If the trial court permits the parties to submit written closing arguments, the arguments shall be filed [*1185]  by both parties within 30 days of the filing of the transcript of the hearing. No answer or reply arguments shall be allowed. Written arguments shall be in compliance with the requirements for briefs in rule 9.210(a)(1) and (a)(2), shall not exceed 60 pages without leave of court, and shall include proposed findings of facts and conclusions of law, with citations to authority and to appropriate portions of the transcript of the hearing.
+(F) Rendition of the Order. If the court does not permit written closing arguments, the court shall render its order within 30 days of the filing of the transcript of [**37]  the hearing. If the court permits written closing arguments, the court shall render its order within 30 days of the filing of the last written closing argument and no later than 60 days from the filing of the transcript of the hearing. The court shall rule on each claim considered at the evidentiary hearing and all other claims raised in the motion, making detailed findings of fact and conclusions of law with respect to each claim, and attaching or referencing such portions of the record as are necessary to allow for meaningful appellate review. The order issued after the evidentiary hearing shall resolve all the claims raised in the motion and shall be considered the final order for purposes of appeal. The clerk of the trial court shall promptly serve upon the parties and the attorney general a copy of the final order, with a certificate of service.
+(6) 
+Mental HealthExperts and Other Witnesses. All expert witnesses who will testify at the evidentiary hearing must submit written reports, which shall be disclosed to opposing counsel as provided in subdivision (f)(5)(A). If the defendant intends to offer expert testimony of his or her mental status, the state shall be entitled to have the defendant examined [**38]  by its own mental health expert. If the defendant fails to cooperate with the state's expert, the trial court may, in its discretion, proceed as provided in rule 3.202(e).
+Reports provided to either party by an expert witness shall be disclosed to opposing counsel upon receipt.
+(7) Rehearing. Motions for rehearing shall be filed within 15 days of the rendition of the trial court's order and a response thereto filed within 10 days thereafter. A motion for rehearing shall be based on a good faith belief that the court has overlooked a previously argued issue of fact or law or an argument based on a legal precedent or statute not available prior to the court's ruling. The trial court's order disposing of the motion for rehearing shall be rendered not later than 
+1530 days 
+thereafterfrom the filing of the motion for rehearing. If no order is filed within 30 days from the filing of the motion for rehearing, the motion is deemed denied. A motion for rehearing is not required to preserve any issue for review.
+(8) Appeals. Any party may appeal a final order entered on a defendant's motion for rule 3.851 relief by filing a notice of appeal with the clerk of the lower tribunal within 30 days of the rendition of the order [**39]  to be reviewed. Pursuant to the procedures outlined in Florida Rule of Appellate Procedure 9.142, a 
+prisonerdefendant under sentence of death may petition for a belated appeal.
+(g) Incompetence to Proceed in Capital Collateral Proceedings.
+(1) A death-sentenced 
+prisonerdefendant pursuing collateral relief under this rule who is found by the court to [*1186]  be mentally incompetent shall not be proceeded against if there are factual matters at issue, the development or resolution of which require the 
+prisoner'sdefendant's input. However, all collateral relief issues that involve only matters of record and claims that do not require the 
+prisoner'sdefendant's input shall proceed in collateral proceedings notwithstanding the 
+prisoner'sdefendant's incompetency.
+(2) Collateral counsel may file a motion for competency determination and an accompanying certificate of counsel that the motion is made in good faith and on reasonable grounds to believe that the death-sentenced 
+prisonerdefendant is incompetent to proceed. The motion and certificate shall replace the signed oath by the 
+prisonerdefendant that otherwise must accompany a motion filed under this rule.
+(3) If, at any stage of a postconviction proceeding, the court determines that there [**40]  are reasonable grounds to believe that a death-sentenced 
+prisonerdefendant is incompetent to proceed and that factual matters are at issue, the development or resolution of which require the 
+prisoner'sdefendant's input, a judicial determination of incompetency is required.
+(4) The motion for competency examination shall be in writing and shall allege with specificity the factual matters at issue and the reason that competent consultation with the 
+prisonerdefendant is necessary with respect to each factual matter specified. To the extent that it does not invade the lawyer-client privilege with collateral counsel, the motion shall contain a recital of the specific observations of, and conversations with, the death-sentenced 
+prisonerdefendant that have formed the basis of the motion.
+(5) If the court finds that there are reasonable grounds to believe that a death-sentenced 
+prisonerdefendant is incompetent to proceed in a postconviction proceeding in which factual matters are at issue, the development or resolution of which require the 
+prisoner'sdefendant's input, the court shall order the 
+prisonerdefendant examined by no more than 3, nor fewer than 2, experts before setting the matter for [**41]  a hearing. The court may seek input from the death-sentenced 
+prisoner'sdefendant's counsel and the state attorney before appointment of the experts.
+(6) [No Change]
+(7) Counsel for both the death-sentenced 
+prisonerdefendant and the state may be present at the examination, which shall be conducted at a date and time convenient for all parties and the Department of Corrections.
+(8) On appointment by the court, the experts shall examine the death-sentenced 
+prisonerdefendant with respect to the issue of competence to proceed, as specified by the court in its order appointing the experts to evaluate the 
+prisonerdefendant, and shall evaluate the 
+prisonerdefendant as ordered.
+(A) The experts first shall consider factors related to the issue of whether the death-sentenced 
+prisonerdefendant meets the criteria for competence to proceed, that is, whether the 
+prisonerdefendant has sufficient present ability to consult with counsel with a reasonable degree of rational understanding and whether the 
+prisonerdefendant has a rational as well as factual understanding of the pending collateral proceedings.
+(B) In considering the issue of competence to proceed, the experts shall consider and include in their [**42]  report:
+ [*1187]  i) the 
+prisoner'sdefendant's capacity to understand the adversary nature of the legal process and the collateral proceedings;
+(ii) the 
+prisoner'sdefendant's ability to disclose to collateral counsel facts pertinent to the postconviction proceeding at issue; and
+(iii) any other factors considered relevant by the experts and the court as specified in the order appointing the experts.
+(C) [No Change]
+(9) If the experts find that the death-sentenced 
+prisonerdefendant is incompetent to proceed, the experts shall report on any recommended treatment for the 
+prisonerdefendant to attain competence to proceed. In considering the issues relating to treatment, the experts shall report on:
+(A) the mental illness or intellectual disability causing the incompetence;
+(B) the treatment or treatments appropriate for the mental illness or intellectual disability of the 
+prisonerdefendant and an explanation of each of the possible treatment alternatives in order of choices; and
+(C) the likelihood of the 
+prisonerdefendant attaining competence under the treatment recommended, an assessment of the probable duration of the treatment required to restore competence, and the probability that the 
+prisonerdefendant [**43]  will attain competence to proceed in the foreseeable future.
+(10) Within 30 days after the experts have completed their examinations of the death-sentenced 
+prisonerdefendant, the court shall schedule a hearing on the issue of the 
+prisoner'sdefendant's competence to proceed.
+(11) If, after a hearing, the court finds the 
+prisonerdefendant competent to proceed, or, after having found the 
+prisonerdefendant incompetent, finds that competency has been restored, the court shall enter its order so finding and shall proceed with a postconviction motion. The 
+prisonerdefendant shall have 60 days to amend his or her rule 3.851 motion only as to those issues that the court found required factual consultation with counsel.
+(12) If the court does not find the 
+prisonerdefendant incompetent, the order shall contain:
+(A) findings of fact relating to the issues of competency;
+(B) copies of the reports of the examining experts; and
+(C) copies of any other psychiatric, psychological, or social work reports submitted to the court relative to the mental state of the death-sentenced 
+prisonerdefendant.
+(13) If the court finds the 
+prisonerdefendant incompetent or finds the 
+prisonerdefendant competent subject to the continuation [**44]  of appropriate treatment, the court shall follow the procedures set forth in rule 3.212(c), except that, to the extent practicable, any treatment shall take place at a custodial facility under the direct supervision of the Department of Corrections.
+(h) After Death Warrant Signed.
+(1) - (7) [No change]
+(8) Procedures After Hearing. The court shall obtain a transcript of all proceedings and shall render its order 
+in accordance with subdivision (f)(5)(D) of this rule as soon as possible after the hearing is concluded. A copy of the final order shall be electronically transmitted to the Supreme Court of Florida and to the attorneys of record.
+(9) [No change]
+ [*1188]  (i) Dismissal of Postconviction Proceedings.
+(1) This subdivision applies only when a 
+prisonerdefendant seeks both to dismiss pending postconviction proceedings and to discharge collateral counsel.
+(2) If the 
+prisonerdefendant files the motion pro se, the Clerk of the Court shall serve copies of the motion on counsel of record for both the 
+prisonerdefendant and the state. Counsel of record may file responses within 10 days.
+(3) The trial judge shall review the motion and the responses and schedule a hearing. The 
+prisonerdefendant, collateral counsel, and the state shall be [**45]  present at the hearing.
+(4) The judge shall examine the 
+prisonerdefendant at the hearing and shall hear argument of the 
+prisonerdefendant, collateral counsel, and the state. No fewer than 2 or more than 3 qualified experts shall be appointed to examine the 
+prisonerdefendant if the judge concludes that there are reasonable grounds to believe the 
+prisonerdefendant is not mentally competent for purposes of this rule. The experts shall file reports with the court setting forth their findings. Thereafter, the court shall conduct an evidentiary hearing and enter an order setting forth findings of competency or incompetency.
+(5) If the 
+prisonerdefendant is found to be incompetent for purposes of this rule, the court shall deny the motion without prejudice.
+(6) If the 
+prisonerdefendant is found to be competent for purposes of this rule, the court shall conduct a complete 
+(Durocher/Faretta) (Durocher/Faretta) inquiry to determine whether the 
+prisonerdefendant knowingly, freely and voluntarily wants to dismiss pending postconviction proceedings and discharge collateral counsel.
+(7) If the court determines that the 
+prisonerdefendant has made the decision to dismiss pending postconviction proceedings [**46]  and discharge collateral counsel knowingly, freely, and voluntarily, the court shall enter an order dismissing all pending postconviction proceedings and discharging collateral counsel. But if the court determines that the 
+prisonerdefendant has not made the decision to dismiss pending postconviction proceedings and discharge collateral counsel knowingly, freely, and voluntarily, the court shall enter an order denying the motion without prejudice.
+(8) If the court grants the motion:
+(A) a copy of the motion, the order, and the transcript of the hearing or hearings conducted on the motion shall be forwarded to the Clerk of the Supreme Court of Florida within 30 days; and
+(B) discharged counsel shall, within 10 days after issuance of the order, file with the clerk of the circuit court 2 copies of a notice seeking review in the Supreme Court of Florida, and shall, within 20 days after the filing of the transcript, serve an initial brief. Both the 
+prisonerdefendant and the state may serve responsive briefs. Briefs shall be served as prescribed by rule 9.210.
+(9) If the court denies the motion, the 
+prisonerdefendant may seek review as prescribed by Florida Rule of Appellate Procedure 9.142(b).
+(j) Attorney General Notification to Clerk. The Office [**47]  of the Attorney General shall notify the clerk of the supreme court when it believes the defendant has completed his or her direct appeal, initial postconviction proceeding in state court, and habeas corpus proceeding and appeal therefrom in federal court. The Office of  [*1189]  he Attorney General shall serve a copy of the notification on defendant's counsel of record.
+ Repeal
+[No Change]
+ Readoption
+[No Change]
+ Court Commentary
+[No change]
+ Criminal Court Steering Committee Note
+2014 Amendment. The rule was amended to comply with the "Timely Justice Act of 2013," chapter 2013-216, Laws of Florida, and to preclude extended postconviction litigation. Because the Sixth Amendment does not apply to postconviction proceedings, the Steering Committee concluded that a defendant has no constitutional right to self-representation in postconviction matters. The Steering Committee also concluded that the capital postconviction process would function more effectively if a defendant were represented by an attorney, unless the defendant seeks to dismiss postconviction proceedings and discharge counsel pursuant to subdivision (i). The Steering Committee concluded that the lead attorney should not be allowed to participate in capital postconviction [**48]  litigation on a limited basis and that the lead attorney should remain in the case until the litigation is concluded or until the court allows withdrawal. The Steering Committee also determined that the postconviction process would not work efficiently unless the trial judge was responsible for case management. Case management orders are required throughout the postconviction process in order to maintain a capital postconviction computer database.
+Under the amended rule, the clerk of the trial court is required to retain a copy of the record so that it will be available for postconviction litigation, especially following issuance of the death warrant. Additionally, the Steering Committee added provisions to the pleading requirements for motions and created a provision that allows for written closing argument memoranda, formalizing by rule a practice that is already utilized throughout the state in capital postconviction proceedings. In an effort to prevent delay, the amended rule requires written reports from experts who will testify at the evidentiary hearing, and allows for witnesses to testify via videoconferencing, even over the objections of the parties. Finally, the amended rule [**49]  requires the Attorney General to inform the Clerk of the Florida Supreme Court and the defendant's counsel of record when a defendant has completed his or her litigation in order for the Clerk to report to the Governor pursuant to Florida Statute 922.052.
+RULE 3.852. CAPITAL POSTCONVICTION PUBLIC RECORDS PRODUCTION
+(a) - (c) [No change]
+(d) Action Upon Issuance of Mandate.
+(1) Within 15 days after receiving written notification of the Supreme Court of Florida's mandate affirming the sentence of death, the attorney general shall file with the trial court a written notice of the mandate and serve a copy of it upon the state attorney who prosecuted the case, the Department of Corrections, and the defendant's trial counsel. The notice to the state attorney shall direct the state attorney to submit public records to the records repository within 90 days after receipt of written notification and to notify each law enforcement agency involved in the investigation of the capital offense, with [*1190]  a copy to the trial court, to submit public records to the records repository within 90 days after receipt of written notification. The notice to the Department of Corrections shall direct the department to submit public records to the records [**50]  repository within 90 days after receipt of written notification. The attorney general shall make a good faith effort to assist in the timely production of public records and written notices of compliance by the state attorney and the Department of Corrections with copies to the trial court.
+(2) Within 90 days after receiving written notification of issuance of the Supreme Court of Florida's mandate affirming a death sentence, the state attorney shall provide written notification to the attorney general and to the trial court of the name and address of any additional person or agency that has public records pertinent to the case.
+(3) Within 90 days after receiving written notification of issuance of the Supreme Court of Florida's mandate affirming a death sentence, the defendant's trial counsel shall provide written notification to the attorney general and to the trial court of the name and address of any person or agency with information pertinent to the case which has not previously been provided to collateral counsel.
+(4) Within 15 days after receiving written notification of any additional person or agency pursuant to subdivision (d)(2) or (d)(3) of this rule, the attorney general shall notify all persons [**51]  or agencies identified pursuant to subdivisions (d)(2) or (d)(3), with a copy to the trial court, that these persons or agencies are required by law to copy, index, and deliver to the records repository all public records pertaining to the case that are in their possession. The person or agency shall bear the costs related to copying, indexing, and delivering the records. The attorney general shall make a good faith effort to assist in the timely production of public records and a written notice of compliance by each additional person or agency with a copy to the trial court.
+(e) Action Upon Receipt of Notice of Mandate.
+(1) Within 15 days after receipt of a written notice of the mandate from the attorney general, the state attorney shall provide written notification to each law enforcement agency involved in the specific case to submit public records to the records repository within 90 days after receipt of written notification. A copy of the notice shall be served upon the defendant's trial counsel and the trial court. The state attorney shall make a good faith effort to assist in the timely production of public records and a written notice of compliance by each law enforcement agency with a copy to the trial [**52]  court.
+(2) Within 90 days after receipt of a written notice of the mandate from the attorney general, the state attorney shall copy, index, and deliver to the records repository all public records, in a current, nonproprietary technology format, that were produced in the state attorney's investigation or prosecution of the case. The state attorney shall bear the costs. The state attorney shall also provide written notification to the attorney general and the trial court of compliance with this section, including certifying that, to the best of the state attorney's knowledge or belief, all public records in the state attorney's possession have been copied, indexed, and delivered to the records repository as required by this rule.
+ [*1191]  3) Within 90 days after receipt of written notification of the mandate from the attorney general, the Department of Corrections shall copy, index, and deliver to the records repository all public records, in a current, nonproprietary technology format, determined by the department to be relevant to the subject matter of a proceeding under rule 3.851, unless such copying, indexing, and delivering would be unduly burdensome. In addition, the department shall provide a copy [**53]  of the defendant's medical, psychological, and psychiatric records to the defendant's counsel of record. The department shall bear the costs. The secretary of the department shall provide written notification to the attorney general and the trial court of compliance with this section certifying that, to the best of the secretary of the department's knowledge or belief, all such public records in the possession of the secretary of the department have been copied, indexed, and delivered to the records repository.
+(4) Within 90 days after receipt of written notification of the mandate from the state attorney, a law enforcement agency shall copy, index, and deliver to the records repository all public records, in a current, nonproprietary technology format, which were produced in the investigation or prosecution of the case. Each agency shall bear the costs. The chief law enforcement officer of each law enforcement agency shall provide written notification to the attorney general and the trial court of compliance with this section including certifying that, to the best of the chief law enforcement officer's knowledge or belief, all such public records in possession of the agency or in possession [**54]  of any employee of the agency, have been copied, indexed, and delivered to the records repository.
+(5) Within 90 days after receipt of written notification of the mandate from the attorney general, each additional person or agency identified pursuant to subdivision (d)(2) or (d)(3) of this rule shall copy, index, and deliver to the records repository all public records, in a current, nonproprietary technology format, which were produced during the prosecution of the case. The person or agency shall bear the costs. The person or agency shall provide written notification to the attorney general and the trial court of compliance with this subdivision and shall certify, to the best of the person or agency's knowledge and belief, all such public records in the possession of the person or agency have been copied, indexed, and delivered to the records repository.
+(f) Exempt or Confidential Public Records.
+(1) - (2) [No Change]
+(3) Collateral counsel must file a motion for in camera inspection within 30 days of receipt of the notice of delivery of the sealed records to the central records repository, or the in camera inspection will be deemed waived.
+(g) Demand for Additional Public Records.
+(1) Within 240 days after collateral [**55]  counsel is appointed, retained, or appears pro bono, such counsel shall send a written demand for additional public records to each person or [*1192]  agency submitting public records or identified as having information pertinent to the case under subdivision (d) of this rule, with a copy to the trial court. However, if collateral counsel was appointed prior to October 1, 2001, then within 90 days after collateral counsel is appointed, retained, or appears pro bono, such counsel shall send a written demand for additional public records to each person or agency submitting public records or identified as having information pertinent to the case under subdivision (d) of this rule.
+(2) Within 90 days of receipt of the written demand, each person or agency notified under this subdivision shall deliver to the records repository any additional public records in the possession of the person or agency that pertain to the case and shall certify to the best of the person or agency's knowledge and belief that all additional public records have been delivered to the records repository or, if no additional public records are found, shall recertify that the public records previously delivered are complete. To the extent that the additional [**56]  public records are the defendant's Department of Corrections' medical, psychological, or psychiatric records, the department shall also provide a copy to the defendant's counsel of record. A copy of each person's or agency's certification shall be provided to the trial court.
+(3) Within 60 days of receipt of the written demand, any person or agency may file with the trial court an objection to the written demand described in subdivision (g)(1). The trial court shall 
+hold a hearing and issue a ruling within 30 dayshear and rule on any objection no later than the next 90-day status conference after the filing of 
+anythe objection, ordering a person or agency to produce additional public records if the court determines each of the following exists:
+(A) Collateral counsel has made a timely and diligent search as provided in this rule.
+(B) Collateral counsel's written demand identifies, with specificity, those additional public records that are not at the records repository.
+(C) The additional public records sought are relevant to the subject matter of a proceeding under rule 3.851, or appear reasonably calculated to lead to the discovery of admissible evidence.
+(D) The additional public records request is not overly broad [**57]  or unduly burdensome.
+(h) - (i) [No change]
+
+(j) Copying of Public Records. Collateral counsel shall provide the personnel, supplies, and any necessary equipment to copy records held at the records repository.
+(
+kj) Authority of the Court. In proceedings under this rule the trial court may:
+(1) compel or deny disclosure of records;
+(2) conduct an in-camera inspection;
+(3) extend the times in this rule upon a showing of good cause;
+(4) require representatives from government agencies to appear at status conferences to address public records issues;
+(
+45) impose sanctions upon any party, person, or agency affected by this rule including initiating contempt proceedings, taxing expenses, extending time, ordering facts to be established, and granting other relief; and
+(
+56) resolve any dispute arising under this rule unless jurisdiction is in an appellate court.
+(
+lk) Scope of Production and Resolution of Production Issues.
+(1) - (2) [No Change]
+
+(3) The trial court may order mediation for any controversy as to public records production pursuant to this rule in accord with Florida Rules of Civil Procedure 1.700, 1.710, 1.720, 1.730, or the trial court may refer any such controversy to a magistrate in accord with Florida Rule of Civil Procedure 1.490.
+(
+m [*1193]  l) Destruction of Records Repository Records [**58] . Sixty days after a capital sentence is carried out, after a defendant is released from incarceration following the granting of a pardon or reversal of the sentence, or after a defendant has been resentenced to a term of years, the attorney general shall provide written notification of this occurrence to the secretary of state with service in accord with subdivision (c)(1). After the expiration of the 60 days, the secretary of state may then destroy the copies of the records held by the records repository that pertain to that case, unless an objection to the destruction is filed in the trial court and served upon the secretary of state and in accord with subdivision (c)(1). If no objection has been served within the 60-day period, the records may then be destroyed. If an objection is served, the records shall not be destroyed until a final disposition of the objection.
+ Repeal
+[No Change]
+ Readoption
+[No Change]
+Criminal Court Steering Committee Note
+2014 Amendment. The rule is amended to require the state attorney and attorney general to manage compliance with the public records process.
+ THE FLORIDA RULES OF APPELLATE PROCEDURE
+RULE 9.142. PROCEDURES FOR REVIEW IN DEATH PENALTY CASES
+(a) Procedure in Death Penalty Appeals.
+(1) Record.
+(A) [**59]  [No Change]
+(B) The complete record in a death penalty appeal shall include all items required by rule 9.200 and by any order issued by the supreme court. In any appeal following the initial direct appeal, the record that is electronically transmitted shall begin with the most recent mandate issued by the supreme court, or the most recent filing not already electronically transmitted in a prior record in the event the preceding appeal was disposed of without a mandate, and shall exclude any materials already transmitted to the supreme court as the record in any prior appeal. The clerk of the lower tribunal shall retain a copy of the complete record when it transmits the record to the Supreme Court.
+(C) [No Change]
+(2) - (5) [No Change]
+(b) - (d) [No change]
+ Committee Notes
+[No change]
+Criminal Court Steering Committee Note
+2014 Amendment. Rule 9.142(a)(1)(B) was amended for the clerk of the lower court to retain a copy of the complete record for use in a subsequent postconviction proceeding.
+IN THE CIRCUIT COURT OF THE (enter circuit number) JUDICIAL CIRCUIT
+IN AND FOR (enter county name) COUNTY, FLORIDA
+STATE OF FLORIDA,
+vs.
+(enter defendant's name),
+Defendant.
+FELONY DIVISION
+CASE NO. (enter case number)
+  [*1194]  FIRST CASE MANAGEMENT [**60]  ORDER AFTER ASSIGNMENT OF THE POSTCONVICTION JUDGE, APPOINTING COURT REPORTER, AND NOTICE OF FIRST STATUS CONFERENCE
+This capital postconviction case came before the court on its own motion for case management on (enter date judge assigned to case) when the undersigned judge was assigned to this case. The appellate mandate was issued on (enter date of mandate). It is the court's intent to implement case management procedures that comport with the timeframes specified in Florida Rules of Criminal Procedure 3.851 and 3.852, and Florida Statute, section 27.7081; to enable the timely entry of a final order within two years after the initial motion is filed. To accomplish this goal, the court finds and orders as follows.
+ The court will
+• conduct the first status conference within 90 days after the judicial assignment, and subsequent status conferences every 90 days thereafter.
+• appoint a court reporter by this order.
+• require that pleadings be e-mailed to the parties and staff attorney in addition to filing and normal service, or use e-filing procedures when implemented.
+• e-mail orders to the parties and staff attorney in addition to filing and normal service, or use e-filing procedures when implemented.
+• dispose of motions or objections requiring a hearing no later [**61]  than the next regularly scheduled status conference.
+• report the quarterly planning and status of case activities to the chief judge or person designated for reporting to the supreme court every January 1, April 1, July 1, and October 1, from the date of the mandate.
+• conduct all non-evidentiary hearings in (enter name of county where judge is assigned) where the judge is assigned absent objection by the parties, and will conduct the evidentiary hearing in (enter name of county where trial conducted) where the trial was conducted unless stipulated otherwise by the parties. [include this section for decentralized circuits only]
+• avoid setting hearings during the first full week of the month when the supreme court may schedule oral argument on other capital cases involving the same attorney general and collateral counsel.
+• determine the availability and accessibility of the trial transcripts and the trial appellate record as soon as practical.
+ The attorney general will
+• notice the mandate and public records requirements to the state attorney, the department of corrections, and trial counsel by (calculate and enter date = mandate + 15 days).
+• make a good faith effort to assist in the timely [**62]  production of public records and written notices compliance by the state attorney and the department of corrections by (calculate and enter date = mandate + 105 days).
+• notify additional persons or agencies identified by the state attorney and trial counsel of public records requirements by (calculate and enter date = mandate + 120 days).
+• make a good faith effort to assist in the timely production of public records and written notices of compliance by additional persons or agencies identified by the state attorney and trial counsel by (calculate and enter date = mandate + 210 days).
+  [*1195]  The state attorney will
+• notice law enforcement agencies of public records requirements by (calculate and enter date = mandate + 30 days).
+• notify the attorney general of additional persons or agencies with information pertinent to the case which has not previously been provided to collateral counsel by (calculate and enter date = mandate + 105 days).
+• make a good faith effort to assist in the timely production of public records and written notices of compliance by the law enforcement agencies by (calculate and enter date = mandate + 120 days).
+ Trial counsel will
+• provide a copy of the original file including [**63]  all work product not otherwise subject to a protective order to collateral counsel and file a notice of compliance by (calculate and enter date = mandate + 45 days).
+• notify the attorney general of additional persons or agencies with information pertinent to the case which has not previously been provided to collateral counsel by (calculate and enter date = mandate + 105 days).
+ Collateral counsel will
+• enter a notice of appearance or a motion to withdraw by (calculate and enter date = mandate + 30 days).
+• notify the court and the parties within 20 days of the date and disposition of the USSC petition for writ of certiorari, or the decision not to file a petition.
+• file a motion to compel production of public records within 20 days of any missed agency deadline and notice the agency to comply or appear at the next regularly scheduled status conference.
+• file a motion for in camera inspection within 30 days of receipt of a notice from the central records repository of the delivery of sealed records to the clerk, or the in camera inspection will be deemed waived.
+• file additional demands for public records by (calculate and enter date = mandate + 240 days).
+• file postproduction demands [**64]  for public records as soon as practical.
+A second case management order will be entered after disposition of the USSC petition for writ of certiorari, or 90 days after issuance of the mandate if no petition is filed.
+ Appointment of Court Reporter
+It is ORDERED THAT (enter name of court reporting agency, assign trial court reporter if possible), a court reporter from the list maintained by the Trial Court Administrator, is hereby appointed to take all proceedings in this postconviction matter.
+ Notice of First Status Conference
+The first status conference is set on (enter date and time), in (enter courtroom number and address). [(enter amount of time set aside for hearing) has been reserved for the hearing.] Parties may appear in person or by telephone. If appearing by telephone, (enter telephone conferencing arrangements.)
+DONE AND ORDERED in chambers in (enter chambers city), Florida, on (enter date and year).
+(enter judge's name)
+ [*1196contd]  
+[EDITOR'S NOTE: The page numbers of this document may appear to be out of sequence; however, this pagination accurately reflects the pagination of the original published document.]
+CIRCUIT JUDGE
+IN THE CIRCUIT COURT OF THE (enter circuit number) JUDICIAL CIRCUIT
+IN AND FOR (enter county name) COUNTY, FLORIDA
+STATE OF FLORIDA, vs. (enter defendant's name),Defendant.
+FELONY DIVISION
+CASE NO. (enter case number)
+  [*1197]  SECOND CASE MANAGEMENT ORDER FOLLOWING [**65]  DISPOSITION OF PETITION FOR WRIT OF CERTIORARI BY UNITED STATES SUPREME COURT [OR EXPIRATION OF TIME FOR FILING PETITION]
+This capital postconviction case comes before this Court for case management following the United States Supreme Court's disposition of the Defendant's Petition for Writ of Certiorari [or expiration of time for filing petition]. [The petition was disposed of on (enter date cert. disposed).] [or The time for filing a petition expired on (calculate mandate + 90 days).] Various timeframes contained in Florida Rule of Criminal Procedure 3.851 are triggered from the date of the disposition of the petition for writ of certiorari [or expiration of the time for filing petition].
+It is this Court's intention to establish a schedule of conferences and hearings in conformity with the timeframes contained in rule 3.851, so that a final order on defendant's capital postconviction motion can be rendered no later than (date = three years from date certiorari was disposed of or expiration date for filing petition), which is within two years after the initial capital postconviction motion is filed. To accomplish this, it is hereby ORDERED:
+ Defendant's capital collateral counsel shall:
+• File the initial rule 3.851 motion by (date = one year [**66]  from date USSC certiorari disposition or expiration date for filing petition).
+ The Office of State Attorney shall:
+• File its answer to the initial rule 3.851 motion by (date = initial motion filing date above + 60 days).
+ The Court will:
+• Schedule hearings, conferences and other proceedings within the following tentative timeframes absent the filing of an amended initial motion:
+○ Conduct the case management conference no later than (date = answer filing date above + 90 days).
+○ Order capital collateral counsel to produce, at the case management conference, all documentary exhibits, and to file at the conference an exhibit list and a witness list. All expert witnesses shall be specifically designated on the witness list, and all expert reports shall be attached to the witness list.
+○ Order the State to produce no later than (date = case management conference date above + 60 days) all documentary exhibits, and to file an exhibit list and a witness list. All expert witnesses shall be specifically designated on the witness list, and all expert reports shall be attached to the witness list.
+○ Conduct the evidentiary hearing no later than (date = case management conference date above + 150 days).
+○ Order [**67]  the court reporter to produce the evidentiary hearing transcript no later than (date = evidentiary hearing date above + 10 days if real-time transcription or + 45 days for other transcription).
+○ Order capital collateral counsel to file a simultaneous written closing arguments no later than (date = transcript production date above + 30 days).
+○ Order the state to file a simultaneous written closing argument no later [*1198]  than (date = transcript production date above + 30 days).
+○ Enter the final order by (date = transcript production date above + 60 days).
+• Commence quarterly chief judge reporting to the chief justice pursuant to AOSC11-32 after (date = initial motion filing date + 18 months), when the initial motion has been pending for 18 months.
+• Note that, pursuant to Florida Statutes, section the clerk of the supreme court will report, to the legislature, the status of this case and the name of the assigned judge to the legislature after (date = initial motion + 3 years), when the initial motion has been pending for more than 3 years.
+A third case management order will be entered after the initial capital postconviction motion is filed.
+DONE AND ORDERED in chambers in (enter chambers city) [**68] , Florida, on (enter date and year).
+(enter judge's name)
+CIRCUIT JUDGE
+ [*1199]  N THE CIRCUIT COURT OF THE (enter circuit number) JUDICIAL CIRCUIT
+IN AND FOR (enter county name) COUNTY, FLORIDA
+STATE OF FLORIDA, vs. (enter defendant's name), Defendant.
+FELONY DIVISION
+CASE NO. (enter case number)
+ THIRD CASE MANAGEMENT ORDER ON FILING OF INITIAL POSTCONVICTION MOTION AND NOTICE OF CASE MANAGEMENT CONFERENCE
+This capital postconviction case came before the court on its own motion for case management on the defendant's initial postconviction motion filed on (enter date initial motion filed). Timeframes in Florida Rule of Criminal Procedure 3.851 are derived from this date. It is the court's intent to set activities in timeframes [*1200]  that comport with the rule; to enable the timely entry of a final order by (calculate and enter date = two years from date initial motion filed above), two years after the initial motion is filed. To accomplish this goal, the court finds and orders as follows.
+ The court will
+• determine from collateral counsel whether leave to file an amended motion is requested, and if so whether the case management conference will be continued until after an amended answer is filed.
+• set the case management conference below, within [**69]  90 days after the answer is filed; or after the amended answer is filed, if required.
+ Collateral counsel will
+• file an amended motion by (enter date negotiated with the court, typically 60 days after all public records are received), if requested.
+• produce exhibit and witness lists, and experts reports at the case management conference, set below.
+ The state will
+• file an answer by (calculate and enter date = initial motion filing date above + 60 days).
+• file an amended answer by (calculate and enter date = amended motion filing date above + 20 days), if required.
+• produce exhibit and witness lists, and expert reports by (calculate and enter date = case management conference date below + 60 days).
+ Notice of Case Management Conference
+The case management conference is set on (enter date and time), in (enter courtroom number and address). [(enter amount of time set aside for hearing) has been reserved for the hearing.] Parties may appear in person or by telephone. If appearing by telephone, (enter telephone conferencing arrangements.)
+A fourth case management order will be entered after the case management conference is conducted.
+DONE AND ORDERED in chambers in (enter chambers city), Florida, [**70]  on (enter date and year).
+(enter judge's name)
+CIRCUIT JUDGE
+ [*1201]  N THE CIRCUIT COURT OF THE (enter circuit number) JUDICIAL CIRCUIT
+IN AND FOR (enter county name) COUNTY, FLORIDA
+STATE OF FLORIDA, vs. (enter defendant's name), Defendant.
+FELONY DIVISION
+CASE NO. (enter case number)
+ FOURTH CASE MANAGEMENT ORDER FOLLOWING CASE MANAGEMENT CONFERENCE AND NOTICE OF EVIDENTIARY HEARING
+This capital postconviction case came before this Court at the case management conference conducted on (enter date of case management conference). Various timeframes contained in Florida Rule of Criminal Procedure 3.851 are triggered from the date of the filing of the initial motion for postconviction relief.
+It is this Court's intention to establish a schedule of conferences and hearings [*1202]  in conformity with the timeframes contained in rule 3.851, so that a final order on defendant's capital postconviction motion can be rendered no later than (date = three years from date cert denied by USSC), which is within two years after the initial capital postconviction motion is filed. To accomplish this, it is hereby ORDERED:
+At the case management conference, the court heard argument on whether claims raised in the motion/amended motion require a factual determination at an evidentiary [**71]  hearing. The court granted an evidentiary hearing on the following claims:
+(enter claim numbers and/or description of claims requiring a factual determination).
+The court denied an evidentiary hearing on the following claims:
+(enter claim numbers and/or description of claims not requiring a factual determination).
+The parties estimated that (enter total estimate of hearing days) days will be required for those claims for which evidentiary hearing was granted; [defense (enter estimate of days for defense case) days and state (enter estimate of day for state case) days].
+ Notice of Evidentiary Hearing
+An evidentiary hearing is set from (enter evidentiary hearing start date and time, which should be a date within 150 days of case management conference date above) through (enter evidentiary hearing end date), in (enter courtroom number and address). The Defendant shall be present for the evidentiary hearing.
+The following shall be done prior to the evidentiary hearing:
+ Defendant's capital collateral counsel shall:
+• No later than (enter date negotiated with the court) submit transport orders to chambers for the Defendant and any Florida inmate witnesses.
+• No later than (enter date negotiated with [**72]  the court) submit a writ of habeas corpus ad testificandum to compel the appearance of any federal or out-of-state inmate witness.
+• No later than (enter date negotiated with the court) submit certificates of materiality and other documentation necessary to secure attendance of out-of-state witnesses to chambers or to compel the appearance of any out-of-state witness.
+ The parties shall:
+• No later than (enter date negotiated with court), make arrangements with Court Technology for the appearance of any witnesses appearing by video conference.
+• No later than ten days before the start of the evidentiary hearing, meet in a good faith effort to narrow the issues in dispute by stipulating in writing to as many facts as possible and to stipulate to the admissibility of as many exhibits as possible.
+• No later than two business days before the start of the evidentiary hearing, meet with the clerk to pre-mark exhibits.
+During the evidentiary hearing:
+ The Court will:
+• Set the daily hearing schedule from (enter start time) a.m. to (enter stop time) p.m. with lunch from (enter start lunch time) to (enter stop lunch time, 90 minutes enables parties to handle issues that arise during the hearing).
+Following [**73]  the evidentiary hearing:
+  [*1203]  The court reporter shall:
+• Produce the evidentiary hearing transcript by (date = evidentiary hearing date above + 10 days if real-time transcription or + 45 days for other transcription).
+ Defendant's capital collateral counsel shall:
+• Submit and serve a simultaneous written closing argument no later than (date = transcript production date above + 30 days).
+ The State shall:
+• Submit and serve a simultaneous written closing argument no later than (date = transcript production date above + 30 days).
+ The Court will:
+• Enter the final order no later than (date = transcription production date above + 60 days).
+DONE AND ORDERED in chambers in (enter chambers city), Florida, on (enter date and year).
+(enter judge's name)
+CIRCUIT JUDGE
+Concur by: LEWIS; CANADY (In Part)  
+Concur
+
+
+
+
+ [*1177contd]  
+[EDITOR'S NOTE: The page numbers of this document may appear to be out of sequence; however, this pagination accurately reflects the pagination of the original published document.]
+LEWIS, J., concurring.
+I agree with the adoption of these rules, but I continue to have multiple concerns. First, we must be vigilant to make certain that qualified postconviction counsel is both available and engaged in this process as the system moves forward. The process must be effectively monitored for the proper functioning of the process guided by counsel.
+Second, the entire judicial system seems somewhat uncertain with [**74]  regard to court reporting because within the last few years, we have attempted to manipulate the type of court reporting among different approaches. From time to time, it seems, types and models of court reporting move to and from favor to disfavor. Employee models, independent contractor models, digital, computerized, real-time and otherwise seem to flow into and out of favor. We must have a solid court reporting system to support a level of comfort with the entire criminal justice process.
+Finally, I continue to believe that we can only overcome unconscionable and unacceptable systemic delays that undermine justice if we begin the discussion and analysis as to the proper roles of the respective State Attorney offices for the direct trial proceedings, and the Attorney General offices for postconviction collateral review proceedings. As in civil litigation, we have clearly understood and placed the burden of moving cases forward to justice on the shoulders of the party prosecuting the action so there must be some proper responsibility on the shoulders of the State in this area as the party ultimately responsible for prosecution of the underlying action.
+Dissent by: CANADY (In Part)  
+Dissent
+
+
+
+
+CANADY, J., concurring [**75]  in part and dissenting in part.
+I would not adopt the amendment to Florida Rule of Criminal Procedure 3.851(b)(6) prohibiting defendants in capital postconviction proceedings from representing themselves. I would, however, adopt the proposed amendment to Florida Rule of Criminal Procedure 3.851(d)(2) imposing a time limitation of 180 days with respect to the filing of successive capital postconviction motions alleging newly discovered evidence or seeking retroactive application of the newly announced rule of constitutional law. Otherwise, I concur with the majority's decision.
+POLSTON, J., concurs.
+
+ 
+
+End of Document

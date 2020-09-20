@@ -1,0 +1,1025 @@
+
+  NeutralAs of: September 19, 2020 7:25 PM Z
+In re Std. Jury Instructions in Crim. Cases-Instructions 25.9-25.13
+Supreme Court of Florida
+April 18, 2013, Decided
+No. SC11-1010
+
+Reporter
+112 So. 3d 1211 *; 2013 Fla. LEXIS 2882 **; 38 Fla. L. Weekly S 237; 2013 WL 1664379
+ IN RE: STANDARD JURY INSTRUCTIONS IN CRIMINAL CASES—INSTRUCTIONS 25.9-25.13.  
+Prior History: In re Std. Jury Instructions in Crim. Cases, 87 So. 3d 679, 2012 Fla. LEXIS 301 (Fla., Feb. 9, 2012)  
+Counsel:  [**1] Honorable Joseph Anthony Bulone, Chair, Supreme Court Committee on Standard Jury Instructions in Criminal Cases, Eleventh Judicial Circuit, Clearwater, Florida Honorable Jacqueline Hogan Scola, Past Chair, Supreme Court Committee on Standard Jury Instructions in Criminal Cases, Eleventh Judicial Circuit, Miami, Florida and Judge Samantha L. Ward, Past Chair, Supreme Court Committee on Standard Jury Instructions in Criminal Cases, Thirteenth Judicial Circuit, Tampa, Florida, Bart Schneider, Senior Attorney, Office of State Court Administrator, Tallahassee, Florida, for Petitioner. 
+Michael Terrence Kennett, Florida Department of Corrections, Office of the General Counsel, Tallahassee, Florida and Charmaine Millsaps, Assistant Attorney General, Tallahassee, Florida, responding with comments.  
+Judges: PARIENTE, LEWIS, QUINCE, LABARGA, and PERRY, JJ., concur. PARIENTE, J., concurs with an opinion. CANADY, J., concurs in part and dissents in part with an opinion, in which POLSTON, C.J., concurs.  
+Opinion
+
+
+
+
+  [*1211]  Original Proceeding — Supreme Court
+PER CURIAM.
+The Supreme Court Committee on Standard Jury Instructions in Criminal Cases (Committee) has submitted proposed changes to the standard jury instructions and asks that  [**2] the Court authorize the amended standard instructions for publication and use. We have jurisdiction. See art. V, § 2(a), Fla. Const.
+On December 22, 2010, the Committee filed its report proposing amendments to the standard criminal jury instructions. The report was filed under Case No. SC10-2434. The proposed amendments to instructions 25.9-25.13, the drug trafficking instructions, were severed from that case, and the instant case was opened.
+Consistent with the Court's decision in State v. Adkins, 96 So. 3d 412 (Fla. 2012), instructions 25.9-25.13 are amended to remove element 4, the requirement that the defendant have knowledge of the illicit nature of the substance, and to add language that lack of knowledge of the illicit nature of the substance is an affirmative defense. In Adkins, a majority of the Court held that the guilty knowledge element, in light of the express language in section 893.101, Florida Statutes (2011), is limited to knowledge of the presence of the substance sold, purchased, manufactured, delivered, or brought into the state. Id., 96 So. 3d at 414. Knowledge of the illicit nature of the controlled substance is, under the statute, an affirmative defense.  [**3] Id. Instructions 25.9-25.13 are amended to properly reflect the Legislature's intent.
+The instructions are also amended as follows: to include alternate elements 1 and 2 to be given to the jury in the event that the defendant intended to traffic in one controlled substance and instead trafficked in another controlled substance; to include a note to the trial judge that a special instruction is needed when drugs are found in jointly-occupied premises, in a common area, in plain view, and in the presence of the owner or occupant; and to instruct the jury of the permissive inference "that a person who sells a controlled substance knows of its illicit nature."
+Instructions 25.9-25.13, as amended, retain the following language: "If you have a reasonable doubt on the question of whether defendant knew of the illicit nature of the controlled substance, you should find defendant not guilty." This not only is consistent with the Committee's proposal, but is also consistent with the other drug-related  [*1212]  criminal instructions which provide that lack of knowledge of the illicit nature of the substance is an affirmative defense and that knowledge of the nature of the substance is not an element. See,  [**4] e.g., Instructions 25.2, Drug Abuse-Sale, Purchase, Manufacture, Delivery, or Possession With Intent; 25.3, Drug Abuse-Sale, Purchase, Delivery, or Possession in Excess of Ten Grams; 25.4, Drug Abuse-Delivery to or Use of Minor; 25.5, Drug Abuse-Bringing Into State; 25.6, Drug Abuse-Contraband in Specified Locations; 25.7, Drug Abuse-Possession; and 27.8, Drug Abuse-Obtaining Controlled Substance by Fraud, Etc.
+Finally, we request the Committee to expeditiously review jury instructions 25.2-25.8 and make a recommendation to the Court whether any amendments to those instructions are warranted in light of the Court's decision here, or in light of Adkins. We also request that the Committee make a recommendation whether instructions 25.9-25.13 should be amended in light of Smith v. United States, 133 S. Ct. 714, 184 L. Ed. 2d 570 (2013) (holding that due process is not violated by placing upon a criminal defendant the burden of proving the affirmative defense of withdrawal from the charged conspiracy).
+In authorizing the publication and use of these instructions, we express no opinion on their correctness and remind all interested parties that this authorization forecloses neither requesting additional or  [**5] alternative instructions nor contesting the legal correctness of the instructions. We further caution all interested parties that any comments associated with the instructions reflect only the opinion of the Committee and are not necessarily indicative of the views of this Court as to their correctness or applicability. New language is indicated by underlining and deleted language is indicated by struck-through type. The instructions as set forth in the appendix shall be effective when this opinion becomes final.1 
+It is so ordered.
+PARIENTE, LEWIS, QUINCE, LABARGA, and PERRY, JJ., concur.
+PARIENTE, J., concurs with an opinion.
+CANADY, J., concurs in part and  [**6] dissents in part with an opinion, in which
+POLSTON, C.J., concurs.
+ [*1218contd]  
+[EDITOR'S NOTE: The page numbers of this document may appear to be out of sequence; however, this pagination accurately reflects the pagination of the original published document.]
+ APPENDIX  
+25.9 TRAFFICKING IN CANNABIS 
+§ 893.135(1)(a), Fla. Stat.
+Certain drugs and chemical substances are by law known as "controlled substances." Cannabis is a controlled substance.
+To prove the crime of Trafficking in Cannabis, the State must prove the following 
+fourthree elements beyond a reasonable doubt:
+1. (Defendant) knowingly
+[sold]
+[purchased]
+[manufactured]
+[delivered]
+[brought into Florida]
+[possessed]
+a certain substance.
+2. The substance was cannabis.
+3. The 
+quantity of the cannabis 
+involved was [in excess of [weighed more than 25 pounds] [constituted 300 or more 
+of cannabis plants].
+State v. Dominguez, 509 So. 2d 917 (Fla. 1987)
+See .
+
+4. 
+(Defendant) 
+knew that the substance was cannabis.
+If applicable under the facts of the case and pursuant to § 893.135(2), Fla. Stat., instructions on the following elements 1 and 2 
+bracketed language should be given instead of elements 
+4 1 and 2 above. For example, if it is alleged that the defendant intended to sell heroin but actually sold cannabis, 
+the alternate instructions on elements 
+4 1 and  [**7] 2 below would be given.
+
+[4. 
+(Defendant) 
+intended to [sell] [purchase] [manufacture] [deliver] [bring into Florida] [possess] § 893.135(1), Fla. Stat.)
+(an enumerated controlled substance in , 
+but actually [sold] [purchased] [manufactured] [delivered] [brought into Florida] [possessed] cannabis.]
+1. (Defendant) intended to [sell] [purchase] [manufacture] [deliver] [bring into Florida] [possess] (an enumerated controlled substance in § 893.135(1), Fla. Stat.),
+2. The defendant actually [sold] [purchased] [manufactured] [delivered] [brought into Florida] [possessed] cannabis.
+Definitions. Give as applicable.
+Cannabis. § 893.02(3), Fla. Stat.
+"Cannabis" means all parts of any plant of the genus Cannabis whether growing or not.
+Sell.
+"Sell" means to transfer or deliver something to another person in exchange for money or something of value or a promise of money or something of value.
+Manufacture. § 893.02(13)(a), Fla. Stat.
+"Manufacture" means the production, preparation, packaging, labeling or relabeling, propagation, compounding, cultivating, growing, conversion or processing of a controlled substance, either directly or indirectly. Manufacturing can be by extraction from substances of natural origin,  [**8] or independently by means of chemical synthesis. It can also be by a combination of extraction and chemical synthesis.
+Deliver. § 893.02(5), Fla. Stat.
+"Deliver" or "delivery" means the actual, constructive, or attempted transfer from one person to another of a controlled  [*1219]  substance, whether or not there is an agency relationship.
+Possession.
+To "possess" means to have personal charge of or exercise the right of ownership, management, or control over the thing possessed.
+Possession may be actual or constructive.
+Actual possession means:
+a. The controlled substance is in the hand of or on the person, or
+b. The controlled substance is in a container in the hand of or on the person, or
+c. The controlled substance is so close as to be within ready reach and is under the control of the person.
+Give if applicable.
+Mere proximity to a controlled substance is not sufficient to establish control over that controlled substance when it is not in a place over which the person has control.
+Constructive possession means the controlled substance is in a place over which the (defendant) has control, or in which the (defendant) has concealed it.
+In order to establish constructive possession of a controlled substance  [**9] if the controlled substance is in a place over which the (defendant) does not have control, the State must prove the (defendant's) (1) control over the controlled substance and (2) knowledge that the controlled substance was within the (defendant's) presence.
+Possession may be joint, that is, two or more persons may jointly possess an article, exercising control over it. In that case, each of those persons is considered to be in possession of that article.
+If a person has exclusive possession of a controlled substance, knowledge of its presence may be inferred or assumed.
+A special instruction is necessary where the premises is jointly occupied and the contraband is located in a common area, in plain view, and in the presence of the owner or occupant. See Duncan v. State, 986 So. 2d 653 (Fla. 4th DCA 2008).
+If a person does not have exclusive possession of a controlled substance, knowledge of its presence may not be inferred or assumed.
+Knowledge of the illicit nature of the controlled substance. Give if applicable. § 893.101(2) and (3), Fla. Stat.
+
+Knowledge of the illicit nature of the controlled substance is not an element of the offense of 
+[insert name of offense charged]. Lack of knowledge  [**10] of the illicit nature of a controlled substance is an affirmative defense to Trafficking in Cannabis. 
+(Defendant) 
+has raised this affirmative defense. The defendant has raised this defense. 
+However, yYou are permitted to presume that (defendant) was aware of the illicit nature of the controlled substance if you find that (defendant) was in actual or constructive possession of the controlled substance.
+If you have a reasonable doubt on the question of whether (defendant) knew of the illicit nature of the controlled substance, you should find (defendant) not guilty.
+Give if applicable. See McMillon v. State, 813 So. 2d 56 (Fla. 2002).
+ [*1220]  You are permitted to infer that a person who sells a controlled substance knows of its illicit nature.
+See State v. Weller, 590 So. 2d 923 (Fla. 1991).
+If you find the defendant guilty of Trafficking in Cannabis, you must further determine by your verdict whether the State has proved beyond a reasonable doubt that:
+Enhanced penalty. See § 893.135(1)(a)1.-3., Fla. Stat. to verify the weights or amounts specified in the statute, as determined by the date of the offense. Give if applicable up to extent of charge.
+a. [The cannabis
+quantity of the substance involved  [**11] was [in excess ofweighed more than 25 pounds but less than 2,000 pounds.] [constituted 300 or more cannabis plants but not more than 2,000 cannabis plants.]]
+b. [The cannabis
+quantity of the substance involved was [weighed 2,000 pounds or more but less than 10,000 pounds.] [constituted 2,000 or more cannabis plants but not more than 10,000 cannabis plants.]]
+c. [The cannabis
+quantity of the substance involved was [weighed 10,000 pounds or more.] [constituted 10,000 or more cannabis plants.]
+ Lesser Included Offenses
+TRAFFICKING IN CANNABIS — 893.135(1)(a)
+CATEGORY ONE
+CATEGORY TWO
+FLA. STAT.
+INS. NO.
+Trafficking
+
+893.135(1)(a)1
+25.9
+offenses requiring
+
+and 2
+
+lower quantities of
+
+
+
+cannabis
+
+
+
+*Possession of
+
+*893.13(6)
+25.7
+Cannabis, if
+
+
+
+Trafficking via
+
+
+
+Possession is
+
+
+
+charged
+
+
+
+
+Attempt
+(but not conspiracy),
+777.04
+5.1
+
+except when delivery or
+
+
+
+conspiracy is charged
+If sale,
+
+
+
+manufacture or delivery is charged
+
+
+
+If sale, manufacture or delivery is
+893.13(1)(a)
+
+
+charged
+
+
+
+If purchase is charged
+893.13(2)(a)
+
+
+Bringing cannabis into state
+893.13(5)
+
+
+Possession of cannabis if less than
+
+
+
+20 grams of cannabis
+893.13(6)(a)
+
+
+Delivery of less than 20 grams of
+
+
+
+cannabis
+893.13(3)
+
+  
+Comment
+Trafficking can be committed by sale, purchase, manufacture, delivery, bringing  [**12] into this state, or actual or constructive possession. The lesser-included offenses depend on what is contained in the charging  [*1221]  document and what is supported by the evidence. For example, Possession of Cannabis is not a necessarily lesser-included offense of Trafficking in Cannabis via Sale. However, Possession of Cannabis is a necessarily-lesser included offense if the defendant is charged with Trafficking via Possession.
+* Possession of More Than 20 Grams of Cannabis is a third-degree felony. Possession of Not More than 20 Grams of Cannabis is a first degree misdemeanor. See § 893.13(6) Fla. Stat.
+Delivery of Less than 20 Grams of Cannabis Without Consideration is a first degree misdemeanor. See § 893.13(3) Fla. Stat.
+There is no crime of Attempted Delivery because the definition of "delivery" in §893.13(6) Fla. Stat. includes the attempt to transfer from one person to another. There is no crime of attempted conspiracy. Hutchinson v. State, 315 So. 2d 546 (Fla. 2d DCA 1975).
+This instruction was adopted in 1981 and amended in 1987 [509 So. 2d 917], 1989 [543 So. 2d 1205], 1997 [697 So. 2d 84], 
+and 2007 [969 So. 2d 245], and 2013. See also SC03-629 [869 So. 2d 1205 (Fla. 2004)].
+ 25.10  [**13] TRAFFICKING IN COCAINE 
+§ 893.135(1)(b), Fla. Stat.
+Certain drugs and chemical substances are by law known as "controlled substances." Cocaine [or any mixture containing cocaine] is a controlled substance.
+To prove the crime of Trafficking in Cocaine, the State must prove the following 
+fourthree elements beyond a reasonable doubt:
+1. (Defendant) knowingly
+[sold]
+[purchased]
+[manufactured]
+[delivered]
+[brought into Florida]
+[possessed]
+a certain substance.
+2. The substance was [cocaine] [a mixture containing cocaine].
+3. The [cocaine] [mixture containing cocaine]
+quantity of the substance involved was weighed 28 grams or more.
+State v. Dominguez, 509 So. 2d 917 (Fla. 1987)
+See .
+
+4. 
+(Defendant) 
+knew that the substance was [cocaine] [a mixture containing cocaine].
+If applicable under the facts of the case and pursuant to § 893.135(2), Fla. Stat., instructions on the following elements 1 and 2 
+bracketed language should be given instead of elements 
+4 1 and 2 above. For example, if it is alleged that the defendant intended to sell heroin but actually sold cocaine, 
+the alternate instructions on elements 
+4 1 and 2 below would be given.
+
+[4. 
+(Defendant) 
+intended to [sell] [purchase] [manufacture] [deliver] [bring  [**14] into Florida] [possess] § 893.135(1), Fla. Stat.)
+(an enumerated controlled substance in , 
+but actually [sold] [purchased] [manufactured] [delivered] [brought into Florida] [possessed] cocaine or a mixture containing cocaine.]
+1. (Defendant) intended to [sell] [purchase] [manufacture] [deliver] [bring into Florida] [possess] (an enumerated controlled substance in § 893.135(1), Fla. Stat.),
+ [*1222]  2. The defendant actually [sold] [purchased] [manufactured] [delivered] [brought into Florida] [possessed] cocaine or a mixture containing cocaine.
+Definitions. Give as applicable.
+Sell.
+"Sell" means to transfer or deliver something to another person in exchange for money or something of value or a promise of money or something of value.
+Manufacture. § 893.02(13)(a), Fla. Stat.
+"Manufacture" means the production, preparation, packaging, labeling or relabeling, propagation, compounding, cultivating, growing, conversion or processing of a controlled substance, either directly or indirectly. Manufacturing can be by extraction from substances of natural origin, or independently by means of chemical synthesis. It can also be by a combination of extraction and chemical synthesis.
+Deliver. § 893.02(5), Fla. Stat.
+"Deliver"  [**15] or "delivery" means the actual, constructive, or attempted transfer from one person to another of a controlled substance, whether or not there is an agency relationship.
+Possession.
+To "possess" means to have personal charge of or exercise the right of ownership, management, or control over the thing possessed.
+Possession may be actual or constructive.
+Actual possession means:
+a. The controlled substance is in the hand of or on the person, or
+b. The controlled substance is in a container in the hand of or on the person, or
+c. The controlled substance is so close as to be within ready reach and is under the control of the person.
+Give if applicable.
+Mere proximity to a controlled substance is not sufficient to establish control over that controlled substance when it is not in a place over which the person has control.
+Constructive possession means the controlled substance is in a place over which the (defendant) has control.
+In order to establish constructive possession of a controlled substance if the controlled substance is in a place over which the (defendant) does not have control, the State must prove the (defendant's) (1) control over the controlled substance and (2) knowledge that the controlled  [**16] substance was within the (defendant's) presence.
+Possession may be joint, that is, two or more persons may jointly possess an article, exercising control over it. In that case, each of those persons is considered to be in possession of that article.
+Give if applicable.
+If a person has exclusive possession of a controlled substance, knowledge of its presence may be inferred.
+A special instruction is necessary where the premises is jointly occupied and the contraband is located in a common area, in plain view, and in the presence of the owner or occupant. See Duncan v. State, 986 So. 2d 653 (Fla. 4th DCA 2008).
+ [*1223]  If a person does not have exclusive possession of a controlled substance, knowledge of its presence may not be inferred.
+Knowledge of the illicit nature of the controlled substance. Give if applicable. § 893.101(2) and (3), Fla. Stat.
+
+Knowledge of the illicit nature of the controlled substance is not an element of the offense of 
+[insert name of offense charged]. Lack of knowledge of the illicit nature of a controlled substance is an affirmative defense to Trafficking in Cocaine. 
+(Defendant) 
+has raised this affirmative defense. The defendant has raised this defense. 
+However, yYou are  [**17] permitted to presume that (defendant) was aware of the illicit nature of the controlled substance if you find that (defendant) was in actual or constructive possession of the controlled substance.
+If from the evidence you are convinced that (defendant) knew of the illicit nature of the controlled substance, and all of the elements of the charge have been proved, you should find (defendant) guilty.
+If you have a reasonable doubt on the question of whether (defendant) knew of the illicit nature of the controlled substance, you should find (defendant) not guilty.
+Give if applicable. See McMillon v. State, 813 So. 2d 56 (Fla. 2002).
+You are permitted to infer that a person who sells a controlled substance knows of its illicit nature.
+See State v. Weller, 590 So. 2d 923 (Fla. 1991).
+If you find the defendant guilty of Trafficking in Cocaine, you must further determine by your verdict whether the State has further proved beyond a reasonable doubt that:
+Enhanced penalty. See § 893.135(1)(b)1.-2., Fla. Stat. to verify the weights or amounts specified in the statute, as determined by the date of the offense. Give if applicable up to extent of charge.
+a. [The 
+quantity of the substance involved was[cocaine][mixture  [**18] containing cocaine] weighed 28 grams or more but less than 200 grams.]
+b. [The 
+quantity of the substance involved was[cocaine][mixture containing cocaine] weighed 200 grams or more but less than 400 grams.]
+c. [The 
+quantity of the substance involved was[cocaine][mixture containing cocaine] weighed 400 grams or more but less than 150 kilograms.]
+d. [The 
+quantity of the substance involved was[cocaine][mixture containing cocaine] weighed 150 kilograms or more.]
+ Lesser Included Offenses
+TRAFFICKING IN COCAINE — 893.135(1)(b)1 & 2
+CATEGORY ONE
+CATEGORY TWO
+FLA. STAT.
+INS. NO.
+Trafficking offenses
+
+893.135(1)(b)1
+25.10
+requiring lower
+
+
+
+quantities of cocaine
+
+
+
+Possession of Cocaine, if
+
+893.13(6)(a)
+25.7
+Trafficking via
+
+
+
+Possession is charged
+
+
+
+
+Attempt
+777.04
+5.1
+
+(
+but not
+
+
+
+conspiracy),
+
+
+
+except
+
+
+
+when delivery or
+
+
+
+conspiracy
+
+
+
+is charged
+
+
+
+If sale,
+893.13(1)(a)
+25.2
+
+manufacture or
+
+
+
+delivery is charged
+
+
+
+If purchase
+893.13(2)(a)
+
+
+is charged
+
+
+
+Bringing cocaine
+893.13(5)
+
+
+into state
+
+
+
+Possession
+893.13(6)(a)
+
+
+of cocaine
+
+
+ [*1224]   
+Comment
+Trafficking can be committed by sale, purchase, manufacture, delivery, bringing into this state, or actual or constructive possession. The lesser-included offenses depend on what is contained in the charging document and what is supported  [**19] by the evidence. For example, Possession of Cocaine is not a necessarily lesser-included offense of Trafficking in Cocaine via Sale. However, Possession of Cocaine is a necessarily-lesser included offense if the defendant is charged with Trafficking via Possession.
+There is no crime of Attempted Delivery because the definition of "delivery" in §893.13(6) Fla. Stat. includes the attempt to transfer from one person to another. There is no crime of attempted conspiracy. Hutchinson v. State, 315 So. 2d 546 (Fla. 2d DCA 1975).
+This instruction was adopted in 1981 and amended in 1985 [477 So. 2d 985], 1987 [509 So. 2d 917], 1989 [543 So. 2d 1205], 1997 [697 So. 2d 84], 
+and 2007 [SC05-1434, October 25, 2007], and 2013. See also SC03-629 [869 So. 2d 1205 (Fla. 2004)].
+ 25.11 TRAFFICKING IN 
+ILLEGAL DRUGS[MORPHINE] [OPIUM] [OXYCODONE] [HYDROCODONE] [HYDROMORPHONE] [HEROIN] 
+[(SPECIFIC SUBSTANCE ALLEGED)] 
+§ 893.135(1)(c), Fla. Stat.
+Certain drugs and chemical substances are by law known as "controlled substances." (Specific substance alleged) or any mixture containing (specific substance alleged) is a controlled substance.
+To prove the crime of Trafficking in 
+Illegal Drugs [(specific substance alleged)],  [**20] the State must prove the following 
+fourthree elements beyond a reasonable doubt:
+1. (Defendant) knowingly
+[sold]
+[purchased]
+[manufactured]
+[delivered]
+[brought into Florida]
+[possessed]
+a certain substance.
+2. The substance was [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [heroin] [(specific substance alleged)] [a mixture containing [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [heroin] [(specific substance alleged)].
+ [*1225]  3. The 
+quantity of the substance involved was [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [heroin] [(specific substance alleged)] [mixture containing [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [heroin] [(specific substance alleged)] weighed 4 grams or more.
+State v. Dominguez, 509 So. 2d 917 (Fla. 1987)
+See .
+
+4. 
+(Defendant) 
+knew that the substance was [[morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [heroin] 
+[(specific substance alleged)] [
+a mixture containing [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [heroin] 
+[(specific substance alleged)]].
+If applicable under the facts of the case and pursuant to § 893.135(2), Fla. Stat., instructions on the following elements 1 and 2 
+bracketed language  [**21] should be given instead of elements 4 1 and 2 above. For example, if it is alleged that the defendant intended to sell heroin but actually sold phencyclidine, 
+the alternate instructions on elements 4 1 and 2 below would be given.
+
+[4. 
+(Defendant) 
+intended to [sell] [purchase] [manufacture] [deliver] [bring into Florida] [possess] § 893.135(1), Fla. Stat.)
+(an enumerated controlled substance in , 
+but actually [sold] [purchased] [manufactured] [delivered] [brought into Florida] [possessed] 
+(specific substance alleged) 
+or a mixture containing 
+(specific substance alleged).
+1. (Defendant) intended to [sell] [purchase] [manufacture] [deliver] [bring into Florida] [possess] (an enumerated controlled substance in § 893.135(1), Fla. Stat.),
+2. The defendant actually [sold] [purchased] [manufactured] [delivered] [brought into Florida] [possessed] (specific substance alleged) or a mixture containing (specific substance alleged).
+Definitions. Give as applicable.
+Sell.
+"Sell" means to transfer or deliver something to another person in exchange for money or something of value or a promise of money or something of value.
+Manufacture. § 893.02(13)(a), Fla. Stat.
+"Manufacture" means the production, preparation,  [**22] packaging, labeling or relabeling, propagation, compounding, cultivating, growing, conversion or processing of a controlled substance, either directly or indirectly. Manufacturing can be by extraction from substances of natural origin, or independently by means of chemical synthesis. It can also be by a combination of extraction and chemical synthesis.
+Deliver. § 893.02(5), Fla. Stat.
+"Deliver" or "delivery" means the actual, constructive, or attempted transfer from one person to another of a controlled substance, whether or not there is an agency relationship.
+Possession.
+To "possess" means to have personal charge of or exercise the right of ownership, management, or control over the thing possessed.
+Possession may be actual or constructive.
+Actual possession means:
+ [*1226]  a. The controlled substance is in the hand of or on the person, or
+b. The controlled substance is in a container in the hand of or on the person, or
+c. The controlled substance is so close as to be within ready reach and is under the control of the person.
+Give if applicable.
+Mere proximity to a controlled substance is not sufficient to establish control over that controlled substance when it is not in a place over which the person  [**23] has control.
+Constructive possession means the controlled substance is in a place over which the (defendant) has control, or in which the (defendant) has concealed it.
+In order to establish constructive possession of a controlled substance if the controlled substance is in a place over which the (defendant) does not have control, the State must prove the (defendant's) (1) control over the controlled substance and (2) knowledge that the controlled substance was within the (defendant's) presence.
+Possession may be joint, that is, two or more persons may jointly possess an article, exercising control over it. In that case, each of those persons is considered to be in possession of that article.
+If a person has exclusive possession of a controlled substance, knowledge of its presence may be inferred or assumed.
+A special instruction is necessary where the premises is jointly occupied and the contraband is located in a common area, in plain view, and in the presence of the owner or occupant. See Duncan v. State, 986 So. 2d 653 (Fla. 4th DCA 2008).
+If a person does not have exclusive possession of a controlled substance, knowledge of its presence may not be inferred or assumed.
+Knowledge of the  [**24] illicit nature of the controlled substance. Give if applicable. § 893.101(2) and (3), Fla. Stat.
+
+Knowledge of the illicit nature of the controlled substance is not an element of the offense of 
+[insert name of offense charged]. Lack of knowledge of the illicit nature of a controlled substance is an affirmative defense to Trafficking in (specific substance alleged). 
+(Defendant) 
+has raised this affirmative defense. The defendant has raised this defense. 
+However, yYou are permitted to presume that (defendant) was aware of the illicit nature of the controlled substance if you find that (defendant) was in actual or constructive possession of the controlled substance.
+If from the evidence you are convinced that (defendant) knew of the illicit nature of the controlled substance, and all of the elements of the charge have been proved, you should find (defendant) guilty.
+If you have a reasonable doubt on the question of whether (defendant) knew of the illicit nature of the controlled substance, you should find (defendant) not guilty.
+Give if applicable. See McMillon v. State, 813 So. 2d 56 (Fla. 2002).
+You are permitted to infer that a person who sells a controlled substance knows of its illicit  [**25] nature.
+See State v. Weller, 590 So. 2d 923 (Fla. 1991).
+ [*1227]  If you find the defendant guilty of Trafficking in Illegal Drugs, you must further determine by your verdict whether the State has proved beyond a reasonable doubt that:
+Enhanced penalty. See § 893.135(1)(c)1.-2., Fla. Stat. to verify the weights or amounts specified in the statute, as determined by the date of the offense. Give if applicable up to extent of charge.
+a. [The 
+quantity of the substance involved was [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [heroin] [(specific substance alleged)] [mixture containing [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [herioin] [(specific substance alleged)] weighed 4 grams or more but less than 14 grams.]
+b. [The 
+quantity of the substance involved was [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [heroin] [(specific substance alleged)] [mixture containing [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [herioin] [(specific substance alleged)] weighed 14 grams or more but less than 28 grams.]
+c. [The 
+quantity of the substance involved was [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [heroin] [(specific substance alleged)]  [**26] [mixture containing [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [herioin] [(specific substance alleged)] weighed 28 grams or more but less than 30 grams.]
+d. [The 
+quantity of the substance involved was [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [heroin] [(specific substance alleged)] [mixture containing [morphine] [opium] [oxycodone] [hydrocodone] [hydromorphone] [herioin] [(specific substance alleged)] weighed 30 kilograms or more.]
+ Lesser Included Offenses
+TRAFFICKING IN ILLEGAL DRUGS — 893.135(1)(c)1 and 2
+CATEGORY ONE
+CATEGORY TWO
+FLA. STAT.
+INS. NO.
+Trafficking offenses
+
+893.135(1)(c)1
+25.11
+requiring lower
+
+
+
+quantities of illegal
+
+
+
+drugs
+
+
+
+Possession of a
+
+893.13(6)(a)
+25.7
+Controlled Substance,
+
+
+
+if Trafficking via
+
+
+
+Possession is charged
+
+
+
+
+Attempt
+777.04
+5.1
+
+(
+but not
+
+
+
+conspiracy),
+
+
+
+except
+
+
+
+when delivery or
+
+
+
+conspiracy
+
+
+
+is charged
+
+
+
+If sale,
+893.13(1)(a)
+25.2
+
+manufacture or
+
+
+
+delivery is charged
+
+
+
+If purchase
+893.13(2)(a)
+
+
+is charged
+
+
+
+Bringing same
+893.13(5)
+
+
+illegal drug as
+
+
+
+charged into state
+
+
+
+Possession
+893.13(6)(a)
+
+
+of same
+
+
+
+illegal drug
+
+
+ [*1228]   
+Comment
+Trafficking can be committed by sale, purchase, manufacture, delivery, bringing into this state, or actual or constructive possession. The lesser-included offenses depend  [**27] on what is contained in the charging document and what is supported by the evidence. For example, Possession of a Controlled Substance is not a necessarily lesser-included offense of Trafficking in a Controlled Substance via Sale. However, Possession of a Controlled Substance is a necessarily-lesser included offense if the defendant is charged with Trafficking via Possession.
+There is no crime of Attempted Delivery because the definition of "delivery" in §893.13(6) Fla. Stat. includes the attempt to transfer from one person to another. There is no crime of attempted conspiracy. Hutchinson v. State, 315 So. 2d 546 (Fla. 2d DCA 1975).
+This instruction was adopted in 1981 and amended in 1985 [477 So. 2d 985], 1987 [509 So. 2d 917], 1989 [543 So. 2d 1205], 1997 [697 So. 2d 84], 
+and 2007 [969 So. 2d 245], and 2013. See also SC03-629 [869 So. 2d 1205 (Fla. 2004)].
+ 25.12 TRAFFICKING IN PHENCYCLIDINE § 893.135(1)(d), Fla. Stat.
+Certain drugs and chemical substances are by law known as "controlled substances." Phencyclidine or any mixture containing phencyclidine is a controlled substance.
+To prove the crime of Trafficking in Phencyclidine, the State must prove the following 
+fourthree elements beyond  [**28] a reasonable doubt:
+1. (Defendant) knowingly
+[sold]
+[purchased]
+[manufactured]
+[delivered]
+[brought into Florida]
+[possessed]
+a certain substance.
+2. The substance was [phencyclidine] [a mixture containing phencyclidine].
+3. The 
+quantity of the substance involved was[phencyclidine] [mixture containing phencyclidine] weighed 28 grams or more.
+State v. Dominguez, 509 So. 2d 917 (Fla. 1987)
+See .
+
+4. 
+(Defendant) 
+knew that the substance was [phencyclidine] [a mixture containing phencyclidine].
+If applicable under the facts of the case and pursuant to § 893.135(2), Fla. Stat., instructions on the following elements 1 and 2 bracketed language should be given instead of elements 4 1 and 2 above. For example, if it is alleged that the defendant intended to sell heroin but actually sold phencyclidine, the alternate instructions on elements 4 1 and 2 below would be given.
+
+[4. 
+(Defendant) 
+intended to [sell] [purchase] [manufacture] [deliver] [bring into Florida] [possess] § 893.135(1), Fla. Stat.)
+(an enumerated controlled substance in , 
+but actually [sold] [purchased] [manufactured] [delivered] [brought into Florida] [possessed] phencyclidine or a mixture containing phencyclidine.
+ [*1229]  1. (Defendant) intended to [sell]  [**29] [purchase] [manufacture] [deliver] [bring into Florida] [possess] (an enumerated controlled substance in § 893.135(1), Fla. Stat.),
+2. The defendant actually [sold] [purchased] [manufactured] [delivered] [brought into Florida] [possessed] phencyclidine or a mixture containing phencyclidine.
+Definitions. Give as applicable.
+Sell.
+"Sell" means to transfer or deliver something to another person in exchange for money or something of value or a promise of money or something of value.
+Manufacture. § 893.02(13)(a), Fla. Stat.
+"Manufacture" means the production, preparation, packaging, labeling or relabeling, propagation, compounding, cultivating, growing, conversion or processing of a controlled substance, either directly or indirectly. Manufacturing can be by extraction from substances of natural origin, or independently by means of chemical synthesis. It can also be by a combination of extraction and chemical synthesis.
+Deliver. § 893.02(5), Fla. Stat.
+"Deliver" or "delivery" means the actual, constructive, or attempted transfer from one person to another of a controlled substance, whether or not there is an agency relationship.
+Possession.
+To "possess" means to have personal charge of or exercise  [**30] the right of ownership, management, or control over the thing possessed.
+Possession may be actual or constructive.
+Actual possession means:
+a. The controlled substance is in the hand of or on the person, or
+b. The controlled substance is in a container in the hand of or on the person, or
+c. The controlled substance is so close as to be within ready reach and is under the control of the person.
+Give if applicable.
+Mere proximity to a controlled substance is not sufficient to establish control over that controlled substance when it is not in a place over which the person has control.
+Constructive possession means the controlled substance is in a place over which the (defendant) has control, or in which the (defendant) has concealed it.
+In order to establish constructive possession of a controlled substance if the controlled substance is in a place over which the (defendant) does not have control, the State must prove the (defendant's) (1) control over the controlled substance and (2) knowledge that the controlled substance was within the (defendant's) presence.
+Possession may be joint, that is, two or more persons may jointly possess an article, exercising control over it. In that case, each of  [**31] those persons is considered to be in possession of that article.
+If a person has exclusive possession of a controlled substance, knowledge of its presence may be inferred or assumed.
+A special instruction is necessary where the premises is jointly occupied and the  [*1230]  contraband is located in a common area, in plain view, and in the presence of the owner or occupant. See Duncan v. State, 986 So. 2d 653 (Fla. 4th DCA 2008).
+If a person does not have exclusive possession of a controlled substance, knowledge of its presence may not be inferred or assumed.
+Knowledge of the illicit nature of the controlled substance. Give if applicable. § 893.101(2) and (3), Fla. Stat.
+
+Knowledge of the illicit nature of the controlled substance is not an element of the offense of 
+[insert name of offense charged]. Lack of knowledge of the illicit nature of a controlled substance is an affirmative defense to Trafficking in Phencyclidine. 
+(Defendant) 
+has raised this affirmative defense. The defendant has raised this defense. 
+However, yYou are permitted to presume that (defendant) was aware of the illicit nature of the controlled substance if you find that (defendant) was in actual or constructive possession of the  [**32] controlled substance.
+If from the evidence you are convinced that (defendant) knew of the illicit nature of the controlled substance, and all of the elements of the charge have been proved, you should find (defendant) guilty.
+If you have a reasonable doubt on the question of whether (defendant) knew of the illicit nature of the controlled substance, you should find (defendant) not guilty.
+Give if applicable. See McMillon v. State, 813 So. 2d 56 (Fla. 2002).
+You are permitted to infer that a person who sells a controlled substance knows of its illicit nature.
+See State v. Weller, 590 So. 2d 923 (Fla. 1991).
+If you find the defendant guilty of Trafficking in Phencyclidine, you must further determine by your verdict whether the State has proved beyond a reasonable doubt that:
+Enhanced penalty. See § 893.135(1)(d)1.a.-c., Fla. Stat. to verify the weights or amounts specified in the statute, as determined by the date of the offense. Give if applicable up to extent of charge.
+a. [The 
+quantity of the substance involved was[phencyclidine][mixture containing phencyclidine] weighed 28 grams or more but less than 200 grams.]
+b. [The 
+quantity of the substance involved was[phencyclidine][mixture containing  [**33] phencyclidine] weighed 200 grams or more but less than 400 grams.]
+c. [The 
+quantity of the substance involved was[phencyclidine][mixture containing phencyclidine] weighed 400 grams or more.]
+ Lesser Included Offenses
+TRAFFICKING IN PHENCYCLIDINE — 893.135(1)(d)
+
+CATEGORY ONE
+CATEGORY TWO
+Trafficking offenses
+
+requiring lower
+
+quantities of
+
+phencyclidine
+
+Possession of a
+
+Phencyclidine, if
+
+Trafficking via
+
+Possession is charged
+
+
+
+
+Attempt (
+but not
+
+conspiracy), except
+
+when delivery or
+
+conspiracy is charged
+
+If sale, manufacture
+
+delivery is charged
+
+If purchase is charged
+
+Bringing phencyclidine
+
+into state
+
+Possession of
+
+phencyclidine
+ [*1231] 
+TRAFFICKING IN PHENCYCLIDINE — 893.135(1)(d)
+
+
+CATEGORY ONE
+FLA. STAT.
+INS. NO.
+Trafficking offenses
+893.135(1)(d)1.a
+25.9
+requiring lower
+and b
+
+quantities of
+
+
+phencyclidine
+
+
+Possession of a
+893.13(6)(a)
+25.7
+Phencyclidine, if
+
+
+Trafficking via
+
+
+Possession is charged
+
+
+
+
+
+
+777.04(1)
+5.1
+
+
+
+
+
+
+
+
+
+
+893.13(1)(a)
+25.2
+
+
+
+
+893.13(2)(a)
+
+
+893.13(5)
+
+
+
+
+
+893.13(6)(a)
+
+
+
+
+  
+Comment
+Trafficking can be committed by sale, purchase, manufacture, delivery, bringing into this state, or actual or constructive possession. The lesser-included offenses depend on what is contained in the charging document and what is supported by the evidence. For example, Possession of Phencyclidine  [**34] is not a necessarily lesser-included offense of Trafficking in Phencyclidine via Sale. However, Possession of Phencyclidine is a necessarily-lesser included offense if the defendant is charged with Trafficking via Possession.
+There is no crime of Attempted Delivery because the definition of "delivery" in §893.13(6) Fla. Stat. includes the attempt to transfer from one person to another. There is no crime of attempted conspiracy. Hutchinson v. State, 315 So. 2d 546 (Fla. 2d DCA 1975).
+This instruction was adopted in 1981 and amended in 1987 [509 So. 2d 917], 1989 [543 So. 2d 1205], 1997 [697 So. 2d 84], 
+and 2007 [969 So. 2d 245], and 2013. See also SC03-629 [869 So. 2d 1205 (Fla. 2004)].
+ 25.13 TRAFFICKING IN METHAQUALONE § 893.135(1)(e), Fla. Stat.
+Certain drugs and chemical substances are by law known as "controlled substances." Methaqualone or any mixture containing methaqualone is a controlled substance.
+To prove the crime of Trafficking in Methaqualone, the State must prove the following 
+fourthree elements beyond a reasonable doubt:
+1. (Defendant) knowingly
+[sold]
+[purchased]
+[manufactured]
+[delivered]
+[brought into Florida]
+[possessed]
+a certain substance.
+2. The substance was [methaqualone]  [**35] [a mixture containing methaqualone].
+3. The 
+quantity of the substance involved was[methaqualone] [a mixture containing methaqualone] weighed 200 grams or more.
+State v. Dominguez, 509 So. 2d 917 (Fla. 1987)
+See .
+
+4. 
+(Defendant) 
+knew that the substance was [methaqualone] [a mixture containing methaqualone].
+If applicable under the facts of the case and pursuant to § 893.135(2), Fla. Stat., instructions on the following elements 1 and 2 bracketed language should be given instead of elements 4 1 and 2 above. For  [*1232]  example, if it is alleged that the defendant intended to sell heroin but actually sold methaqualone, the alternate instructions on elements 4 1 and 2 below would be given.
+
+[4. 
+(Defendant) 
+intended to [sell] [purchase] [manufacture] [deliver] [bring into Florida] [possess] § 893.135(1), Fla. Stat.)
+(an enumerated controlled substance in , 
+but actually [sold] [purchased] [manufactured] [delivered] [brought into Florida] [possessed] methaqualone or a mixture containing methaqualone.]
+1. (Defendant) intended to [sell] [purchase] [manufacture] [deliver] [bring into Florida] [possess] (an enumerated controlled substance in § 893.135(1), Fla. Stat.),
+2. The defendant actually [sold] [purchased]  [**36] [manufactured] [delivered] [brought into Florida] [possessed] methaqualone or a mixture containing methaqualone.
+Sell.
+"Sell" means to transfer or deliver something to another person in exchange for money or something of value or a promise of money or something of value.
+Manufacture. § 893.02(13)(a), Fla. Stat.
+"Manufacture" means the production, preparation, packaging, labeling or relabeling, propagation, compounding, cultivating, growing, conversion or processing of a controlled substance, either directly or indirectly. Manufacturing can be by extraction from substances of natural origin, or independently by means of chemical synthesis. It can also be by a combination of extraction and chemical synthesis.
+Deliver. § 893.02(5), Fla. Stat.
+"Deliver" or "delivery" means the actual, constructive, or attempted transfer from one person to another of a controlled substance, whether or not there is an agency relationship.
+Possession.
+To "possess" means to have personal charge of or exercise the right of ownership, management, or control over the thing possessed.
+Possession may be actual or constructive.
+Actual possession means:
+a. The controlled substance is in the hand of or on the person, or
+b. The  [**37] controlled substance is in a container in the hand of or on the person, or
+c. The controlled substance is so close as to be within ready reach and is under the control of the person.
+Give if applicable.
+Mere proximity to a controlled substance is not sufficient to establish control over that controlled substance when it is not in a place over which the person has control.
+Constructive possession means the controlled substance is in a place over which the (defendant) has control, or in which the (defendant) has concealed it.
+In order to establish constructive possession of a controlled substance if the controlled substance is in a place over which the (defendant) does not have control, the State must prove the (defendant's) (1) control over the controlled substance and (2) knowledge that the controlled substance was within the (defendant's) presence.
+ [*1233]  Possession may be joint, that is, two or more persons may jointly possess an article, exercising control over it. In that case, each of those persons is considered to be in possession of that article.
+If a person has exclusive possession of a controlled substance, knowledge of its presence may be inferred or assumed.
+A special instruction is necessary  [**38] where the premises is jointly occupied and the contraband is located in a common area, in plain view, and in the presence of the owner or occupant. See Duncan v. State, 986 So. 2d 653 (Fla. 4th DCA 2008).
+If a person does not have exclusive possession of a controlled substance, knowledge of its presence may not be inferred or assumed.
+Knowledge of the illicit nature of the controlled substance. Give if applicable. § 893.101(2) and (3), Fla. Stat.
+
+Knowledge of the illicit nature of the controlled substance is not an element of the offense of 
+[insert name of offense charged]. Lack of knowledge of the illicit nature of a controlled substance is an affirmative defense to Trafficking in Methaqualone. 
+(Defendant) 
+has raised this affirmative defense. The defendant has raised this defense. 
+However, yYou are permitted to presume that (defendant) was aware of the illicit nature of the controlled substance if you find that (defendant) was in actual or constructive possession of the controlled substance.
+If from the evidence you are convinced that (defendant) knew of the illicit nature of the controlled substance, and all of the elements of the charge have been proved, you should find (defendant) guilty.
+If  [**39] you have a reasonable doubt on the question of whether (defendant) knew of the illicit nature of the controlled substance, you should find (defendant) not guilty.
+Give if applicable. See McMillon v. State, 813 So. 2d 56 (Fla. 2002).
+You are permitted to infer that a person who sells a controlled substance knows of its illicit nature.
+See State v. Weller, 590 So. 2d 923 (Fla. 1991).
+If you find the defendant guilty of Trafficking in Methaqualone, you must further determine by your verdict whether the State has proved beyond a reasonable doubt that:
+Enhanced penalty. See § 893.135(1)(e)1.a.-c., Fla. Stat. to verify the weights or amounts specified in the statute, as determined by the date of the offense. Give if applicable up to extent of charge.
+a. [The 
+quantity of the substance involved was[methaqualone][mixture containing methaqualone] weighed 200 grams or more but less than 5 kilograms.]
+b. [The 
+quantity of the substance involved was[methaqualone][mixture containing methaqualone] weighed 5 kilograms or more but less than 25 kilograms.]
+c. [The 
+quantity of the substance involved was[methaqualone][mixture containing methaqualone] weighed 25 kilograms or more.]
+ Lesser Included Offenses [*1234] 
+TRAFFICKING IN PHENCYCLIDINE — 893.135(1)(d)
+
+CATEGORY ONE
+CATEGORY TWO
+Trafficking offenses
+
+requiring lower
+
+quantities of
+
+methaqualone
+
+Possession of
+
+Methaqualone, if
+
+Trafficking via
+
+Possession is
+
+charged
+
+
+Attempt (
+but not conspiracy
+
+), except when delivery or
+
+conspiracy is charged
+
+If sale, manufacture or
+
+delivery is charged
+
+If purchase is charged
+
+Bringing methaqualone
+
+into state
+
+Possession of methaqualone
+
+TRAFFICKING IN PHENCYCLIDINE — 893.135(1)(d)
+
+
+CATEGORY ONE
+FLA. STAT.
+INS. NO.
+Trafficking offenses
+893.135(1)(e)1.a
+25.13
+requiring lower
+and b
+
+quantities of
+
+
+methaqualone
+
+
+Possession of
+893.13(6)(a)
+25.7
+Methaqualone, if
+
+
+Trafficking via
+
+
+Possession is
+
+
+charged
+
+
+
+777.04(1)
+5.1
+
+
+
+
+
+
+
+893.13(1)(a)
+25.2
+
+
+
+
+893.13(2)(a)
+
+
+893.13(5)
+
+
+
+
+
+893.13(6)(a)
+
+  
+Comment
+Trafficking  [**40] can be committed by sale, purchase, manufacture, delivery, bringing into this state, or actual or constructive possession. The lesser-included offenses depend on what is contained in the charging document and what is supported by the evidence. For example, Possession of Methaqualone is not a necessarily lesser-included offense of Trafficking in Methaqualone via Sale. However, Possession of Methaqualone is a necessarily-lesser included offense if the defendant is charged with Trafficking via Possession.
+There is no crime of Attempted Delivery because the definition of "delivery" in §893.13(6) Fla. Stat. includes the attempt to transfer from one person to another. There is no crime of attempted conspiracy. Hutchinson v. State, 315 So. 2d 546 (Fla. 2d DCA 1975).
+This instruction was adopted in 1981 and amended in 1987 [509 So. 2d 917], 1989 [543 So. 2d 1205], 1997 [697 So. 2d 84], 
+and 2007 [969 So. 2d 245], and 2013. See also SC03-629 [869 So. 2d 1205 (Fla. 2004)].
+Concur by: PARIENTE; CANADY (In Part); POLSTON  
+Concur
+
+
+
+
+ [*1212contd]  
+[EDITOR'S NOTE: The page numbers of this document may appear to be out of sequence; however, this pagination accurately reflects the pagination of the original published document.]
+PARIENTE, J., concurring.
+I write in response to Justice Canady's dissent that we should eliminate the instructions on reasonable doubt. Because this portion of the instructions is given only  [**41] when an affirmative defense is raised, and because the instructions have been in place since 2007, after section 893.101, Florida Statutes, was enacted, I would not eliminate those instructions. See Fla. Std. Jury Instr. (Crim.) 25.2-25.16.
+The Legislature enacted section 893.101 in 2002 to explicitly provide that knowledge of the illicit nature of the controlled substance is not a required element of a drug offense. Ch. 2002-258, § 1, Laws of Fla. The Legislature provided that lack of knowledge is an affirmative defense and that possession gives rise to a permissive  [*1213]  presumption of knowledge. Id. Section 893.101 provides as follows:
+(1) The Legislature finds that the cases of Scott v. State, Slip Opinion No. SC94701 [808 So. 2d 166] (Fla. 2002) and Chicone v. State, 684 So.2d 736 (Fla. 1996), holding that the state must prove that the defendant knew of the illicit nature of a controlled substance found in his or her actual or constructive possession, were contrary to legislative intent.
+(2) The Legislature finds that knowledge of the illicit nature of a controlled substance is not an element of any offense under this chapter. Lack of knowledge of the illicit nature of a controlled substance  [**42] is an affirmative defense to the offenses of this chapter.
+(3) In those instances in which a defendant asserts the affirmative defense described in this section, the possession of a controlled substance, whether actual or constructive, shall give rise to a permissive presumption that the possessor knew of the illicit nature of the substance. It is the intent of the Legislature that, in those cases where such an affirmative defense is raised, the jury shall be instructed on the permissive presumption provided in this subsection.
+§ 893.101, Fla. Stat. (2012). At the same time, the Legislature did not amend section 893.10, which applies to all of chapter 893. Section 893.10 is entitled "Burden of Proof; photograph or video recording of evidence" and provides in pertinent part as follows:
+It is not necessary for the state to negative any exemption or exception set forth in this chapter in any indictment, information, or or other pleading or in any trial, hearing, or other proceeding under this chapter, and the burden of going forward with the evidence with respect to any exemption or exception is upon the person claiming its benefit.
+§ 893.10(1), Fla. Stat. (2012) (emphasis added). In contrast,  [**43] the 1967 predecessor to this provision placed the "burden of proof of any . . . exception, excuse, proviso, or exemption" upon the defendant. § 893.20, Fla. Stat. (1967) (emphasis added).
+In light of the 2002 enactment of section 893.101, this Court directed the appropriate committee to propose changes to the applicable jury instructions. See Standard Jury Instructions in Criminal Cases (2003-1), 869 So. 2d 1205 (Fla. 2004). In 2007, this Court reviewed the committee's proposals and adopted them unanimously, amending Instructions 25.2 through 25.16 to add the following language:
+Knowledge of the illicit nature of the controlled substance is not an element of the offense of [insert name of offense charged]. Lack of knowledge of the illicit nature of a controlled substance is an affirmative defense. (Defendant) has raised this affirmative defense. However, you are permitted to presume that (defendant) was aware of the illicit nature of the controlled substance if you find that (defendant) was in actual or constructive possession of the controlled substance.
+If from the evidence you are convinced that (defendant) knew of the illicit nature of the controlled substance, and all of the elements  [**44] of the charge have been proved, you should find (defendant) guilty.
+If you have a reasonable doubt on the question of whether (defendant) knew of the illicit nature of the controlled substance, you should find (defendant) not guilty.
+See In re Standard Jury Instructions In Criminal Cases (No. 2005-3), 969 So. 2d 245, 249 (Fla. 2007) (emphasis added). This language has been in the jury instructions since 2007, and the Legislature has  [*1214]  not responded by enacting any clarification regarding the affirmative defense and the burden(s) of proof involved in section 893.101.
+The appellate courts have not expressly interpreted the "burden of going forward," as provided for in section 893.10, or addressed the jury instructions adopted in 2007 in In re Standard Jury Instructions In Criminal Cases (No. 2005-3), but the jury instructions are consistent with the way that other affirmative defenses are treated. The instructions also are consistent with cases in other contexts that have addressed situations where a defendant has the burden of going forward with the evidence. Those cases seem to support the jury instructions, given the fact that section 893.10(1) provides that the defendant has "the burden  [**45] of going forward with the evidence with respect to any exemption," rather than the burden of proof. See, e.g., Wright v. State, 442 So. 2d 1058, 1060 (Fla. 1st DCA 1983) ("The defendant has the burden of going forward with evidence that the affirmative defense exists. Once the defendant has presented competent evidence of the existence of the defense, the burden of proof remains with the State, and the State must then prove the nonexistence of the defense beyond a reasonable doubt."); Smith v. State, 826 So. 2d 1098, 1099 n.1 (Fla. 5th DCA 2002) (agreeing with the decision in Wright and stating that the standard "to go forward with evidence" means to present "some competent evidence," a burden which "is far less than the greater weight of the evidence").
+In Adkins v. State, 96 So. 3d 412 (2012), although a majority of the Court upheld section 893.10(1) as facially constitutional, the reasoning of the majority was joined in by only three justices (Chief Justice Polston and Justices Canady and Labarga), with two justices concurring in result (Justices Pariente and Lewis) and two justices dissenting (Justices Quince and Perry). In my concurring in result opinion, I expressed concerns about  [**46] the potential that the statute could be unconstitutional as applied but recognized the importance of the affirmative defense, stating as follows:
+An affirmative defense that affords the defendant with an opportunity to place his or her culpability at issue hampers the concerns of innocent criminalization and a violation of due process. Similar to the judicially recognized affirmative defenses of mistake of fact in North Dakota and Washington, where the accused believes he or she possesses or is delivering an innocuous substance in Florida, the accused may—but is not required to—assert the affirmative defense enumerated under section 893.101(2), Florida Statutes (2011), of "lack of knowledge of the illicit nature" of the controlled substance. Moreover, when this defense is asserted, the trial court must then instruct the jurors to find the defendant "not guilty" if they "have a reasonable doubt on the question of whether [the defendant] knew of the illicit nature of the controlled substance." Fla. Std. Jury Instr. (Crim.) 25.2. That is, if the defense is raised, the State has the burden to overcome the defense by proving beyond a reasonable doubt that the defendant knew of the illicit  [**47] nature of the substance.
+Id. at 430 (Pariente, J., concurring in result). From my perspective, our decision in Adkins upheld the constitutionality of section 893.101, but did not alter the application of the affirmative defenses.
+For all these reasons, I agree with the majority that the jury instructions on "reasonable doubt," once the affirmative defense is raised, should be retained.
+Dissent by: CANADY (In Part)  
+Dissent
+
+
+
+
+ [*1215]  CANADY, J., concurring in part and dissenting in part.
+I concur with the majority's decision to adopt amendments to Standard Jury Instructions in Criminal Cases 25.9 through 24.13—with the exception of the majority's adoption of the instruction that states: "If you have a reasonable doubt on the question of whether defendant knew of the illicit nature of the controlled substance, you should find defendant not guilty." Majority op. at 2. While Florida law is clear that the defendant must carry the burden of production regarding the affirmative defense of lack of knowledge of the illicit nature of a controlled substance, Florida law is not settled as to which party bears the burden of proof once the affirmative defense is raised. Because this point of law is unsettled, this Court should defer  [**48] addressing the contested issue until presented with a proper case for adjudication. Accordingly, I dissent from the majority's decision to approve the above instruction.
+In two seminal decisions regarding affirmative defenses—Patterson v. New York, 432 U.S. 197, 97 S. Ct. 2319, 53 L. Ed. 2d 281 (1977), and Dixon v. United States, 548 U.S. 1, 126 S. Ct. 2437, 165 L. Ed. 2d 299 (2006)—the United States Supreme Court concluded that the individual states have discretion to allocate the burden of proof regarding an affirmative defense in a criminal offense. In reviewing the constitutionality of the affirmative defense of extreme emotional distress to murder charges, the Supreme Court concluded:
+We thus decline to adopt as a constitutional imperative, operative countrywide, that a State must disprove beyond a reasonable doubt every fact constituting any and all affirmative defenses related to the culpability of an accused. Traditionally, due process has required that only the most basic procedural safeguards be observed; more subtle balancing of society's interests against those of the accused have been left to the legislative branch. We therefore will not disturb the balance struck in previous cases holding that the Due Process Clause requires the prosecution  [**49] to prove beyond a reasonable doubt all of the elements included in the definition of the offense of which the defendant is charged. Proof of the nonexistence of all affirmative defenses has never been constitutionally required; and we perceive no reason to fashion such a rule in this case and apply it to the statutory defense at issue here.
+Patterson, 432 U.S. at 210. The Supreme Court explained that "[t]o recognize at all a mitigating circumstance does not require the State to prove its nonexistence in each case in which the fact is put in issue, if in its judgment this would be too cumbersome, too expensive, and too inaccurate." Id. at 209 (footnote omitted). Rather, once "the state shall have proved enough to make it just for the defendant to be required to repel what has been proved with excuse or explanation," the state may shift the burden of proof in keeping with the "balancing of convenience or of the opportunities for knowledge." Id. at 203 n.9 (quoting Morrison v. California, 291 U.S. 82, 88-89, 54 S. Ct. 281, 78 L. Ed. 664 (1934)).
+Similarly in Dixon, the Supreme Court concluded that neither the constitution nor the "modern common law requires" the prosecution to bear the burden of disproving beyond a  [**50] reasonable doubt a defendant's claim of duress. 548 U.S. at 8. Instead, the Supreme Court concluded that the determination of the appropriate burden of proof for the affirmative defense of duress was a question of legislative intent. The Supreme Court explained that "[a]ssuming that a defense of  [*1216]  duress is available to the statutory crimes at issue, then, we must determine what that defense would look like as Congress 'may have contemplated' it." Id. at 13 (footnote omitted). Ultimately, the Supreme Court concluded that in "the context of the firearms offenses at issue-as will usually be the case, given the long-established common—law rule—we presume that Congress intended the petitioner to bear the burden of proving the defense of duress by a preponderance of the evidence." Id. at 17.
+In the recent decision, Smith v. United States, 133 S. Ct. 714, 184 L. Ed. 2d 570 (2013), the Supreme Court reiterated that the allocation of the burden of proof of an affirmative defense is a question of legislative intent. In considering the affirmative defense of withdrawal from a conspiracy, the Supreme Court explained that where an affirmative defense "'excuse[s] conduct that would otherwise be punishable,' but 'does  [**51] not controvert any of the elements of the offense itself,' the Government has no constitutional duty to overcome the defense beyond a reasonable doubt." Id. at 719 (quoting Dixon, 548 U.S. at 6). The Supreme Court further explained that a legislature's decision to place the burden of proof of an affirmative defense on a defendant "is both practical and fair," particularly "'where the facts with regard to an issue lie peculiarly in the knowledge of [the defendant.]'" Id. at 720 (quoting Dixon, 548 U.S. at 9); see also Smith v. State, 521 So. 2d 106, 107 (Fla. 1988) ("There was no constitutional infirmity in the old standard jury instruction because there is no denial of due process to place the burden of proof of insanity on the defendant.").
+Because the Due Process Clauses of the Florida and United States Constitutions do not impose a burden on the State to disprove beyond a reasonable doubt a criminal defendant's prima facie evidence of an affirmative defense, the burden of proof regarding an affirmative defense is a question of statutory interpretation, not constitutional mandate. Unlike many states, see, e.g., N.Y. Penal Law § 25.00(2) (McKinney 2012), Florida has not enacted a comprehensive  [**52] statute that defines the burden of proof for all affirmative defenses in all criminal actions. In the context of drug offenses under chapter 893, however, the Legislature has placed at least the burden of production—and arguably the burden of proof—regarding an affirmative defense on the defendant. Section 893.10(1), Florida Statutes (2012), provides:
+It is not necessary for the state to negative any exemption or exception set forth in this chapter in any indictment, information, or other pleading or in any trial, hearing, or other proceeding under this chapter, and the burden of going forward with the evidence with respect to any exemption or exception is upon the person claiming its benefit.
+(Emphasis added.) Still, the plain language of section 893.10(1)—without judicial interpretation—does not resolve with certainty the question of which party bears the burden of proof of an affirmative defense to a chapter 893 offense.
+The predecessor to this statute, section 893.20, Florida Statutes (1967), placed the "burden of proof of any . . . exemption, excuse, proviso, or exception" upon the defendant, see Falcon v. State, 226 So. 2d 399, 400 (Fla. 1969), but the current statute, section 893.10,  [**53] states that the "burden of going forward with the evidence" is on the defendant.
+The Florida courts have not yet reached a consensus regarding the interpretation of this statutory provision. Without explicitly citing to section 893.10, one district court of appeal has observed, in dicta, that  [*1217]  in the context of a drug offense, the "defendant has the burden of going forward to show that the affirmative defense exists and the burden then shifts to the state to prove the nonexistence of the defense beyond a reasonable doubt." Royal v. State, 784 So. 2d 1210, 1211 (Fla. 5th DCA 2001). But in contrast, in Purifoy v. State, 359 So. 2d 446, 448 (Fla. 1978), this Court distinguished affirmative defenses from defenses challenging the proof of the elements of the offense and stated, in dicta, that the defendant bears the burden of proof regarding an affirmative defense.
+No Florida appellate court has addressed the effect of section 893.10(1) in the specific context of the affirmative defense of lack of knowledge of the illicit nature of a controlled substance. In State v. Adkins, 96 So. 3d 412, 423 (Fla. 2012), this Court determined that pursuant to section 893.101, Florida Statutes (2002), "the  [**54] State is not required to prove that the defendant had knowledge of the illicit nature of the controlled substance in order to convict the defendant" of a chapter 893 offense and that "the Legislature's decision to make the absence of knowledge of the illicit nature of the controlled substance an affirmative defense is constitutional." But this Court did not consider in that case whether the burden of proof of the affirmative defense may shift back to the State after a defendant satisfies his burden of production. Nor did this Court consider what standard—preponderance or clear and convincing evidence—should apply if the defendant must satisfy the burden of proof.
+In Burnette v. State, 901 So. 2d 925, 928 (Fla. 2d DCA 2005), the Second District Court of Appeal concluded that the trial court erred "by failing to inform the jury that Burnette's lack of knowledge of the illicit nature of the substance was a defense to the possession charge," but again the court did not set out a proposed instruction for the affirmative defense. See also Quick v. State, 46 So. 3d 1159, 1161 (Fla. 4th DCA 2010) (concluding that trial court erred by failing to instruct jury on affirmative defense of lack of  [**55] knowledge of the illicit nature of a controlled substance).
+Because the burden of proof regarding the affirmative defense of lack of knowledge has not yet been adjudicated in a case squarely presenting the issue, I dissent from the majority's decision to amend instructions 25.9 through 24.13 to include the directive that "[i]f you have a reasonable doubt on the question of whether defendant knew of the illicit nature of the controlled substance, you should find defendant not guilty." Majority op. at 2.
+I would adopt an instruction similar to those adopted in In re Standard Jury Instructions in Criminal Cases—Report No. 2011-05, 2012 Fla. LEXIS 2669, 37 Fla. L. Weekly S733 (Fla. Nov. 21, 2012). In that case—which authorized for publication new jury instructions for the affirmative defenses of temporary possession of a controlled substance for legal disposal and controlled substance was lawfully obtained from a practitioner or pursuant to a valid prescription—this Court acknowledged an "absence of case law" deciding the burden of proof regarding an affirmative defense in a chapter 893 offense and approved instructions that allow trial judges to resolve the issue "via a special instruction." 2012 Fla. LEXIS 2669, at *6 [Fla. L. Weekly] at S734.
+POLSTON,  [**56] C.J., concurs.
+
+ 
+
+End of Document

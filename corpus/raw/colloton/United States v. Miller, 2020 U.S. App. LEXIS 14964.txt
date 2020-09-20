@@ -1,0 +1,48 @@
+
+  NeutralAs of: September 19, 2020 7:48 PM Z
+United States v. Miller
+United States Court of Appeals for the Eighth Circuit
+May 11, 2020, Decided
+No: 19-1156
+
+Reporter
+2020 U.S. App. LEXIS 14964 *
+ United States of America, Appellee v. Cleo Dominique Miller, Appellant  
+Prior History:  [*1] Appeal from U.S. District Court for the Southern District of Iowa - Council Bluffs. (1:18-cr-00020-RGE-1).
+United States v. Miller, 795 Fed. Appx. 980, 2020 U.S. App. LEXIS 6385 (8th Cir. Iowa, Mar. 2, 2020)  
+Counsel: For United States of America, Plaintiff - Appellee: Craig Peyton Gaumer, Assistant U.S. Attorney, Andrew H. Kahl, Assistant U.S. Attorney, U.S. Attorney's Office, Des Moines, IA; Richard E. Rothrock, Assistant U.S. Attorney, Shelly Sudmann, Assistant U.S. Attorney, U.S. Attorney's Office, Council Bluffs, IA. 
+For Cleo Dominique Miller, Defendant - Appellant: Stuart J. Dornan, Dornan & Troia, Omaha, NE. 
+Cleo Dominique Miller, Defendant - Appellant, Pro se, Leavenworth, KS.  
+Judges: Judge Erickson and Judge Grasz would grant the petition for rehearing en banc. Judge Kelly did not participate in the consideration or decision of this matter. COLLOTON, Circuit Judge, concurring in the denial of rehearing en banc. GRASZ, Circuit Judge, dissenting.  
+Opinion
+
+
+
+
+ ORDER
+The petition for rehearing en banc is denied. The petition for panel rehearing is also denied.
+Judge Erickson and Judge Grasz would grant the petition for rehearing en banc. Judge Kelly did not participate in the consideration or decision of this matter.
+Concur by: COLLOTON  
+Concur
+
+
+
+
+COLLOTON, Circuit Judge, concurring in the denial of rehearing en banc.
+As a member of the three-judge [*2]  panel that in this case applied our precedent from United States v. Walker, 771 F.3d 449 (8th Cir. 2014), I add these observations in response to the opinion dissenting from denial of rehearing en banc. Policy preferences aside, Walker was correctly decided. As the petition for rehearing admits, the offense of carrying weapons under Iowa Code § 724.4(1) contains elements that are not required to prove a violation of the federal felon-in-possession statute, 18 U.S.C. § 922(g)(1). Therefore, the two offenses are not the same offense, and Walker correctly held that a felon in possession who violates the Iowa statute has "possessed any firearm . . . in connection with another felony offense." USSG § 2K2.1(b)(6)(B) (emphasis added). Unlawful carrying weapons in Iowa is not "the . . . firearms possession . . . offense" of which a felon-in-possession defendant stands convicted in federal court. Id., comment. (n.14(C)) (emphasis added); see Walker, 771 F.3d at 452; United States v. Jackson, 633 F.3d 703, 705-06 (8th Cir. 2011).
+Some district judges have exercised their authority under 18 U.S.C. § 3553(a) to vary from the guidelines in some cases where § 2K2.1(b)(6)(B) and Walker apply. E.g., United States v. Maldonado, 864 F.3d 893, 896-97 (8th Cir. 2017) (reviewing Strand, C.J.); United States v. Terrell, 822 F.3d 467, 469 (8th Cir. 2016) (reviewing Gritzner, J.). But several others recently have applied the four-level increase under Walker with no "offset" at all under § 3553(a). E.g., United States v. Green, 946 F.3d 433, 440 (8th Cir. 2019) (affirming Reade, J.); United States v. Petermann, 788 F. App'x 411, 411-12 (8th Cir. 2019) (per curiam) (affirming Rose, J.); United States v. Pierce, 785 F. App'x 351, 351-52 (8th Cir. 2019) (per [*3]  curiam) (affirming Ebinger, J.); United States v. Burnett, 771 F. App'x 721, 722-23 (8th Cir. 2019) (per curiam) (affirming Jarvey, C.J.). Even the variances in Maldonado and Terrell did not "effectively offset" the sentencing enhancement in its entirety: the judge in Maldonado effectively applied a one-level increase instead of a four-level adjustment, 864 F.3d at 897, and the judge in Terrell on remand varied downward by ten months, or the equivalent of two or three levels, "based on the impact of the Walker case to the unique factors of this case." United States v. Terrell, No. 4:14-cr-00096-002 (S.D. Iowa), R. Doc. 117, at 9.
+As with many issues under the guidelines, the Sentencing Commission has made a policy judgment, and district judges have some leeway in light of United States v. Booker, 543 U.S. 220, 125 S. Ct. 738, 160 L. Ed. 2d 621 (2005), to apply a different policy preference if they see fit. See Spears v. United States, 555 U.S. 261, 264-65, 129 S. Ct. 840, 172 L. Ed. 2d 596 (2009) (per curiam). The Commission, of course, is always free to reassess a particular sentencing guideline on policy grounds. See 28 U.S.C. § 994(o). For this court, however, the meaning of the guideline is an issue of law, and rehearing is not warranted.
+Dissent by: GRASZ  
+Dissent
+
+
+
+
+GRASZ, Circuit Judge, dissenting.
+It seems clear that after years of challenges, United States v. Walker, 771 F.3d 449 (8th Cir. 2014), is not destined to be reversed or even reconsidered by this court sitting en banc. Still, I do not view the Petition [*4]  for Rehearing in this case to be a quixotic venture. The well-written Petition deserved a vote. It chronicles the history of Walker as well as the numerous times reconsideration of the opinion has been suggested by members of this court. More importantly, it ably sets forth the legal basis for why Walker continues to be challenged year after year in case after case. It also explains why some district courts have repeatedly exercised their discretion to effectively offset the sentencing enhancement. To the average person — those it impacts — Walker results in what is seen as double-counting of conduct for purposes of sentencing. And, in my view, its application fails to further the goals of the Sentencing Guidelines.
+My hope is the Guidelines will eventually be modified and Walker will fade quietly into obscurity.
+May 11, 2020
+
+ 
+
+End of Document

@@ -1,0 +1,54 @@
+
+  NeutralAs of: September 19, 2020 8:05 PM Z
+City of Colo. Springs v. Speight Family P'ship
+Supreme Court of Colorado
+April 9, 2007, Decided 
+Case No. 05SC744 
+
+Reporter
+155 P.3d 1099 *; 2007 Colo. LEXIS 295 **
+ Petitioners: CITY OF COLORADO SPRINGS, a home rule municipality; and THE BOARD OF COUNTY COMMISSIONERS OF THE COUNTY OF EL PASO, v. Respondents: SPEIGHT FAMILY PARTNERSHIP, LLLP, a Colorado limited liability limited partnership; and THE GREENVIEW TRUST, Ralph R. Williams, Trustee.  
+Prior History:  [**1]  Certiorari to the Colorado Court of Appeals. Case No. 03CA2236.  
+Speight Family , LLP v. City of Colorado Springs, 131 P.3d 1136, 2005 Colo. App. LEXIS 1475 (Colo. Ct. App., 2005)  
+Disposition: JUDGMENT AFFIRMED.  
+  
+Syllabus
+
+
+
+
+The Colorado Supreme Court affirms the court of appeals' decision in Speight Family Partnership, LLLP v. City of Colorado Springs, 131 P.3d 1136 (Colo. App. 2005), which determined that House Bill 03-1288 operates only prospectively. In so doing, the court incorporates the reasoning set forth in the companion case of City of Colorado Springs v. Powell and City of Longmont v. Henry-Hobbs, decided today, and it holds that the modifications and additions to the Colorado Governmental Immunity Act, as set forth in House Bill 03-1288, do not apply in resolving the rights and liabilities at issue in the instant litigation.  
+Counsel: Patricia K. Kelly, City Attorney/Chief Legal Officer Shane White, Senior Attorney Colorado Springs, Colorado Attorneys for Petitioner City of Colorado Springs  
+Lori L. Seago, Assistant County Attorney Colorado Springs, Colorado Attorneys for Petitioner Board of County Commissioners of the County of El Paso  
+Macdougall,  [**2]  Woldridge & Worley, P.C. M.E. Macdougall Colorado Springs, Colorado Attorneys for Respondents.    
+Judges: CHIEF JUSTICE MULLARKEY delivered the Opinion of the Court. JUSTICE EID concurs in part and specially concurs in part. JUSTICE COATS joins in the concurrence in part and the special concurrence in part.    
+Opinion by: MULLARKEY  
+Opinion
+
+
+
+
+ [*1099]  EN BANC
+We granted certiorari in this governmental immunity case to review the court of appeals' decision in Speight Family Partnership, LLP v. City of Colorado Springs, 131 P.3d 1136 (Colo. App. 2005). In that decision, the court of appeals determined that House Bill 03-1288 operates only prospectively. We now affirm and incorporate the reasoning set forth in the companion case of City of Colorado Springs v. Powell and City of Longmont v. Henry-Hobbs, decided today, and we hold that the modifications and additions to the Colorado Governmental Immunity Act, as set forth in House Bill 03-1288, do not apply in resolving the rights and liabilities at issue in the instant litigation.
+ I.
+Respondents, the Speight Family Partnership, LLLP, and the Greenview Trust (collectively "Property Owners"), own properties abutting Fountain Creek in the [**3]  City of Fountain and in Pueblo County, respectively. The Property Owners brought suit against the City of Colorado Springs and the Board of County Commissioners of the County of El Paso (collectively "City") for injuries sustained from the flooding of Fountain Creek, a natural watercourse.
+ [*1100]  The Property Owners allege that three separate rain storms in the spring and summer of 1999 caused flows in Fountain Creek to increase, resulting in flooding damage to their properties. They maintain that storm drainage systems operated and maintained by the City contributed to increased flows in Fountain Creek during these storms, as did the City's discharges of imported water into Fountain Creek by way of the City's wastewater treatment plant. As a result, they claim, the water flowing through Fountain Creek constituted the operation and maintenance of a storm-sewer system or a water-sewer system, which constituted dangerous conditions for which the City is liable.
+In 2001, the City moved to dismiss the Property Owners' complaint, arguing in part that their claims were barred because the City was protected by sovereign immunity conferred by the Colorado Governmental Immunity Act ("CGIA"),  [**4]   sections 24-10-101 to-120, C.R.S. (2001). However, the trial court denied the City's motion in July 2001, explaining that the City's immunity was waived pursuant to CGIA exceptions.
+Two years later, on July 1, 2003, House Bill 03-1288 ("H.B. 1288") took effect. H.B. 1288 was enacted after members of the General Assembly had voiced considerable concern about this court's decisions in City of Colorado  [*1101]  Springs v. Powell, 48 P.3d 561 (Colo. 2002), and City of Longmont v. Henry-Hobbs, 50 P.3d 906 (Colo. 2002). See ch. 182, § 24-10-103(5.5), (5.7), 2003 Colo. Sess. Laws, 1343-44. Accordingly, H.B. 1288 re-defined "public sanitation facility" and "public water facility" to expressly exclude from waiver of immunity "a natural watercourse even if dammed, channelized, or used for transporting domestic water supplies." H.B. 1288, § 2 (5.7).
+Following passage of H.B. 1288, the City again moved the court to dismiss for lack of subject matter jurisdiction. The trial court denied the motion, reasoning that H.B. 1288 did not apply retroactively. On appeal, the case was consolidated with Powell v. City of Colorado Springs, 131 P.3d 1129 (Colo. App. 2005), and  [**5]  Henry-Hobbs v. City of Longmont, No. 03CA2187, slip op. at 1, 2005 Colo. App. LEXIS 1476 (Colo. App. Sept. 8, 2005), for oral argument, and the trial court's decision was affirmed in a published opinion. Speight Family Partnership, LLP v. City of Colorado Springs, 131 P.3d 1136 (Colo. App. 2005). The court of appeals concluded that because H.B. 1288 was intended to act only prospectively, it does not affect the case at bar because the alleged wrongful acts and damages occurred prior to the statute's effective date. We now affirm the court of appeals' rulings.
+ II.
+We held in City of Colorado Springs v. Powell and City of Longmont v. Henry-Hobbs, also announced today, that H.B. 1288 operates only prospectively because it operates as a change to existing law, rather than a clarification of it.156 P.3d 461, 2007 Colo. LEXIS 296 (2007). We assess the case before us by applying the analysis fully set forth in Powell and Henry-Hobbs, in which we looked to the legislative history, considered the language used by the General Assembly, and assessed whether the provision was ambiguous before it was amended. After considering these factors, we determined that [**6]  the presumption of prospectivity had not been overcome, and that H.B. 1288 must be regarded as effective only as to those transactions or acts occurring after July 1, 2003, the date on which H.B. 1288 took effect.
+We now affirm the court of appeals' judgment that H.B. 1288 does not operate retroactively. Accordingly, it has no application to this case, or cases such as this one, where the alleged tort occurred prior to the amendment's effective date. 
+Concur by: EID , (In Part)   
+Concur
+
+
+
+
+JUSTICE EID, concurring in part and specially concurring in part.
+For the reasons expressed in my separate opinion announced today in City of Colorado Springs v. Powell, 156 P.3d 461, 2007 Colo. LEXIS 296 (2007), I concur in part and specially concur in part with the court's opinion in this case.
+I am authorized to state that JUSTICE COATS joins in this opinion concurring in part and specially concurring in part.  
+
+ 
+
+End of Document

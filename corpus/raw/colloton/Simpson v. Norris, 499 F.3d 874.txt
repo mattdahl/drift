@@ -1,0 +1,41 @@
+
+  NeutralAs of: September 19, 2020 7:48 PM Z
+Simpson v. Norris
+United States Court of Appeals for the Eighth Circuit
+August 20, 2007, Decided
+No: 06-2823
+
+Reporter
+499 F.3d 874 *; 2007 U.S. App. LEXIS 20843 **
+ Sedrice Maurice Simpson, Appellant v. Larry Norris, Director, Arkansas Department of Correction, Appellee  
+Prior History:  [**1] Appeal from U.S. District Court for the Eastern District of Arkansas - Pine Bluff. (5:04-cv-00429-JLH).
+Simpson v. Norris, 490 F.3d 1029, 2007 U.S. App. LEXIS 15229 (8th Cir. Ark., 2007)  
+Counsel: For Sedrice Maurice Simpson (SK947), Petitioner - Appellant: Joseph Blake Hendrix, J. BLAKE HENDRIX, P.A., Little Rock, AR; Jeffrey M. Rosenzweig, Little Rock, AR. 
+Sedrice Maurice Simpson (SK947), Petitioner - Appellant, Pro se, Grady, AR. 
+For Larry Norris, Director, Arkansas Department of Correction, Respondent - Appellee: Joseph Vincent Svoboda, Assistant Attorney General, ATTORNEY GENERAL'S OFFICE, Little Rock, AR.  
+Judges: Chief Judge Loken, Judge Colloton and Judge Gruender would grant the petition for rehearing en banc. Judge Smith and Judge Shepherd did not participate in the consideration or decision of this matter.  
+Opinion
+
+
+
+
+  [*874]  ORDER
+The petition for rehearing en banc is denied. The petition for rehearing by the panel is also denied.
+Chief Judge Loken, Judge Colloton and Judge Gruender would grant the petition for rehearing en banc.
+Judge Smith and Judge Shepherd did not participate in the consideration or decision of this matter.
+Dissent by: COLLOTON  
+Dissent
+
+
+
+
+COLLOTON, Circuit Judge, with whom LOKEN, Chief Judge, and GRUENDER, Circuit Judge, join, dissenting from denial of rehearing en banc.
+I would grant rehearing en banc  [**2] to consider whether, as the panel apparently concluded, it is "irrelevant" to Sedrice Simpson's application for writ of habeas corpus that Arkansas -- unlike Virginia, cf. Walker v. True, 399 F.3d 315, 326-27 (4th Cir. 2005) -- already complied with the Eighth Amendment rule announced in Atkins v. Virginia, 536 U.S. 304, 122 S. Ct. 2242, 153 L. Ed. 2d 335 (2002), even before Atkins was decided. The Supreme Court in Atkins specifically cited Arkansas as one of the States that had contributed to the development of a "national consensus" that a mentally retarded offender should not be subjected to the death penalty. Id. at 314 & n.12. Under its statutory procedure, see Ark. Code § 5-4-618, Arkansas afforded Simpson an opportunity to establish that he was categorically ineligible for the death penalty due to mental retardation, but Simpson failed to pursue that defense. Having been presented with no claim of mental retardation, Arkansas imposed a sentence of death. This led the district court to remark that "[n]othing that the State of Arkansas did or did not do in Simpson's case is unconstitutional," because "[t]he State of Arkansas provided to Simpson the protections that Atkins requires, but he or his lawyers made the  [**3] decision not to invoke that protection." (R. Doc. 23, at 2).
+ [*875]  Whether or not the restrictions of 28 U.S.C. § 2254(e) apply to Simpson's request for an evidentiary hearing, Simpson must show at a minimum that there are material facts to be developed on the question whether Arkansas violated his constitutional rights. Townsend v. Sain, 372 U.S. 293, 312-13, 83 S. Ct. 745, 9 L. Ed. 2d 770 (1963), overruled on other grounds by Keeney v. Tamayo-Reyes, 504 U.S. 1, 112 S. Ct. 1715, 118 L. Ed. 2d 318 (1992). If Arkansas imposed a death sentence under a statutory procedure that fully complies with Atkins, then it is difficult to see how Simpson has a claim at this point that evidence of his alleged mental retardation could show that Arkansas violated his constitutional rights. Atkins did not hold that a State must permit a capital defendant to raise the defense of mental retardation at any time he wishes and in any manner that he chooses. See Atkins, 536 U.S. at 317 ("[W]e leave to the State[s] the task of developing appropriate ways to enforce the constitutional restriction upon [their] execution of sentences.") (internal quotation omitted).
+There is likewise a serious question whether Simpson can show "cause" to excuse the procedural default that he committed  [**4] by failing to present a claim of mental retardation to the state courts. Cf. Williams v. Taylor, 529 U.S. 420, 444, 120 S. Ct. 1479, 146 L. Ed. 2d 435 (2000). If Simpson had pursued successfully a defense of mental retardation under Arkansas law, then the State would have excluded him categorically from eligibility for the death penalty, and thus complied with the equivalent rule of federal law announced later in Atkins. See Ark. Code § 5-4-618(b). Where a habeas corpus applicant fails to pursue a state-law claim that is a necessary element of a then-unavailable federal claim, the Supreme Court's later announcement of the federal claim does not constitute cause that excuses the applicant's procedural default. Dugger v. Adams, 489 U.S. 401, 407-10, 109 S. Ct. 1211, 103 L. Ed. 2d 435 (1989). There is no apparent reason why the result should be different here, where the applicant failed to pursue an available claim under a state statute that anticipated and embodied the subsequently announced federal rule. The district court, moreover, determined that Simpson cannot meet the standard for "actual innocence" of the death penalty, see Sawyer v. Whitley, 505 U.S. 333, 336, 112 S. Ct. 2514, 120 L. Ed. 2d 269 (1992), so that avenue for excusing Simpson's default also appears to be closed. (R. Doc.  [**5] 23, at 2-3).
+This case raises the important question whether Arkansas may enforce its procedural requirement that a claim of mental retardation must be raised in a timely way through the means specified by state law. That is quite different from the question decided in Atkins as to whether a State may forbid a capital defendant altogether from establishing that he is categorically ineligible for the death penalty based on mental retardation. For the foregoing reasons, I would grant the State's petition for rehearing.
+August 20, 2007
+
+ 
+
+End of Document

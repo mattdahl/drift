@@ -1,0 +1,160 @@
+
+  WarningAs of: September 19, 2020 8:22 PM Z
+D.S. v. State
+Court of Appeal of Florida, Third District
+April 11, 2012, Opinion Filed
+No. 3D09-2558
+
+Reporter
+2012 Fla. App. LEXIS 5461 *; 37 Fla. L. Weekly D 825
+ D.S., a juvenile, Appellant, vs. The State of Florida, Appellee.  
+Notice: NOT FINAL UNTIL DISPOSITION OF TIMELY FILED MOTION FOR REHEARING.
+  
+Subsequent History: Rehearing granted by, Opinion withdrawn by, Substituted opinion at D.S. v. State, 2013 Fla. App. LEXIS 15200 (Fla. Dist. Ct. App. 3d Dist., Sept. 25, 2013)  
+Prior History:  [*1] An Appeal from the Circuit Court for Miami-Dade County, Mindy S. Glazer, Judge. Lower Tribunal No. 09-2521-A.
+  
+Counsel: Carlos J. Martinez, Public Defender, and Marti Rothenberg, Assistant Public Defender, for appellant. 
+Pamela Jo Bondi, Attorney General, and Natalia Costea, Assistant Attorney General, for appellee.  
+Judges: Before SHEPHERD, SUAREZ, and LAGOA, JJ. SHEPHERD, J., concurring specially. LAGOA, J. (dissenting).  
+Opinion by: SUAREZ  
+Opinion
+
+
+
+
+SUAREZ, J.
+D.S., a minor, appeals from a withhold of adjudication of delinquency entered following an adjudicatory hearing. We reverse, as the trial court should have granted the motion to suppress filed by D.S.
+D.S. was detained, along with other persons, on suspicion of burglary. He was later arrested for loitering and prowling and for suspected marijuana. He was not under arrest at the time another officer brought D.S. to Officer Lambert, who understood that she was merely detaining him while the other officers finished their investigation. Officer Lambert proceeded to fully search D.S., not pat him down, prior to placing him in her squad car to await the outcome of the investigation. She did not read him his Miranda1  rights, she did not see any bulges that might give her probable  [*2] cause to search.2  She testified that she routinely searches suspects prior to placing them in her vehicle as a safety precaution. Upon fully searching D.S., she discovered a baggie of marijuana and at that point she arrested him.
+The trial court erroneously denied D.S.'s motion to suppress. D.S. was not under arrest at the time of the search, he was merely detained and awaiting the conclusion of the officers' investigation into the burglary call. Officer Lambert's search of D.S. exceeded her authority where there was no reasonable suspicion to believe D.S. was armed and dangerous, and he had not yet been arrested. See D.B.A. v. State, 962 So. 2d 406 (Fla. 2d DCA 2007) (holding that The Florida Stop and Frisk Law authorizes a limited search to disclose a dangerous weapon where an officer has probable cause to believe that the detainee is armed with a dangerous weapon, that search may not go beyond a pat down of the detainee's outer clothing, and only if an officer reasonably believes that an object he feels during a pat down is a weapon may he seize the object) (citations omitted).  [*3] We agree with the holding in T.L.F. v. State, 536 So. 2d 371, 372 (Fla. 2d DCA 1988), which provides that:
+Under the circumstances of this case, an arrest would only have been appropriate if probable cause had existed to arrest appellant for the burglary. The police cannot be allowed to use the loitering and prowling statute to detain an individual for another offense for which probable cause is lacking and then use the fruits of the unlawful detention as evidence that the individual committed the other offense. . . . To allow such "bootstrapping" of evidence would lead back to the dark ages when police were able to use the loitering and prowling statute as a catchall charge to arrest persons at their whim.
+We conclude that the order denying the motion to suppress should have been granted and accordingly, we reverse D.S.'s adjudication of delinquency and remand with directions that he be discharged.
+Reversed and remanded with directions.
+Concur by: SHEPHERD  
+Concur
+
+
+
+
+SHEPHERD, J., concurring specially.
+If the facts were as the State and the dissent propose, I would agree the adjudication should be upheld. But, they are not, so I cannot. The State argues, and the dissent accepts, that D.S. was searched incident  [*4] to an arrest. However, the record reflects D.S. was not under arrest for any crime—loitering and prowling, burglary, or anything else—at the time he was searched by Officer Lambert. The record tells the tale.
+ Officer Veronica Lambert
+Officer Veronica Lambert testified she responded to a burglary in progress. She did not talk to any other officers about the investigation. Pursuant to protocol—five police units already were on the scene—she "just stayed off" from the house. Although she did not have a clear view of the house, she saw D.S. emerge from the house with an officer escort. The officer brought D.S. to her to hold him pending completion of the investigation. There were no bulges or other evidence of a dangerous weapon on his person.
+As even the dissent acknowledges, at that time, "[D.S.] was being detained" by Officer Lambert in "reference an investigation." See dissent p. 17. He was not arrested. The search occurred before any arrest. This fact is unambiguously confirmed by Officer Lambert in her testimony:
+Q When you came in contact with D.S., why was that?
+A Well originally he was one of the suspects that were taken out of the house.
+Normally what they do in a situation where you  [*5] have a burglary in progress, if there's numerous suspects we like to keep them separate.
+. . . .
+We want to keep them separate so that they don't come up with a collaborated story.
+I received one suspect, and the other ones were separated.
+Q Did you go up to D.S., or did another officer bring D.S. to you?
+A He was brought to me.
+Q Okay, but did you see him coming from the vicinity of the house?
+A Yes.
+Q Is that the house where the burglary in progress was reported?
+A Yes.
+Q Okay. Now, when you came in contact with D.S., what did you do next?
+A I know that he was searched because I had to put him in my vehicle. But I don't recall if I put handcuffs on or if they were already on. I don't recall that part of it, but I know that I did search him because he was going into my vehicle.
+Q Now why exactly did you search him because he was going into your vehicle?
+A That's something that we do for officer safety. It's an officer safety issue. Just to make sure there's nothing that will harm me, or harm him[], or anything like that.
+Q Do you do it every time you arrest somebody?
+A Absolutely.
+Q And do you -
+A Arrest, detain, it doesn't matter. For whatever reason.
+Q Upon  [*6] searching the Defendant did you find anything?
+A Yes.
+Q What did you find?
+A A bag of marijuana, suspect marijuana.
+. . . .
+(emphasis added.)
+On cross-examination, Officer Lambert again confirmed D.S. was not arrested when he was brought to her:
+Q Was he arrested when he was brought to you?
+A Well, I mean at that time he would have been detained.
+Q Okay.
+A Okay?
+Q When you made contact with D.S., did you read him Miranda?
+A No, I did not.
+Q Did you ever ask him any questions as to why he was in the house?
+A No ma'am.
+Q Did you subsequently arrest him?
+A I'm sorry?
+Q You said when he was brought out to you he was detained
+A Right.
+Q Then, you thereafter arrested him
+A Right. After the marijuana was found on his person.
+Q Okay, but prior to that was there a basis to arrest him
+A Well, as far as the other officers that brought him out of the house, no. As far as I'm concerned with that, he was being detained by me in reference to them finishing their investigation.
+(emphasis added).
+The final confirmation of this fact occurred on redirect examination with the following colloquy:
+Q Okay, so do you know if the officers who handed him off to you, if they were arresting him for anything, including loitering and prowling?  [*7] Or burglary, or -
+A Yes. It wasn't like a hold to identify. It was based on him being held pending investigation and getting information to charge him with, whatever charges, whether it be L and P, or burglary, or whatever the case was.
+Q But ultimately there had already been a decision that he -
+A Right.
+Q -- should be detained?
+A Right.
+ Officer Anthony Collier
+Officer Collier arrived on the scene after Officer Lambert. Officer Collier testified as follows:
+Q Upon arrival who did you make contact with?
+A Upon arrival I made contact with D.S., the Defendant.
+Q What did you do in the course of your investigation?
+A I believe Officer Veronica Lambert was dealing with him, gathering some information from him. At that point, I took possession of him.
+Q You said that you responded to a burglary in progress. Did you make contact with any officers on scene that had previously responded?
+A Officer Lambert.
+Q What was the nature of Officer Lambert's investigation?
+A She explained to me that she had detained the Defendant, and she patted him down, and she was able to retrieve a baggy of suspected marijuana from his right front pocket.
+Q Were you investigating any other charges on scene?
+A Yes, I was.
+Q What other  [*8] charge were you investigating?
+A Loitering and prowling.
+Q Did you speak with anyone regarding the loitering and prowling?
+A Yes, I did.
+Q Who did you speak to?
+A . . . Officer Lambert.
+Q What were the results of Officer Lambert's investigation?
+A She advised me that there were some other officers that responded to the scene as well, and that upon getting there they discovered the Defendant somewhere inside of the home.
+. . . .
+Q [W]as the homeowner inside the home?
+A The homeowner wasn't inside the home, but I spoke to a witness who was on the scene.
+. . . .
+Q What did [the witness] tell you he observed?
+A He told me he was visiting a resident at 2515 Northwest 158 Street, and he observed three black male defendants breaking down the door of the home.
+Q Did he tell you that the Respondent was one of those individuals he observed?
+A Yes.
+Q Based on your investigation on the scene, did you make a determination as to probable cause
+A Yes, of course.
+Q What was that determination
+A Based on the burglary in progress that I responded to.
+Q What was the Respondent arrested for
+. . . .
+A The arrest was for loitering and prowling, and for suspected marijuana.
+(emphasis added). On cross-examination, Officer Collier  [*9] stated D.S. was "detained" when he arrived on the scene.3  He confirmed he arrested D.S. for loitering and prowling based on what fellow officers told him, since "[t]hey're officers just like me."
+ Analysis
+The State's position during the hearing on the motion to suppress was that "[t]his was a search incident to arrest." However, there can be only one conclusion drawn from the actual testimony: D.S. was not placed under arrest until after he was searched. It might have been that D.S. could have been arrested before the search, but, we, of course, must deal with the arrest we have, not the arrest we wish we had. As the Oregon Supreme Court has explained:
+[A]n arrest is the crux of a "search-incident-to-arrest." By definition a search 'incident to' an arrest is a warrantless search that is justified by the fact that a suspect is arrested. The justification arises from the practical consequences of taking a person into custody, and it cannot extend beyond those practical consequences if the  [*10] fact of the arrest is its premise.
+State v. Owens, 302 Ore. 196, 729 P.2d 524, 533 (Or. 1986) (en banc) (quoting State v. Brown, 301 Ore. 268, 721 P.2d 1357, 1370 (Or. 1986)).
+The dissent urges that two cases from this court, Freeman v. State, 909 So. 2d 965 (Fla. 3d DCA 2005), and Thomas v. State, 395 So. 2d 280 (Fla. 3d DCA 1981), require affirmance. However, in each case, the arrest preceded the search. Also in each case, the defendant argued the arrest was made on an unlawful charge and the search therefore was illegal. We held the searches nevertheless were lawful because in each case there was probable cause to arrest the defendant on another charge. In other words, the justification for the exception to the warrant requirement still applied.
+For example, in Freeman, the defendant, Andrew Freeman, and another man were stopped at 4:30 a.m., carrying a large commercial-grade chain saw, a gas-powered weed whacker, a hedge trimmer, and two leaf blowers. Freeman, 909 So. 2d at 966. Freeman also was towing another bicycle alongside the one he was riding. Id. Noticing the substantial amount of lawn equipment and extra bicycle being carried by Freeman, Officer Brad Taylor, aware of a recent rash of lawn tool thefts  [*11] from garages and lawn sheds in the vicinity, stopped the two men. After Freeman proved unable to describe the make, manufacturer, or description of what he claimed to be his own equipment and gave a false explanation why he was carrying the equipment around 4:30 a.m., Freeman was arrested for loitering and prowling. Id. at 967. He then was transported to the police station, where he was informed of his Miranda rights,4  and then gave a written statement to the officer. Id.
+Freeman moved to suppress the fruits of the theft and the post-arrest statement on the ground there was no probable cause to support his arrest for loitering and prowling. We affirmed the trial court's denial of the motion, stating:
+[W]hile the circumstances of this case and Freeman's behavior may not have been sufficient to support a loitering and prowling conviction, a crime for which he was neither tried nor convicted, they were more than adequate to support his arrest [for theft]. We therefore conclude that there was probable cause for the arrest and that Freeman's motion to suppress was properly denied.
+Id. at 968 (footnote omitted).
+Freeman, in turn, relies on Thomas. Thomas  [*12] is factually indistinguishable from Freeman. Like Andrew Freeman, Andrew Thomas also was arrested for loitering and prowling. Thomas, 395 So. 2d at 280. A search of Thomas' person was conducted incident to that arrest. Thomas moved to suppress the fruits of a burglary found during the search. Id. Despite the fact the officers were of a mistaken and contrary belief at the time of the arrest, probable cause existed at the time of the search to arrest Thomas for the crime of burglary. Id. at 281. We affirmed the denial of the motion to suppress, stating, "Where, by objective standards, probable cause to arrest for a certain offense exists, the validity of an arrest does not turn on the fact that an arrest was effected on another charge." Id. In the case before us, there was no arrest before Officer Lambert performed her search.
+The police had every right to hold D.S. while they completed their investigation in this case. See State v. Reyes, 4 So. 3d 46, 48 (Fla. 3d DCA 2009) (discussing investigatory stops, during which an officer may temporarily detain an individual if the stop is supported by a reasonable suspicion that person committed, is committing, or is about to commit a crime)  [*13] (citing Popple v. State, 626 So. 2d 185, 186 (Fla. 1993)). However, as the United States Supreme Court stated forty-five years ago in Sibron v. New York, 392 U.S. 40, 88 S. Ct. 1889, 20 L. Ed. 2d 917 (1968)—the simultaneously issued, but lesser known cousin of Terry v. Ohio, 392 U.S. 1, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968)—absent an arrest, the officer "must be able to point to particular facts from which he reasonably inferred that the individual was armed and dangerous." Sibron, 392 U.S. at 64 (citing Terry v. Ohio, 392 U.S. at 21); Reyes, 4 So. 3d at 50; see also § 901.151(5), Fla. Stat (2009). There are no such facts to justify the search in this case. I know of no case that stands for the proposition an officer can search an individual simply because the individual is being placed in a police vehicle. See L.C. v. State, 23 So. 3d 1215, 1219 (Fla. 3d DCA 2009).
+The trial court erred by refusing to suppress the marijuana found on D.S. in this case as fruit of an illegal search and seizure. See Wong Sun v. United States, 371 U.S. 471, 484, 83 S. Ct. 407, 9 L. Ed. 2d 441 (1963). I agree the adjudication should be reversed.
+Dissent by: LAGOA  
+Dissent
+
+
+
+
+LAGOA, J. (dissenting).
+Because I disagree with the majority's conclusion that there was no probable cause to arrest D.S., I respectfully dissent.
+D.S. was  [*14] arrested by Officer Collier for loitering and prowling and possession of marijuana. The petition charged him with possession of cannabis. His argument below, and on appeal, was that there was no probable cause to arrest him for loitering and prowling, and therefore, the search, which revealed the marijuana, was illegal.
+In support of its reversal, the majority cites to cases from the Second District. This Court, however, is bound by its own precedent and both Freeman v. State, 909 So. 2d 965 (Fla. 3d DCA 2005), and Thomas v. State, 395 So. 2d 280, 280-281 (Fla. 3d DCA 1981), are directly applicable to this case. As this Court noted in Freeman, 909 So. 2d at 967-68:
+In Thomas, arresting officers believed that the circumstances at the time of Thomas's arrest justified an arrest for loitering and prowling. Thomas maintained that an arrest on that charge was unlawful, and thus that the evidence obtained as a result of that arrest should be suppressed. We affirmed Thomas' conviction finding that there existed, notwithstanding the officers' mistaken and contrary belief, probable cause to arrest Thomas on a charge of burglary. Thus, we concluded that "[w]here, by objective standards, probable  [*15] cause to arrest for a certain offense exists, the validity of an arrest does not turn on the fact that an arrest was effected on another charge." Thomas, 395 So. 2d at 280-81 (citing Chaney v. State, 237 So. 2d 281 (Fla. 4th DCA 1970), and United States v. Ullrich, 580 F.2d 765 (5th Cir. 1978)). We went on to observe that "given the existence of probable cause to arrest Thomas for the offense of burglary, the validity of the search of Thomas is unaffected by the fact that the search preceded his formal arrest on that charge." Thomas, 395 So. 2d at 281 (citing Rawlings v. Kentucky, 448 U.S. 98, 100 S. Ct. 2556, 65 L. Ed. 2d 633 (1980), and Dixon v. State, 343 So. 2d 1345, 1347 n. 3 (Fla. 2d DCA 1977)); see also Blanding v. State, 446 So. 2d 1135, 1136 (Fla. 3d DCA 1984) ("[a]n arrest based on probable cause is not rendered unlawful because the arresting officer attaches an improper label to it").
+"Probable cause to arrest exists when the totality of the facts and circumstances within the officer's knowledge would cause a reasonable person to believe that an offense has been committed and that the defendant is the one who committed it. The facts constituting probable cause need not meet  [*16] the standard of conclusiveness and probability required of the circumstantial facts upon which a conviction must be based. An officer is permitted to take a realistic view of the facts in making a probable cause determination, 'for probable cause is a matter of practicalities, not technicalities.'" State v. Cortez, 705 So. 2d 676, 678 (Fla. 3d DCA 1998) quoting State v. Russell, 659 So. 2d 465, 468 (Fla. 3d DCA 1995) (other citations omitted).
+(Emphasis added). Therefore, even if no probable cause existed to arrest D.S. for loitering and prowling, as long as there was probable cause to arrest him on another charge, the search incident to arrest was lawful.5  See Lugo v. State, 992 So. 2d 415, 418 (Fla. 3d DCA 2008); State v. Orozco, 607 So. 2d 464, 465 n.1 (Fla. 3d DCA 1992).
+Here, the officer who conducted the search, Officer Lambert, testified that she responded to the scene on a call for a burglary in progress, and that she saw D.S. being escorted out of the house. She testified that he was being detained in reference to the investigation of the call for a burglary in progress. The arresting officer, Officer Collier, testified that he responded to a burglary in progress. He also testified that when he arrived at the scene he spoke to a witness who observed D.S. and two others breaking down the door to the home in which he was found by police officers. It is undisputed that D.S. was found inside the home. Given this testimony, there was probable cause to arrest him for burglary. See State v. Clark, 721 So. 2d 1202 (Fla. 3d DCA 1998); Brescher v. Pirez, 696 So. 2d 370 (Fla. 4th DCA 1997); State v. Cote, 547 So. 2d 993 (Fla. 4th DCA 1989); McKee v. State, 430 So. 2d 983 (Fla. 3d DCA 1983). Accordingly, the fact that he was arrested for loitering and prowling  [*18] does not render the search incident to arrest unlawful.
+I would affirm.
+
+ 
+
+End of Document

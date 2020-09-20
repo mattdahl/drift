@@ -1,0 +1,57 @@
+
+  NeutralAs of: September 19, 2020 7:26 PM Z
+Soper v. Tire Kingdom, Inc.
+Supreme Court of Florida
+January 24, 2013, Decided
+No. SC11-1462
+
+Reporter
+124 So. 3d 804 *; 2013 Fla. LEXIS 89 **; 38 Fla. L. Weekly S 37; 2013 WL 264441
+ JAMES SOPER, et al., Petitioners, vs. TIRE KINGDOM, INC., Respondent.  
+Subsequent History: Released for Publication May 01, 2013.
+Rehearing denied by Soper v. Tire Kingdom, Inc., 2013 Fla. LEXIS 895 (Fla., May 1, 2013)  
+Prior History:  [**1] Application for Review of the Decision of the District Court of Appeal - Direct Conflict of Decisions. Third District - Case No. 3D08-2088. (Miami-Dade County).
+Tire Kingdom, Inc. v. Dishkin, 81 So. 3d 437, 2011 Fla. App. LEXIS 10550 (Fla. Dist. Ct. App. 3d Dist., 2011)  
+Counsel: Stephen F. Rosenthal of Podhurst Orseck, P.A., Miami, Florida and Seth Eric Miles of Grossman Roth, P.A., Coral Gables, Florida and Jon Michael Herskowitz of Baron & Herskowitz, Miami, Florida, for Petitioners. 
+Elliot H. Scherker of Greenberg Traurig, P.A., Miami, Florida, for Respondent.  
+Judges: PARIENTE, LEWIS, QUINCE, LABARGA, and PERRY, JJ., concur. CANADY, J., dissents with an opinion, in which POLSTON, C.J., concurs.  
+Opinion
+
+
+
+
+ [*804]  PER CURIAM.
+We have for review Tire Kingdom, Inc. v. Dishkin, et al., 81 So. 3d 437 (Fla. 3d DCA 2011), which is in express and direct conflict with this Court's decision in Sosa v. Safeway Premium Finance Co., 73 So. 3d 91 (Fla. 2011). We quash the decision of the Third District Court of Appeal in Dishkin with instructions to remand to the Circuit Court of the Eleventh Judicial Circuit of Florida for further proceedings consistent with this Court's decision in Sosa.
+It is so ordered.
+PARIENTE, LEWIS, QUINCE, LABARGA, and PERRY, JJ., concur.
+CANADY, J., dissents with an opinion, in which POLSTON, C.J., concurs.
+Dissent by: CANADY  
+Dissent
+
+
+
+
+CANADY,  [**2] J., dissenting.
+Because I conclude that we should recede from our decision in Sosa v. Safeway Premium Finance Co., 73 So. 3d 91 (2011), I would not quash the Third District's decision on review. Sosa marked a sea change in Florida's law governing class actions. The majority's decision here illustrates the deleterious consequences of Sosa in expanding class actions to contexts where they should not be available. I therefore dissent.
+The Sosa majority's decision misapplied Florida Rule of Civil Procedure 1.220(a). The Sosa majority erred in concluding that the class representative was not required to show that he had a valid claim and in concluding that the trial court properly did not consider factual differences relevant to the defendant's liability to different members of the putative class.
+The Sosa majority concluded that even though Sosa brought a statutory claim that required proof that Safeway "knowingly" violated section 627.840(3)(b), Florida Statutes (2003), he did not need to provide proof that "Safeway 'knowingly' overcharged him in the motion for class certification." Sosa, 72 So. 2d at 105. With regard to the commonality requirement, the Sosa majority stated that
+Sosa and  [**3] the putative class members satisfied rule 1.220(a)'s commonality requirement because their claims arose  [*805]  from the same course of conduct and routine billing practice by Safeway and were based on the same legal theory, i.e., Safeway knowingly overcharged Sosa and the class members in contravention of sections 627.840 and 627.835.
+Id. at 107. Thus, the majority concluded: "Whether Safeway in fact engaged in the common course of conduct that resulted in the overcharges as alleged is a fact question reserved for the jury and does not negate the trial court's determination that, if proven, Safeway's common business practice would have injured Sosa and the putative class members . . . ." Id. at 111. The Sosa majority stated that it was improper to consider "the possibility of mere factual differences in the individual circumstances surrounding each of the putative class members' claims and the variances in defenses to them." Id. at 110.
+The commonality requirement of Federal Rule of Civil Procedure 23—which is similar to the commonality requirement of rule 1.220(a)—was the focus of a recent decision of the United States Supreme Court. In Wal-Mart Stores, Inc. v. Dukes,     U.S.    , 131 S. Ct. 2541, 180 L. Ed. 2d 374 (2011),  [**4] the Supreme Court concluded that the certification of a plaintiff class consisting of female Wal-Mart employees "who allege[d] that the discretion exercised by their local supervisors over pay and promotion matters violate[d] Title VII by discriminating against women," id. at 2547, was not proper because it did not satisfy the commonality requirement of rule 23. Id. The Supreme Court began its analysis by noting that the commonality requirement is often misread because "any competently crafted class complaint literally raises common 'questions.'" Id. at 2551 (quoting Richard A. Nagareda, Class Certification in the Age of Aggregate Proof, 84 N.Y.U. L. Rev. 97, 131-132 (2009)). "Commonality requires the plaintiff to demonstrate that the class members 'have suffered the same injury.' This does not mean merely that they have all suffered a violation of the same provision of law." Id. (quoting Gen. Tel. Co. of Sw. v. Falcon, 457 U.S. 147, 157, 102 S. Ct. 2364, 72 L. Ed. 2d 740 (1982)).
+Next, the Supreme Court explained what the plaintiff must show in order to attain class certification. The Court stated:
+Rule 23 does not set forth a mere pleading standard. A party seeking class certification must affirmatively demonstrate  [**5] his compliance with the Rule—that is, he must be prepared to prove that there are in fact sufficiently numerous parties, common questions of law or fact, etc. We recognized in Falcon that "sometimes it may be necessary for the court to probe behind the pleadings before coming to rest on the certification question," and that certification is proper only if "the trial court is satisfied, after a rigorous analysis, that the prerequisites of Rule 23(a) have been satisfied." Frequently that "rigorous analysis" will entail some overlap with the merits of the plaintiff's underlying claim. That cannot be helped. "[T]he class determination generally involves considerations that are enmeshed in the factual and legal issues comprising the plaintiff's cause of action."
+Id. at 2551-52 (citations omitted).
+With regard to what the putative class in Wal-Mart was required to allege for commonality prior to being certified, the Supreme Court stated that
+proof of commonality necessarily overlaps with respondents' merits contention that Wal-Mart engages in a pattern or practice of discrimination. That is so because, in resolving an individual's Title VII claim, the crux of the inquiry is the reason for a  [**6] particular employment decision.  [*806]  Here respondents wish to sue about literally millions of employment decisions at once. Without some glue holding the alleged reasons for all those decisions together, it will be impossible to say that examination of all the class members' claims for relief will produce a common answer to the crucial question why was I disfavored.
+Id. at 2552 (internal quotation marks omitted) (citation omitted).
+The majority's commonality analysis in Sosa cannot be reconciled with the reasoning of Wal-Mart. We should have concluded that Sosa was required to allege sufficient facts to demonstrate that Safeway "knowingly" overcharged members of the putative class prior to attaining class certification. This was not merely a question of fact to be determined in the future when addressing the merits. It should also have been part of the preliminary legal analysis to determine whether the class certification requirements were satisfied. We should not have brushed aside the different factual circumstances related to the claims of various members of the putative class. The "mere factual differences" referred to by the majority were differences between facts that establish liability  [**7] in some cases and facts that negate liability in others cases.
+In the case before us, the classes certified by the trial court include
+purchasers of Tire Kingdom automotive repair services-one class of statewide customers and the other a Miami-Dade County class-who either (1) "used or benefited" from a discount coupon that failed to disclose the store would add a "shop fee" to the discounted price advertised on the coupon or (2) were "overcharged" for a service at Tire Kingdom by the "imposition of a shop fee based upon a percentage of the retail price of the service, rather than the advertised or charged price," in violation of the Florida Deceptive and Unfair Trade Practices Act (FDUTPA), §§ 501.201-.213, Fla. Stat. (2006), the Florida Motor Vehicle Repair Act, §§ 559.901-.9241, Fla. Stat. (2006), and the Miami-Dade County Vehicle Repair Ordinance, §§ 8A-161.1-.37 Miami-Dade County Code. Each of these enactments makes unfair or deceptive acts or practices unlawful.
+Tire Kingdom, Inc. v. Dishkin, 81 So. 3d 437, 439 (Fla. 3d DCA 2011) (footnotes omitted). The Third District noted that "a properly pled and proven consumer claim for damages under FDUTPA . . . requires proof of: (1) a deceptive  [**8] act or unfair practice; (2) causation; and (3) actual damages." Id. at 448 (citing Rollins, Inc. v. Butland, 951 So. 2d 860, 869 (Fla. 2d DCA 2006)). There is no reason to question the Third District's ruling that the commonality requirement was not satisfied in this case where "each class member's Tire Kingdom experience—including the precise language of each advertisement, the class member's awareness of Tire Kingdom's shop-fee signage, and the class member's conversations with Tire Kingdom employees—would have to be explored to determine Tire Kingdom's liability to each class member." Id. at 449.
+As the Third District observed, this is a case "where no one set of operative facts establishes liability, where no single proximate cause applies to each defendant, and where individual issues outnumber common issues." Id. at 451. We have no basis for concluding that this case is appropriate for consideration as a class action.
+Accordingly, I would recede from Sosa. Based on the record before us,1  there is no  [*807]  basis for quashing the Third District's decision in Tire Kingdom. I therefore dissent.
+POLSTON, C.J., concurs.
+
+ 
+
+End of Document

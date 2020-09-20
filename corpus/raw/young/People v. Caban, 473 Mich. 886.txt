@@ -1,0 +1,50 @@
+
+  CautionAs of: September 19, 2020 9:20 PM Z
+People v. Caban
+Supreme Court of Michigan
+July 29, 2005, Decided 
+SC: 128441 
+
+Reporter
+473 Mich. 886 *; 703 N.W.2d 797 **; 2005 Mich. LEXIS 1318 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellant, v 36th DC: 04-056383 LUIS CABAN, Defendant-Appellee.  
+Subsequent History: On remand at, Remanded by People v. Caban, 2007 Mich. App. LEXIS 1189 (Mich. Ct. App., May 3, 2007)  
+Prior History:  [***1]  COA: 258556. Wayne CC: 04-500017.  
+  
+Judges: YOUNG, J., concurs. KELLY, J., dissents.    
+Opinion
+
+
+
+
+ [*886]   [**797]  On order of the Court, the application for leave to appeal the March 8, 2005 order of the Court of Appeals is considered and, pursuant to MCR 7.302(G)(1), in lieu of granting leave to appeal, we REMAND this case to the Court of Appeals for consideration as on leave granted.
+We do not retain jurisdiction.  
+Concur by: YOUNG  
+Concur
+
+
+
+
+ [**798]  YOUNG, J., concurs and states as follows:
+I concur in the Court's decision to remand this matter to the Court of Appeals for consideration as on leave granted. I write separately to set forth what I believe to be the proper application of the Michigan Rules of Evidence in this case.
+Defendant fraudulently posed as an agent of a homeowner and purported to "sell" the property to the victim. He obtained $ 20,000 from the victim as a "down payment." During the preliminary examination, the district court refused to allow hearsay evidence to establish that the homeowner told the victim that he did not authorize defendant to sell his home. Without that key testimony, the prosecutor was forced to rest her  [*887]  case, and, subsequently, the district [***2]  court dismissed the charges against defendant for failure to establish probable cause.
+MRE 1101(b)(8) allows hearsay evidence in preliminary examinations "to prove, with regard to property, the ownership, authority to use, value, possession and entry." In this case, the meaning of the phrase "authority to use" is clear. 1  [***3]  The word "use" is defined as "employing for some purpose; . . . availing oneself of; applying one's own purposes;" 2  "exploiting for one's own advantage or gain." 3  Defendant "used" the property to defraud the victim. In other words, he "exploited [the property] for his own advantage" by representing that he had the authority to sell it to the victim. The homeowner's hearsay statement directly pertained to defendant's authority to "use" the property for this purpose. Furthermore, the homeowner's hearsay statement would have shown that the defendant did not own the property. MRE 1101(b)(8) permits the introduction of hearsay evidence to prove ownership of property. The victim's statement was therefore admissible under MRE 1101(b)(8) for this purpose as well.
+For these reasons, I believe the district court erred in refusing to admit the hearsay evidence in the preliminary examination. 
+Dissent by: KELLY  
+Dissent
+
+
+
+
+KELLY, J., dissents and states as follows:
+I dissent from this Court's decision to remand the case to the Court of Appeals. I would simply deny leave to appeal. 
+Defendant was charged with larceny by false pretenses involving property worth $ 20,000 or more. 4  Defendant had claimed that he had the authority to sell real property when he did not. At the preliminary examination, the complainant started to testify that the true owner had told him that defendant did not have authority to sell the property. But defendant objected and the district court barred the testimony on hearsay grounds. It then dismissed the case for want of probable cause. The circuit court affirmed the decision, and the Court of Appeals denied leave to appeal for lack of merit.
+ [***4]   [**799]  The prosecution appealed, arguing that MRE 1101(b)(8) permitted the hearsay to be admitted into evidence. The rule provides:
+At preliminary examinations in criminal cases, hearsay is admissible to prove, with regard to property, the ownership, authority to use, value, possession and entry.
+ [*888]  The question becomes whether the authority to sell property is equivalent to the authority to use it. I believe that it is not. A contrary ruling requires an overly expansive reading of the rule. Had its drafters intended to allow hearsay evidence at preliminary examinations regarding the authority to sell property, they would have made that clear. 
+Selling property is, of course, very common. "Authority to sell" could easily have been included in the rule. The drafters listed several other common activities associated with property. Hence, I believe that the omission of "authority to sell" was intentional. It would be inappropriate for us to read it into this rule of evidence when it appears to have been intentionally excluded.
+I believe that the lower courts properly construed the intent of MRE 1101(b)(8) by not allowing admission of the hearsay evidence. Therefore, I would deny leave to appeal. [***5]  
+
+ 
+
+End of Document

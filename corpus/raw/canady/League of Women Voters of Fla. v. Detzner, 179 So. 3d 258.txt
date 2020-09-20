@@ -1,0 +1,1229 @@
+
+  NeutralAs of: September 19, 2020 7:25 PM Z
+League of Women Voters of Fla. v. Detzner
+Supreme Court of Florida
+December 2, 2015, Decided
+No. SC14-1905
+
+Reporter
+179 So. 3d 258 *; 2015 Fla. LEXIS 2658 **; 40 Fla. L. Weekly S 667
+ THE LEAGUE OF WOMEN VOTERS OF FLORIDA, etc., et al., Appellants/Cross—Appellees, vs. KEN DETZNER, et al., Appellees/Cross—Appellants.  
+Subsequent History: Costs and fees proceeding at, Decision reached on appeal by League of Women Voters of Fla. v. Detzner, 188 So. 3d 68, 2016 Fla. App. LEXIS 4552 (Fla. Dist. Ct. App. 1st Dist., Mar. 24, 2016)  
+Prior History:  [**1] Certified Judgments of Trial Courts in and for Leon County — Terry Powell Lewis, Judge - Case Nos. 372012CA000412XXXXXX and 372012CA000490XXXXXX - An Appeal from the District Court of Appeal, First District, Case No. 1D14-3953.
+League of Women Voters of Fla. v. Detzner, 172 So. 3d 363, 2015 Fla. LEXIS 1474 (Fla., 2015)  
+Counsel: John Stewart Mills, Andrew David Manko, and Courtney Rebecca Brewer of The Mills Firm, P.A., Tallahassee, Florida; David B. King, Thomas Alan Zehnder, Frederick Stanton Wermuth, and Vincent Falcone, III of King, Blackwell, Zehnder & Wermuth, P.A., Orlando, Florida; AdamMichael Schachter and Gerald Edward Greenberg of Gelber Schachter & Greenberg, P.A., Miami, Florida; Mark Herron and Robert J. Telfer, III of Messer Caparello, P.A., Tallahassee, Florida; and John M. Devaney and Marc Erik Elias of Perkins Coie LLP, Washington, District of Columbia, for Appellants/Cross-Appellees. 
+J. Andrew Atkinson, General Counsel, Florida Department of State, Tallahassee, Florida; Raoul G. Cantero, III, Jason Nelson Zakia, and Jesse Luke Green of White & Case LLP, Miami, Florida; George T. Levesque, General Counsel, The Florida Senate, Tallahassee, Florida; Allison J. Riggs and George Edward Eppsteiner, Southern Coalition for Social Justice, Durham, North Carolina; Nancy Gbana [**2]  Abudu, American Civil Liberties Union of Florida Foundation, Miami, Florida; Matthew Joseph Carson, General Counsel, The Florida House of Representatives, Tallahassee, Florida; and Charles Talley Wells of Gray Robinson, P.A., Orlando, Florida, and Jason Lawrence Unger, Andre Velosy Bardos, and George N. Meros, Jr. of Gray Robinson, P.A., Tallahassee, Florida, for Appellees/Cross-Appellants. 
+Martha Angela Pardo, Associate Counsel, LatinoJustice PRLDEF, Orlando, Florida, for Amici Curiae LatinoJustice PRLDEF, Florida New Majority, and Mi Familia Vota.  
+Judges: PARIENTE, J. LABARGA, C.J., and LEWIS, QUINCE, and PERRY, JJ., concur. PERRY, J., concurs with an opinion, in which QUINCE, J., concurs. CANADY, J., concurs in part and dissents in part with an opinion. POLSTON, J., dissents with an opinion.  
+Opinion by: PARIENTE  
+Opinion
+
+
+
+
+ [*260]  PARIENTE, J.
+This case is before the Court for approval of a final congressional redistricting plan in accordance with the Fair Districts Amendment and in accordance with our previous opinion in League of Women Voters of Florida v. Detzner (Apportionment VII), 172 So. 3d 363 (Fla. 2015). We approve in full the trial court's "Order Recommending Adoption of Remedial Map." Our opinion today—the eighth concerning legislative or congressional apportionment during this decade since the adoption of the landmark Fair Districts Amendment—should bring [**3]  much needed finality to litigation concerning this state's congressional redistricting that has now spanned nearly four years in state courts. Accordingly, the plan approved here shall be used in the 2016 congressional elections and thereafter until the next decennial redistricting.
+In Apportionment VII, we affirmed the trial court's finding that the 2012 "redistricting process" and the "resulting map" apportioning Florida's twenty-seven congressional districts were "'taint[ed]' by unconstitutional intent to favor the Republican Party and incumbent lawmakers." Id. at 369. Although we affirmed the trial court's finding of unconstitutional intent, we reversed the trial court's final judgment because it had not given proper legal effect to its finding of unconstitutional intent. As the trial court noted upon relinquishment, it "had not gone far enough in [its] requirements of the Legislature to correct the constitutional deficiencies." Romo v. Detzner (Trial Court Order), Nos. 2012-CA-00412 & 2012-CA-00490, Order Recommending Adoption of Remedial Map at 2 (Fla. 2d Jud. Cir. Ct. Oct. 9, 2015).
+In Apportionment VII, we rejected the Challengers'1  request that the entire map be redrawn because "the remedy [should [**4]  be] commensurate with the constitutional violations" and because the Challengers  [*261]  did not "identify a neutral map that showed how all of the districts could be redrawn in a manner more objectively compliant with the constitutional requirements." Id. at 413. We did acknowledge that the "admittedly gerrymandered 2002 map . . . was used as a baseline" for the enacted plan, but the Challengers did not allege that fact as a "basis for invalidating the entire map." Id.
+We also rejected the Challengers' request that this Court redraw the map, although we concluded that this Court had that authority once constitutional violations had been demonstrated. Id. Instead, we provided the Legislature with the opportunity to pass a constitutionally compliant plan. Accordingly, we relinquished jurisdiction to the trial court for a period of 100 days and directed the Legislature to redraw "Districts 5, 13, 14, 21, 22, 25, 26, 27, and all other districts affected by the redrawing." Id. at 371-72.
+We did not anticipate, however, that the Legislature would be unable to agree on a final remedial redistricting plan. Although each legislative chamber passed a plan, the Legislature deadlocked, failing to enact a remedial plan in a special session held for that purpose. Accordingly, this Court provided additional directions to the trial court based on a motion "for further relinquishment of jurisdiction" filed by the Florida House of Representatives.
+In its detailed Trial Court Order, the trial court approved the House's [**6]  proposed configuration of Districts 1 through 19—recommending the House's proposed plan over the Senate's where there was disagreement between the two chambers—but concluded that the Legislature had not met its burden of defending its proposed configurations for Districts 20 through 27. The trial court further recommended that the district configurations set forth in an alternative plan submitted by the Coalition Plaintiffs were more compliant with the tier-two constitutional requirements that "districts shall be compact" and "where feasible, utilize existing political and geographic boundaries." Art. III, § 20, Fla. Const. Consequently, the trial court concluded that the Legislature had not justified its decision to adopt a less tier-two compliant plan with respect to the eight challenged South Florida districts.2 
+Having considered the trial court's order and the parties' supplemental briefs, having considered the entire record of both the three-day evidentiary hearing and the special session, having considered the remedial plans submitted by the parties, and having heard oral argument, we approve in full the trial court's recommendations regarding [**7]  the remedial congressional redistricting plan.
+In so doing, we reject the Legislature's contention, echoed by Justice Canady, that our decision today moves the "goalposts" on the Legislature in its redrawing of the districts. Concurring in part and dissenting in part op. of Canady, J., at 94. The goal has not changed and has always been compliance with the Fair Districts Amendment. At this stage, after a finding that the 2012 congressional redistricting plan had been drawn with improper intent, the Legislature bears the burden of justifying its redrawn configurations. The Legislature did not escape this burden when it was unable to agree on a plan to enact and subsequently asked all parties to submit alternative plans to the trial court. The trial court's order, agreed to by the parties, required that each party submitting an alternative plan "identify every person involved in drawing, reviewing, directing or approving the proposed remedial  [*262]  plan." All parties, then, had a full opportunity to review and comment upon the various proposed plans submitted to the trial court, thereby providing a full and fair public airing of the contending arguments relating to the constitutionality of each plan.
+We additionally dismiss the contention [**8]  that the trial court and this Court have adopted a plan drawn by "Democratic operatives." Dissenting op. of Polston, J., at 100. As this opinion makes clear, the only subject of current dispute between the Legislature and the Challengers are eight South Florida districts, including two redrawn districts in which Democratic incumbents were actually paired against each other in the same district. From the outset, we have encouraged the public to submit proposed plans that can be evaluated by the objective criteria of the Fair Districts Amendment. What we were faced with in the factual record in Apportionment VII was not that Republican political operatives publicly submitted plans but that Republican political operatives successfully infiltrated the redistricting process with the coordination and cooperation of the Legislature, resulting in a redistricting plan that was tainted with improper partisan intent.
+After our determination in Apportionment VII that the Legislature's plan had been drawn with improper intent, we "shifted the burden to the Legislature to justify its decisions in drawing the congressional district lines." Apportionment VII, 172 So. 3d at 396-97. In examining the Challengers' plan, we review for compliance with the objective constitutional standards [**9]  we have promulgated throughout our redistricting decisions. Therefore, we reject the assertion in Justice Polston's dissent that this Court is violating separation of powers by affirming the trial court and approving the plan that most faithfully follows the objective criteria set forth in the Fair Districts Amendment. See dissenting op. of Polston, J., at 101. All plans were evaluated by the same objective criteria. As the trial court found, the map submitted by the Coalition Plaintiffs—not the Democratic Party, or the Senate, or the House—was "hands down the best tier two performing map of the group" and was "more compact and splits fewer cities than any of the others." Trial Court Order at 12.
+In approving the trial court's recommendation, we are acutely aware that this case represents the first time that congressional districts have been challenged under the Fair Districts Amendment. As we have stated before, "the trial court had scant precedent to guide it," Apportionment VII, 172 So. 3d at 370; neither did the Legislature nor the Challengers. We again commend the trial court for its diligence and all parties for their professionalism.
+We emphasize that although the Challengers and the Legislature disagree as to some of the redrawn districts, the disagreement is limited to only eight [**10]  districts in South Florida (Districts 20 through 27). All parties agree as to three districts that were not redrawn in any proposed plan (Districts 1, 8, and 19), as well as to ten redrawn districts (Districts 5, 13, and 14, which were invalidated in Apportionment VII, and additionally Districts 2, 3, 4, 6, 7, 12, and 18 that were affected by the redrawing of the districts). The configuration of the remaining six districts—9, 10, 11, 15, 16, and 17—is the subject of the dispute between the House and the Senate, when the chambers could not agree to the passage of a final plan.
+This Court has an "obligation to provide certainty to candidates and voters regarding the legality of the state's congressional districts." 172 So. 3d at 372. And as Chief Justice Labarga recently made clear, an "orderly and foreseeable constitutional end  [*263]  point must be reached in this process. Anything less makes a mockery of the will of the voters who passed the Fair Districts Amendment." League of Women Voters of Fla. v. Detzner, No. SC14-1905, 2015 Fla. LEXIS 2947, *7 (Fla. Sup. Ct. order filed Sept. 4, 2015) (Labarga, C.J., concurring) (the "Second Relinquishment Order"). We reiterate that "this case does not pit this Court versus the Legislature, but instead implicates [**11]  this Court's responsibility to vindicate 'the essential right of our citizens to have a fair opportunity to select those who will represent them.'" Id. at 414 (citing League of Women Voters of Fla. v. Fla. House of Representatives (Apportionment IV), 132 So. 3d 135, 148 (Fla. 2013).
+Accordingly, we affirm the Trial Court Order recommending a remedial plan, and the congressional redistricting plan approved by this Court shall be utilized in the 2016 Florida congressional elections and in Florida congressional elections thereafter until the next decennial redistricting. The trial court shall enter a final judgment incorporating the approved plan.
+ PRIOR PROCEDURAL POSTURE: APPORTIONMENT VII
+This Court's decision approving the Trial Court Order in all respects does not come to us in a vacuum. Far from it. The Fair Districts Amendment set forth what we have referred to as tier-one and tier-two standards. The tier-one standards mandate three requirements: (1) no apportionment plan or district shall be drawn with the intent to favor or disfavor a political party or an incumbent; (2) districts shall not be drawn with the intent or result of denying or abridging the equal opportunity of racial or language minorities to participate in the political process or to diminish their ability to elect representatives of their choice; and (3) districts [**12]  shall consist of contiguous territory. Art. III, § 20(a). We previously explained the tier-one standards:
+The Florida Constitution prohibits drawing a plan or district with the intent to favor or disfavor a political party or incumbent; there is no acceptable level of improper intent. By its express terms, Florida's constitutional provision prohibits intent, not effect, and applies to both the apportionment plan as a whole and to each district individually. The minority voting protection provision imposes two requirements that plainly serve to protect racial and language minority voters in Florida: prevention of impermissible vote dilution and prevention of impermissible diminishment of a minority group's ability to elect a candidate of its choice. Finally, districts must be contiguous.
+In re Senate Joint Resolution of Legislative Apportionment 1176 (Apportionment I), 83 So. 3d 597, 684-85 (Fla. 2012).
+The tier-two standards circumscribe how districts can be drawn so as to guard against gerrymandering and thus require: (1) districts shall be as nearly equal in population as is practicable; (2) districts shall be compact; and (3) districts shall utilize existing political and geographical boundaries where feasible. Article III, §20(a). We have described the tier-two requirements [**13]  as follows:
+The Legislature is required to make districts as nearly of equal population as is practicable, but deviations from equal population may be based on compliance with other constitutional standards. Compactness refers to the shape of the district; the goal is to ensure that districts are logically drawn and that bizarrely shaped districts are avoided. Compactness can be evaluated both visually and by employing standard mathematical measurements. As to utilizing political and geographical boundaries,  [*264]  we accept the House's view of geographical boundaries as those that are easily ascertainable and commonly understood, such as "rivers, railways, interstates, and state roads." Strict adherence to these standards must yield if there is a conflict between compliance with them and the tier-one standards. Importantly, the extent to which the Legislature complies with the requirements contained in tier two serves as an objective indicator of impermissible legislative purpose proscribed under tier one (e.g., intent to favor or disfavor a political party or an incumbent).
+Apportionment I, 83 So. 3d at 685.
+In Apportionment VII, which dealt specifically with the 2012 congressional plan under Article III, section 20(a), and the litigation arising [**14]  from the legislatively adopted plan, we affirmed the trial court's finding that the Legislature's enacted map was "taint[ed] by unconstitutional intent." 172 So. 3d at 371. The facts and history of the underlying litigation are fully set forth in that opinion, upholding the trial court's ruling that the congressional redistricting plan enacted by the Florida Legislature in 2012 was constitutionally invalid, in violation of the "Fair Districts" standards set forth in article III, section 20, of the Florida Constitution. Id. at 393. But we held, nevertheless, that the trial court committed "two legal errors, which significantly affected its determination of the proper effect of its finding that the Legislature violated the Florida Constitution." Id. The first legal error was that the trial court did not give effect to its finding of improper intent in analyzing the challenges to the individual districts. Id. at 393-96. The second legal error was that once the trial court found the Legislature intended to favor a political party or incumbent in the drawing of the plan, the trial court should have shifted the burden to the Legislature to justify its redistricting plan. Id. at 396-97.
+In other words, as the trial court recently noted about our decision:
+On July 9, 2015, the Florida Supreme Court issued [**15]  its opinion in [Apportionment VII], affirming my finding of constitutional violation but determining that I had not gone far enough in my requirements of the Legislature to correct the constitutional deficiencies. The Court directed the Legislature to draw a third map and gave specific instructions as to how to address problems it noted with certain districts (5, 13, 14, 21, 22, 25, 26 and 27.)
+Trial Court Order at 2.
+During the relinquishment proceedings, this Court considered the issue of the Legislature's burden to be important. After the trial court concluded that there was unconstitutional intent and a "violation of the Florida Constitution's prohibition on partisan intent . . . the burden should have shifted to the Legislature to justify its decisions in drawing the congressional district lines." Apportionment VII, 172 So. 3d at 370-71. As we stated:
+Once a tier-one violation of the constitutional intent standard is found, there is no basis to continue to afford deference to the Legislature. To do so is to offer a presumption of constitutionality to decisions that have been found to have been influenced by unconstitutional considerations. The existence of unconstitutional partisan intent is contrary to the very purpose [**16]  of the Fair Districts Amendment and to this Court's pronouncements regarding the state constitutional prohibition on partisan political gerrymandering.
+Accordingly, after reaching the conclusion that the "redistricting process" and the "resulting map" had been "taint[ed]" by unconstitutional intent,  [*265]  the burden should have shifted to the Legislature to justify its decisions, and no deference should have been afforded to the Legislature's decisions regarding the drawing of the districts. In other contexts, states have placed the burden on their legislatures to justify the validity of a redistricting plan when the plan has "raised sufficient issues" with respect to state constitutional requirements. In re Legislative Districting of State, 370 Md. 312, 805 A.2d 292, 325 (Md. 2002).
+Because there are many ways in which to draw a district that complies with, for example, the constitutional requirement of compactness, which party bears the burden of establishing why a decision was made to accept or reject a particular configuration can ultimately be determinative.
+Id. at 400 (emphasis supplied).
+Applying the correct standard of review that placed the burden on the Legislature to justify its decisions based on the trial court's finding of unconstitutional intent, we analyzed the constitutional deficiencies of eight specifically [**17]  challenged districts. We ultimately relinquished jurisdiction to the trial court and mandated that the Legislature redraw "Congressional Districts 5, 13, 14, 21, 22, 25, 26, 27, and all other districts affected by the redrawing." Id. at 371-72. In so doing, we provided "clear guidance as to the specific deficiencies in the districts that the Legislature must redraw," and we gave the Legislature 100 days from the date of our July 9, 2015, opinion to enact a remedial congressional redistricting plan and to submit that plan to the trial court for approval. Id. at 416-17.
+We further stressed that "transparency is critical in light of both the purpose of the Fair Districts Amendment to outlaw partisan manipulation in the redistricting process and the trial court's finding here that 'an entirely different, separate process' to favor Republicans and incumbents was undertaken contrary to the Legislature's assertedly transparent redistricting effort.'" Id. at 414-15. Thus, we set forth four specific guidelines that we urged the Legislature to follow: (1) "conduct all meetings in which it [made] decisions on the new map in public and to record any non-public meetings"; (2) "provide a mechanism for challengers and others to submit alternative maps" and to permit [**18]  debate on the merits of the proposed alternative maps; (3) "preserve all e-mails and documents related to the redrawing of the map"; and (4) "to publicly document the justifications for its chosen configuration." Id.
+ PROCEDURAL POSTURE: AFTER RELINQUISHMENT
+After this Court issued its opinion, the President of the Florida Senate and the Speaker of the Florida House of Representatives issued a joint proclamation on July 20, 2015, convening a special session for the purpose of enacting a remedial congressional redistricting plan. That same day, the Senate President and the House Speaker issued a joint memorandum to members of the Legislature, explaining procedures for the special session.
+The memorandum directed legislative staff to work with House and Senate legal counsel to develop a "Base Plan" that complied with this Court's opinion. The legislative leaders determined that the Base Plan would be "drafted solely by staff in collaboration with counsel, without [the leaders'] participation or the participation of any other member." However, contrary to the Court's suggested guidelines that "all meetings in which it makes decisions on the new map" should be held "in public" or otherwise [**19]  recorded for preservation,  [*266]  none of the meetings during which staff developed the Base Plan in collaboration with counsel—as well as outside counsel—were recorded or transcribed. The memorandum did direct, in accordance with this Court's recommended guidelines in Apportionment VII, that legislators retain and compile all communications related to redistricting.
+Pursuant to the instructions set forth by legislative leadership, legislative staff then developed a Base Plan, in consultation with counsel for the House and Senate. This Base Plan was released publicly on August 5, 2015. In addition to redrawing the eight districts specifically invalidated by this Court—Districts 5, 13, 14, 21, 22, 25, 26, and 27—legislative staff made changes to fourteen other districts that were affected thereby—Districts 2, 3, 4, 6, 7, 9, 10, 11, 12, 15, 16, 17, 20, and 23.
+The Legislature met in special session from August 10, 2015, to August 21, 2015. The House and Senate considered amendments to the Base Plan, and each chamber ultimately passed its own amended plan. As to proposed Districts 26 and 27, the League of Women Voters of Florida and Common Cause sent a letter to the Speaker of the House and President [**20]  of the Senate criticizing the configuration of those districts as not having been drawn in a constitutionally compliant manner.
+Senator Dwight Bullard proposed an amendment that configured those same two districts in a more tier-two compliant manner. The plan last passed by the House (H110C9071, the "House Plan") differs from the Base Plan in Districts 9, 11, 15, 17, 18, 20, 21, 22, and 23, as a result of the House's stated purpose of keeping additional cities whole. The plan last passed by the Senate (S026C9062, the "Senate Plan") differs from the Base Plan in Districts 9, 10, 11, 15, 16, 17, 18, 20, 21, 22, and 23, as a result of the Senate's stated purpose of reducing the number of times Hillsborough County was split and keeping both Sarasota County and certain cities whole. The House and Senate Plans themselves differ only in six central and southwest Florida districts (Districts 9, 10, 11, 15, 16, and 17). Because the Legislature was unable to agree on and enact a single plan during the special session, the "Florida Legislature adjourned its special redistricting session sine die on August 21, 2015, without having enacted a remedial congressional redistricting plan as required [**21]  by the Court's July 9, 2015, opinion." Second Relinquishment Order at 1.
+After the Legislature failed to enact a remedial congressional plan, the House filed a "Motion For Further Relinquishment of Jurisdiction," specifically requesting that this Court "initiate proceedings toward the judicial adoption" of a remedial redistricting plan and allow all parties to submit proposed remedial congressional plans to the trial court for its review. This Court granted the motion, in part, and directed the trial court to make a recommendation to this Court as to "which map proposed by the parties—or which portions of each map—best fulfills the specific directions in [this] Court's July 9, 2015, opinion and all constitutional requirements." See Second Relinquishment Order at 2-3.
+In the Second Relinquishment Order, we reemphasized that the "burden remains on the House and Senate to justify their chosen configurations." Id. at 2. We also explicitly rejected the proposition advanced by the House that any plan recommended by the trial court and ultimately approved by this Court would be "interim" or "provisional." Id. at 4. Doing so would make "a mockery of the will of the voters who passed the Fair Districts amendment." [**22]  Id. at 6 (Labarga, C.J., concurring).
+  [*267]  THE TRIAL COURT PROCEEDINGS
+After this Court issued the Second Relinquishment Order, the parties submitted an agreed scheduling order to the trial court, which the trial court entered:
+On or before Monday, September 14, 2015, each party that intends to present a proposed remedial plan at the evidentiary hearing shall serve the proposed remedial plan in .doj format. The disclosing party shall identify every person involved in drawing, reviewing, directing, or approving the proposed remedial plan. The Court will not consider any proposed remedial plan that is not timely disclosed in compliance with all provisions of this Order.
+(Emphasis supplied.)
+Pursuant to that order, the parties submitted a total of seven proposed plans to the trial court. The House submitted the House Plan, the last plan passed by that chamber during the unsuccessful special session. The Senate submitted the Senate Plan, the last plan passed by that chamber during the special session, as well as a plan drawn after the special session by legislative staff at the direction of the Reapportionment Committee Chair, Senator William Galvano (the "Galvano Plan"). The Galvano Plan differs from the [**23]  House Plan in four districts (Districts 9, 15, 16, and 17) and from the Senate plan in six districts (Districts 9, 10, 11, 15, 16, and 17).
+The "Romo Plaintiffs" submitted one plan (the "Romo Plan"), which adopted the House's configuration for twenty-two districts but proposed new configurations for Districts 21, 22, 25, 26, and 27. The Romo Plaintiffs' proposed configuration for Districts 21 and 22 retained a vertical configuration, unlike the Coalition Plaintiffs' plans and the Legislature's plans, which included a stacked configuration that paired two Democratic incumbents against each other in District 21.
+The Coalition Plaintiffs submitted three plans—"CP-1," "CP-2," and "CP-3." CP-1 adopted the House's configuration for nineteen districts and proposed new configurations for Districts 20 through 27 in South Florida. CP-2 and CP-3 both adopt the House's configuration for twenty-five districts and each contains an alternative configuration for Districts 26 and 27. The differences between CP-2 and CP-3 are minor, as each variation moves all of Homestead into District 26 and equalizes population in ways that do not move predominately black communities out of District 26 by using different [**24]  major roadways as district boundary lines.
+During the trial court's three-day evidentiary hearing, testimony was received from those persons involved in "drawing, reviewing, directing, or approving" the proposed remedial plans. John O'Neill, the Coalition Plaintiffs' map drawer, testified about how he drew the Coalition Plaintiffs' maps. Harvard University Professor Stephen Ansolabehere, the Romo Plaintiffs' map drawer, also testified at the remedial hearing about how he drew the Romo map. In lieu of live testimony, the trial court also admitted the report of the Coalition Plaintiffs' expert, Dr. Allan Lichtman, which considered how the Coalition Plaintiffs' plans performed for Hispanics.
+Professors Dario Moreno and Baodong Liu, experts hired by the Legislature, testified about how the Legislature's and the Challengers' plans performed for Hispanics. The Legislature also called to testify the professional staff that drew its maps: Jay Ferrin, the Staff Director of the Senate Committee on Reapportionment, Jason Poreda, the Staff Director of the House Select Committee on Redistricting, and Jeffrey Takacs, a special advisor to that Committee. Senator William Galvano, the Chair of the Senate [**25]  Committee on Reapportionment,  [*268]  and Senator Tom Lee, a member of the Committee, also testified for the Senate. Both senators testified in support of the Senate Plan, and Senator Lee specifically dispelled any suggestion that he proposed his amendment—which was incorporated into the Senate Plan—with the intent to disfavor any incumbent or to favor himself.
+ THE TRIAL COURT ORDER
+After receiving proposed orders from the parties, the trial court entered its own comprehensive order, recommending adoption of a remedial map. It first analyzed the seven proposed remedial maps submitted by the parties: the single map submitted by the House; two maps submitted by the Senate; three maps submitted by the Coalition Plaintiffs; and the one map submitted by the Romo Plaintiffs.
+In doing so, the trial court first set forth what it understood to be the applicable legal standard and parameters of review and determined that, pursuant to this Court's directions, "the burden remains on the House and Senate to justify their chosen configurations, and that no deference is due to their choices regarding the drawing of the districts." Trial Court Order at 5. In interpreting this Court's direction in the Second [**26]  Relinquishment Order to "especially focus on the House and Senate maps, any amendments offered thereto, and the areas of agreement," the trial court concluded that meant that the "maps passed by each chamber, especially where they are in agreement, are the closest [they] will come to an expression of the preferences of the elected representatives of the people as to a remedial map." Id. The trial court then determined that it would:
+[F]irst evaluate the maps proposed by the House and Senate to determine which map, or portions thereof, best meet the Court's criteria. Then I should evaluate that configuration in light of any challenges thereto by the Plaintiffs to determine if the Legislative defendants can meet their burden as noted above, or if some other configuration best fulfills the Court's directions and all constitutional requirements.
+Id.
+The trial court decided that if, in its review, it determined that the parties were "in agreement as to any particular district," then "it is no longer an issue for [the trial court] to resolve." Id. at 7-8. The trial court further concluded that it was "not at liberty to draw something different than what is contained within the maps proposed by the parties." [**27]  Id. at 8.
+In its review of the Legislature's proposed plans for Districts 1 through 19, the trial court concluded that these districts were not disputed by the Challengers and that they were "on the whole, more compact and contain fewer city and county splits than in the 2012 and 2014 legislative maps." Id. The trial court noted that of these districts, Districts 5, 13, and 14 were three that were required to be redrawn. Id.
+The trial court then considered the Challengers' general complaint that the "actual drawing of the base map was not open to the public, nor recorded." Id. at 8-9. It determined that although "[r]ecording the sessions would probably have been a good idea," there was no way to "prevent a map drawer from manipulating lines with a partisan intent." Id. at 9. Ultimately, the trial court stated that it remained convinced that:
+[T]he best, if not perfect, way to guard against improper partisan intent in a map is to look closely at any tier two shortcomings and scrutinize the purported reasons for those shortcomings. If there is a way to make a map more  [*269]  compliant without sacrificing tier-one requirements, then it should be done. This will result in not only a more compact map that splits less cities and counties, [**28]  it will go far in minimizing the risk, or the perception, that it was drawn with a partisan intent.
+Id.
+The trial court also dismissed the Legislature's argument that the Coalition Plaintiffs' plans were drawn with improper intent:
+Moreover, I find no evidence to suggest that CP-1 was drawn with improper partisan intent. Mr. O'Neill, Coalition Plaintiffs' map drawer, testified that he strove to draw the most tier-two compliant configuration of South Florida, did not consider political or incumbent data in drawing the maps, and was not given any other direction but to focus on and comply with the requirements of Article III, section 20 and Apportionment VII and to improve compactness and adherence to major roadways where possible.
+Id. at 14.
+The trial court found the Coalition Plaintiffs' map drawer, O'Neill, "to be straightforward in his testimony, logical in his approach to drawing the districts, and persuasive in his conclusions." Id. The trial court further found "no evidence to suggest that CP-1 was drawn with improper partisan intent." Id.
+The trial court determined that CP-1 was the best plan as to Districts 20 through 27, and specifically noted that with respect to the tier-two constitutional standards—that is, [**29]  how compact the districts are and how well they utilize existing political and geographical boundaries—CP-1 is "more compact and splits fewer cities than any of the others." Id. at 12. The trial court also found CP-1 more visually compact and "follow[ed] major roadways far more closely than the legislative proposals." Id. at 4.
+The trial court stated that because the Legislature had "the burden of defending its choices in all respects," the Legislature should have "taken another look at the South Florida districts, not for political performance but for better tier two compliance, either in response to the Plaintiffs' complaint, or better yet, on its own initiative." Id. at 4, 11. Yet, the Legislature did not:
+The map drawers and their bosses seemed uninterested in exploring other possible configurations to see if these districts could be drawn more compact and reduce county and city splits. I would think the Legislature would have anticipated questions about improving tier two compliance and have been prepared to respond to such questions by saying they had explored several possibilities, and they chose the most compliant version.
+Id. at 11. As the trial court noted, the Coalition Plaintiffs were able to easily improve tier-two compliance: [**30] 
+The Coalition Plaintiffs' map drawer seemed to have no trouble improving tier two compliance considerably. Indeed, CP-1 is hands down the best tier two performing map of the group. As to Districts 20-27 it is more compact and splits fewer cities than any of the others.
+Id. at 12.
+When reviewing CP-1 as to Districts 20 through 27, the trial court paid special attention to the Legislature's configuration of Districts 26 and 27, districts this Court specifically invalidated in Apportionment VII:
+I understand why the Plaintiffs might be suspicious as to Districts 26 and 27. The Florida Supreme Court, in its July 9th Order, found that the Legislature had needlessly split the City of Homestead,  [*270]  thereby turning one Democratic and one Republican district into two Republican-leaning districts. The proposed map, 9071, which admittedly does not split Homestead, actually enhances the partisan effect in favor of the Republican Party. The irony of the cure being worse than the illness is not lost on me.
+Id. at 10. (Emphasis supplied.)
+Because the House and the Senate could not agree on six districts in central Florida, the trial court was tasked with recommending which configuration for that region best complied with the directives this Court [**31]  set out in Apportionment VII and all other constitutional requirements. Accordingly, the trial court recommended adoption of the House Plan for Districts 9, 10, 11, 15, 16, and 17.
+After careful analysis, including an evaluation of the expert witnesses offered by both sides, the trial court recommended that this Court adopt the House's configuration of Districts 1 through 19 and the configuration of Districts 20 through 27 contained in CP-1. In its order, the trial court found that the Legislature did not meet "its burden of justifying the proposed versions of Districts 20 through 27 in [the House's and the Senate's plans]." Id. at 19.
+ ANALYSIS
+In Apportionment VII, we held eight specific districts had constitutional deficiencies—Districts 5, 13, 14, 21, 22, 25, 26, and 27—focusing on those districts that were a central feature of the Legislature's unconstitutional intent. During the unsuccessful special session, the Legislature addressed each of these districts, attempting to remedy the problems we identified. The trial court found that, as to the first nineteen congressional districts, the Challengers did not dispute the Legislature's proposed configuration of these districts, including Districts [**32]  2, 3, 4, 6, 7, 9, 10, 11, 12, 15, 16, and 17, which were affected by the redrawing of Districts 5, 13, and 14 that we invalidated in Apportionment VII.3  While the Senate contends that its configuration of Districts 9, 10, 11, 15, 16, and 17 is preferable to the House's configuration, we review the dispute between the House and the Senate as to these six districts last.
+In reviewing the trial court's recommendations, we note that there are actually three different inquiries and address them in the following order: First, we review the trial court's recommendations and the agreement between the Senate and the House and the Challengers as to redrawn Districts 2, 3, 4, 5, 6, 7, 12, 13, and 14, which comprise the invalidated Districts 5, 13, and 14 and the uncontested districts affected by the redrawing of those districts. Second, we review the Challengers' arguments regarding the South Florida districts: Districts 20 through 27. Third, we review the trial court's recommendations regarding the districts that were the subject of disagreement between the Senate and the House: Districts 9, 10, 11, [**33]  15, 16, and 17.4 
+ [*271]  In reviewing the trial court's order "recommending adoption of remedial map," we are mindful that as the trier of fact, the trial court was charged with the evaluation of the expert witnesses and testimony of all those who testified. Accordingly, we uphold the trial court's factual findings so long as these findings are supported by competent, substantial evidence. See Apportionment VII, 172 So. 3d at 372-73, 391-92. In first reviewing the districts uncontested by the Legislature and the Challengers, we remain mindful that the Legislature bears the burden of demonstrating that the configuration it selected must comply with this Court's directions in Apportionment VII and the constitutional [**34]  requirements as set forth in article III, section 20.
+ I. THE UNCONTESTED DISTRICT CONFIGURATIONS OF THE REDRAWN DISTRICTS
+The redrawn districts that all parties agree to include the three districts invalidated in Apportionment VII—Districts 5, 13, and 14—and seven other redrawn districts affected by the redrawing of the invalidated districts—Districts 2, 3, 4, 6, 7, 12, and 18. Because all parties agree as to the redrawn configurations and because the trial court concluded that the Legislature met its burden to justify its redrawn configurations for these seven districts, we approve the trial court's recommendation.
+As to the uncontested districts that we specifically invalidated in Apportionment VII, we begin with District 5.
+ A. DISTRICT 5
+In Apportionment VII, District 5 was the "focal point of the challenge to the Legislature's redistricting plan," and the Challengers alleged that the Legislature's winding, North-South configuration of this district was "a linchpin to the Legislature's efforts to draw a map that favors the Republican Party." Apportionment VII, 172 So. 3d at 402.
+We held that the trial court—which had concluded that District 5 was "a key component of the Legislature's unconstitutional intent in the drawing of the congressional [**35]  redistricting plan"—erred in "deferring to the Legislature's North-South configuration on the basis of unstated 'non-partisan policy reasons.'" Id. at 403. Because we concluded that the Legislature could not establish "that the North-South configuration is necessary to avoid diminishing the ability of black voters to elect a candidate of their choice"—the justification offered by the Legislature for its enacted configuration—we determined that "District 5 must be redrawn in an East-West manner." Id.
+Although District 5 was required to be drawn from East to West, no specific configuration was mandated in Apportionment VII. Nor did the Court specify a certain Black Voting Age Population (BVAP) or black share of registered Democrats as a "floor" below which the ability of black voters to elect a candidate of choice was certain to be diminished. In other words, in Apportionment VII, this Court examined the Legislature's enacted configuration and justification and held that this justification could not withstand legal scrutiny under the appropriate standard of review, leaving it to the Legislature to redraw the district based on the guidance the Court provided.
+ [*272]  
+
+Both the Senate and the House, choosing [**36]  not to deviate from the Base Plan drawn by legislative staff during the special session, adopted the East-West version of District 5 presented in the alternative "Romo A" plan that was introduced into evidence during the original trial. Although the trial court observed that the District 5 drawn by the Legislature "appears still to be one of the least compact of the districts," the Challengers do not object to District 5 as proposed by the House and Senate and have presented no alternatives for the district. As the trial court noted, there was "no evidence" presented at the relinquishment hearing that District 5 "could have been drawn more tier-two compliant without adversely affecting minority voting rights protected under tier one."5  Accordingly, the trial court recommended that this Court adopt this configuration for District 5 and the surrounding districts.
+We agree with the trial court and conclude that this proposed district—drawn by legislative staff, passed by both the House and Senate, and agreed to by the Challengers—complies with this Court's directions in Apportionment VII. It is an East-West district that remedies the improper partisan intent found in the prior version of District 5. The new District 5 contains four whole counties and parts of four others, and is more visually and statistically compact than both the 2012 enacted district that was previously invalidated and the Legislature's 2014 remedial plan.
+As we noted in Apportionment VII when [**38]  analyzing the "Romo A" configuration of this district, the ability of black voters to elect a candidate of their choice is not diminished. With a black share of registered Democrats of 66.1%, the black candidate of choice is likely to win a contested Democratic primary, and with a Democratic registration advantage of 61.1% to 23.0% over Republicans, the Democratic candidate is likely to win the general election. Apportionment VII, 172 So. 3d at 405.
+ [*273]  None of the parties in this case object to the Legislature's proposed configuration for District 5, which was the same in all seven proposed plans submitted for the trial court's consideration. Because the proposed district comports with this Court's directions in Apportionment VII and does not diminish the ability of black voters to elect a candidate of choice, the Legislature has met its burden to justify the configuration it selected.
+ B. DISTRICTS 13 & 14
+The next two districts we invalidated in Apportionment VII were Districts 13 and 14. In 2012, the Legislature drew these districts so that District 14 crossed Tampa Bay from Hillsborough County, splitting Pinellas County and the City of St. Petersburg to include a portion of the black population in southern Pinellas County [**39]  in District 14. The Challengers contended that the Legislature's configuration of these districts—which "added more Democratic voters to an already safely Democratic District 14, while ensuring that District 13 was more favorable to the Republican Party"—was "directly connected to the trial court's finding that the enacted map was unconstitutionally drawn to favor the Republican Party." Apportionment VII, 172 So. 3d at 407.
+Addressing this challenge, we concluded that the trial court erred in deferring to the Legislature's enacted configuration and failing to view these districts "through the lens of the direct and circumstantial evidence of improper intent presented at trial." Id. We rejected the Legislature's race-based justification for crossing Tampa Bay—that it allegedly was necessary to pick up voters from Pinellas County in District 14 to increase the minority voting strength in that district—and held that "Districts 13 and 14 must be redrawn to avoid crossing Tampa Bay." Id. at 408-09.
+
+
+During the special session, both the House and the Senate adopted the configuration of these districts drawn by legislative staff in the Base Plan. That configuration remedied the improper intent we previously identified, keeping District 14 [**40]  entirely within Hillsborough County and not crossing Tampa Bay. District 13, which remains completely within Pinellas County, now includes the entirety of the southern portion of that county and all of the City of St. Petersburg. The trial court reviewed this area with special focus, noting that this Court required it to be redrawn based on constitutional infirmities. The trial court then reviewed this area and the surrounding areas and found, as a whole, the districts are now "more  [*274]  compact and contain fewer city and county splits than in the 2012 and 2014 legislative maps." Trial Court Order at 8.
+No party objects to the Legislature's chosen configuration for these districts, which was the same in all seven proposed plans submitted for the trial court's consideration. As with District 5, we agree with the trial court and conclude that the Legislature has met its burden to demonstrate that its selected, agreed-upon configuration of Districts 13 and 14 complies with this Court's directions in Apportionment VII and the constitutional requirements.
+ II. THE CONTESTED DISTRICT CONFIGURATIONS
+Before considering the configuration of districts contested by the Challengers, we address the Legislature's [**41]  general attacks on the Challengers' maps: (a) that the Challengers violated this Court's instructions and also fundamental fairness by not presenting its maps to the Legislature; and (b) that this Court and the trial court erred in failing to consider the intent of the Challengers in drafting the maps presented to the trial court and this Court. After analyzing this argument, we then proceed to review the challenged districts. In our review of the challenged districts, we remain mindful, as the trial court did in its own review, that the Legislature bears the burden of justifying its proposed remedial congressional plans.
+ A. THE LEGISLATURE'S CONTENTIONS: FUNDAMENTAL FAIRNESS AND THE INTENT BEHIND THE DRAWING OF THE ALTERNATIVE MAPS
+Before turning to an analysis of the contested districts, we first must address the Legislature's allegations concerning the Coalition Plaintiffs' alternative maps. Specifically, the Legislature presents two arguments: (1) the adoption of CP-1 violates fundamental fairness because the Coalition Plaintiffs failed to present the CP-1 plan to the Legislature first and because this plan adopts revised districts that had not been invalidated in Apportionment VII [**42] ; and (2) the trial court erred by failing to consider the intent of the drafters of CP-1.
+First, the House contends that the trial court's order violates "fundamental fairness" because the Coalition Plaintiffs did not submit CP-1 to the Legislature during its special session and produced it only one week before the hearing. The House argues that it "had no opportunity (if it were even proper) to redraw its proposal and to participate in the Coalition Plaintiffs' game of leapfrog." The Senate similarly argues that because the Coalition Plaintiffs' alternative maps were not publicly proposed to the Legislature, and "they waited until the special session ended and sprang them forth in litigation," the public and the trial court had little opportunity to review and consider their proposals. The Challengers counter this specific contention by explaining that after publication of the Base Plan, the League of Women Voters of Florida and Common Cause sent a letter specifically expressing their concerns regarding the configuration of Districts 26 and 27 and urging the Legislature to "find a more non-partisan way to draw" these districts. In response, the Legislature accused the Coalition Plaintiffs [**43]  of making a "blatant request to make District 26 'more Democratic' and asking 'the Legislature to engage in partisan gerrymandering.'"
+We first note that even assuming that it would have been preferable for the Legislature to have the alternative plans during special session, once the special session adjourned without the Legislature passing a remedial plan, it was the House that  [*275]  requested that all parties be permitted to submit alternative plans and the agreed-to scheduling order included specific details about the information that should be included with the alternative plans to ensure full disclosure.
+Second, as to the specific argument regarding the Coalition Plaintiffs' failure to submit alternative plans during the special session, the trial court rejected it and stated as follows:
+The Legislature complains that the Plaintiffs did not participate in the open and transparent process of drawing a remedial map. But when the Plaintiffs tried to participate by pointing out what anyone in the Legislature could also have determined—that the new districts were more Republican leaning than before—they are accused of trying to improperly insert political performance into the equations.
+Trial [**44]  Court Order at 11.
+We agree with the trial court that there was no violation of fundamental fairness by the alternative plans not being submitted during the special session. It was logical that the Challengers awaited the release of the Base Plan to ascertain what changes the Legislature contemplated. As the League of Women Voters of Florida and Common Cause expressed to legislative leadership in their letter, the groups "applaud [the Legislature's leaders and their staff] for [their] efforts to follow the suggestions of the Florida Supreme Court" and that "[f]or the most part the base map appears to comply with" the opinion.
+Moreover, the Legislature knew of alternative, more tier-two compliant ways in which to draw the South Florida districts, but rejected them. In the original trial court proceeding in 2014, the Romo Plaintiffs submitted configurations for these districts that are conceptually the same as the configuration of most of the districts in CP-1. In particular, the Romo trial map and CP-1 both contain a reconfigured District 20 that lacks an appendage down I-95 in Palm Beach County and that extends south to the Broward-Miami-Dade County line. Both maps contain a reconfigured [**45]  District 25 that withdraws from Broward County to reduce the number of times that county is split. Both maps contain a reconfigured District 27 that sits compactly in central Miami-Dade County, rather than stretching south along the coast to the Miami-Dade-Monroe County line. Certainly, the Legislature had notice of the possibility of making some, if not all, of the South Florida districts more tier-two compliant. Further, the Legislature also had notice of a more tier-two compliant way to draw Districts 26 and 27 through the introduction of Senator Bullard's amendment during the special session, but rejected that amendment.
+The House next claims, as part of its fundamental fairness argument, that the trial court's order ignores this Court's own instructions to the Legislature to only redraw the specific districts we invalidated in Apportionment VII. The House therefore argues that the trial court, in recommending a specific configuration of districts that were not ordered to be redrawn in Apportionment VII, exceeded this Court's directions to "focus" on the House and Senate plans. The Legislature is correct that Apportionment VII did not require the Legislature to redraw the entire [**46]  map and start anew. See Apportionment VII, 172 So. 3d at 413 ("The Legislature need not, in addition, redraw the entire map."). However, redrawing the districts this Court invalidated in South Florida—Districts 21, 22, 25, 26, and 27—would necessarily require redrawing the boundary lines and ultimately the shape of adjacent South Florida Districts 20 and 23. Indeed, this Court stated exactly that: "[T]he Legislature  [*276]  must redraw—Districts 5, 13, 14, 21, 22, 25, 26, 27, and all other districts affected thereby." Id. at 416 (emphasis supplied). Accordingly, the trial court did not err in considering configurations of districts not specifically invalidated in Apportionment VII.
+Finally, we address a claim raised by both the Senate and the House—that the trial court erred in not considering the intent of the drafters of CP-1 or, for that matter, the other alternative maps. The House asserts that this proceeding "abounds with glaring ironies and striking contradictions that undermine the fairness and credibility of the entire proceeding," including that the courts "condemned the 'secretive shadow process' in which the Legislature allegedly drew districts" while the "creation of CP-1 in an apartment in Los Angeles failed [**47]  to raise an eyebrow." In sum, the House argues that "different rules applied to different maps." The Senate, while somewhat more restrained, echoes the House's arguments that the adoption of CP-1 would endorse a map "drawn in secret, instead of in the open and transparent legislative process this Court envisioned in Apportionment VII."
+This contention is contrary to the record. As we have noted, the trial court's scheduling order, which all parties agreed to, required specific identification of "every person involved in drawing, reviewing, directing, or approving the proposed remedial plan." Although the maps themselves were not on trial, their drafters were called to testify during the relinquishment hearing and were subject to cross-examination. For instance, on direct examination during the evidentiary hearing, the Coalition Plaintiffs' map drawer, O'Neill, testified to the type of instructions he received regarding how to draw CP-1: "You pointed me to the constitution, and you made sure I read the specific sections about redistricting. And you directed me to follow only those criteria and use no other considerations in deciding how to evaluate a district or the map as a whole." [**48]  On cross-examination, he further testified that "I was just asked to draw nonpartisan, constitutionally-compliant maps that reflected the Supreme Court's directions." After hearing O'Neill's testimony, the trial court found him "straightforward," and "logical in his approach to drawing the districts and persuasive in his conclusions." Ultimately, the trial court stated that it found no evidence "to suggest that CP-1 was drawn with improper partisan intent."
+The trial court, like this Court, reviewed the proposed plans to analyze the objective criteria this Court has set out in our past seven opinions, giving effect to the Fair Districts Amendment. The trial court then discussed each of the submitted proposed maps by written order, setting out its determinations regarding the tier-two criteria. With those objective criteria of Article III, section 20 and this Court's interpretation of those criteria in mind, the trial court noted that CP-1 was more compact, had fewer miles of border perimeter, and reduced the number of split cities. The alternative maps submitted to the trial court demonstrated that the Legislature did not meet its burden of justification as to its configuration of Districts 20 through 27 when these alternative maps, [**49]  specifically CP-1, were objectively better by tier-two standards.
+Moreover, the Legislature's and Justice Polston's argument that the trial court should have considered the intent of the drafters of CP-1 fundamentally misunderstands the trial court's role and this Court's role in the current proceeding. As explained in this Court's relinquishment orders, and as set out in Apportionment VII, this Court directed the trial court to approve or disapprove the Legislature's  [*277]  enacted remedial map—or, as what ultimately occurred, approve or disapprove the proposed remedial maps of the parties after the Legislature failed to enact a map during the special session. Based on the finding that the Legislature's prior proposed remedial congressional plan was tainted with partisan intent coming out of a shadow process in which political operatives infiltrated and influenced the Legislature, the burden switched to the Legislature to justify its configuration of its plans. Thus, as the trial court correctly noted in this proceeding, "It is the Legislature that bears the burden of defending its proposed maps, not the Plaintiffs." In other words, we are tasked with determining whether the Legislature met [**50]  its burden as to its proposed remedial congressional maps.
+Additionally, Apportionment VII did not forbid a citizen affiliated with a particular party from drawing a map, nor was our affirmance of the trial court's finding of unconstitutional intent based solely on the fact that political consultants aligned with the Republican Party had drawn maps. 172 So. 3d at 374. Instead, this Court's decision rested largely on the Legislature's own claims that it had conducted an open and transparent redistricting process, while it was being manipulated into a violation of its constitutional duty. This Court explained that "if evidence exists to demonstrate that there was an entirely different, separate process that was undertaken contrary to the transparent effort in an attempt to favor a political party or an incumbent in violation of the Florida Constitution, clearly that would be important evidence in support of the claim that the Legislature thwarted the constitutional mandate." Id. (quoting Apportionment IV, 132 So. 3d at 149).
+Our decision detailed, at length, the circumstantial evidence revealing the Legislature's improper intent—evidence found and cited by the trial court in reaching that conclusion—including destruction of records and [**51]  numerous "coincidences." See, e.g., Apportionment VII, 172 So. 3d at 385. Our conclusion that the process was tainted with improper intent did not rest on the fact that partisans submitted maps but that "a group of partisan political operatives 'conspire[d] to manipulate and influence the redistricting process' and succeeded in 'infiltrat[ing] and influenc[ing] the Legislature, to obtain the necessary cooperation and collaboration' to 'taint the redistricting process and the resulting map with improper partisan intent.'" Id. at 376. (emphasis omitted).
+In reaching our conclusion, we used the trial court's detailed findings as to how the operatives concealed their actions by using proxies to submit their proposals, wrote scripts for others to state, and made a mockery of the Legislature's proclaimed transparent and open process, and that they "[found] other avenues, other ways to infiltrate and influence the Legislature, to obtain the necessary cooperation and collaboration to ensure that their plan was realized, at least in part." Id. at 377.
+Thus, the Legislature is trying to conflate several arguments. The reason that improper partisan intent was found in the drawing of the map was not because of the intent of a particular map drawer or partisan operative. And assuming in this [**52]  case that the Legislature wants to ascribe an improper intent to the Challengers' redistricting plan, we would point out that the very record here belies that motive, especially as to the Coalition Plaintiffs. An excellent example is the Coalition Plaintiffs' map with regard to Districts 21 and 22. Although Democrats complained that the redrawn map pitted two Democratic incumbents against one another, and even though the Romo Plaintiffs championed a vertical configuration before the trial  [*278]  court, the Coalition Plaintiffs maintained their advocacy for a "stacked" configuration of Districts 21 and 22 that substantially improves tier-two compliance.
+A redistricting process is not tainted merely by permitting citizens to speak out in a public forum and suggest a plan or portion of a plan. Nor was it tainted here when the Coalition Plaintiffs' map drawer proposed an alternative configuration of the South Florida districts that substantially improved tier-two compliance of those districts as the trial court found, based on its ability to hear extensive testimony as to how this map was drawn.
+Simply put, as this Court's directive in Apportionment VII made clear—and as Justice Polston's dissent [**53]  chooses to ignore—the "alternative maps are not on trial themselves, as is the Legislature's map." Id. at 401 n.11. Rather, in this case, the alternative plans, specifically the Coalition Plaintiffs' plans, CP-1, CP-2, and CP-3, serve to demonstrate that the South Florida districts could have been drawn to be more tier-two compliant. As the trial court noted:
+I remain convinced that the best, if not perfect, way to guard against improper partisan intent in a map is to look closely at any tier two shortcomings and scrutinize the purported reasons for these shortcomings. If there is a way to make a map more tier two compliant without sacrificing tier one requirements, then it should be done. This will result in not only a more compact map that splits less cities and counties, it will go far in minimizing the risk, or perception, that was drawn with a partisan intent.
+Trial Court Order at 9.
+We stated as much in Apportionment I. As we noted, "in the context of Florida's constitutional provision, a disregard for the constitutional requirements set forth in tier two is indicative of improper intent, which Florida prohibits by absolute terms." Apportionment I, 83 So. 3d at 640. See also Apportionment VII, 172 So. 3d at 399.
+As discussed in this opinion, the alternative maps [**54]  were an objectively better configuration of the South Florida districts as to tier-two compliance. The evidence of the alternative maps were considered by the trial court that the Legislature had not met its burden to justify its chosen configurations under both tier-one and tier-two constitutional considerations.
+Having rejected the argument that the trial court did not give proper effect to the intent of the Challengers in submitting the alternative plans, we now review the trial court's recommendation as to Districts 20 through 27, located in South Florida. Both the House and the Senate were in agreement as to the configuration of these districts, but the Challengers asserted that these districts could be drawn more tier-two compliant, and submitted alternative plans to the trial court during the evidentiary hearing demonstrating this possibility. As to Districts 20 through 27, the trial court concluded that CP-1 was "hands down the best tier two performing map of the group," because "it is more compact and splits fewer cities than any of the others." Trial Court Order at 12. The Romo Plaintiffs also submitted a plan proposing a vertical configuration for Districts 21 and 22 and [**55]  changes to Districts 25, 26, and 27, but have advocated for the Coalition Plaintiffs' plan before this Court. Our review of these South Florida districts focuses on the five districts we invalidated in Apportionment VII—21, 22, 25, 26, and 27. In redrawing the invalidated districts, we note that the Legislature also redrew adjacent Districts 20 and 23. District 24, though not redrawn in the Legislature's  [*279]  plans, is altered in CP-1 as a result of making Districts 21 and 22 more compact and making additional cities whole in surrounding districts. We start with Districts 26 and 27, the first pair of South Florida districts we invalidated in Apportionment VII.
+ B. DISTRICTS 26 & 27
+Districts 26 and 27 were the focus of the most controversy during the relinquishment proceedings. In Apportionment VII, this Court determined that Districts 26 and 27 "must be redrawn to avoid splitting Homestead" because "the enacted configuration of these two districts needlessly divided the City of Homestead to Republican gain." 172 So. 3d at 409. In support of these conclusions, we explained some of the specific evidence of partisan intent as to these districts:
+The challengers also mounted an individual attack against the validity [**56]  of Districts 26 and 27, claiming that the enacted configuration of these two districts needlessly divided the City of Homestead to Republican gain—turning one Republican district and one Democratic district into two Republican-leaning districts. In support, the challengers relied on the general evidence of improper intent in the plan as a whole, as well as specifically on an e-mail chain between consultants Heffley, Terraferma, and Reichelderfer that took place after the Senate released a draft map that did not split Homestead. In this e-mail chain, the operatives stated that the configuration of these districts was "pretty weak" and that the House "need[ed] to fix" it.
+Id. at 409 (footnote omitted).
+The last maps passed by both the House and the Senate during the special session had identical configurations of these districts, where District 26 included all of Homestead, yet was even more favorable for the Republican Party than the previous district that this Court held must be redrawn. This was something the League of Women Voters of Florida and Common Cause expressly pointed out in a letter to leaders of the Legislature during the special session.
+At the evidentiary hearing, both the Coalition Plaintiffs [**57]  and the Romo Plaintiffs submitted proposed maps to the trial court and demonstrated that these districts could be drawn markedly more tier-two compliant. Like with the other contested South Florida districts, the trial court found that CP-1 was "hands down the best tier two performing map." Trial Court Order at 12. The court found that CP-1 split fewer cities, was more compact than the Legislature's configuration, and would not "deprive Hispanic voters of their ability to elect a candidate of their choice in District 26." Id. at 18. The trial court recommended adopting CP-1 because of its significant improvement in tier-two compliance.
+The Legislature claims that since this Court's only direction was to redraw the districts to avoid splitting Homestead, the trial court's recommendation goes beyond our instructions. The Legislature also claims that CP-1 violates the tier-one minority protection provisions of the Florida Constitution by diminishing the ability of Hispanic voters to elect a representative of their choice in District 26.
+For the reasons more fully explained below, we reject the Legislature's arguments and approve the trial court's determination that the Legislature did not meet its [**58]  burden of justification for its proposed configuration of Districts 26 and 27—a finding supported by competent, substantial evidence.
+First, the Legislature's proposed configuration of Districts 26 and 27 was even  [*280]  more favorable to the Republican Party than the enacted district, which was invalidated partly for being drawn with the intent to favor the Republican Party. Second, although the Legislature bore the burden of justifying its chosen configuration of the redrawn area, the redrawn Districts 26 and 27 are less compact and split more cities than the alternative maps submitted at trial. Considering that an amendment was offered during the special session to draw the two districts more tier-two compliant, and that a map offered by the Romo Plaintiffs during the original merits trial of this case also demonstrated a more tier-two compliant configuration of the districts, the Legislature was aware of alternative, more tier-two compliant ways to draw these districts, yet did not seriously consider any of these alternatives. Third, the Legislature now provides a post hoc rationalization that its configuration for Districts 26 and 27, despite being less tier-two compliant than the alternative [**59]  maps, is better than CP-1's plan because it avoids retrogression, as the Legislature asserts CP-1 does. Yet, during the special session, the Legislature performed only a cursory retrogression analysis for these districts.
+Our determination that the Legislature has not met its burden of justification as to its chosen configuration of Districts 26 and 27 is first grounded in our previous conclusion that the enacted plan needlessly split Homestead to "benefit the Republican Party," Apportionment VII, 172 So. 3d at 410.
+The Legislature's redrawn configuration has actually improved Republican performance. The trial court noted, "[t]he irony of the cure being worse than the illness is not lost on me." Trial Court Order at 6.
+This result is contrary to Apportionment VII. Specifically, this Court's decision in Apportionment VII regarding this area did not just rest only on the fact that Homestead involved a city split, as Justice Canady asserts in his concurring in part and dissenting in part opinion, but also because the Legislature rejected other tier-two compliant configurations drawn by the Legislature's map drawer, configurations that were less favorable to the Republican Party. Id. at 410. Furthermore, the Legislature's decision to split [**60]  Homestead was a product of what the trial court in its final judgment called "a conspiracy to influence and manipulate the Legislature into a violation of its constitutional duty." Id. at 382 (quoting trial court order). As this Court noted in Apportionment VII:
+In another e-mail between [political consultants] Terraferma, Heffley, and Reichelderfer sent on the same day the Senate released a public map that did not divide the City of Homestead—a division considered by the consultants to be important to favor Republicans—Terraferma noted that District 26 was "pretty weak." Heffley responded, "The [H]ouse needs to fix a few of these," and Terraferma, copying Reichelderfer, responded, "yes." The enacted configuration did, indeed, split the City of Homestead between Districts 26 and 27, which turned one Republican district and one Democratic district into two Republican-leaning districts.
+Id. at 383-84.
+In an attempt to comply with this Court's directive that Homestead not be split, when drawing the Base Plan, legislative staff moved the eastern part of Homestead into District 26 from District 27. Consequently, a certain number of people needed to be added to District 27 to equalize the population between the districts. [**61]  The question was then where to shift the population between the districts.
+ [*281]  The legislative staff chose to shift a predominantly black population, which had the effect of making District 26 even more Republican-leaning than in the map we disapproved. The Legislature's Base Plan moved 34,785 people in the predominantly black neighborhoods of Palmetto Estates, Richmond Heights, and West Perrine from District 26 into District 27. At the time, legislative staff did not assert that it was necessary to move the black population based on any minority protection concerns.
+The resulting shifting of the predominantly black population from District 26 into District 27 did not even follow major roadways. After the Base Plan was released to the public, the League of Women Voters of Florida and Common Cause sent a letter to the Speaker of the House of Representatives and President of the Senate that, while praising the Legislature's "efforts to follow the suggestions of the Florida Supreme Court in drawing most of the [Base Plan]," criticized the Legislature's decision to attempt to remedy the constitutional deficiencies in these two districts by "shift[ing] Democratic, African American population into [District] [**62]  27 in order to maintain a lower Democratic performance index in [District] 26."
+As the trial court observed, given that the Legislature bears the burden, one "would think the Legislature would have anticipated questions about improving tier two compliance and [would] have been prepared to respond to such questions by saying they had explored several possibilities, and they chose the most compliant version." Trial Court Order at 11. Ultimately, neither the House nor the Senate adopted any amendments to the staff-drawn districts—although one was offered by Senator Dwight Bullard—and the final maps passed out of each legislative chamber included the staff-drawn configuration.
+Significantly, the boundary between Districts 26 and 27 in the Legislature's plan follows a variety of roads as it wraps around the black neighborhoods (including the Florida Turnpike, 117th Avenue, 97th Avenue, 88th Street, and 87th Avenue), while the Bullard Amendment follows a much more logical, regular, and compact boundary (almost exclusively US 1 and 97th Avenue), but does not move those black neighborhoods out of District 26.
+
+
+
+
+ [*282]  As we emphasized in Apportionment VII, the Legislature now has the burden to justify its chosen configuration. [**63]  As was the case with the alternative maps in Apportionment VII, the alternative maps introduced by the Challengers demonstrate several other ways these districts could have been configured that actually would have improved the tier-two compliance of the districts and done so in a manner that complied with our directive in Apportionment VII.
+In its order, the trial court spoke to the shortcomings of the Legislature's approach:
+It appears that the map drawers for the Legislature took a very minimalist approach to rectifying the problem identified in Districts 26 and 27. In essence, they drew two versions—one with Homestead in District 26 and one with Homestead in District 27. They then made a cursory analysis to see if it would perform for minorities, compared the tier two metrics of both, and chose the one that was most compact.
+The cursory analysis regarding performance for minorities did not include a comparison against the benchmark district—an analysis necessary to determine whether the configuration unnecessarily packed minorities into one district. They testified that this function would be done by the expert hired by the Legislature for this purpose. It appears, however, that the [**64]  expert did not make such a comparison to the benchmark district either.
+. . .
+The map drawers and their bosses seemed uninterested in exploring other possible configurations to see if these districts could be drawn more compact and reduce county and city splits.
+Trial Court Order at 10-11.
+CP-1, and indeed every other plan proposed by the Challengers during the relinquishment proceedings—as well as previous maps submitted during the initial trial which are similar to CP-1's configuration of these districts, in addition to the Bullard Amendment introduced during the special session—improves tier-two compliance in Districts 26 and 27. As the trial court noted, "[t]he Coalition Plaintiffs' map drawer seemed to have no trouble improving tier two compliance considerably." Id. at 12. In particular, Districts 26 and 27 in CP-1 are more visually compact than in the Legislature's plan, as the maps below demonstrate. (Homestead is in red, and the neighborhoods of Palmetto Estates, Richmond Heights, and West Perrine are in gray. Hialeah, which is split in the Legislature's plan between Districts 25 and 27, but is whole in CP-1, is in blue.).
+
+
+
+ [*283]  This visual comparison is supported by the statistical compactness measurements. With the [**65]  exception of the Reock score for District 26, which is the same, the statistical compactness measurements demonstrate improvement in CP-1 as compared to the Legislature's proposed configuration.
+
+Reock6 
+Convex Hull7 
+Polsby-Popper8 
+District
+26
+27
+26
+27
+26
+27
+Legislature
+.18 .
+46
+.46
+.82
+.20
+.43
+CP-1
+.18
+.54
+.48
+.85
+.22
+.47
+Further, CP-1 utilizes major geographical and political boundaries at least as effectively as the Legislature's proposed configuration, if not more so, and also allows for the City of Hialeah to be made whole, whereas it is split between Districts 25 and 27 in the Legislature's proposal. In other words, by essentially any and every tier-two measure, the configuration of these districts in CP-1 is objectively superior to the configuration in the House and Senate maps.
+Despite its knowledge of alternative, more tier-two compliant ways to draw Districts 26 and 27, the Legislature did not attempt a more tier-two compliant configuration—even after the League of Women Voters of Florida and Common Cause expressed concerns about the Base Plan—and indeed rejected the one legislative amendment (the Bullard Amendment) that offered an alternative configuration. Notably, speaking in debate in the Senate, Reapportionment Committee Chair, Senator William Galvano, offered what appears to be the only justification for why the Senate rejected the more tier-two compliant configuration: "If we adopt the Bullard Amendment, because of the Hispanic population shift that [**67]  would move one to the other, I would suspect that the Court in its review would find that we have in fact packed District 27. So I would ask that you vote this down." Nothing in the record indicates that either legislative staff or counsel performed a functional analysis on Districts 26 and 27 in the Bullard Amendment to determine whether they violated the tier-one minority protection provisions, or the Voting Rights Act.
+The decision not to consider any alternatives for Districts 26 and 27 in drawing the Base Plan—and to reject the one proposed  [*284]  amendment offering a different configuration—is indicative of the Legislature's shortcomings in meeting its burden. This is particularly true where it is clear that the "cure" the Legislature chose for the improper partisan intent that caused the Court to require these districts to be redrawn in the first place actually improves the Republican performance of the districts.
+Although the Legislature bears the burden, as the trial court found, it offers hardly any justification for its chosen configuration of Districts 26 and 27. But while the Legislature's "minimalist" approach may have sufficed if it were starting from a blank slate, "that was not," as the trial [**68]  court stated, "the situation facing the Legislature." Rather, "it had been tasked with preparing a remedial map" and "would have the burden of defending its choices in all respects." Trial Court Order at 11.
+In an attempt to meet its burden of justification, the Legislature provides a post hoc rationalization for its demonstrably less tier-two compliant map by asserting—as it also did when justifying various challenged districts in the 2012 plan—that the alternative configuration of Districts 26 and 27 offered by the Coalition Plaintiffs would violate the tier-one minority protection provisions of the Florida Constitution. Cf. Apportionment VII, 172 So. 3d at 411 (rejecting Legislature's "post-hoc rationalizations" for its enacted configuration of District 25). Specifically, the Legislature alleges that the configuration of District 26 in CP-1 diminishes the ability of Hispanic voters to elect a representative of their choice. The trial court did not find the Legislature's experts persuasive on the issue of whether CP-1 retrogresses, and ultimately rejected the Legislature's retrogression analysis.
+In support of its position that District 26 in CP-1 would result in retrogression, the Legislature presented testimony from [**69]  two expert witnesses, Professor Liu and Professor Moreno. The trial court "did not find [Professor Liu's] testimony to be particularly helpful," because "the data he used to draw his conclusions from was suspect." Trial Court Order at 15-16. For instance, of the ten elections Professor Liu analyzed when performing his retrogression analysis, "only six involved Hispanic candidates and three of those were non-partisan judicial races." Id. Further, except for one of these non-partisan judicial races, Professor Liu "could not identify any election in which a coalition of African Americans and non-Hispanic whites effectively defeated the Hispanic candidate of choice." Id. at 16.
+Regarding the Legislature's other expert, Professor Moreno, the trial court concluded that this testimony "had little probative value to me." Id. Most troubling in Professor Moreno's retrogression analysis was that his analysis was based on a comparison between CP-1 and the Legislature's proposed plan, rather than the benchmark map of 2002. In addition, the trial court noted the "speculative nature" of Professor Moreno's testimony and found his testimony to be "long on pure opinion based on experience and short on systematic, [**70]  scientific analysis of accepted statistical data." Id. Further, contrary to his testimony at the evidentiary hearing, Professor Moreno had previously testified at the merits trial that the invalidated District 26, which has substantially similar demographic, registration, and Democratic primary turnout metrics as CP-1, preserved Hispanics' ability to elect the candidate of their choice.
+On the other hand, the expert witness presented by the Coalition Plaintiffs, Professor Lichtman, explained that Districts  [*285]  25, 26, and 27 in CP-1 are all Hispanic-performing districts. While the Legislature now attempts to discredit Professor Lichtman's report, it chose not to object to the report being entered into evidence. Additionally, in contrast to the trial court's findings regarding the Legislature's experts, the trial court found Professor Lichtman's opinions to be persuasive:
+The Plaintiffs' expert, Professor Lichtman, testified via his report . In it, he favorably compared Districts 26 and 27 in CP-1 to districts in both the 2012 congressional plan and 2002 benchmark congressional plan and found no retrogression. Although I did not have the opportunity to judge his demeanor while testifying, [**71]  his report is persuasive. He systematically analyzed the subject matter with accepted scientific methodologies and found that the Hispanic candidate or Hispanic candidate of choice won 29 out of 29 elections that took place between 2006 and 2014 in comparable Miami-Dade County based districts that had similar Hispanic voting age population to the proposed Hispanic districts in CP-1. He also analyzed the 2010 U.S. Senate Election and demonstrated that Marco Rubio, a Hispanic Republican, carried the proposed Hispanic districts in CP-1 by landslide margins.
+And, through ecological regression, Lichtman showed that in CP-1's District 26, for instance, Rubio received an overwhelming 71% of the Hispanic vote (including support from non-Republican Hispanics) and substantial crossover votes from non-Hispanic voters, regardless of the fact that the district performed for the Democratic Gubernatorial Candidate, Alex Sink, in 2010.
+Lichtman concluded that, "according to the range of most pertinent factors, [District 26] in CP-1 is a Hispanic opportunity district beyond any reasonable doubt," and that Districts 25, 26, and 27 in CP-1, CP-2, and CP-3 all function as performing Hispanic districts.
+ [**72] Trial Court Order at 14-15.
+Critically, despite the burden the Legislature bears, the retrogression analysis the Legislature performed when drawing its configuration was not nearly as intensive as the retrogression analysis it has applied when attacking CP-1. As the trial court noted:
+It appears that the map drawers for the Legislature took a very minimalist approach to rectifying the problem identified in Districts 26 and 27. In essence, they drew two versions—one with Homestead in District 26 and one with Homestead in District 27. They then made a cursory analysis to see if it would perform for minorities, compared the tier two metrics of both, and chose the one that was most compact.
+The cursory analysis regarding performance for minorities did not include a comparison against the benchmark district—an analysis necessary to determine whether the configuration unnecessarily packed minorities into one district. They testified that this function would be done by the expert hired by the Legislature for this purpose. It appears, however, that the expert did not make such a comparison to the benchmark district either.
+Id. at 10. (emphasis supplied).
+Under the version of District 26 in CP-1, Hispanics [**73]  were 65.5% of registered Republicans and 64.9% of registered Republicans who actually voted in the 2012 general election. A comparison with the benchmark district in the 2002 plan confirms that Hispanic voting ability in the Republican primary is not diminished. Under the benchmark District 25 configuration, Hispanics were 66.7% of registered Republicans and 65.7% of registered Republicans  [*286]  who actually voted in the 2012 general election.9  In District 26 under the precleared 2012 plan—which the Legislature itself defended earlier in this proceeding—Hispanics constituted 66.2% of registered Republicans and 65.9% of registered Republicans who actually voted in the 2012 general election. Therefore, we can conclude that Hispanic Republicans' candidate of choice is just as likely to win a contested Republican primary as in the benchmark plan.
+As to Hispanic Democrats' ability to nominate their candidate of choice in a contested primary, Hispanics were 45.0% of registered Democrats and 41.6% of registered Democrats who actually voted in the [**74]  2012 general election under CP-1's configuration for District 26. Although Hispanics do not constitute a majority of Democrats, a comparison with the benchmark district of 2002 confirms that Hispanic voting ability in the Democratic primary is not diminished. In benchmark District 25, Hispanics were 51.9% of registered Democrats and 48.9% of registered Democrats who actually voted in the 2012 general election. In District 26 under the precleared 2012 plan, Hispanics constituted 45.3% of registered Democrats and 42.2% of registered Democrats who actually voted in the 2012 general election.10 
+These figures are comparable, and based on this statistical analysis, it is clear that Hispanic Democrats' candidate of choice is just as likely to win a contested Democratic primary in CP-1 as in the benchmark plan. The Legislature contends that because CP-1 makes District 26 Democratic-leaning, whereas the district was Republican-leaning in the Benchmark, and because Hispanics do not control the Democratic primary, the Hispanic candidate of choice is unlikely to emerge from the Democratic primary, yet the Democratic nominee is likely to prevail in the general election. Therefore, the Legislature argues, Hispanic voters' ability to elect a representative of their choice is diminished in CP-1.
+As the trial court noted, this "is a cogent, logical, argument. The problem is that the argument is much more compelling than the evidence offered in support of it." Trial Court Order at 14. The Legislature's argument rests on an unproven assumption of Hispanic voting cohesion and polarized racial bloc voting—the establishment of which is the first step in any retrogression analysis.11  Indeed, the  [*287]  evidence before this Court suggests a lack of Hispanic voting cohesion in this [**76]  district. In 2012, of the registered Hispanic voters in benchmark District 25, 29.8% were Democrats, 37.5% were Republicans, and 32.7% were registered with neither party. In 2012, of the registered Hispanic voters in the enacted, precleared District 26, 28.1% were Democrats, 40.6% were Republicans, and 31.3% were registered with neither party. Professor Lichtman noted this fact in his expert report submitted to the trial court. Of the four counties that comprise Districts 25, 26, and 27 in CP-1, Lichtman found that "Hispanic registered voters are closely divided among Republicans (36.5%), Democrats (30.6%), and Independents and Others (32.9%)" based on 2014 registration.
+Because there is scant evidence before this Court that Hispanics in Benchmark District 25 vote cohesively, and since the trial court found that the Legislature's experts were "less persuasive" than the Coalition Plaintiffs' expert, we affirm the trial court's conclusion that District 26 in CP-1 does not diminish the ability of Hispanics to elect representatives of their choice.
+In conclusion, there was competent, substantial evidence to support the trial court's findings that the Legislature failed to meet its burden justifying its chosen configuration of Districts 26 and 27 when CP-1's configuration of these districts were objectively better by tier-two standards. We affirm the trial court's recommended adoption of CP-1's configuration of Districts 26 and 27.
+ C. DISTRICT 25
+In 2012, the Legislature split Hendry County between Districts 20 and 25. The Challengers objected to this configuration on the basis that it resulted in unncessary tier-two deficiencies. In Apportionment [**79]  VII, we determined that the Legislature could not justify its configuration, and that "District 25 must be redrawn to avoid splitting Hendry County." 172 So. 3d at 411.
+During the special session, legislative staff drew the Base Plan to keep Hendry County wholly within District 25, and made resultant changes to the surrounding Districts—Districts 20, 21, 22, and 23.12  The House and the Senate adopted the  [*288]  Base Plan configuration of District 25, and adopted amended configurations of Districts 20, 21, 22, and 23 to keep additional cities whole.
+
+
+
+During the trial court proceedings, the Coalition Plaintiffs objected to the Legislature's configuration of District 25 and the surrounding South Florida districts. They argued that their proposed remedial plan, CP-1, demonstrated that the Legislature rejected more tier-two compliant configurations, and that therefore the Legislature could not justify its configurations.
+The trial court found that "[t]he Coalition Plaintiffs' map drawer seemed to have no trouble improving tier two compliance considerably," calling CP-1 "hands down the best tier two performing map" of [**80]  the plans proposed by the parties. Trial Court Order at 12. The trial court found CP-1 more visually compact than the Legislature's plan, and noted that it was also superior with respect to statistical compactness and city splits. Specifically, the trial court found that CP-1's District 20 "incorporates the whole city of Miramar, which the legislative proposals split between Districts 24 and 25. As such, CP-1's configuration of District 20 changes the border of District 24. It also eliminates an appendage protuding down from District 20 into District 21 in the legislative proposals that splits six cities along the borders of Districts 21 [and 22]." Trial Court Order at 4. Accordingly, it determined that the Legislature has not met its burden  [*289]  with respect to the South Florida districts and recommended that this Court adopt CP-1.
+We agree with the trial court's factual determinations and conclusions. The alternative maps do indeed demonstrate that the Legislature could have complied with this Court's directive regarding District 25 in a way that improved tier-two compliance dramatically across South Florida. CP-1 makes seven more cities whole, eliminates a county split, has seventy-three [**81]  fewer miles of border perimeter, improves statistical compactness in five districts, and improves or maintains visual compactness in the three others. Although statistical compactness decreases in one district—District 25—this is a direct result of the district withdrawing from Broward County and increasing the number of whole cities. District 25's visual compactness remains the same, especially considering that the area of Broward County which was removed from the District, resulting in the decreased compactness scores, is mostly unpopulated.
+District
+20
+21
+22
+23
+24
+25
+26
+27
+Reock
+Legislature
+.48
+.37
+.41
+.27
+.38
+.48
+.18
+.46
+CP-1
+.48
+.37
+.48
+.35
+.47
+.41
+.18
+.54
+Convex Hull
+Legislature
+.75
+.64
+.70
+.63
+.73
+.73
+.46
+.82
+CP-1
+.75
+.64
+.74
+.65
+.77
+.67
+.48
+.85
+Polsby-Popper
+Legislature
+.20
+.24
+.15
+.25
+.28
+.38
+.20
+.43
+CP-1
+.20
+.30
+.24
+.26
+.30
+.36
+.22
+.47
+The Legislature argues that CP-1 renders District 20 unconstitutionally noncompact by adding a new, unnecessary appendage on its south end. Although District 20's south Broward arm is an appendage, it is entirely made up of one whole city (Miramar), uses the county line for its entire southern boundary, uses the city line for its entire northern and eastern boundaries, and has no impact on the district's compactness [**82]  scores. The Miramar arm results from the elimination of a different, more visually bizarre appendage that stretches down I-95 through the middle of District 21, splitting three cities in the process. It also has the effect of eliminating an appendage of District 22 that reaches between Districts 20 and 23 in the Legislature's plan. Furthermore, District 23's southern appendage that reaches down into Miami Beach, and District 20's appendage that reaches up I-95 north of Fort Lauderdale, are both reduced. The map's improvements to city splits, county splits, and compactness are directly a result of that Miramar arm.
+ [*290]  
+
+
+The Legislature's claim that CP-1 disregards the compactness standard in an effort to preserve cities misses the mark, since neither the Legislature's nor CP-1's District 20 can be considered "compact." That noncompactness is necessary to comply with tier-one and maintain its status as a district in which black voters have the ability to elect represenatives of their choice. But the fact that a district may be less compact does not mean that the Legislature is free to disregard the other tier-two standards, like following political and geographical boundaries where feasible. [**83]  In addition, the Legislature's premise that CP-1's District 20 is visually less compact than the Legislature's is incorrect. CP-1's District 20 is at least as compact—as every compactness score suggests—if not more so, as the trial court found, and as we agree.
+In sum, CP-1 adheres to tier-two criteria more faithfully than the Legislature's plan, while presenting no tier-one issues. The Legislature does not offer an adequate justification for its adoption of a less tier-two compliant plan, and we therefore conclude that there was competent, substantial evidence to support the trial court's findings that the Legislature does not meet its burden with respect to District 25 and the surrounding districts.
+ D. DISTRICTS 21 & 22
+Districts 21 and 22 were the last pair of the eight specific districts we invalidated in Apportionment VII. In 2012, the Legislature drew Districts 21 and 22 to run North-South, parallel to each other along the Atlantic coast. Both the Coalition Plaintiffs and the Romo Plaintiffs, in their arguments to this Court in Apportionment VII, contended that these districts could have been drawn in a more constitutionally compliant manner and that the Legislature unjustifiably [**84]  rejected one such configuration in which the districts were "stacked" on top of each other. 172 So. 3d at 411.
+Addressing this challenge in Apportionment VII, we concluded that the trial court erred in deferring to the Legislature's enacted configuration. Id. at 412. Based on evidence that the Legislature had rejected a staff-drawn proposal to draw Districts 21 and 22 in a more tier-two compliant "stacked" orientation, and based on the Challengers' trial maps, which maintained  [*291]  a North-South orientation but improved tier-two compliance by keeping more cities whole and eliminating an irregular appendage into District 22, we held that the Legislature had not justified its configuration and directed that the districts must be redrawn. Id. "We [did] not, however, instruct that the Legislature must necessarily redraw the districts in a 'stacked,' horizontal configuration," but rather "[left] it for the Legislature to determine how to redraw these two districts, with the understanding that tier-two compliance could be improved and, given the shift in the burden, that the Legislature must be able to justify its redrawn configuration of these districts." Id. at 412-13.
+During the special session, both the House and the Senate adopted [**85]  the configuration of Districts 21 and 22 drawn by legislative staff in the Base Plan, as amended solely to keep additional cities whole. That configuration redrew these districts in a "stacked" manner.
+During the session, there was considerable public testimony from Palm Beach and Broward County leaders in support of maintaining a North-South configuration in order to respect the separate coastal and inland communities of interest there. During the trial court's remedial proceedings, the Romo Plaintiffs also objected to the Legislature's adopted configuration, arguing that the Legislature redrew Districts 21 and 22 with the intent to disfavor their Democratic incumbents, Congresspersons Ted Deutch and Lois Frankel, by pairing them both in District 21. The trial court, however, rejected the Romo Plaintiffs' argument, concluding that there was "insufficient evidence" that "such was the intent."
+The trial court found that CP-1, besides being more tier-two compliant with respect to Districts 20 through 27, was preferable with respect to Districts 21 and 22 because CP-1 "eliminates an appendage protruding down from District 20 into District 21 in the legislative proposals that splits six [**86]  cities along the borders of Districts 21 [and 20]." Trial Court Order at 4.
+Before this Court, the Romo Plaintiffs do not object to CP-1's configuration, despite that this configuration pairs two Democratic incumbents against each other. The Coalition Plaintiffs object to the exact "stacked" configuration the Legislature adopted, as part of the general reconfiguration of these South Florida districts in CP-1. Specifically, the Coalition Plaintiffs allege that the Legislature cannot justify its configuration for Districts 21, 22, and surrounding districts because it rejected more tier-two compliant alternatives. Indeed, CP-1 presents such an alternative, by marrying the "stacked" configuration first introduced by legislative staff in 2012 with the "appendage-less" configuration included in the original Romo trial maps. Thus, CP-1 creates a more tier-two compliant configuration of the two districts.
+ [*292]  
+
+
+
+Compared to the Legislature's proposal, Districts 21 and 22 in CP-1 are more visually compact. CP-1 eliminates an incursion by District 20 into the middle of District 21, eliminates a southern appendage of District 22, and reduces District 20's finger into District 22.
+CP-1 also keeps the cities [**87]  of Boynton Beach, Lake Worth, and Lantana whole within District 21, and keeps Deerfield Beach whole within District 22, whereas those municipalities are split in the Legislature's proposal. As the trial court determined, CP-1 improves tier-two compliance "considerably" over the Legislature's proposal, both with respect to Districts 21 and 22 and in South Florida as a whole.
+Because we instructed in Apportionment VII that Districts 21 and 22 be redrawn to improve compactness, we have no reason to reject an obviously more tier-two compliant configuration. For these reasons, we uphold the trial court's findings based on competent, substantial evidence and affirm the trial court's finding that the Legislature has not met its burden to justify its chosen configuration of Districts 21 and 22 that was less compact.
+ E. THE HOUSE AND SENATE VERSIONS OF CENTRAL AND SOUTHWEST FLORIDA
+Having addressed the eight districts we specifically required the Legislature to redraw—Districts 5, 13, 14, 21, 22, 25, 26, 27—and the districts affected thereby, we now turn to the districts that were the subject of disagreement between the House and the Senate in the special session that ultimately ended deadlocked. [**88]  The trial court and this Court address six districts—Districts 9, 10, 11, 15, 16, and 17—as a result of the House's motion for further relinquishment and the House and Senate's inability to agree.
+We emphasize that these districts, located in central and southwest Florida, were not the subject of dispute in Apportionment VII, but were redrawn to accommodate necessary changes to nearby districts invalidated in Apportionment VII. The Challengers do not dispute the configuration of these districts, although, as discussed below, they do prefer one variation over the others.
+ [*293]  
+
+
+Specifically, the House Plan (9071) and the Senate Plan (9062) differ in these six districts, and the Galvano Plan (9066) differs from the House Plan only in four districts and from the Senate Plan in six. Importantly, the six districts within each of the plans have no impact on the configurations of other districts before this Court for review. Ultimately, after reviewing the House, the Senate, and the Galvano Plans for tier-two compliance, the trial court recommended adoption of the House Plan for these districts.
+In weighing which of the three plans—the House Plan, the Senate Plan, or the Galvano Plan—to recommend to [**89]  this Court, the trial court determined that "[b]oth the House and Senate have legitimate reasons for preferring their respective configurations" and that "[i]t is a close call." Comparing the House Plan to the Senate Plan, the trial court determined that "compactness is slightly better" in the House Plan but did not note any other tier-two differences. The trial court stated that the Senate Plan "was purportedly designed to address the perceived 'donor'13   [*294]  status of Hillsborough County, but it makes no similar effort to address the 'donor' status of other counties in the map, and it exacerbated the 'donor' status of Orange County." Trial Court Order at 6.
+Comparing the House Plan to the Galvano Plan, the trial court found that the Galvano Plan preserves one more county, splits one more city, and decreases visual and statistical compactness somewhat. The Challengers prefer the House Plan, because, as they claim, it does not contain tier-two defects present in the Senate and Galvano Plans, and does not raise any tier-one questions, as the Senate [**90]  and Galvano Plans do.
+Because the Legislature did not agree on a configuration in this area of the state, we face a novel and somewhat different task than in our review of the other districts. As to these six districts, we are not comparing a legislatively enacted or agreed-upon plan to alternative plans in order to determine whether there is a violation of the constitutional standards. We are, in addition, not fashioning our own plan.
+Instead, in light of our directions to the trial court to make a recommendation between the plans presented by the parties in this remedial process, we review the trial court's recommendation, keeping in mind that the Legislature has the burden of justifying their proposed configurations.
+During its review of these districts, the trial court first determined whether each plan complies with the constitutional requirements. Although the Coalition Plaintiffs argue that the Senate's plans "give rise to potential incumbent favoritism concerns," the trial court did not make any finding that would suggest so. Before this Court, the Coalition Plaintiffs focus on the alleged tier-two shortcomings of the Senate and Galvano Plans.
+Based on the evidence in the record, [**91]  we approve the trial court's findings that none of the three plans violate the tier-one standards with respect to these six central and southwest Florida districts.
+The trial court next focused on whether the plans were tier-two compliant. To determine whether the districts are compact, this Court begins "by looking at the 'shape of a district'" to evaluate whether the district has "an unusual shape, a bizarre design, or an unnecessary appendage unless it is necessary to comply with some other requirement." Apportionment I, 83 So. 3d at 634 (quoting Hickel v. Se. Conference, 846 P.2d 38, 45 (Alaska 1992)).
+During the evidentiary hearing, the House claimed that its plan is the most compact, citing its higher compactness scores, superior visual compactness, "smoother boundaries," and "clear and consistent methodology." The House criticizes the Senate Plan for having an unpersuasive justification, for being "designed to address the perceived 'donor' status of Hillsborough County" but "not address[ing] the 'donor' status of other counties," and for "exacerbat[ing] the 'donor' status of Orange County." The Challengers agree.
+The Senate, on the other hand, claimed before the trial court—as it does before this Court—that its plan is preferable because it leaves District 16 unchanged from the enacted 2012 [**92]  plan and avoids an unnecessary split to Hillsborough County.14  Alternatively,  [*295]  the Senate claims that the Galvano Plan is preferable because it keeps more counties whole better than any other plan.
+The trial court found the House Plan to be more compact than the Senate Plan and the Galvano Plan and noted that while the Senate Plan does not divide Sarasota County, as the House Plan does, it achieves this result by dividing Manatee County (which the House Plan does not). Additionally, upon an examination of the numerical compactness scores, the trial court found that overall, the House Plan was more tier-two compliant. Trial Court Order at 6-7.
+The trial court noted that "[b]oth the House and Senate have legitimate reasons for preferring their respective configurations." Trial Court Order at 5. We agree, and commend both the House and the Senate for passing plans that [**93]  comply with our constitutional requirements. As we stated in Apportionment I, once the constitutional criteria are satisfied, there may still be other factors to determine which plan ought to be adopted. See, e.g., Apportionment I, 83 So. 3d at 673 ("[M]aintaining communities of interest is not required by the constitution, and comporting with such a principle must not come at the expense of complying with constitutional imperatives.").
+Acknowledging that redistricting does not have to be a mechanical exercise, we note that the Senate Plan, like the House Plan, keeps rural communities of interest together in District 17. However, the Galvano Plan splits up rural areas between Districts 9, 16, and 17. The Senate Plan additionally does not make any changes to District 16, which was not invalidated by this Court in Apportionment VII, from its 2012 configuration. This district contains all of Sarasota County and the vast majority of the population of Manatee County. While the trial court found the House Plan's configuration of this district to be more tier-two compliant, we appreciate the Senate's desire to keep the Sarasota-Manatee community of interest intact in District 16.
+Given the unique procedural posture of this case, the Legislature's [**94]  inability to agree forces the Court to adopt one—and only one—of these configurations. Mindful of the trial court's findings that the House Plan best complies with tier-two standards, we now review the trial court's finding that the House Plan is preferable over the Senate and Galvano Plans.
+Our analysis concludes that no plan has a meaningful advantage with respect to compactness. As we have already established, all three plans are constitutionally compact. They are also all equally visually compact. The differences in statistical compactness are slight, and certainly not great enough to give any one plan a clear edge. See Apportionment I, 83 So. 3d at 635 ("The Florida Constitution does not mandate . . . that districts within a redistricting plan achieve the highest mathematical compactness scores.").
+Similarly, with regard to utilizing existing boundaries, no plan has a meaningful advantage. Each makes tradeoffs to follow some boundaries over others for legitimate policy reasons. For instance, the Senate Plan prioritizes reducing the number of times Hillsborough County is split, while giving less priority to keeping a district wholly within Orange County. Alternatively, the House Plan does keep a district wholly [**95]  within Orange County, our  [*296]  state's fifth-largest, within a district. While the House Plan's Districts 15 and 16 do divide eastern Hillsborough, the division line is the Alafia River, which is a geographic boundary. While there may be competing policy interests at play, we are not in a position to evaluate those policy concerns. We also do not consider any of these tradeoffs to be objectively superior to any other.
+We conclude that there is no discernible difference between the three plans when it comes to the tier-two standards. No plan is more constitutionally compliant than any other and none is objectively superior in any meaningful way.
+But, ultimately, the Legislature's failure to agree and enact one of these configurations forces us, as it did the trial court, to choose a plan. The trial court determined that the House Plan is preferable and the Challengers incorporated the House Plan into CP-1 and now urge its adoption before this Court. While both Senate plans and the House Plan are tier-two compliant, as the trial court found, the House Plan, statistically, is slightly more compact than the two Senate Plans. No party has given us legal basis to conclude that the House Plan poses [**96]  more problems than either the Senate Plan or the Galvano Plan. Accordingly, this Court approves the trial court's recommendation to adopt the House Plan's configuration of Districts 9, 10, 11, 15, 16, and 17.
+ REMEDY AND CONCLUSION
+We remain "[c]ognizant that this Court's role is not to select a redistricting map that performs better for one political party or another, but is instead to uphold the purposes of the constitutional provision approved by Florida voters to outlaw partisan intent in redistricting." Apportionment VII, 172 So. 3d at 369. We have endeavored to give meaning to the Fair Districts Amendment throughout our previous opinions. As we stated in Apportionment I:
+The citizens, through our state constitution, have now imposed upon this Court a weighty obligation to measure the Legislature's Joint Resolution with a very specific constitutional yardstick. The constitutional imperatives set forth in article III, sections 16 and 21, of the Florida Constitution are the instructions given to the Legislature by the citizens, mandating how apportionment plans are to be drawn. These instructions are a further expression of the will of this state's citizens to ensure that their right to elect representatives is not frustrated as a result of partisan favoritism or incumbent protection. The citizens have expressed [**97]  their will, requiring the Legislature to "redistrict in a manner that prohibits favoritism or discrimination, while respecting geographic considerations" and "to require legislative districts to follow existing community lines so that districts are logically drawn, and bizarrely shaped districts . . . are avoided." Standards for Establishing Legislative Dist. Boundaries, 2 So. 3d at 181, 187-88 (plurality opinion). The new constitutional provisions seek to level the playing field in how legislative districts are drawn. These mandates are specific, and the citizens of this state have entrusted to the Supreme Court of Florida the constitutional obligation to interpret the constitution and ensure that legislative apportionment plans are drawn in accordance with the constitutional imperatives set forth in article III, sections 16 and 21.
+Apportionment I, 83 So. 3d at 684.
+The Fair Districts Amendment "sought to eliminate the age-old practice of partisan political gerrymandering where the political party and representatives in power  [*297]  manipulate the district boundaries to their advantage." Apportionment VII, 172 So. 3d at 369. The amendment established "stringent new standards" for the "'once-in-a-decade' apportionment," and these new standards "clearly act as a restraint on the Legislature." Apportionment I, 83 So. 3d at 597. The goal of the Fair Districts Amendment was, in the words of the Eleventh Circuit Court of Appeals, to "level [**98]  the playing field." Brown v. Sec'y of State of Fla., 668 F.3d 1271, 1285 (11th Cir. 2012).
+At the same time, we recognized that "any redrawing of lines, regardless of intent, will inevitably have an effect on the political composition of a district and likely whether a political party or incumbent is advantaged or disadvantaged." Apportionment I, 83 So. 3d at 618. We also recognized that improper intent did not indicate a "malevolent or evil purpose." Apportionment VII, 172 So. 3d at 378. In Apportionment I, we rejected any suggestion that "once the political results of the plan are known, the Legislature must alter the plan to bring it more in balance with the composition of voters statewide. The Florida Constitution does not require the affirmative creation of a fair plan, but rather a neutral one in which no improper intent was involved." 83 So. 3d at 643.
+In our first opinion after Florida voters approved the Fair Districts Amendment, we emphasized that despite the stringent constitutional standards that operated as a restraint on the legislature, we would defer to legislative decisions on the drawing of districts as long as there was no violation of constitutional requirements. Apportionment I, 83 So. 3d at 608. We noted that our limited role was simply to "ensur[e] compliance with constitutional requirements" and to invalidate a redistricting plan only if it ran afoul of such mandates. Id. In [**99]  that vein, in Apportionment I we upheld the facial constitutionality of the House's legislative plan and in In re Senate Joint Resolution of Legislative Apportionment, 89 So. 3d 872 (2012) (Apportionment II) we upheld the facial constitutionality of the Senate plan.15 
+Now, however, as we explained in Apportionment VII, the Court has a "solemn obligation to ensure compliance with the Florida Constitution in this unique context, where the trial court found the Legislature to have violated the constitutional standards during the 2012 redistricting process." Apportionment VII, 172 So. 3d at 415. We have an additional obligation to provide certainty to candidates and voters regarding the legality of the state's congressional districts. Id. at 373.
+Having reviewed the Trial Court Order recommending adoption of a remedial plan, we approve the House Plan's configuration of Districts 1 through 19, and approve the trial court's recommended configuration of Districts 20 through 27. In doing so, we reject the Challengers' request that we retain jurisdiction of this case, as we have every confidence that the Legislature and the State will adhere [**100]  to the congressional redistricting plan this Court approves today. As the Senate made clear in its supplemental reply brief filed in this Court, the "Senate has no intention of adopting another congressional plan before the next redistricting cycle."
+Accordingly, we affirm the Trial Court Order and approve the trial court's recommended remedial plan. The congressional redistricting plan approved by this Court  [*298]  as set forth in Appendix A16  shall be used for the 2016 Florida congressional elections and for Florida congressional elections thereafter until the next decennial redistricting. The trial court shall enter a final judgment incorporating the approved plan as set forth in Appendix A.
+Because of the extremely limited timeframe, we limit the time for filing a motion for rehearing or clarification to five days from the date [**101]  of this opinion and three days for a response from the date the motion is filed.
+IT IS SO ORDERED.
+LABARGA, C.J., and LEWIS, QUINCE, and PERRY, JJ., concur.
+PERRY, J., concurs with an opinion, in which QUINCE, J., concurs.
+CANADY, J., concurs in part and dissents in part with an opinion.
+POLSTON, J., dissents with an opinion.
+ APPENDIX A
+
+ APPENDIX B  
+ORDER RECOMMENDING ADOPTION OF REMEDIAL MAP
+THIS CASE is before me on a temporary relinquishment of jurisdiction from the Florida Supreme Court for the purpose of evaluating proposed remedial congressional redistricting maps and making a recommendation to the Court as to which map, or portions thereof, should be adopted. I have reviewed the proposed maps, considered the evidence presented and the arguments of counsel. For the reasons set forth below, I find that the alternative map proposed by the Coalition Plaintiffs, identified as CP-1, best complies with the Court's directions and with all constitutional requirements, and therefore recommend its adoption.
+ BACKGROUND AND PROCEDURAL POSTURE OF THE CASE
+On July 10, 2014, I entered Final Judgment in this case, finding that the Congressional [**126]  Redistricting Map enacted by the Legislature in 2012 violated Article III, Section 20 of the Florida Constitution. I directed the Legislature to draw another map to address the defects I found, and subsequently approved the remedial map drawn by the Legislature. Both Plaintiffs and Defendants appealed.
+On July 9, 2015, the Florida Supreme Court issued its opinion in League of Women Voters of Florida v. Detzner, 172 So. 3d 363, 40 Fla. L. Weekly S 432 (Fla. July 9, 2015) ("Apportionment VII"), affirming my finding of constitutional violation but determining that I had not gone far enough in my requirements of the Legislature to correct the constitutional deficiencies. The Court directed the Legislature to draw a third map and gave specific instructions as to how to address problems it noted with certain districts (5, 13, 14, 21, 22, 25, 26 and 27.)
+As to District 5, the Court declared that it must be an east/west rather than a north/south configuration; Districts 13 and 14 must be re-drawn to avoid crossing Tampa Bay; Districts 21 and 22 must be made more compact, suggesting but not requiring a stacked configuration for these two districts; District 25 must be drawn without dividing Hendry County; Districts 26 and 27 must be drawn so as not to split the City of Homestead.
+The Florida Supreme Court temporarily relinquished jurisdiction to this [**127]  Court for a period of 100 days for remedial proceedings, specifically, to hear evidence and arguments as to the new map and to recommend whether or not it should be approved. The Legislature met in special session but was unable to enact a remedial congressional map as directed. As there was no enacted map for me to evaluate, I requested further instruction from the Florida Supreme Court.
+The Court modified its previous order of temporary relinquishment of jurisdiction, directing me to "make a recommendation to [the Florida Supreme] Court, before the end of the relinquishment period, as to which map proposed by the parties—or which portions of each map—best fulfills the specific directions in [Apportionment VII] and all constitutional requirements." Order at 2-3, League of Women Voters of Fla. v. Detzner, No. SC14-1905 (Fla. Sept. 4, 2015).
+ PROPOSED REMEDIAL MAPS
+The parties have submitted seven proposed remedial maps: 9071, submitted by the House; 9062 and 9066, submitted by the Senate; CP-1, CP-2, and CP-3, submitted by Coalition Plaintiffs; and the Romo Map, submitted by Romo Plaintiffs. A general overview of the maps is as follows:
+a. 9071 — The House proposes a modified version of [**128]  the base map the staff drew. It differs from the base map by keeping whole four additional cities: Groveland, Auburndale, Riviera Beach, and Sunrise. 9071 includes (1) the same East-West version of District 5 as in the map designated Romo Plan A at trial, (2) a District 14 that does not cross Tampa Bay or divide Pinellas County, (3) a "stacked" configuration of Districts 21 and 22, (4) a District 25 that keeps Hendry County whole, and (5) a District 26 and District 27 that does not split the City of Homestead. 9071 includes 18 split counties and 20 split cities.
+b. 9062 — Passed by the Senate during the special session, this map modifies Districts 9, 10, 11, 15, 16, and 17 from the staff-drawn configurations in the base map and the House Map 9071. 9062 keeps Sarasota County whole, whereas 9071 divides it. 9062 divides Manatee County, whereas 9071 keeps it whole. 9062 does not include a district wholly within Orange County, as does 9071. It includes 18 split counties and 20 split cities.
+c. 9066 — The Senate's alternative map, 9066, was drawn by Senate staff after the special session. It differs from 9071 only as to Districts 9, 15, 16, and 17. It keeps both Sarasota County and Manatee [**129]  County whole, while 9071 divides Sarasota County, but it divides the City of Longboat Key. Like 9062, it does not include any district wholly within Orange County. 9066 includes 17 split counties and 21 split cities.
+d. CP-1 — Coalition Plaintiffs offer CP-1 as their principal alternative map. Northern and Central Florida in CP-1 include 19 identical districts to the House Map 9071. It differs from 9071, however, in its alternative configurations of Districts 20 through 27 in South Florida. First, CP-1 reconfigures District 20 to keep Hendry County whole (within neighboring District 25), to remain an African American majority-minority district. CP-l's District 20 incorporates the whole city of Miramar, which the legislative proposals split between Districts 24 and 25. It also eliminates an appendage protruding down from District 20 into District 21 in the legislative proposals that splits six cities along the borders of Districts 21.
+CP-1, like the legislative proposals, eliminates the split of Homestead between Districts 26 and 27, but also makes them more compact. The border between Districts 26 and 27 in CP-1 also follows major roadways far more closely than the legislative proposals. [**130]  CP-1 includes 18 split counties and only 13 split cities.
+e. CP-2 and CP-3 — These are alternatives that use the basic configuration of the legislative proposals for Districts 26 and 27, and were offered to show that it was possible to draw districts that more closely follow major roadways, without adversely affecting compactness or dividing additional cities or counties.
+f. Romo Map — Romo Plaintiffs modelled their proposed remedial map after 9071 in Northern and Central Florida, modifying only the South Florida districts. There are two significant differences between the Romo Map and 9071. First, the Romo Map retains the non-"stacked" configuration of Districts 21 and 22 in the 2012 and 2014 congressional maps. Second, the Romo Map modifies the boundary between Districts 26 and 27 so that the African-American communities in Richmond Heights, Palmetto Estates, and West Perrine are in District 26, rather than District 27. The Romo Map includes 18 split counties and 23 split cities.
+ THE APPLICABLE LEGAL STANDARD AND PARAMETERS OF REVIEW
+The Florida Supreme Court has directed me to "make a recommendation...as to which map proposed by the parties—or which portions of each map—best fulfills [**131]  the specific directions in [Apportionment VII] and all constitutional requirements." The Court has emphasized that the burden remains on the House and Senate to justify their chosen configurations, and that no deference is due to their choices regarding the drawing of districts.
+What then am I to make of the language that directs me to especially focus on the House and Senate maps, any amendments offered thereto, and the areas of agreement between the legislative chambers? Presumably this means that, even though the Legislature did not enact a map, the ones passed by each chamber, especially where they are in agreement, are the closest we will come to an expression of the preferences of the elected representatives of the people as to a remedial map.
+Accordingly, I should first evaluate the maps proposed by the House and Senate to determine which map, or portions thereof, best meet the Court's criteria. Then I should evaluate that configuration in light of any challenges thereto by the Plaintiffs to determine if the Legislative defendants can meet their burden as noted above, or if some other configuration best fulfills the Court's directions and all constitutional requirements.
+ THE MAPS [**132]  PROPOSED BY THE HOUSE AND SENATE
+The House Map (9071) and the Senate Map (9062) as well as the alternative offered by the Senate (9066) are very similar. They differ only as to the configuration of certain districts in Central and Southwest Florida. Both the House and Senate have legitimate reasons for preferring their respective configurations. It is a close call, but I find the House Map (9071) preferable to either Senate map.
+First, as to 9062, compactness is slightly better in 9071.
+House Map (9071)
+
+Length
+Perimeter
+Reock
+Convex
+Polsby-
+
+(MILES)
+(MILES)
+
+Hull
+Popper
+District 9
+69
+269
+0.63
+0.87
+0.46
+District 10
+36
+115
+0.49
+0.89
+0.49
+District 11
+84
+332
+0.52
+0.80
+0.33
+District 15
+67
+240
+0.33
+0.76
+0.26
+District 16
+58
+200
+0.64
+0.90
+0.52
+District 17
+118
+416
+0.57
+0.79
+0.46
+AVERAGE
+72.0
+262.0
+0.53
+0.84
+0.42
+
+Senate Map (9062)
+
+Length
+Perimeter
+Reock
+CONVEX
+Polsby-
+
+(MILES)
+(MILES)
+
+Hull
+Popper
+District 9
+78
+293
+0.56
+0.85
+0.39
+District 10
+36
+151
+0.64
+0.85
+0.36
+District 11
+84
+344
+0.53
+0.81
+0.32
+District 15
+66
+206
+0.34
+0.78
+0.34
+District 16
+63
+186
+0.40
+0.81
+0.45
+District 17
+116
+478
+0.61
+0.77
+0.36
+AVERAGE
+73.8
+276.3
+0.51
+0.81
+0.37
+The Senate Map does not divide Sarasota County, while the House Map does, but the Senate Map divides Manatee County, while the House Map does not. The Senate Map was purportedly [**133]  designed to address the perceived "donor" status of Hillsborough County, but it makes no similar effort to address the "donor" status of other counties in the map, and it exacerbated the "donor" status of Orange County.
+The Senate alternative map (9066), referred to as the Galvano Map, was drawn by staff at the request of Senator Galvano in the hopes of addressing some concerns the House had with 9062. It was drawn after the session and thus was not filed, debated, or voted on by the Senate. It splits neither Sarasota nor Manatee County, and thus preserves one more county, but it splits Longboat Key, which straddles the boundary between Sarasota and Manatee Counties. As shown below, it decreases somewhat the visual and numerical compactness of the four districts that differ between it and the House Map.
+House Map (9071)
+
+Length
+Perimeter
+Reock
+Convex
+Polsby-
+
+(MILES)
+(MILES)
+
+Hull
+Popper
+District 9
+69
+269
+0.63
+0.87
+0.46
+District 15
+67
+240
+0.33
+0.76
+0.26
+District 16
+58
+200
+0.64
+0.90
+0.52
+District 17
+118
+416
+0.57
+0.79
+0.46
+AVERAGE
+78.0
+281.3
+0.54
+0.83
+0.43
+
+Galvano Map (9066)
+
+Length
+Perimeter
+Reock
+Convex
+Polsby-
+
+(MILES)
+(MILES)
+
+Hull
+Popper
+District 9
+126
+400
+0.42
+0.86
+0.42
+District 15
+61
+272
+0.50
+0.74
+0.25
+District 16
+56
+209
+0.62
+0.82
+0.44
+District 17
+91
+333 [**134] 
+0.52
+0.77
+0.39
+AVERAGE
+83.5
+303.5
+0.52
+0.80
+0.38
+Although 9066 is an improvement over 9062, I find that the House Map (9071) still compares favorably to it. I also note that the Plaintiffs' proposed maps are aligned with the House Map (9071) relative to these districts and represents their agreement that the proposed House Map is preferable to those proposed by the Senate.
+That does not mean, however, that the Plaintiffs agree that 9071 is constitutionally drawn and best complies with the Court's directions. They do not. I now consider their challenges to 9071 and their proposed alternatives.
+ PLAINTIFFS' CHALLENGES AND THEIR ALTERNATIVE MAPS
+One of the tenets of our adversarial system of justice is that a court should limit itself to a consideration and resolution of disputed issues between the parties before it. In the context of this case, that means that if the parties are in agreement as to any particular district, it is no longer an issue for me to resolve. This conclusion is strengthened by the directions of the Florida Supreme Court to me to recommend one of the maps proposed by the parties or some combination thereof. I am not at liberty to draw something different than what is contained [**135]  within the maps proposed by the parties.
+In this regard, neither the Coalition Plaintiffs nor the Romo Plaintiffs take issue with Districts 1, 2, 3, 4, 5, 6, 7, 8, 12, 13, 14, 18, and 19, as reflected in 9071, 9062 and 9066. These districts are, on the whole, more compact and contain fewer city and county splits than in the 2012 and 2014 legislative maps. The Plaintiffs' proposed maps also contain the same configuration for these districts.
+This group includes Districts 5, 13 and 14—which the Court required to be redrawn. I made inquiry of the witnesses as to District 5 specifically, as it appears still to be one of the least compact of the districts. I was told that the Legislature felt safe with the configuration chosen as it was one previously proposed by the Romo Plaintiffs and referenced with approval in the Court's July 9th Order. Regardless, I have no evidence before me that it could have been drawn more tier two compliant without adversely affecting minority voting rights protected under tier one.
+The Plaintiffs do take issue, however, with Districts 20 through 27. The Plaintiffs complain that Districts 26 and 27 in 9071 were drawn to favor Republicans and disfavor Democrats in [**136]  violation of the tier one prohibition, and that all of the contested districts could have been made more tier two compliant. Romo Plaintiffs also complain that Districts 21 and 22 were drawn to disfavor two Democratic incumbents.
+It appears that the Legislature took appropriate steps to guard against improper partisan influence in the drawing of its base map and in opening up the process of amendments to public scrutiny. Plaintiffs complain that the actual drawing of the base map was not open to the public, nor recorded. Recording the sessions would probably have been a good idea, less so perhaps drawing the map in public. Neither would prevent a map drawer from manipulating lines with a partisan intent. One can research political performance in private. Team members can communicate outside a recorded session.
+And, more importantly, once staff has drawn a base map, individual legislators can easily determine the expected political performance of each district. They can recommend changes which might improve tier two performance somewhat, but motivated by a desire to affect political performance. They might recommend no changes, recognizing that by a happy coincidence the base map had [**137]  the political effect desired.
+In short, there are many opportunities to manipulate the lines of a map for partisan reasons, all the while producing a map that is reasonably compact and appropriately respectful of county and city boundaries. And it is difficult to know, or to prove, that improper intent is involved.
+I remain convinced that the best, if not perfect, way to guard against improper partisan intent in a map is to look closely at any tier two shortcomings and scrutinize the purported reasons for those shortcomings. If there is a way to make a map more tier two compliant without sacrificing tier one requirements, then it should be done. This will result in not only a more compact map that splits less cities and counties, it will go far in minimizing the risk, or the perception, that it was drawn with a partisan intent.
+This difficult issue of intent is complicated here because there is no official legislative map to consider. There is not a single map to approve or disapprove. 9071 was the product of the House, so it is the intent of that chamber that is relevant. And for the most part, 9071 is little changed from the base map prepared by staff-and any changes improved tier two [**138]  compliance. Districts 20-27, which are the ones in dispute, were unchanged. So the intent or motivation of the map drawers takes on particular importance. And I do not find from the evidence that the staff map drawers had a conscious intent to favor or disfavor a political party or incumbent.
+I understand why the Plaintiffs might be suspicious as to Districts 26 and 27. The Florida Supreme Court, in its July 9* Order, found that the Legislature had needlessly split the City of Homestead, thereby turning one Democratic and one Republican district into two Republi-canleaning districts. The proposed map, 9071, which admittedly does not split Homestead, actually enhances the partisan effect in favor of the Republican Party. The irony of the cure being worse than the illness is not lost on me.
+There is also an irony as well, however, in taking great pains to draw a map without any consideration of political performance but with the effect of doing so, which is then considered as evidence of improper partisan intent. The fact that 9071 has the effect of favoring a political party in Districts 26 and 27 is simply not enough to convince me that those districts were drawn with that specific intent. [**139] 
+What does concern me, however, is the shortcomings in the House Map as to tier two requirements. It appears that the map drawers for the Legislature took a very minimalist approach to rectifying the problem identified in Districts 26 and 27. In essence, they drew two versions--one with Homestead in District 26 and one with Homestead in District 27. They then made a cursory analysis to see if it would perform for minorities, compared the tier two metrics of both, and chose the one that was most compact.
+The cursory analysis regarding performance for minorities did not include a comparison against the benchmark district—an analysis necessary to determine whether the configuration unnecessarily packed minorities into one district. They testified that this function would be done by the expert hired by the Legislature for this purpose. It appears, however, that the expert did not make such a comparison to the benchmark district either.
+This approach would not be of such concern if they were at the beginning of the process, enacting the original redistricting map, which would be reviewed for compliance only and with deference given to the Legislature's choices. But that was not the situation [**140]  facing the Legislature. Rather, it had been tasked with preparing a remedial map. It would have the burden of defending its choices in all respects.
+The map drawers and their bosses seemed uninterested in exploring other possible configurations to see if these districts could be drawn more compact and reduce county and city splits. I would think the Legislature would have anticipated questions about improving tier two compliance and have been prepared to respond to such questions by saying they had explored several possibilities, and they chose the most compliant version.
+The Legislature complains that the Plaintiffs did not participate in the open and transparent process of drawing a remedial map. But when the Plaintiffs tried to participate by pointing out what anyone in the Legislature could also have determined—that the new districts were more Republican leaning than before—they are accused of trying to improperly insert political performance into the equations.
+I understand the dilemma faced by the Legislature in that situation. If it has drawn the map without regard to political performance, then it would be improper for it to "correct" the political effect of the map in certain [**141]  districts when someone complains. But if a citizen cannot point out what appears to them to be political gerrymandering in certain districts, without the Legislature shutting down any further consideration of those districts because they would then be "favoring a political party" it is difficult to see how public participation in the process could ever effectively occur. There was no reason why the Legislature could not have taken another look at the South Florida districts, not for political performance but for better tier two compliance, either in response to the Plaintiffs' complaint, or better yet, on its own initiative.
+The Coalition Plaintiffs' map drawer seemed to have no trouble improving tier two compliance considerably. Indeed, CP-1 is hands down the best tier two performing map of the group. As to Districts 20-27 it is more compact and splits fewer cities than any of the others.
+The following charts show the differences in compactness and city splits among the proposed plans:
+SOUTH FLORIDA COMPACTNESS CHART
+Reock Scores
+Convex-Hull Scores
+Perimeter Mileage
+
+9062
+CP-1
+Romo
+9062
+CP-1
+Romo
+9062
+CP-1
+Romo
+
+9066
+
+
+9066
+
+
+9066
+
+
+
+9071
+
+
+9071
+
+
+9071
+
+
+CD20
+.48
+.48
+.48
+.75
+.75
+.75
+360
+387
+360
+CD21
+.37
+.37
+.29
+.64
+.64
+.60
+137
+121
+114
+ [**142] CD22
+.41
+.48
+.18
+.70
+.74
+.64
+150
+119
+205
+CD23
+.27
+.35
+.27
+.63
+.65
+.63
+120
+113
+120
+CD24
+.38
+.47
+.38
+.73
+.77
+.73
+73
+69
+73
+CD25
+.48
+.41
+.48
+.73
+.67
+.73
+363
+361
+363
+CD26
+.18
+.18
+.18
+.46
+.48
+.46
+550
+545
+548
+CD27
+.46
+.54
+.44
+.82
+.85
+.78
+131
+96
+139
+
+.38
+.41
+.34
+.68
+.69
+.67
+1,884
+1,811
+1,922
+
+
+SOUTH FLORIDA SPLIT CITIES
+
+9071,9062,9066
+CP-1
+ROMO
+Split
+15
+8
+18
+Cities
+
+
+
+The Romo Plaintiff's argue that their map is superior, in part, because it corrects what they perceived to be a tier-one violation of targeting incumbents. Professor Ansolabehere testified that two Democratic incumbents live in the panhandle shaped area in the southwest of District 21 in both the Legislative proposal and CP-1. There is insufficient evidence for me to conclude, however, that such was the intent. Accordingly, there is no justification for this less tier-two compliant configuration.
+The Legislature seeks to defend its map against CP-1 by arguing that CP-1 is not visually compact, was drawn with improper partisan intent, and causes retrogression, i.e., diminishes the ability of Hispanics in District 26 to elect a candidate of their choice. As to the argument concerning visual compactness, I suppose that is in the eye of the beholder, but I find CP-1 more visually compact than 9071. And, as noted above, [**143]  its metrics are much better for compactness and it splits less cities.
+On the issue of partisan intent, it is the Legislature that bears the burden of defending its proposed maps, not the Plaintiffs. While evidence that a map drawer might be a partisan or have a bias is certainly relevant, it would not be a reason to automatically reject it. Just as the Legislature could receive input from partisans in its process of drawing a map and give it the weight it felt appropriate, so can I.
+Moreover, I find no evidence to suggest that CP-1 was drawn with improper partisan intent. Mr. O'Neill, Coalition Plaintiffs' map drawer, testified that he strove to draw the most tier-two compliant configuration of South Florida, did not consider political or incumbent data in drawing the maps, and was not given any other direction but to focus on and comply with the requirements of Article III, section 20 and Apportionment VII and to improve compactness and adherence to major roadways where possible. I found him to be straightforward in his testimony, logical in his approach to drawing the districts and persuasive in his conclusions.
+As to the claim that Districts 26 and 27 as drawn in CP-1 would be retrogressive, the Legislature [**144]  presents a two-step argument. First they assert that District 26 in CP-1 weakens the Hispanic vote share in the Democratic primary. This leads to retrogression, they assert, because CP-1 also makes District 26 into a district that will lean Democratic in the general election. If the Hispanic candidate of choice cannot win the Democratic primary, there will be no Hispanic candidate elected in the general election because the Republican Hispanic candidate cannot defeat the Democratic candidate. It is a cogent, logical, argument. The problem is that the argument is much more compelling than the evidence offered in support of it.
+The Plaintiffs' expert, Professor Lichtman, testified via his report. In it, he favorably compared Districts 26 and 27 in CP-1 to districts in both the 2012 congressional plan and 2002 benchmark congressional plan and found no retrogression. Although I did not have the opportunity to judge his demeanor while testifying, his report is persuasive. He systematically analyzed the subject matter with accepted scientific methodologies and found that the Hispanic candidate or Hispanic candidate of choice won 29 out of 29 elections that took place between 2006 and 2014 [**145]  in comparable Miami-Dade County based districts that had similar Hispanic voting age population to the proposed Hispanic districts in CP-1. He also analyzed the 2010 U.S. Senate Election and demonstrated that Marco Rubio, a Hispanic Republican, carried the proposed Hispanic districts in CP-1 by landslide margins.
+And, through ecological regression, Lichtman showed that in CP-l's District 26, for instance, Rubio received an overwhelming 71% of the Hispanic vote (including support from non-Republican Hispanics) and substantial crossover votes from non-Hispanic voters, regardless of the fact that the district performed for the Democratic Gubernatorial Candidate, Alex Sink, in 2010.
+Lichtman concluded that, "according to the range of most pertinent factors, [District 26] in CP-1 is a Hispanic opportunity district beyond any reasonable doubt," and that Districts 25, 26, and 27 in CP-1, CP-2, and CP-3 all function as performing Hispanic districts.
+Defendants find fault with his conclusions, asserting that he did not address the effect that a smaller Hispanic vote share in the Democratic primary would have in a district that is now more Democratic leaning. In fact, we don't know if he considered [**146]  this particular factor. His testimony (via his report) was that he considered "not only the Hispanic demography in the districts, but such additional factors as Hispanic registration, turnout, and candidate voting: the electoral history of congressional, state senate, and state house districts with comparable Hispanic demographics; and the electoral history of the only recent statewide Hispanic candidate in Florida (Rubio in the 2010 general election for U.S. Senate)." He was present at the hearing and available for cross examination about his methods and conclusions. He could have been asked about this specific concern, but the Defendants chose not to do so.
+The experts for the Legislature on this issue were less persuasive. Professor Liu opined that African Americans and Hispanics do not vote as a coalition in South Florida. Intuitively, this makes sense, but the data he used to draw his conclusions from was suspect. Of the ten elections he analyzed, only six involved Hispanic candidates and three of those were non-partisan judicial races. He could not identify any election in which a coalition of African Americans and non-Hispanic whites effectively defeated the Hispanic candidate [**147]  of choice, except for a non-partisan judicial race involving a challenge to a sitting county judge. I did not find this expert testimony to be particularly helpful.
+Professor Moreno, who no doubt has a good bit of knowledge and expertise about elections in South Florida, testified to his concerns that the CP-1 configuration would diminish the ability of Hispanics to elect a candidate of their choice. His testimony was long on pure opinion based on experience and short on systematic, scientific analysis of accepted statistical data. More troublesome is that, for whatever reason, he based his opinion on a comparison between CP-1 and the House proposed map (9071), not the Benchmark Map of 2002, or even the enacted Map of 2012. Moreover, his concern was for the future—what might happen. Given the legal test for retrogression, and the speculative nature of his testimony, his opinion had little probative value to me.
+The undisputed political data provides some support for both sides on this issue. In the last three presidential and gubernatorial elections the district has leaned Democratic. While the benchmark district also leaned Democratic, District 26 is 1.1 % more Democratic in its partisan [**148]  performance on average.1 
+BENCHMARK DISTRICT 18 POLITICAL PERFORMANCE
+
+Democrat Vote Share
+Republican Vote Share
+2012 President
+54.8% (Obama)
+45.2% (Romney)
+2010 Governor
+49.2% (Sink)
+50.8% (Scott)
+2008 President
+51.0% (Obama
+49.0% (McCain)
+Average
+51.7%
+48.3%
+
+CP-1 DISTRICT 26 POLITICAL PERFORMANCE
+
+Democrat Vote Share
+Republican Vote Share
+2012 President
+55.8% (Obama)
+44.2% (Romney)
+2010 Governor
+50.7% (Sink)
+49.3% (Scott)
+2008 President
+51.8% (Obama
+48.2% (McCain)
+Average
+52.8%
+47.2%
+The Hispanic demographic and political data also show that in many metrics CP-1 is actually stronger than benchmark District 18. However, when it comes to control of the Democratic primary, Hispanics made up only 22.8% of the Democratic primary electorate in 2010, compared to 26.7% in Benchmark District 18.2  The fact that this erosion of Hispanic control of the [**149]  Democratic primary comes in a district that is also the most Democratic in its general election performance gives me some pause in accepting Professor Lichtman's conclusions. I am mindful that "[c]ircumstances, such as differing rates of electoral participation within discrete portions of a population, may impact on the ability of voters to elect candidates of choice . . ." In re Senate Joint Resolution of Legislative Apportionment 1176, 83 So. 3d 597, 625 (Fla. 2012).
+BENCHMARK HISPANIC PERFORMANCE METRICS
+
+Hisp.%
+Hisp.% Reg
+Hisp.% of
+Hisp.% of
+Hisp.%
+Hisp.% of
+Hisp.%
+
+Voting Age
+Voters
+Dems
+Reps.
+General
+Dem.
+of Rep.
+
+Pop.
+
+
+
+
+
+
+Turnout
+Primary
+Primary
+
+
+
+
+
+
+
+
+
+
+Turnout
+Turnout
+
+2010
+2010
+2012
+2010
+2012
+2010
+2012
+2010
+2012
+2010
+2010
+CD
+67.18
+51.7
+52.7
+40.5
+43.3
+62.9
+62.5
+49.8
+51.8
+26.7
+66.4
+18
+
+
+
+
+
+
+
+
+
+
+
+CD
+77.12
+61.9
+64.0
+47.6
+50.8
+73.3
+74.3
+58.7
+63.2
+28.9
+76.5
+21
+
+
+
+
+
+
+
+
+
+
+
+CD
+72.22
+59.2
+61.3
+49.2
+51.9
+65.8
+66.7
+54.7
+59.7
+29.6
+63.0
+25
+
+
+
+
+
+
+
+
+
+
+
+
+CP-1 HISPANIC PERFORMANCE METRICS
+
+Hisp.%
+Hisp.% Reg
+Hisp.% of
+Hisp.% of
+Hisp.%
+Hisp.% of
+Hisp.%
+
+Voting Age
+Voters
+Dems
+Reps.
+General
+Dem.
+of Rep.
+
+Pop.
+
+
+
+
+
+
+Turnout
+Primary
+Primary
+
+
+
+
+
+
+
+
+
+
+Turnout
+Turnout
+
+2010
+2010
+2012
+2010
+2012
+2010
+2012
+2010
+2012
+2010
+2010 [**150] 
+CD
+75.0
+59.8
+62.6
+55.2
+59.8
+61.0
+61.7
+61.7
+60.0
+60.0
+56.8
+25
+
+
+
+
+
+
+
+
+
+
+
+CD
+68.3
+54.7
+56.5
+42.5
+45.0
+64.7
+65.5
+50.3
+55.0
+22.8
+62.4
+26
+
+
+
+
+
+
+
+
+
+
+
+CD
+69.2
+54.5
+55.6
+40.9
+43.6
+67.1
+67.1
+52.4
+55.1
+26.0
+71.4
+27
+
+
+
+
+
+
+
+
+
+
+
+However, applying the retrogression analysis employed by the Court in Apportionment I, the vast majority of the factors show that District 26 in CP-1 is not retrogressive. The district Hispanic voting age population of 68.3 % and Hispanics comprise 54.7 % of registered voters. In 2010, Hispanics comprised 50.3 % of the general election electorate. In South Florida elections with similar demographic statistics, Hispanics have consistently elected the candidate of their choice. Weighing all the evidence presented on the issue, I am not convinced that the deviations as noted above will deprive Hispanic voters of their ability to elect a candidate of choice in District 26, as drawn in CP-1.
+The Legislature has thus not met its burden of justifying the proposed versions of Districts 20 through 27 in Plans 9062, 9066, and 9071. Districts 20 through 27 in CP-1 are, on the whole, more compact and split fewer cities than in Plans 9062, 9066, and 9071 or the Romo Plan, without running afoul of tier one requirements. CP-1 best complies with the directions [**151]  in Apportionment VII and the requirements of Article III, section 20. I therefore recommend its adoption.
+DONE AND ORDERED this 9th day of October, 2015.
+/s/ Terry P. Lewis
+Terry P. Lewis
+Circuit Judge
+Concur by: PERRY; CANADY (In Part)  
+Concur
+
+
+
+
+PERRY, J., concurring.
+While I concur fully with my colleagues in the majority, I write separately to provide the context in which we make this decision. What concerns me are line-drawers who create districts for political advantage, but disingenuously cloak their explanations in the language of protecting minority voting rights. Cf. In re Senate Joint Resolution of Legislative Apportionment 1176 (Apportionment I), 83 So. 3d 597, 692-93 (Fla. 2012) (Perry, J. concurring). This course of action is antithetical to the Fair Districts Amendment and the basic principles of democratic self-governance. Neither our constitution nor the Voting Rights Act implicitly condones or justifies the practice.
+As explained by the United States Supreme Court, the [Voting Rights Act] "was designed by Congress to banish the blight of racial discrimination in voting," South Carolina v. Katzenbach, 383 U.S. 301, 308, 86 S. Ct. 803, 15 L. Ed. 2d 769 (1966), and to help effectuate the Fifteenth Amendment's guarantee that no citizen's right to vote shall "be [**102]  denied or abridged . . . on account of race, color, or previous condition of servitude." Voinovich v. Quilter, 507 U.S. 146, 152, 113 S. Ct. 1149, 122 L. Ed. 2d 500 (1993) (quoting U.S. Const. amend. XV).
+Id. at 621.
+Historically, the Voting Rights Act protected minority voters from attempts to dilute their voting power. Enacted in 1965, it sought to eliminate traditional disenfranchisement mechanisms like literacy tests. See Pub. L. No. 89-110, 79 Stat. 437 (1965). In response, states turned to "second-generation barriers"—the principal tool being the gerrymandering of voting districts. See Shelby Cnty., Ala. v. Holder, 133 S. Ct. 2612, 2634-35, 186 L. Ed. 2d 651 (2013) (Ginsburg, J., dissenting). Courts invalidated the most blatant racial gerrymanders as unconstitutional violations of the right to vote. See Gomillion v. Lightfoot, 364 U.S. 339, 348, 81 S. Ct. 125, 5 L. Ed. 2d 110 (1960); see, e.g., League of United Latin American Citizens v. Perry, 548 U.S. 399, 126 S. Ct. 2594, 165 L. Ed. 2d 609 (2006) (holding that a congressional district violated the Voting Rights Act's prohibition on election practices or procedures with a discriminatory effect); Allen v. Va. State Bd. of Elections,  [*299]  393 U.S. 544, 565, 89 S. Ct. 817, 22 L. Ed. 2d 1 (1969) (holding that the preclearance provisions of the Voting Rights Act apply to redistricting changes).
+In the decades that followed, minority Democrats and white Republicans often formed alliances during redistricting sessions.17  Under the guise of protecting minority voters, line-drawers would group large numbers of minority voters into small numbers of districts, a practice known as "packing." See, e.g., Voinovich v. Quilter, 507 U.S. 146, 153-54, 113 S. Ct. 1149, 122 L. Ed. 2d 500 (1993). Consequently, [**103]  the surrounding districts contained very few minority voters, an effect known as "bleaching." See Pamela S. Karlan, The Fire Next Time: Reapportionment After the 2000 Census, 50 Stan. L. Rev. 731, 740 (1998). Minority Democrats and white Republicans who supported these plans increased the reelection prospects for individuals in both groups: minority Democrats ran in districts replete with like-minded minority voters, while white Republicans ran in districts replete with like-minded white voters. See, e.g., Hays v. Louisiana, 839 F. Supp. 1188, 1205 n.54 (W.D. La. 1993) ("Testimony at the trial revealed that [the redistricting plan] was passed by a legislative alliance between the Black and the Republican Caucuses, historically uncommon bedfellows but, according to expert testimony, a phenomenon occurring with increasing frequency across the country."), vacated, 512 U.S. 1230, 114 S. Ct. 2731, 129 L. Ed. 2d 853 (1994).
+To understand the effect on the redistricting process, consider the example of State X, a small state comprised of fifty people. Thirty people belong to the Orange party and twenty people belong to the Purple party. The state's line-drawers must divide the state into five congressional [**104]  districts. Drawing the lines one way—in this case, vertically down the state—results in Orange winning 60% of the seats, and Purple winning 40% of the seats—an identical reflection of the partisan components of the state.
+Now assume that the line-drawers are controlled by the Purple party. Knowing that their party is numerically disadvantaged, population-wise, the Purple line-drawers divide the state in an unwieldy manner, such that Purple wins 60% of the seats (despite support from only a 40% minority of the people) and Orange wins 40% of the seats (despite support from a 60% supermajority of the people).18 
+  [*300]  Proportionate Representation
+
+3 Orange districts, 2 Purple districts
+Compact but Disproportionate
+
+5 Orange districts, 0 Purple districts
+Neither Compact nor Proportionate
+
+2 Orange districts, 3 Purple districts
+When the legislature draws congressional districts and a single party controls both legislative chambers, the party has unfettered power in the redistricting process. [**105]  Partisan-controlled legislatures often create redistricting plans that ensure the controlling members' party is disproportionately represented in the state's congressional delegation in comparison to the actual political makeup of the state. In exchange for working with the controlling party, the incumbents from the non-controlling party practically ensure their own reelections.
+This Court is uniquely aware of how closely divided Florida's electorate can be. See Gore v. Harris, 772 So. 2d 1243, 1247 n.4 (Fla. 2000), rev'd, Bush v. Gore, 531 U.S. 98, 121 S. Ct. 525, 148 L. Ed. 2d 388 (2000); see also Porter v. Bowen, 496 F.3d 1009, 1012 (9th Cir. 2007) (describing Florida as a "swing state"). Florida's political dead heat suggests that its members of Congress should be split relatively evenly between the two parties. Yet, the Republican Party holds a virtual supermajority. The Republican political advantage is, in large part, a result of the party's influence on the redrawing of boundary lines. However, "[t]he desire of a political party to provide its representatives with an advantage in reapportionment is not a Republican or Democratic tenet, but applies equally to both parties." Apportionment I, 83 So. 3d at 615; In re Senate Joint Resolution 2G, Special Apportionment Session 1992, 597 So. 2d 276, 285 (Fla. 1992) ("[S]everal of the opponents observe that the Joint Resolution is nothing more than a gerrymandering effort by the Democratic majority of the legislature [**106]  to protect Democratic incumbents. We have little doubt that politics played a large part in the adoption of this plan.") (footnote omitted).
+The people of this great state passed a constitutional amendment seeking to address the errors of the past. See Apportionment I, 83 So. 3d at 597. Floridians voted to add these new redistricting mandates,  [*301]  and they "could not have spoken louder or with more clarity." Id. at 695 (Perry, J., concurring). "The Florida Constitution now expressly prohibits what the United States Supreme Court has in the past termed a proper, and inevitable, consideration in the apportionment process." Id. at 616 (citations omitted). Specifically, the Fair Districts Amendment prohibits lines "drawn with the intent or result of denying or abridging the equal opportunity of racial or language minorities to participate in the political process or to diminish their ability to elect representatives of their choice." Art. III, § 20(a), Fla. Const. In other words, "the standards governing the . . . apportionment process are now more stringent than the requirements under the United States Constitution and prior versions of the Florida Constitution." Apportionment I, 83 So. 3d at 604. Despite this populous mandate, those who were elected to represent the interests of the citizenry instead chose to use the undeniably [**107]  gerrymandered 2002 map as the starting point and then opted to make as few changes as possible to create maps that could pass constitutional muster.
+After more than three years of litigation and appeals, even with clear instruction from this Court, League of Women Voters of Florida v. Detzner, 172 So. 3d 363, 372 (Fla. 2015), there is criticism that the representatives of the people have spent more than $10 million in taxpayer dollars19  and have failed to pass a single constitutionally-sound plan. It now falls to this Court to provide the Supervisors of Elections with a constitutionally compliant map.
+Judge Lewis has worked tirelessly and diligently below to do just that. The efforts to paint this process as partisan or invoke the antebellum period are an unjustified attack on the integrity of our judicial system. Had those who were elected by the people heeded their electorate, our involvement would never have been required.
+As it stands, once adopted, the plan we approve today increases the number of districts where minorities, both racial and ethnic, will have the opportunity to elect the representatives of their choice. The boundaries [**108]  may have changed, but the purpose and goal of the Voting Rights Act and Florida's Fair Districts Amendment have been better met under this plan.
+I understand that it is nearly impossible to remove politics from an inherently political process, and both parties have had the advantages of drawing the lines at some point in history. However, this Court is constitutionally required not to protect any individual incumbent, but to protect the interests of each individual voter. To do otherwise would be contrary to the democratic principles embodied in our constitution.
+Originally, the right to vote was limited to white male landowners. Others had to fight and die for the privilege to be extended to them. It is an insult to their struggle for politicians to now use that sacrifice for personal benefit. The Florida Constitution protects the ability of minority communities to elect representatives of their choice. See art. III, § 20, Fla. Const. That protection belongs to the minority community—not to the incumbents they choose to elect.
+QUINCE, J., concurs.
+Dissent by: CANADY (In Part); POLSTON  
+Dissent
+
+
+
+
+ [*302]  CANADY, J., concurring in part and dissenting in part.
+I disagree with the decision to reject the configuration of Districts 20 through 27 contained in the House and Senate plans. I would approve Districts [**109]  20 through 27 of the House and Senate plans because those districts meet the requirements of Apportionment VII and result in no new constitutional violations. Regarding the configuration of the six central and southwest Florida districts on which the House and Senate plans did not agree, I would adopt the Galvano plan. Finally, I agree with the approval of the configuration of the remaining redrawn districts contained in the House and Senate plans.
+The majority's decision suffers from two fundamental flaws. First, as Justice Polston has explained in greater detail, the majority has failed to examine the intent involved in drawing CP-1 and thus has failed to carry out the mandate of the Fair Districts Amendment. Second, the majority has imposed a morphing remedy by requiring additional changes that go beyond those mandated in Apportionment VII. The first error constitutes a clear departure from the express mandate of the Fair Districts Amendment. The second error has imposed a fundamentally unfair burden on the Legislature, a burden that no litigant could reasonably be expected to meet.
+ The Majority's Failure to Examine the Intent of CP-1
+Justice Polston correctly concludes that the majority seriously errs in approving a redistricting plan that has never [**110]  been judicially examined to determine whether it violates the constitutional prohibition of redistricting plans "drawn with the intent to favor or disfavor a political party or incumbent."20  It is axiomatic that replacing one partisan redistricting plan with another partisan redistricting plan does not satisfy the requirements of the Fair Districts Amendment. Yet the majority's analysis here—as in Apportionment VII—rejects that fundamental point.
+ The Majority's Morphing Mandate
+Apportionment VII held that the 2014 remedial plan for certain districts was constitutionally defective in particular ways and directed that those specific defects be corrected. Under the mandate of Apportionment VII, it is appropriate to require that the Legislature meet the burden of showing that redrawn districts comply with the directions contained in that decision. And it is appropriate to require that the redrawing of districts be accomplished in a way that avoids [**111]  new constitutional violations. But the trial court and the majority have gone far beyond imposing those reasonable requirements on the Legislature. In rejecting the configuration of Districts 20 through 27 contained in the House and Senate plans, the trial court and the majority have imposed a requirement to make additional changes that were not required by Apportionment VII without any showing that the districts drawn in the House and Senate plans resulted in new constitutional violations.
+The Court thus has effectively imposed a morphing remedy, and the Legislature has confronted the confounding challenge of hitting a target that has been moved after the House and Senate have acted. Whenever a court moves the goalposts on any litigant, the specter of arbitrary judicial action is likely to arise. The resulting  [*303]  harm is compounded when the affected litigant is a coordinate branch of government.
+Although I do not suggest that the majority intends to act arbitrarily, I cannot avoid the conclusion that the deeply flawed approach adopted here—as in Apportionment VII—does serious harm to the judicial process. The result of the daunting burden placed on the Legislature is that the challengers—whose [**112]  motivations have been immune from scrutiny—have been virtually guaranteed to prevail in obtaining the approval of a map that suits them. It is highly problematic that the non-transparent process used to produce CP-1 thus has been allowed to trump the process in the Legislature that was implemented after Apportionment VII was handed down.
+ Districts 26 & 27
+In Apportionment VII, the Court directed that Districts 26 and 27 "must be redrawn to avoid splitting Homestead." 172 So. 3d at 410. The districts drawn in the House and Senate plans unquestionably comply with that direct and unambiguous requirement. In those plans, Homestead lies wholly within District 26. The trial court expressly declined to find that Districts 26 and 27 in the House and Senate plans were drawn with "improper partisan intent." And there is no suggestion that the districts drawn by the House and Senate created other new constitutional violations.
+Nevertheless, the trial court and the majority reject Districts 26 and 27 in the House and Senate plans on the ground that tier-two compliance would be improved by the configuration of the districts in CP-1. The majority, like the trial court, focuses on superior compactness. But as shown [**113]  in the majority's chart comparing the statistical compactness measurements for Districts 26 and 27 in the House and Senate plans with CP-1, the improvements in compactness obtained by CP-1 can only be described as minor. See majority op. at 53. More importantly, in Apportionment VII, the Court did not hold that Districts 26 and 27 were flawed because of a lack of compactness. And the statistical compactness measurements relied on by the majority show that the compactness of Districts 26 and 27 as redrawn by the Legislature is virtually indistinguishable from the compactness of those districts in the 2014 remedial plan.
+
+Reock
+Convex Hull
+Polsby-
+
+
+
+
+
+Popper
+District
+26
+27
+26
+27
+26
+27
+Legislature
+.18
+.46
+.46
+.82
+.20
+.43
+Remedial Plan
+.18
+.46
+.46
+.81
+.20
+.43
+So a level of compactness that was no problem when the Court reviewed the 2014 remedial plan has now become a basis for rejecting the configuration agreed on by the House and Senate for Districts 26 and 27.
+The majority also relies on the splitting of the city of Hialeah between Districts 25 and 27 as a basis for rejecting the configuration chosen by the House and Senate. The majority prefers CP-1, which does not split the city of Hialeah. But, as with the issue [**114]  of compactness, the splitting of Hialeah was not an issue in the Court's invalidation of districts in the 2014 remedial plan—a plan that also split Hialeah. So a particular city split that was not disapproved in the 2014 remedial plan is now condemned and cited as a basis to reject  [*304]  districts approved by the House and Senate that comply with the Court's direction in Apportionment VII.
+I strongly disagree with moving the goalposts in this manner. Because Districts 26 and 27 in the House and Senate plans comply with the requirements imposed by Apportionment VII and create no additional constitutional violations, I would conclude that those districts should be approved.
+ District 25
+In Apportionment VII, the Court held that "District 25 must be redrawn to avoid splitting Hendry County." 172 So. 3d at 411. The House and Senate plans eliminated the split, keeping all of Hendry County in District 25. But, once again, compliance with the unambiguous directive contained in Apportionment VII is not enough for the majority. The House and Senate are faulted for not taking additional steps to improve the tier-two performance of districts other than District 25, although Apportionment VII did not impose any general [**115]  requirement to make such improvements.
+Again, the trial court and the majority focus on statistical measures of compactness, but the numbers do not show that CP-1 has realized anything more than de minimis improvements in compactness. See majority op. at 65-66. More to the point, as shown in the chart below, the configuration in the House and Senate plans for Districts 20 through 27—compared with the 2014 remedial plan—has enhanced compactness in certain districts and has not diminished compactness overall.
+District
+20
+21
+22
+23
+24
+25
+26
+27
+Reock
+Legislature
+.48
+.37
+.41
+.27
+.38
+.48
+.18
+.46
+Remedial Plan
+.48
+.28
+.18
+.27
+.38
+.40
+.18
+.46
+Convex Hull
+Legislature
+.75
+.64
+.70
+.63
+.73
+.73
+.46
+.82
+Remedial Plan
+.74
+.60
+.61
+.57
+.73
+.73
+.46
+.81
+Polsby-Popper
+Legislature
+.20
+.24
+.15
+.25
+.28
+.38
+.20
+.43
+Remedial Plan
+.22
+.26
+.13
+.23
+.28
+.32
+.20
+.43
+I would conclude that the House and Senate plans comply with the requirements of Apportionment VII regarding the redrawing of District 25, and have done so without creating any new constitutional violations.
+ Districts 21 & 22
+In Apportionment VII, the Court invalidated Districts 21 and 22 and directed that they be redrawn "with the understanding that tier-two compliance could be improved." 172 So. 3d at 413. Although the Court declined [**116]  to "instruct that the Legislature must necessarily redraw the districts in a 'stacked,' horizontal configuration," the Court relied on testimony by the House's chief map drawer that a stacked "configuration would have been more compact and would have broken fewer political boundaries." Id. at 412. The Court also referred to a draft House map showing such a stacked configuration. Id. at 411.
+The House and Senate plans adopted a stacked configuration for Districts 21 and 22. As shown in the preceding chart, that configuration did make improvements to the compactness of the two districts. In addition, city splits were reduced from a  [*305]  total of 15 to 11, and one county split was eliminated. Nonetheless, these districts in the House and Senate plans are rejected in large part because of what the majority identifies as a "visually bizarre appendage that stretches down I-95 through the middle of District 21, splitting three cities in the process." Majority op. at 66. The appendage is a portion of minority District 20. Although the appendage now dooms Districts 21 and 22 in the House and Senate plans, the appendage was never an issue in Apportionment VII. Indeed, the appendage is a prominent feature of the map the [**117]  Court referred to in Apportionment VII as an example of how a stacked configuration could improve the tier-two performance of Districts 21 and 22. It is ironic that the Legislature is now faulted for failing to remove the same appendage contained in a map cited by the majority to show the potential for improvement in the 2014 remedial plan. The majority's mandate morphs once more.
+I would conclude that the House and Senate plans comply with the mandate of Apportionment VII regarding Districts 21 and 22, and do so in a way that does not result in new constitutional violations.
+ Central and Southwest Florida Districts
+I agree with the majority that none of the three plans under consideration for the six central and southwest Florida districts "has a meaningful advantage with respect to compactness," majority op. at 78, and that all of the plans comply with the requirements of the Florida Constitution. Given the absence of legislative agreement on those districts, I would conclude that on balance the Galvano plan is marginally superior because it avoids splitting either Manatee or Sarasota Counties.
+ Conclusion
+Accordingly, I would reverse the portion of the trial court's order adopting the [**118]  configuration of Districts 20 through 27 in CP-1 and instead adopt the configuration in the House and Senate plans. I would also reverse the portion of the trial court's order regarding the six central and southwest Florida districts and instead adopt the Galvano plan. I would affirm the trial court's order approving the remaining districts contained in the House and Senate plans.
+POLSTON, J., dissenting.
+This is a Court-adopted map, not a legislative-drawn map. The map the trial court recommended and the majority adopts was drawn by a Democratic consulting firm, a firm that has performed mapping and data analysis for numerous Democratic candidates and causes. Although the majority invalidated a prior plan lawfully enacted by Florida's elected legislators on the basis of Republican operatives' attempts to influence the legislative mapmaking process, it judicially adopts a remedial plan drawn entirely by Democratic operatives. The Coalition Plaintiffs even stated in oral argument (and the majority apparently agrees)21  that, if the remedial plan had been drawn by the Democratic National Committee itself, the outcome would be the same. Not only is this result ironic,22  it is an unconstitutional [**119]  violation of the Fair Districts Amendment (as interpreted  [*306]  previously by the majority) and the separation of powers. I dissent.
+The Fair Districts Amendment to Florida's constitution provides that "[n]o apportionment plan or individual district shall be drawn with the intent to favor or disfavor a political party or an incumbent." Art. III, § 20(a), Fla. Const. And, in League of Women Voters of Florida v. Detzner (Apportionment VII), 172 So. 3d 363, 392 (Fla. 2015) (quoting trial court order), a majority of this Court invalidated the legislatively enacted plan because "'circumstantial evidence introduced at trial' [proved] that the political operatives 'obtain[ed] the necessary cooperation and collaboration' from the Legislature to ensure that the 'redistricting process and the resulting map' were 'taint[ed]' with 'improper partisan intent.'" The majority's list of evidence establishing improper intent primarily consisted of the Legislature's destruction of its communication records relating to redistricting in accordance [**120]  with its previously established records retention policies as well as e-mails between Republican consultants indicating the consultants' desire to submit map proposals anonymously and to influence the legislative process. See id. at 381-85, 390-91.
+There is much stronger and more direct evidence of partisan "infiltration" regarding the map that this Court is currently adopting than the evidence of partisan "infiltration"23  that this Court found unconstitutional previously. Here, the Coalition Plaintiffs filed a notice in the trial court actually acknowledging that the map they proposed as CP-1 (and that the majority is adopting in its entirety)24  was drawn by a mapping software employee of a Democratic consulting firm headquartered in Washington, D.C. Of course, who knows what additional evidence of improper partisan intent would have surfaced if this Court had permitted the same discovery regarding this mapmaking process that it permitted regarding the legislative mapmaking process. And, although the trial court found "no evidence to suggest that CP-1 was drawn with improper partisan intent," this lack of evidence in the record is due to the fact that the majority of this Court expressly prohibited any discovery [**121]  regarding the maps proposed by the non-legislative parties. See League of Women Voters of Fla. v. Detzner, No. SC14-1905, Order at 4 (Fla. Sup. Ct. order filed Sept. 4, 2015) ("The Court further denies the House's motion to the extent it seeks any discovery."); cf. League of Women Voters of Fla. v. Fla. House of Reps., 132 So. 3d 135 (Fla. 2013) (holding —I believe improperly—that legislative privilege does not prevent broad and invasive discovery regarding the legislative process, including depositions of legislators and legislative staff, legislative communications, documents, testimony, etc., to test whether legislative map was drawn with partisan intent). However, even without discovery, the knowledge that a Democratic political operative actually drew CP-1 should prevent  [*307]  this Court's adoption of CP-1 under this Court's decision in Apportionment VII.
+The majority emphasizes the burden of proof it outlined in Apportionment VII, repeatedly stating that the burden has shifted and that the Legislature must now demonstrate that the remedial map it enacted is constitutional. But the Legislature did not actually enact a map. The House passed a map, and the Senate passed a different map and also submitted a third distinct map. It is unclear how the Legislature could possibly bear the burden of establishing that something it did not enact is constitutional. In reality, without the plaintiffs even alleging any tier-two violations of the constitution with respect to the legislative proposals, the majority is requiring the Legislature to establish that the one House map and the two Senate maps are "objectively better" (as judged [**123]  by the majority) in meeting tier-two requirements than a map that was never submitted to the Legislature for consideration. See majority op. at 62, 65, 68, 71, 79; cf. Beaubien v. Ryan, 198 Ill. 2d 294, 762 N.E.2d 501, 505, 260 Ill. Dec. 842 (Ill. 2001) ("Where, as here, challengers to a redistricting plan allege that districts formulated by the Commission fail to meet our constitution's compactness requirement, the applicable burden of proof requires those challengers to establish that the plan is against the manifest weight of the evidence."). In other words, the majority unlawfully imposes a burden on the Legislature to prove matters of judicial preference regarding compactness, unrelated to constitutional deficiencies. This inapposite burden of proof allows CP-1 to go untested.
+Given that this is now a judicial process to adopt a court redistricting plan, we should at the very least ensure that the proposal we adopt passes constitutional muster. See Maestas v. Hall, 2012 - NMSC 006, 274 P.3d 66, 79 (N.M. 2012) (remanding state court adopted redistricting plan for reconsideration because it "did not undergo the same scrutiny for partisan bias that the majority of the plans that were previously considered had undergone"). And each party submitting a proposal to the court for consideration should be the party that bears the [**124]  burden to establish that its proposal is constitutional. See Philip J. Padavano, Florida Civil Practice §16:1 (2015 ed.) ("Generally, the burden of proof is on the party who asserts the proposition to be established."). Instead, the Coalition Plaintiffs are having their proposed CP-1 map adopted in its entirety without sustaining any burden whatsoever in these judicial proceedings. I am unaware of any other legal process where this has been permitted. Furthermore, this is contrary to the United States Supreme Court's direction that when "'faced with the necessity of drawing district lines by judicial order, a court, as a general rule, should be guided by the legislative policies underlying' a state plan—even one that was itself unenforceable—'to the extent those policies do not lead to violations of the Constitution or the Voting Rights Act.'" Perry v. Perez, 565 U.S. 388, 132 S. Ct. 934, 941, 181 L. Ed. 2d 900 (2012) (quoting Abrams v. Johnson, 521 U.S. 74, 79, 117 S. Ct. 1925, 138 L. Ed. 2d 285 (1997)).
+Additionally, the majority many times declares that today's opinion marks the end point of state litigation, but then remands the case back to the trial court to enter a final judgment. I guess it is not really the end. In this procedural posture, the trial court acted as a special master by conducting evidentiary proceedings and making [**125]  a recommendation to this Court. The map is this Court's final judgment, not the trial court's, and it should rule accordingly.
+ [*308]  Because the majority imposes an improper burden upon the Legislature and fails to consider whether the map it adopts passes constitutional muster, I respectfully dissent. I also dissent because of the majority's "morphing mandate," as described by Justice Canady.
+
+ 
+
+End of Document

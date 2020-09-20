@@ -1,0 +1,68 @@
+
+  CautionAs of: September 19, 2020 9:08 PM Z
+State v. Otto
+Supreme Court of Minnesota
+July 26, 2017, Filed
+A15-1454
+
+Reporter
+899 N.W.2d 501 *; 2017 Minn. LEXIS 434 **; 2017 WL 3161109
+ State of Minnesota, Respondent, vs. Travis Richard Otto, Appellant.  
+Prior History:  [**1] Court of Appeals.
+State v. Otto, 2016 Minn. App. Unpub. LEXIS 691 (Minn. Ct. App., July 18, 2016)  
+Disposition: Sentence vacated; remanded.
+  
+Syllabus
+
+
+
+
+1. A person convicted of a controlled substance offense for which the controlled substance weight threshold was increased by section 3 of the Drug Sentencing Reform Act before his conviction was final is not entitled to have the conviction reversed.
+2. The amelioration doctrine requires the resentencing of a person whose conviction was not yet final on the effective date of section 18(b) of the Drug Sentencing Reform Act.
+Counsel: Lori Swanson, Attorney General, Saint Paul, Minnesota; and Kathleen A. Heaney, Sherburne County Attorney, Tim Sime, Assistant County Attorney, Elk River, Minnesota, for respondent. 
+Cathryn Middlebrook, Chief Appellate Public Defender, Jessica Merz Godes, Assistant Public Defender, Saint Paul, Minnesota, for appellant. 
+Daniel J. Koewler, Ramsay Law Firm, P.L.L.C., Roseville, Minnesota, for amicus curiae Minnesota Association of Criminal Defense Lawyers. 
+Robert Small, Executive Director, Minnesota County Attorneys Association, Saint Paul, Minnesota; and Phillip D. Prokopowicz, Chief Deputy Dakota County Attorney, Hastings, Minnesota, for amicus curiae Minnesota County Attorneys Association.  
+Judges: Lillehaug, J. Concurring in part and dissenting in part, Anderson, [**2]  J., Gildea, C.J., Stras, J.  
+Opinion by: LILLEHAUG  
+Opinion
+
+
+
+
+ [*502]  LILLEHAUG, Justice.
+Appellant Travis Richard Otto was sentenced to 135 months in prison for first-degree possession of methamphetamine, Minn. Stat. § 152.021, subd. 2(a)(1) (2014). While his case was on appeal, the Drug Sentencing Reform Act (DSRA) took effect. See Act of May 22, 2016, ch. 160, 2016 Minn. Laws 576. The DSRA reduced the presumptive sentencing range under the Minnesota Sentencing Guidelines drug offender sentencing grid, and increased the controlled substance weight threshold for Otto's crime. Otto asks that we either reverse his conviction or vacate his sentence and remand his case for resentencing under the DSRA-amended sentencing grid.
+ FACTS
+On August 1, 2013, Otto was arrested with five baggies of suspected methamphetamine after crashing his vehicle into an electrical pole. Two of the baggies were tested and contained "over 29 grams" of methamphetamine. He was charged with first-degree possession of methamphetamine and fourth-degree driving while impaired. Otto waived his right to a jury trial, and the district court found him guilty of both charges.
+The case proceeded to sentencing. Otto had a criminal history score of 12. Under the Minnesota Sentencing Guidelines in [**3]  effect at the time of Otto's offense, his presumptive sentencing range was 135 to 189 months. See Minn. Sent. Guidelines 4.A (2013). On June 11, 2015, the district court sentenced Otto to 135 months in prison for first-degree possession of methamphetamine.
+Otto appealed. He raised three issues before the court of appeals, asserting that law enforcement officials: (1) detained him without reasonable suspicion; (2) impermissibly expanded the scope of their search; and (3) coerced him into providing a warrantless blood sample. While Otto's appeal was pending, the Legislature passed, and the Governor signed, the DSRA, which reduced the presumptive sentencing range for Otto's offense from  [*503]  135 to 189 months to 107 to 150 months. See Act of May 22, 2016, ch. 160, 2016 Minn. Laws at 576-92; Minn. Sent. Guidelines 4.C (2016). The court of appeals affirmed Otto's controlled-substance conviction.1  State v. Otto, No. A15-1454, 2016 Minn. LEXIS 632, 2016 WL 3884412 (Minn. App. filed July 18, 2016). We granted review to decide whether his conviction should be reversed and whether he is entitled to be resentenced under the sentencing grid as amended by the DSRA.
+ ANALYSIS
+As discussed in State v. Kirby, No. A15-0117, 899 N.W.2d 485, 2017 Minn. LEXIS 435 (Minn. July 26, 2017) [**4] , also filed today, the issues before us are controlled by the amelioration doctrine. Under that doctrine, an amended criminal statute applies to crimes committed before its effective date if: (1) there is no statement by the Legislature that clearly establishes its intent to abrogate the amelioration doctrine; (2) the amendment mitigates punishment; and (3) final judgment has not been entered when the amendment takes effect. See id.; Edstrom v. State, 326 N.W.2d 10 (Minn. 1982); State v. Coolidge, 282 N.W.2d 511 (Minn. 1979).
+I.
+We begin with an issue not considered in Kirby: whether a conviction of first-degree possession of methamphetamine should be reversed because the DSRA increased the controlled substance weight threshold for the offense. Otto argues that he is entitled to relief because his possession of approximately 29 grams of methamphetamine no longer qualifies as first-degree possession. The State responds that the plain language of DSRA §§ 3-4 forbids application of the increased weight threshold to offenses committed prior to August 1, 2016. We agree with the State.
+The DSRA increased the weight threshold necessary for first-and second-degree possession of methamphetamine from 25 to 50 grams and 6 to 25 grams, respectively. Act of May 22, 2016, ch. 160, §§ 3-4, 2016 Minn. Laws at 577-81. Those [**5]  sections of the DSRA became "effective August 1, 2016, and appl[y] to crimes committed on or after that date." Id. The Legislature's intent here was crystal clear: to abrogate the amelioration doctrine. Accordingly, Otto's conviction stands.
+Our analysis in State v. Hamilton, 289 N.W.2d 470, 474-75 (Minn. 1979), is consistent with this result. In Hamilton, we stated that "where a defendant is convicted under a statute that is subsequently repealed or amended so as to mitigate punishment, the more recent statute will be applied to the acts committed before its effective date, as long as no final judgment has been reached." Id. at 474. Hamilton was convicted of aggravated sodomy under a statute that was repealed and replaced by newly enacted criminal sexual conduct statutes, which did not specify whether they applied to non-final cases. See id. at 474-75 (citing Act of May 19, 1977, ch. 130 §§ 10-11, 1977 Minn. Laws 220, 223 (repealing the aggravated-sodomy statute and providing the effective date without specifying whether the act applied only to crimes committed after the effective date), and Minn. Stat. §§ 609.341-.353 (1978) (setting out the new framework for criminal sexual conduct offenses and reducing the maximum statutory punishment for Hamilton's offense from 30 to 20 years)). We concluded that, [**6]  because the legislation included no statement on whether the act  [*504]  applied only to crimes committed after the effective date, the presumption to apply the amelioration doctrine remained intact. Id. Accordingly, we reversed the aggravated sodomy conviction and directed the district court to vacate the sentence. Id. at 475.
+Otto argues that the effective-date clause is present only to address ex post facto concerns because portions of DSRA §§ 3-4 enhance punishment. See Coolidge, 282 N.W.2d at 514 n.10 (stating that an act enhancing punishment may not necessarily apply to offenses committed before its effective date because "there may be ex post facto implications"). Thus, Otto argues, the language should apply only to the portions of DSRA §§ 3-4 that enhance punishment, and should not apply to those portions that mitigate punishment. We disagree. We construe a law as a whole and interpret each section in light of the surrounding sections. Van Asperen v. Darling Olds, Inc., 254 Minn. 62, 93 N.W.2d 690, 698 (Minn. 1958). Specifically, DSRA §§ 5-6, which only mitigate punishment, use precisely the same effective-date language as §§ 3-4. Act of May 22, 2016, ch. 160, §§ 5-6, 2016 Minn. Laws at 581-83. Yet there is no ex post facto issue in §§ 5-6. Because Otto committed his offense before the DSRA took effect, he is not entitled to have his conviction of first-degree possession reversed. [**7] 
+II.
+We now turn to the issue of whether Otto must be resentenced under the DSRA-amended sentencing grid. For the reasons discussed in Kirby, we conclude that the amelioration doctrine requires that Otto be resentenced.
+ CONCLUSION
+For the foregoing reasons, we vacate Otto's sentence and remand to the district court for proceedings consistent with this opinion.
+Sentence vacated; remanded.
+Concur by: ANDERSON (In Part); GILDEA (In Part); STRAS (In Part)  
+Dissent by: ANDERSON (In Part); GILDEA (In Part); STRAS (In Part)  
+Dissent
+
+
+
+
+CONCURRENCE & DISSENT
+ANDERSON, Justice (concurring in part, dissenting in part).
+I join in Part I of the court's decision. I respectfully dissent from the court's decision in Part II for the reasons set forth in my dissent in State v. Kirby, No. A15-0117, 899 N.W.2d 485, 2017 Minn. LEXIS 435 (Minn. July 26, 2017).
+GILDEA, Chief Justice (concurring in part, dissenting in part).
+I join in the concurrence and dissent of Justice Anderson.
+STRAS, Justice (concurring in part, dissenting in part).
+I join in the concurrence and dissent of Justice Anderson.
+
+ 
+
+End of Document

@@ -1,0 +1,949 @@
+
+  CautionAs of: September 19, 2020 7:25 PM Z
+In re Std. Jury Instructions in Civ. Cases-Report No. 09-10 (Prods. Liab.)
+Supreme Court of Florida
+May 17, 2012, Decided
+No. SC09-1264
+
+Reporter
+91 So. 3d 785 *; 2012 Fla. LEXIS 964 **; 37 Fla. L. Weekly S 358; 2012 WL 1722576
+ IN RE STANDARD JURY INSTRUCTIONS IN CIVIL CASES—REPORT NO. 09-10 (PRODUCTS LIABILITY).  
+Notice: THE FILING OF A MOTION FOR REHEARING SHALL NOT ALTER THE EFFECTIVE DATE OF THESE AMENDMENTS.
+  
+Subsequent History: As Corrected May 18, 2012.
+Related proceeding at In re Jury Instructions in Civil Cases, 160 So. 3d 869, 2015 Fla. LEXIS 579 (Fla., Mar. 26, 2015)  
+Prior History: In re Std. Jury Instructions in Civil Cases -- Report No. 09-01 (Reorganization of the Civil Jury Instructions), 35 So. 3d 666, 2010 Fla. LEXIS 302 (Fla., Mar. 4, 2010)  
+Counsel:  [**1] Tracy Raffles Gunn, Chair, Supreme Court Committee on Jury Instructions (Civil), Gunn Appellate Practice, Tampa, Florida, Gary M. Farmer of Farmer, Jaffe, Weissing, et al., Fort Lauderdale, Florida, Joseph Hagedorn Lang, Jr. of Carlton Fields, P.A., Tampa, Florida, and Judge James Manly Barton, II, Thirteenth Judicial Circuit, Tampa, Florida, For Petitioner. 
+Larry M. Roth of Law Office of Larry M. Roth, P.A., Orlando, Florida; William L. Kirk, Jr. and Myron Shapiro of Rumberger, Kirk & Caldwell, Orlando, Florida; Wendy F. Lumish of Carlton Fields, P.A., Miami, Florida and Richard J. Caldwell, Jr. of Rumberger, Kirk & Caldwell, Tampa, Florida; Roy D. Wasson of Wasson & Associates, Chartered, Miami, Florida, Dock A. Blanchard of Blanchard, Merriam, Adel & Kirkland, P.A., Ocala, Florida, Julie H. Littky-Rubin of Lytal Reiter Clark Fountain & Williams, LLP, West Palm Beach, Florida, Charles B. Patrick of Charles B. Patrick , P.A., Miami, Florida, Joel S. Perwin of Joel S. Perwin, P.A., Miami, Florida, and Edward S. Schwartz of Gerson & Schwartz, P.A., Miami, Florida, on behalf of Florida Justice Association; Daniel B. Rogers, Edward A. Moss, Thomas Sherhouse, Alfred J. Saikali, and Mihai  [**2] M. Vrasmasu of Shook, Hardy & Bacon L.L.P., Miami, Florida; M. Gary Toole and David C. Knapp of Smith Toole & Wiggins, P.L., Orlando, Florida; Aaron D. Twerski, Brooklyn Law School, Brooklyn, New York; Barbara Bolton Litten, Patricia E. Lowery and Amy Bloom of Squire, Sanders & Dempsey L.L.P., West Palm Beach, Florida; Kathleen M. O'Conner of Kathleen M. O'Conner, P.A., Palmetto Bay, Florida and Frederick J. Fein of Thornton, Davis & Fein, P.A., Miami, Florida; P. Mike Patterson, Alan B. Bookman and Patrick G. Emmanuel of Emmanuel, Sheppard and Condon, Pensacola, Florida; John C. Seipp, Jr. of Seipp & Flick LLP, Miami, Florida; Joel D. Eaton of Podhurst Orseck, P.A., Miami, Florida; Frank H. Gassler, Nava Ben-Avraham and Petra L. Justice of Banker Lopez Gassler, P.A., Tampa, Florida; Robert M. Fulton, Benjamin H. Hill, III and Christopher S. Branton of Hill, Ward & Henderson, P.A., Tampa, Florida; Mercer K. Clarke of Clarke Silverglate & Campbell, P.A., Miami, Florida; Fredrick H.L. McClure, Lewis J. Conwell and Angela J. Crawford of DLA Piper LLP(US), Tampa, Florida; Robert J. Rudock and Loren W. Fender of Arnstein & Lehr LLP, Miami, Florida, Responding with comments.  
+Judges: PARIENTE, LEWIS,  [**3] LABARGA, and PERRY, JJ., concur. PARIENTE, J., concurs with an opinion. CANADY, C.J., concurs in part and dissents in part with an opinion, in which POLSTON, J., concurs. QUINCE, concurs in part and dissents in part with an opinion.  
+Opinion
+
+
+
+
+  [*785]  Original Proceedings — Supreme Court Committee on Jury Instruction (Civil)
+PER CURIAM.
+The Supreme Court Committee on Standard Jury Instructions in Civil Cases (Committee) has submitted extensive proposed changes to the standard civil jury instructions previously authorized by the Court. We now address the amendments directed for use in products liability cases, which the Committee asks the Court to authorize. We have jurisdiction. See art. V, § 2(a), Fla. Const.
+  [*786]  BACKGROUND
+On July 16, 2009, the Committee filed a report proposing both new and revised products liability standard jury instructions.1  At that time, pending before the Court was the Committee's proposed general reorganization of the standard civil jury instructions (Case No. SC09-284), which included reorganizing the instructions by separate areas of civil law and renumbering the instructions to reflect that reorganization, as well as modifications intended to improve juror understanding. In large  [**4] part, the Court authorized, with minor modifications, the Committee's proposals for publication and use. See In re Standard Jury Instructions in Civil Cases—Report No. 09-01 (Reorganization of the Civil Jury Instructions), 35 So. 3d 666 (Fla. 2010).
+Prior to filing its report in this case, on December 15, 2008, the Committee published the proposed changes directed to the products liability instructions for public comment in The Florida Bar News. Five comments were received, each addressing a number of the proposals. The Court also sought public comment on specific issues pertaining to particular proposals, which appeared in the January 1, 2010, edition of The Florida Bar News. Following receipt of numerous comments,  [**6] the Court heard oral argument on May 5, 2010.
+ DISCUSSION
+In lieu of the products liability standard instructions previously authorized under the former standard civil jury instruction structure, see In re Standard Jury Instructions (Civil Cases), 435 So. 2d 782 (Fla. 1983), and upon consideration of the proposals, comments, and oral arguments presented in this case, we hereby take the following action. First, we provide preliminary approval for publication in the future of the proposals with regard to standard instructions 403.1 — Introduction (new); instruction 403.2 — Summary of Claims [*787]  (new); instruction 403.4 — Express Warranty; instruction 403.5 — Implied Warranty of Merchantability; instruction 403.6 — Implied Warranty of Fitness for Particular Purpose; instruction 403.8 — Strict Liability Failure to Warn (new); instruction 403.10 — Negligent Failure to Warn (new); instruction 403.12 — Legal Cause; instruction 403.14 — Burden of Proof on Preliminary Issue; instruction 403.15 — Issues on Main Claim; instruction 403.17 — Burden of Proof on Main Claim; and instruction 403.19 — Burden of Proof on Defense Issues.
+Second, the following jury instructions are preliminarily approved for publication  [**7] in the future as modified: instruction 403.9 — Negligence; and instruction 403.18 - Defense Issues (new).
+Last, the Court rejects the following proposals: instruction 403.3 — Greater Weight of the Evidence; instruction 403.7 — Strict Liability; instruction 403.11 — Inference of Product Defect or Negligence (new); instruction 403.13 — Preliminary Issue (new); instruction 403.16 — Issues on Crashworthiness and "Enhanced Injury" Claim (new); and Model Instruction 7 and Special Verdict Form.2  Instead, the Court preliminarily approves for publication in the future instruction 403.3, consistent with previously authorized "Greater Weight of the Evidence" standard civil jury instructions.3  We refer back to the Committee its proposals with regard to instructions 403.7, 403.11, 403.13, 403.14, 403.16, Model Instruction No. 7 and the Special Verdict Form, and the Committee Notes to each of the products liability standard instructions. We direct the Committee to make revisions consistent with the instructions preliminarily approved by the Court for publication in the future and as set forth in the appendix to this opinion, as well as the Court's decisions in  [**8] In re Standard Jury Instructions in Civil Cases—Report No. 09-01 (Reorganization of the Civil Jury Instructions), 35 So. 3d 666 (Fla. 2010) and In re Standard Jury Instructions in Criminal Cases—Report No. 2010-01 & Standard Jury Instructions in Civil Cases-Report No. 2010-01, 52 So. 3d 595 (Fla. 2010). We also direct the Committee to conform all instructions, comments, model forms of instructions, verdict forms, and any related material to the actions of the Court in this and prior opinions. All of the foregoing must be completed before publication and use. Accordingly, until further order of the Court, we withhold authorization of the approved instructions.4  The approvals are only preliminary because this group of instructions must be viewed as a full package before authorization can be provided.
+ CONCLUSION
+In providing preliminary approval for the standard civil jury instructions for publication in the future, as set forth in the  [*788]  appendix, we express no opinion on their correctness. We further caution all interested parties that any comments associated with the instructions reflect only the opinion of the Committee and are not necessarily indicative of the views of this Court as to their correctness or applicability. New language is indicated by underscoring and deletions are indicated by struck-through type. The instructions as set forth in the appendix shall be  [**10] effective when the entire package of products liability material is completed and the instructions are authorized by the Court. We caution that further work is required before publication and use of these preliminary products liability instructions, model forms, verdict forms, and any other material relating to the foregoing.
+It is so ordered.
+PARIENTE, LEWIS, LABARGA, and PERRY, JJ., concur.
+PARIENTE, J., concurs with an opinion.
+CANADY, C.J., concurs in part and dissents in part with an opinion, in which
+POLSTON, J., concurs.
+QUINCE, concurs in part and dissents in part with an opinion.
+ [*790contd]  
+[EDITOR'S NOTE: The page numbers of this document may appear to be out of sequence; however, this pagination accurately reflects the pagination of the original published document.]
+ APPENDIX  
+PL  
+PRODUCT LIABILITY
+Issues
+
+PL 1 Express warranty
+
+PL 2 Implied warranty of merchantability
+
+PL 3 Implied warranty of fitness for particular purpose
+
+PL 4 Strict liability (manufacturing defect)
+
+PL 5 Strict liability (design defect)
+
+Burden of proof (greater weight of the evidence)
+
+Defense issues
+ 403 PRODUCTS LIABILITY
+403.1 Introduction
+403.2 Summary of Claims
+403.3 Greater Weight of the Evidence
+403.4 Express Warranty
+403.5 Implied Warranty of Merchantability
+403.6 Implied Warranty of Fitness for Particular Purpose
+403.7 Strict Liability
+403.8 Strict Liability Failure to Warn
+403.9 Negligence
+403.10 Negligent Failure  [**11] to Warn
+403.11 Inference of Product Defect or Negligence (reserved)
+403.12 Legal Cause
+403.13 Preliminary Issue (reserved)
+403.14 Burden of Proof on Preliminary Issue
+403.15 Issues on Main Claim
+403.16 Issues on Crashworthiness and "Enhanced Injury" Claims
+403.17 Burden of Proof on Main Claim
+403.18 Defense Issues
+403.19 Burden of Proof on Defense Issues
+ PL  
+PRODUCT LIABILITY  
+NOTE ON USE
+
+The instructions in this Part PL PRODUCT LIABILITY do not contain instructions on Negligence. When alternative issues of negligence are to be submitted, use Charge 3.5 on Negligence Issues, as in Model Charge No. 8.
+
+The issues for your determination on the claim of 
+(claimant) 
+against (defendant) 
+are whether the 
+(describe product) 
+[sold] [supplied] by 
+(defendant) 
+was defective when it left the possession of 
+(defendant) 
+and, if so, whether such defect was a legal cause of [loss] [injury] [or] [damage] sustained by 
+(claimant or person for whose injury claim is made). 
+A product is defective
+  [*791]  403.1 INTRODUCTION
+Members of the jury, you have now heard and received all of the evidence in this case. I am now going to tell you about the rules of law that you must use in reaching your verdict. [You will recall at the beginning  [**12] of the case I told you that if, at the end of the case I decided that different law applies, I would tell you so. These instructions are (slightly) different from what I gave you at the beginning and it is these rules of law that you must now follow.] When I finish telling you about the rules of law, the attorneys will present their final arguments and you will then retire to decide your verdict.
+ NOTES ON USE FOR 403.1
+1. When instructing the jury before taking evidence, use instruction 202.1 in lieu of instruction 403.1. See Model Charge 1. Instruction 403.1 is for instructing the jury after the evidence has been concluded. Use the bracketed language in instruction 403.1 when the final instructions are different from the instructions given at the beginning of the case. If the instructions at the end of the case are different from those given at the beginning of the case, the committee recommends that the court point out the differences, with appropriate language in the final instructions, including an explanation for the difference, such as when the court has directed a verdict on an issue.
+2. Fla.R.Civ.P. 1.470(b) authorizes instructing the jury during trial or before or after final  [**13] argument. The timing of instructions is within the sound discretion of the trial judge, to be determined on a case-by-case basis, but the committee strongly recommends instructing the jury before final argument.
+3. Each juror must be provided with a full set of jury instructions for use during their deliberations. Rule 1.470(b). The trial judge may find it useful to provide these instructions to the jurors when the judge reads the instructions in open court so that jurors can read along with the judge as the judge reads the instructions aloud.
+ 403.2 SUMMARY OF CLAIMS
+The claims [defenses] in this case are as follows. (Claimant) claims that the (describe product) [designed] [manufactured] [distributed] [imported] [sold] [or] [supplied] by (defendant) was defective and that the defect in the (describe product) caused [him] [her] harm.
+[(Claimant) [also] claims that [he] [she] sustained greater or additional injuries than what [he] [she] would have sustained in the (describe accident) if the (describe product) had not been defective.]
+[(Claimant) [also] claims that (defendant) was negligent in (describe alleged negligence), which caused [him] [her] to be injured by (the product).]
+(Defendant)  [**14] denies [that] [those] claim(s) [and also claims that (claimant) was [himself] [herself] negligent in (describe the alleged comparative negligence), which caused [his] [her] harm]. [Additionally (describe any other affirmative defenses).]
+[The parties] [(claimant)] must prove [his] [her] [their] claims by the greater weight of the evidence. I will now define some of the terms you will use in deciding this case.
+ NOTE ON USE FOR 403.2
+Use the second paragraph for crashworthiness claims. See instruction 403.16. Use the first bracketed phrase in the [*792]  fourth paragraph when there is a claim of comparative negligence. Use the second bracketed sentence where there are additional affirmative defenses.
+ 403.3 GREATER WEIGHT OF THE EVIDENCE
+"Greater weight of the evidence" means the more persuasive and convincing force and effect of the entire evidence in the case.
+ NOTES ON USE FOR 403.3
+1. Greater or lesser number of witnesses. The committee recommends that no instruction be given regarding the relationship (or lack of relationship) between the greater weight of the evidence and the greater or lesser number of witnesses.
+2. Circumstantial evidence. The committee recommends that no instruction generally  [**15] be given distinguishing circumstantial from direct evidence. See Nielsen v. City of Sarasota, 117 So.2d 731 (Fla. 1960).
+
+PL 1 express warranty
+ 403.4 EXPRESS WARRANTY
+A product is defective if it does not conform to representations of fact made by (defendant), orally or in writing, in connection with the [sale] [transaction], on which (name) relied in the [purchase and] use of the product. [Such a The representation must be one of fact, rather than opinion.]
+
+PL 2 implied warranty of merchantability
+ 403.5 IMPLIED WARRANTY OF MERCHANTABILITY
+A product is defective if it is not reasonably fit for either the uses intended or the uses reasonably foreseeable by (defendant).
+
+PL 3 implied warranty of fitness for particular purpose
+ 403.6 IMPLIED WARRANTY OF FITNESS FOR PARTICULAR PURPOSE
+A product is defective if it is not reasonably fit for the specific purpose for which (defendant) knowingly sold the product and for which, 
+the purchaser bought the product in reliance on the judgment of (defendant), the purchaser bought the product.
+
+PL 4 strict liability (manufacturing defect)
+
+if by reason of a manufacturing defect it is in a condition unreasonably dangerous to [the user] [a person in the vicinity of  [**16] the product]* and the product is expected to and does reach the user without substantial change affecting that condition.
+
+A product is unreasonably dangerous because of a manufacturing defect if it does not conform to its intended design and fails to perform as safely as the intended design would have performed.
+PL 5 strict liability (design defect)
+
+if by reason of its design the product is in a condition unreasonably dangerous to [the user] [a person in the vicinity of the product]* and the product is expected to and does reach the user without substantial change affecting that condition.
+
+A product is unreasonably dangerous because of its design if [the product fails to perform as safely as an ordinary consumer would expect when used as intended or in a manner reasonably foreseeable by the manufacturer]   [*793] 
+[or] [the risk of danger in the design outweighs the benefits].
+
+If the greater weight of the evidence does not support the claim of 
+(claimant), 
+your verdict should be for 
+(defendant).
+
+[However, if the greater weight of the evidence does support the claim of 
+(claimant), 
+then your verdict should be for 
+(claimant) 
+and against 
+(defendant)]. 
+**[However, if the greater weight of the evidence does  [**17] support the claim of 
+(claimant), 
+then you shall consider the defense raised by 
+(defendant). 
+On the defense, the issues for your determination are 
+(state defense issues)].
+
+"Greater weight of the evidence" means the more persuasive and convincing force and effect of the entire evidence in the case.
+ NOTES ON USE
+
+If it is determined that a Negligence instruction is appropriate in addition to a Product Liability (PL) instruction, use charge 3.5 on Negligence Issues as in Model Charge No. 8.
+
+In cases involving claims of both negligence and defective design, submission of both claims may result in an inconsistent verdict. 
+See, e.g
+., 
+Consol. Aluminum Corp. v. Braun447 So. 2d 391 (Fla. 4th DCA 1984)
+, ; 
+Ashby Div. of Consol. Aluminum Corp. v. Dobkin458 So. 2d 335 (Fla. 3d DCA 1984)
+, . 
+See also Moorman v. American Safety Equip594 So. 2d 795 (Fla. 4th DCA 1992)
+., ; 
+North American Catamaran Racing Ass'n. v. McCollister480 So. 2d 669 (Fla. 5th DCA 1985)
+, .
+
+*When the injured person is a bystander, use the language in the second pair of brackets. 
+See West v. Caterpillar Tractor Co., Inc336 So.2d 80 (Fla. 1976)
+., , and 
+Sanchez v. Hussey Seating Co698 So.2d 1326 (Fla. 1st DCA 1997)
+., .
+
+**When defense issues  [**18] are to be submitted, use the charge contained within this second pair of brackets. In other cases, use the first bracketed sentence instead.
+ COMMENT
+
+1. 
+Privity
+. These charges on product liability issues presuppose that any question of privity has been resolved in favor of the claim. For the effect of strict liability doctrine on claims of warranty previously requiring privity, 
+see § 672.318, Fla. Stat.
+ (1987), and 
+Kramer v. Piper Aircraft Corp520 So.2d 37, 39 & n. 4 (Fla. 1988)
+., . Should it be necessary to submit to the jury a factual issue on privity, the committee recommends that it be submitted in the style of a preliminary charge on status or duty as in SJI 3.2.
+
+2. 
+Strict liability (Restatement of Torts 2d § 402A
+). Charge PL 4, derived from  § 402A
+as adopted in 
+West v. Caterpillar Tractor Co., Inc
+., , is appropriate for a strict liability claim against the manufacturer based on an alleged manufacturing flaw in the product. In response to336 So.2d 80 (Fla. 1976) 
+Ford Motor Co. v. Hill
+, , directing the committee to improve its product liability charge, the committee recommends PL 5 for design defect cases, stating standards for determining when a product is "unreasonably dangerous"  [**19] because of design.404 So.2d 1049, 1052 n. 4 (Fla. 1981)
+
+PL 5 defines "unreasonably dangerous" both in terms of consumer expectations, see comment i to § 402A of the Restatement, 
+ and in terms weighing the design risk against its utility. These concepts are discussed in
+Radiation Tech. Inc., v. Ware Constr. Co
+., ;445 So.2d 329, 331 (Fla. 1983) 
+Cassisi v. Maytag Co
+., ;396 So.2d 1140, 1143-45 (Fla. 1st DCA 1981) 
+Adams v. G. D. Searle & Co576 So.2d 728, 733 (Fla. 2d DCA 1991)
+., . Absent more definitive  [*794] 
+ authority in Florida, the committee recommends neither test to the exclusion of the other and expresses no opinion about whether the two charges should be given alternatively or together. PL 5 provides language suitable for either standard, or both, determined by the trial court to be appropriate.
+
+The committee notes, however, that the two issue rule may be implicated if both tests of design defect are used. 
+Zimmer Inc. v. Birnbaum758 So.2d 714 (Fla. 4th DCA 2000)
+, .
+
+The committee is of the view that, in Florida, the ultimate burden of persuasion in cases submitted to the jury remains with the plaintiff. 
+West336 So.2d at 87
+, ; 
+but see Barker v. Lull Engineering Co20 Cal.3d 413, 143 Cal.Rptr. 225, 573 P.2d 443, 455-56 (1978)
+.,  [**20] , quoted in 
+Cassisi396 So.2d at 1145
+, . PL 5 therefore allocates that burden to the plaintiff. The charge is not intended to control issues of the burden of proof or sufficiency of the evidence for directed verdict purposes.
+
+Pending further development of Florida law, the committee reserved the question of whether there can be strict liability for failure to warn and, if so, what duty is imposed on the manufacturer or seller.
+
+3. 
+Obvious defects, opportunity to inspect, disclaimers
+. These concepts are not covered by the standard charges. 
+See Auburn Machine Works Co., Inc. v. Jones366 So.2d 1167 (Fla. 1979)
+, .
+
+4. 
+Uniform Commercial Code. 
+There are many open questions concerning the meaning and application in Florida personal injury litigation of certain U. C. C. provisions. Compare 
+Schuessler v. Coca-Cola Bottling Company of Miami279 So.2d 901 (Fla. 4th DCA 1973)
+, , with 
+Ford Motor Co. v. Pittman227 So.2d 246 (Fla. 1st DCA 1969)
+, , 
+cert. denied237 So. 2d 177 (Fla. 1970)
+, . Accordingly, the committee has not undertaken to express U. C. C. concepts, as such, in these jury charges. A U. C. C. provision which is held to be applicable may be read or appropriately paraphrased for the jury. In  [**21] order to avoid undue emphasis, the committee recommends that the provision read or paraphrased not be identified as a statute.
+
+5. 
+Comparative negligence
+. Comparative negligence is a defense to strict liability claims if based on grounds other than the failure of the user to discover the defect or to guard against the possibility of its existence. 
+West v. Caterpillar
+, 
+supra 
+n. 2. Model charge 7 illustrates the defense of comparative negligence in a negligence/express warranty action against a retailer and model charge 8 illustrates the same defense in a negligence/strict liability action against a manufacturer and retailer.
+
+6. The committee takes no position regarding whether the injured bystander must be foreseeable. 
+See West v. Caterpillar Tractor Co., Inc336 So.2d 80 (Fla. 1976)
+., .
+
+7. Pending further development of Florida law, the Committee takes no position on the sufficiency of these instructions in cases in which the 
+Cassisi 
+inference applies. 
+See Cassisi v. Maytag Co396 So.2d 1140 (Fla. 1st DCA 1981)
+., ; 
+Gencorp, Inc. v. Wolfe481 So.2d 109 (Fla. 1st DCA 1985)
+, ; 
+see also Parke v. Scotty's, Inc584 So.2d 621 (Fla. 1st DCA 1991)
+., ; 
+Miller v. Allstate Ins. Co650 So.2d 671 (Fla. 3d DCA 1995)
+.,  [**22] .
+403.7 STRICT LIABILITY
+(Reserved)
+
+a. Manufacturing defect
+
+A product is defective if it is unreasonably dangerous when it leaves the possession of the [manufacturer] [seller] [distributor] [supplier] [importer] [defendant] and  [*795] 
+ the product reaches the user or consumer without substantial change affecting that condition.
+
+b. Design defect
+
+A product is unreasonably dangerous to [the user] [a person in the vicinity of the product] if [the product fails to perform as safely as an ordinary consumer would expect when used as intended or when used in a manner reasonably foreseeable by the [manufacturer] [seller] [distributor] [supplier] [importer]].
+ NOTES ON USE FOR 403.7
+
+1. A claimant is not required to plead or prove whether the defect in the product came from its manufacture or design. 
+Ford Motor Co. v. Hill404 So.2d 1049 (Fla. 1981)
+, ; 
+McConnell v. Union Carbide Corp937 So.2d 148 (Fla. 4th DCA 2006)
+., . In cases involving a claim of a manufacturing defect in the product, to clarify the issue for the jury, this instruction can be modified by adding the following language in the second paragraph after "if [the product": "was not built according to its intended design [or] because the product ...."  [**23] The risk/benefit test does not apply in cases involving claims of manufacturing defect. See 
+Cassisi v. Maytag Co396 So.2d 1140, 1146 (Fla. 1st DCA 1981)
+., .
+
+2. 
+Foreseeability of injured bystander
+. Strict liability applies to all foreseeable bystanders. When the injured person is a bystander, use the language "a person in the vicinity of the product" instead of "the user." Strict liability does not depend on whether the defendant foresaw the particular bystander's presence. See 
+West v. Caterpillar Tractor Co. Inc336 So.2d 80, 89 (Fla. 1976)
+.,  ("Injury to a bystander is often feasible. A restriction of the doctrine to the users and consumers would have to rest on the vestige of the disappearing privity requirement."). See also 
+Sanchez v. Hussey Seating Co698 So.2d 1326 (Fla. 1st DCA 1997)
+., . When there is an issue regarding whether the presence of bystanders was foreseeable, additional instructions may be needed.
+
+3. This instruction retains the consumer expectations test and the risk/benefit test for product defect, both of which previously appeared in PL 5. Florida recognizes the consumer expectations test. See 
+McConnell v. Union Carbide Corp937 So.2d 148, 151 n.4 (Fla. 4th DCA 2006)
+.,  [**24] ; 
+Force v. Ford Motor Co879 So.2d 103, 107 (Fla. 5th DCA 2004)
+., ; 
+Adams v. G. D. Searle & Co576 So.2d 728, 733 (Fla. 2d DCA 1991)
+., ; 
+Cassisi v. Maytag Co396 So.2d 1140, 1145-46 (Fla. 1st DCA 1981)
+., . Pending further development in the law, the committee takes no position on whether the risk/benefit test is a standard for product defect that should be included in instruction 403.7 or an affirmative defense under instruction 403.18. The risk/benefit instruction is provided in both this instruction and the defense instruction, 403.18, to illustrate how it is used in either case. See Instruction 403.18(b) and the corresponding Note on Use. If a court determines that the risk/benefit test is a test for product defect, the committee takes no position on whether both the consumer expectations and risk/benefit tests should be given alternatively or together.
+
+4. In  of theForce v. Ford Motor Co., 879 So.2d 103, 107 (Fla. 5th DCA 2004)
+ , the parties agreed to a risk/benefit instruction based on section 2(b)
+Restatement (Third) of Torts, 
+Products Liability
+. Florida has not adopted this provision of 
+Restatement (Third) of Torts
+, 
+Products Liability
+. 
+Liggett Group Inc. v. Davis973 So.2d 467 (Fla. 4th DCA 2008)
+,  [**25] ; certifying question, 973 So.2d 684 (Fla. 4th DCA 2008)
+; discharging jurisdiction,     
+So.2d    
+, 33 FLW S963 (Fla. 2008). See also 
+Force 
+at 107. While the committee has [*796] 
+ cited 
+Force 
+in other contexts, it does not approve the risk/benefit instruction that is set forth in 
+Force
+.
+
+5. When strict liability and negligence claims are tried together, to clarify differences between them it may be necessary to add language to the strict liability instructions to the effect that a product is defective if unreasonably dangerous even though the seller has exercised all possible care in the preparation and sale of the product. 
+Restatement (Second) Torts§ 402A(2)(a)
+, .
+
+6. See instruction 403.13 when a distributor, importer, or intermediate seller never had physical possession of the product but nevertheless played a role in placing the product into the chain of distribution.
+ 403.8 STRICT LIABILITY FAILURE TO WARN
+A product is defective when the foreseeable risks of harm from the product could have been reduced or avoided by providing reasonable instructions or warnings, and the failure to provide those instructions or warnings makes the product unreasonably dangerous.
+ NOTES ON USE FOR 403.8
+1. The following  [**26] cases recognize strict liability for a failure to warn of defects. McConnell v. Union Carbide Corp., 937 So.2d 148, 151-52 (Fla. 4th DCA 2006); Union Carbide Corp. v. Kavanaugh, 879 So.2d 42, 45 (Fla. 4th DCA 2004); Scheman-Gonzalez v. Saber Manufacturing Co., 816 So.2d 1133 (Fla. 4th DCA 2002); Ferayorni v. Hyundai Motor Co., 711 So.2d 1167 (Fla. 4th DCA 1998).
+2. When strict liability and negligent failure to warn claims are tried together, to clarify differences between them it may be necessary to add language to the strict liability instruction to the effect that a product is defective if unreasonably dangerous even though the seller has exercised all possible care in the preparation and sale of the product. Restatement (Second) Torts, § 402A(2)(a).
+ 403.9 NEGLIGENCE
+Negligence is the failure to use reasonable care, which is the care that a reasonably careful [designer] [manufacturer] [seller] [importer] [distributor] [supplier] would use under like circumstances. Negligence is doing something that a reasonably careful [designer] [manufacturer] [seller] [importer] [distributor] [supplier] would not do under like circumstances or failing to do something that a reasonably careful [designer]  [**27] [manufacturer] [seller] [importer] [distributor] [supplier] would do under like circumstances.
+ NOTES ON USE FOR 403.9
+1. An unreasonably dangerous condition in a product can result in a variety of ways, for example, from latent characteristics in the product, which create an unexpected danger, from failure to meet industry standards in the design or manufacture of the product, or from an unsafe design choice for the product. See, e.g., Royal v. Black & Decker Mfg. Co., 205 So.2d 307 (Fla. 3d DCA 1967). A product can also be unreasonably dangerous because it was adulterated, such as with foreign materials in foodstuffs or pharmaceuticals. See, e.g., Food Fair Stores of Florida, Inc. v. Macurda, 93 So.2d 860 (Fla. 1957); E.R. Squibb & Sons Inc. v. Stickney, 274 So.2d 898 (Fla. 1st DCA 1973).
+2. If a product fails under circumstances precluding any other reasonable inference other than a defect in the product, a plaintiff is not required to pinpoint [*797]  any specific defect in the product. See, e.g., Armor Elevator Co. v. Wood, 312 So.2d 514 (Fla. 3d DCA 1975); Ford Motor Co. v. Cochran, 205 So.2d 551 (Fla. 2d DCA 1967).
+3. In order to clarify the differences between strict liability and negligence  [**28] when the two claims are tried together, it may be necessary to add language to the strict liability instructions to the effect that a product is defective if unreasonably dangerous even though the seller has exercised all possible care in the preparation and sale of the product. Restatement (Second) Torts, § 402A(2)(a).
+ 403.10 NEGLIGENT FAILURE TO WARN
+[Negligence is the failure to use reasonable care, which is the care that a reasonably careful [designer] [manufacturer] [seller] [importer] [distributor] [supplier] would use under like circumstances.] Reasonable care on the part of (defendant) requires that (defendant) give appropriate warning(s) about particular risks of (the product) which (defendant) knew or should have known are involved in the reasonably foreseeable use(s) of the product.
+ NOTE ON USE FOR 403.10
+The cases recognize a claim for negligent failure to warn. Ferayorni v. Hyundai, 711 So.2d 1167 (Fla. 4th DCA 1998). When strict liability and negligent failure to warn claims are tried together, to clarify differences between them it may be necessary to add language to the strict liability instruction to the effect that a product is defective if unreasonably dangerous even  [**29] though the seller has exercised all possible care in the preparation and sale of the product. Restatement (Second) Torts, § 402A(2)(a).
+ 403.11 INFERENCE OF PRODUCT DEFECT OR NEGLIGENCE
+(Reserved)
+ 403.12 LEGAL CAUSE
+a. Legal cause generally:
+[A defect in a product] [Negligence] is a legal cause of [loss] [injury] [or] [damage] if it directly and in natural and continuous sequence produces or contributes substantially to producing such [loss] [injury] [or] [damage], so that it can reasonably be said that, but for the [defect] [negligence], the [loss] [injury] [or] [damage] would not have occurred.
+b. Concurring cause:
+In order to be regarded as a legal cause of [loss] [injury] [or] [damage], [a defect in a product] [negligence] need not be the only cause. [A defect in a product] [Negligence] may be a legal cause of [loss] [injury] [or] [damage] even though it operates in combination with [the act of another] [some natural cause] [or] [some other cause] if the [defect] [negligence] contributes substantially to producing such [loss] [injury] [or] [damage].
+c. Intervening cause:
+*Do not use the bracketed first sentence if this charge is preceded by the charge on concurring cause:
+*[In order to be  [**30] regarded as a legal cause of [loss] [injury] [or] [damage], [a defect in a product] [negligence] need not be its only cause.] [A defect in a product] [Negligence] may also be a legal cause of [loss] [injury] [or] [damage] even though it operates in combination with [the act of another] [some natural cause] [or] [some other cause] occurring after the [product defect] [negligence] occurs if such other cause was itself reasonably foreseeable  [*798]  and the [product defect] [negligence] contributes substantially to producing such [loss] [injury] [or] [damage] [or] [the resulting [loss] [injury] [or] [damage] was a reasonably foreseeable consequence of the [product defect] [negligence] and the [product defect] [negligence] contributes substantially to producing it].
+ NOTES ON USE FOR 403.12
+1. Instruction 403.10a (legal cause generally) is to be given in all cases. Instruction 403.10b (concurring cause), to be given when the court considers it necessary, does not set forth any additional standard for the jury to consider in determining whether negligence was a legal cause of damage but only negates the idea that a defendant is excused from the consequences of his or her negligence by reason of some  [**31] other cause concurring in time and contributing to the same damage. Instruction 403.10c (intervening cause) is to be given only in cases in which the court concludes that there is a jury issue as to the presence and effect of an intervening cause.
+2. The jury will properly consider instruction 403.10a not only in determining whether defendant's negligence is actionable but also in determining whether claimant's negligence contributed as a legal cause to claimant's damage, thus reducing recovery.
+3. Instruction 403.10b must be given whenever there is a contention that some other cause may have contributed, in whole or part, to the occurrence or resulting injury. If there is an issue of aggravation of a preexisting condition or of subsequent injuries or multiple events, instruction 501.2h(1) or (2) should be given as well. See Hart v. Stern, 824 So.2d 927, 932-34 (Fla. 5th DCA 2002); Marinelli v. Grace, 608 So. 2d 833, 835 (Fla. 4th DCA 1992).
+4. Instruction 403.10c (intervening cause) embraces two situations in which negligence may be a legal cause notwithstanding the influence of an intervening cause: (1) where the damage was a reasonably foreseeable consequence of the negligence although  [**32] the other cause was not foreseeable, Mozer v. Semenza, 177 So.2d 880 (Fla. 3d DCA 1965); and (2) when the intervention of the other cause was itself foreseeable, Gibson v. Avis Rent-A-Car System Inc., 386 So.2d 520 (Fla. 1980).
+5. "Probable" results. The committee recommends that the jury not be charged that the damage must be such as would have appeared "probable" to the actor or to a reasonably careful person at the time of the negligence. In cases involving an intervening cause, the term "reasonably foreseeable" is used in place of "probable." The terms are synonymous and interchangeable. See Sharon v. Luten, 165 So.2d 806, 810 (Fla. 1st DCA 1964); Prosser, Torts (3d ed.) 291; 2 Harper and James, The Law Of Torts 1137.
+6. The term "substantially" is used throughout the instruction to describe the extent of contribution or influence negligence must have in order to be regarded as a legal cause. "Substantially" was chosen because the word has an acceptable common meaning and because it has been approved in Florida as a test of causation not only in relation to defendant's negligence, Loftin v. Wilson, 67 So.2d 185, 191 (Fla. 1953), but also in relation to plaintiff's contributory negligence,  [**33] Shayne v. Saunders, 129 Fla. 355, 176 So. 495, 498 (Fla. 1937).
+  [*799]  403.13 PRELIMINARY ISSUE
+(Reserved)
+ 403.14 BURDEN OF PROOF ON PRELIMINARY ISSUE
+If the greater weight of the evidence does not support (claimant's) claim on this issue, then your verdict [on this issue] [on the claim of (claimant)] should be for (defendant) [and you should decide the other issues on (claimant's) claim].
+If, however, the greater weight of the evidence supports (claimant's) claim [on this issue], then you shall decide whether (the product) was defective [and also decide the other issues on (claimant's) claim].
+ NOTE ON USE FOR 403.14
+The bracketed language is for use if claimant makes alternative claim(s) of liability.
+ 403.15 ISSUES ON MAIN CLAIM
+The [next] issues you must decide on (claimant's) claim against (defendant) are:
+a. Express Warranty:
+whether (the product) failed to conform to representations of fact made by (defendant), orally or in writing, in connection with the [sale] [transaction], on which (name) relied in the [purchase and] use of the product, and, if so, whether that failure was a legal cause of the [loss] [injury] [or] [damage] to (claimant, decedent, or person for whose injury claim is made).
+b.  [**34] Implied Warrant of Merchantability:
+whether (the product) was not reasonably fit for either the uses intended or the uses reasonably foreseeable by (defendant) and, if so, whether that lack of fitness was a legal cause of the [loss] [injury] [or] [damage] to (claimant, decedent, or person for whose injury claim is made).
+c. Implied Warranty of Fitness for Particular Purpose:
+whether (the product) was not reasonably fit for the specific purpose for which (defendant) knowingly sold (the product) and for which (claimant) bought (the product) in reliance on the judgment of (defendant) and, if so, whether that lack of fitness was a legal cause of the [loss] [injury] [or] [damage] to (claimant, decedent, or person for whose injury claim is made).
+d. Strict Liability:
+whether (the product) [was not built according to its intended design and thereby failed to perform as safely as the intended design would have performed] [and] [or] [(the product) failed to perform as safely as an ordinary consumer would expect when used as intended or in a manner reasonably foreseeable by the manufacturer] and (the product) reached (claimant) without substantial change affecting the condition in which it was sold  [**35] and, if so, whether that failure was a legal cause of the [loss] [injury] [or] [damage] to (claimant, decedent, or person for whose injury claim is made).
+e. Strict Liability — Failure to Warn:
+whether the foreseeable risks of harm from (the product) could have been reduced or avoided by providing reasonable instructions or warnings and the failure to provide those warnings made (the product) unreasonably dangerous and, if so, whether that failure was a legal cause of the [loss] [injury] [or] [damage] to (claimant, decedent, or person for whose injury claim is made).
+ [*800]  f. Negligence:
+whether (defendant) was negligent in (describe alleged negligence), and, if so, whether that was a legal cause of the [loss] [injury] [or] [damage] to (claimant, decedent, or person for whose injury claim is made).
+g. Negligent Failure to Warn:
+whether (defendant) negligently failed to warn about particular risks involved in the use of (the product), and, if so, whether that failure to warn was a legal cause of the [loss] [injury] [or] [damage] to (claimant, decedent, or person for whose injury claim is made).
+403.16 
+ISSUES ON CRASHWORTHINESS AND "ENHANCED INJURY" CLAIMS(RESERVED)
+
+[In addition, there is a second  [**36] set of issues you must also decide in this case.]* (Claimant) [next] claims [he] [she] suffered [greater] [or] [additional] injuries in the accident than [he] [she] would have otherwise suffered if (describe the alleged crashworthiness defect) had not been defective. (Claimant) does not claim that (describe the alleged crashworthiness defect) caused the accident.**
+
+*Use the bracketed language when there are other defect claims in the case.
+
+**The defendant is entitled to have the jury instructed on this last sentence "when appropriate." D'Amario v. Ford Motor Co., 806 So.2d 424 (Fla. 2001).
+
+The issues you must decide on this claim are whether (describe the alleged defective part of the product) was defective and, if so, whether that defect was a legal cause of [loss] [injury] [or] [damage] to (claimant, decedent, or person for whose injury claim is made) that was [greater than] [or] [additional to that which] [he] [she] would have suffered if (describe the alleged defective part of the product) had not been defective.
+
+A product is defective if it is unreasonably dangerous when it leaves the possession of the [manufacturer] [seller] [distributor] [supplier] [importer] [defendant] and the  [**37] product reaches the user or consumer without substantial change affecting that condition.
+
+A product is unreasonably dangerous to [the user] [a person in the vicinity of the product]* if [the product fails to perform as safely as an ordinary consumer would expect when used as intended or when used in a manner reasonably foreseeable by the [manufacturer] [seller] [distributor] [supplier] [importer]].
+
+*When the injured person is a bystander, use the language in the second set of brackets. See ,West v. Caterpillar Tractor Co., Inc., 336 So.2d 80 (Fla. 1976)
+ and Sanchez v. Hussey Seating Co., 698 So.2d 1326 (Fla. 1st DCA 1997)
+. See 403.7 note 2.
+
+Normally a defendant is responsible for only [loss] [injury] [or] [damage] caused by its product and not the actions of others. If you find that the (describe the alleged defective part of the product) was defective and that defect caused [loss] [injury] [or] [damage] to (claimant) that was [greater than] [or] [additional to that which] would have resulted from the accident if (describe the alleged defective part of the product) had not been defective, you should try to separate the damages caused by (describe the alleged defective part of the product),  [**38] determine what part of (claimant's) [loss] [injury] [or] [damage] resulted from (describe the alleged defective part of the product), and the actions of others and award (claimant) money only for those damages caused by (describe the alleged defective part of the product). However, if you cannot separate some or all of the damages, you must award (claimant) [*801]  any damages that you cannot separate as if they were all caused by (defendant).
+NOTES ON USE FOR 403.16
+
+1. The term "enhanced injury" is not used in this instruction. Although cases use that term, the committee believes that "enhance" has a connotation not appropriate for describing traumatic injuries. More appropriate terms might be "aggravated," "increased injury," or "separate injury." For that reason, the committee has used quotation marks for the term "enhanced injury" in the title to this instruction. Although many of these claims involve motor vehicles, there is no reason the same principle would not apply to any "enhanced injury" claim regardless of the product involved.
+
+2. Use this instruction for "crashworthiness" claims instead of instruction 403.15. But instruction 403.15 should be used together with this instruction when  [**39] there is also a defect claim that does not involve a claim of an "enhanced injury." In cases in which there is a claim that one defect caused the accident but a different defect caused an "enhanced injury," it may be necessary to identify the separate defects.
+
+3. It is not necessary to repeat the definition of defectiveness in paragraph 2 of this instruction if it has already been given as part of earlier instructions.
+
+4. This instruction retains the risk/benefit test for product defect, which previously appeared in PL 5. As noted in Note 3 to instruction 403.7, pending further development in the law, the committee takes no position on whether the risk/benefit test is a standard of product defect or an affirmative defense. See 403.7, 403.18. The risk/benefit test is provided in both instructions to illustrate how it is used in either case. If a court determines that the risk/benefit test is a test for product defect, the committee takes no position on whether both the consumer expectations and risk/benefit tests should be given alternatively or together.
+ 403.17 BURDEN OF PROOF ON MAIN CLAIM
+If the greater weight of the evidence does not support [one or more of] (claimant's) claim[s], your  [**40] verdict should be for (defendant) [on [that] [those] claim(s)].
+[However, if the greater weight of the evidence does support one or more of] (claimant's) claim[s], then your verdict should be for (claimant) and against (defendant) [on [that] [those] claim(s)].
+[However, if the greater weight of the evidence supports (claimant's) claim against one or [both] [more] of the defendants], then you should decide and write on the verdict form the percentage of the total fault of [both] [all] defendants that was caused by each of them.
+ NOTE ON USE FOR 403.17
+Use the first paragraph in all cases. If there is an affirmative defense to the claim, do not use either of the bracketed paragraphs; instead turn to instruction 403.18. If there is no affirmative defense, use the first or second bracketed paragraph depending on whether there is one defendant or more than one.
+ 403.18 DEFENSE ISSUES
+If, however, the greater weight of the evidence supports [(claimant's) claim] [one or more of (claimant's) claims], then you shall consider the defense[s] raised by (defendant).
+On the [first] defense, the issue[s] for you to decide [is] [are]:
+ [*802]  a. Comparative Negligence:
+whether (claimant) was [himself] [herself] negligent*  [**41] and, if so, whether such negligence was a contributing legal cause of the injury or damage complained of.
+*If the jury has not been previously instructed on the definition of negligence, instruction 401.4 should be inserted here.
+b. Risk/Benefit Defense:
+whether, on balance, the [benefits] [or] [value] of (the product) outweigh the risks or danger connected with its use.
+ NOTE ON USE FOR 403.18b
+In a strict liability defective design case, a defendant may be entitled to an affirmative defense based on the risk/benefit test. See Force v. Ford Motor Co., 879 So.2d 103, 106 (Fla. 5th DCA 2004); Adams v. G. D. Searle & Co., 576 So.2d 728, 733 (Fla. 2d DCA 1991); Cassisi v. Maytag Co., 396 So.2d 1140, 1145-46 (Fla. 1st DCA 1981). Pending further development in the law, the committee takes no position on whether the risk/benefit test is a standard for product defect that should be included in instruction 403.7 or an affirmative defense under instruction 403.18. The court should not, however, instruct on risk/benefit as both a test of defectiveness under 403.7 and as an affirmative defense under 403.18.
+c. Government Rules Defense:
+No instruction provided.
+ NOTE ON USE FOR 403.18c
+Florida Statutes section 768.1256  [**42] provides for a rebuttable presumption in the event of compliance or noncompliance with government rules. The statute does not state whether the presumption is a burden-shifting or a vanishing presumption. See F.S. 90.301-90.304. Pending further development in the law, the committee offers no standard instruction on this presumption, leaving it up to the parties to propose instructions on a case-by-case basis.
+d. State-of-the-art Defense:
+In deciding the issues in this case, you shall consider the state-of-the-art of scientific and technical knowledge and other circumstances that existed at the time of (the product's) manufacture, not at the time of the loss or injury.
+ NOTE ON USE FOR 403.18d
+Instruction 403.7d applies only in defective design cases. F.S. 768.1257.
+ NOTES ON USE FOR 403.18
+1. Comparative negligence is a defense to strict liability claims if based on grounds other than the failure of the user to discover the defect or to guard against the possibility of its existence. West v. Caterpillar Tractor Co., 336 So.2d 80, 90 (Fla. 1976). Model Instruction 7 illustrates the defense of comparative negligence in a negligence/express warranty action against a retailer, and Model Instruction  [**43] 8 illustrates the same defense in a negligence/strict liability action against a manufacturer and retailer.
+2. The "patent danger doctrine" is not an independent defense but, to the extent applicable (see note 1), it is subsumed in the defense of contributory negligence. Auburn Machine Works Inc. v. Jones, 366 So.2d 1167 (Fla. 1979).
+ 403.19 BURDEN OF PROOF ON DEFENSE ISSUES
+If the greater weight of the evidence does not support (defendant's) defense[s] and the greater weight of the evidence supports (claimant's) [claim] [one or more of (claimant's) claims], then [your verdict should be for (claimant) in the  [*803]  total amount of [his] [her] damages.] *[you should decide and write on the verdict form what percentage of the total damages was caused by each defendant.]
+*Use the second bracketed language when there is more than one defendant.
+If, however, the greater weight of the evidence shows that both (claimant) and [(defendant)] [one or more of the defendants] [and] [(identify additional person(s) or entit(y)(ies))] were at fault and that the fault of each contributed as a legal cause of [loss] [injury] [or] [damage] sustained by (claimant), you should decide and write on the verdict form the  [**44] total amount of the damages and what percentage of the total damages is chargeable to each party.
+Use the following instruction in cases with a comparative negligence defense and an apportionment of a non-party defense:
+[If, however, the greater weight of the evidence shows that (claimant) and [(defendant)] [one or more of (defendants)] [and] [(identify additional person(s) or entit(y)(ies))] were at fault and that the fault of each contributed as a legal cause of [loss] [injury] [or] [damage] sustained by (claimant), you should decide and write on the verdict form what percentage of the total fault of [both] [all] parties to this action [and] [(identify additional person(s) or entit(y)(ies))] is chargeable to each of them.]
+Use the following paragraph in cases without a comparative negligence defense but with an apportionment of non-party defense:
+[If, however, the greater weight of the evidence shows that [(defendant)] [one or more of (defendants)] and [(identify additional person(s) or entit(y)(ies))] were at fault and that the fault of each contributed as a legal cause of [loss] [injury] [or] [damage] sustained by (claimant), you should decide and write on the verdict form what percentage  [**45] of the total fault of [(defendant(s))] [and] [(identify additional person(s) or entit(y)(ies))] is chargeable to each of them.]
+ NOTE ON USE FOR 403.19
+Preemptive charges on defense issues. If a preemptive charge for claimant is appropriate on a defense issue, as when comparative negligence or assumption of risk has been brought to the jury's attention on voir dire or by opening statements or argument and is now to be withdrawn, a charge in the form of instruction 401.13 should be given immediately following instruction 403.15. If a preemptive charge for defendant is required on some aspect of a defense, as when, for example, the court holds that any comparative negligence of the driver will reduce claimant's recovery, a preemptive charge announcing the ruling should be given immediately after framing the defense issues (instruction 403.17).
+ MODEL CHARGE NO. 7
+(
+product liability case; negligence and implied and express warranty claims; comparative negligence as defense)
+ Facts of the hypothetical case
+
+John Smith's lawn had many pebbles in it, and he asked Ms. Best of Best Hardware Store, Inc., whether the Best model E power mower, featured in Best's sale of discontinued items, was suitable  [**46] for cutting such a lawn. Best manufactured and sold such mowers directly to the public. Ms. Best replied that the Best model E had a guard which deflected material out and down, instead of sideways, so that it could safely be used in those circumstances. At the time of the sale, Ms. Best [*804]  could not find an owner's manual for the mower, but she promised to send one to Smith. The manual contained an express warning against mowing over loose impediments, such as gravel, stones and small rocks. Smith bought the mower, and mowed his lawn that same day. He observed a few rocks being propelled ten to twenty feet forward from the mower, but continued to mow. A large rock was propelled sideways, bouncing off of a nearby wall and into Smith's eye. Smith sued Best Hardware for negligence, breach of an express warranty and breach of an implied warranty of fitness for a particular purpose. Best denied those allegations and pleaded Smith's comparative negligence. Those issues are to be submitted to the jury.
+ The court's charge
+
+[2.1] Members of the jury, I shall now instruct you on the law that you must follow in reaching your verdict. It is your duty as jurors to decide the issues, and only those issues,  [**47] that I submit for determination by your verdict. In reaching your verdict, you should consider and weigh the evidence, decide the disputed issues of fact, and apply the law on which I shall instruct you, to facts as you find them from the evidence
+.
+
+The evidence in this case consists of the sworn testimony of the witnesses, all exhibits received in evidence and all facts that may be admitted or agreed to by the parties.
+
+In determining the facts, you may draw reasonable inferences from the evidence. You may make deductions and reach conclusions which reason and common sense lead you to draw from the facts shown by the evidence in this case, but you should not speculate on any matters outside the evidence.
+
+[2.2
+a
+] In determining the believability of any witness and the weight to be given the testimony of any witness, you may properly consider the demeanor of the witness while testifying; the frankness or lack of frankness of the witness; the intelligence of the witness; any interest the witness may have in the outcome of the case; the means and opportunity the witness had to know the facts about which the witness testified; the ability of the witness to remember the matters about which the  [**48] witness testified; and the reasonableness of the testimony of the witness, considered in the light of all the evidence in the case and in the light of your own experience and common sense
+.
+
+[2.2
+b
+] Some of the testimony before you was in the form of opinions about certain technical subjects
+.
+
+You may accept such opinion testimony, reject it, or give it the weight you think it deserves, considering the knowledge, skill, experience, training or education of the witness; the reasons given by the witness for the opinion expressed; and all the other evidence in the case
+.
+
+[2.4] In your deliberations, you are to consider three distinct claims.
+Plaintiff, John Smith, alleges, first, that defendant, Best Hardware, was negligent in the transaction about which you have heard evidence; second, that Best breached an express warranty made in selling the lawn mower in question; and, third, that Best breached an implied warranty that the mower was fit for a particular purpose. Best denies all claims and, further, alleges, as a defense to all claims, that Smith was, himself, negligent in the operation of the lawn mower
+. Although
+all of Smith's
+claims have been tried together, each is separate from the others,  [**49] and each party is entitled to have you separately consider  [*805]  each claim as it affects that party. Therefore, in your deliberations, you should consider the evidence as it relates to each claim separately, as you would had each claim been tried before you separately
+.
+
+[Conventional charge on claim 3.5] The issues for your determination on the
+negligence
+claim of plaintiff Smith against defendant Best Hardware are whether Best was negligent in failing to warn Smith of a known danger in the operation of the lawn mower sold to Smith by Best and, if so, [3.6
+c] 
+whether such negligence was a legal cause of injury or damage sustained by Smith.
+
+[4.1] Negligence is the failure to use reasonable care. Reasonable care is that degree of care which a reasonably careful person would use under like circumstances. Negligence may consist either in doing something that a reasonably careful person would not do under like circumstances, or in failing to do something that a reasonably careful person would do under like circumstances
+.
+
+[3.7] If the greater weight of the evidence does not support the
+negligence
+claim of Smith, then your verdict
+on that claim
+should be for Best Hardware
+.
+
+[PL] The issues for your determination  [**50] on the
+breach of warranty
+claim
+s
+of plaintiff, Smith, against defendant, Best Hardware, are whether the lawn mower sold by Best was defective when it left the possession of Best and, if so, whether such defect was a legal cause of injury or damage sustained by Smith. The product is defective [PL 1] if it does not conform to representations of fact made by Best, orally or in writing, in connection with the sale, on which Smith relied in the purchase and use of the product. Such a representation must be one of fact, rather than opinion. The product is also defective [PL 3] if it is not reasonably fit for the specific purpose for which Best knowingly sold the product and for which
+Smith
+bought the product in reliance on the judgment of Best
+.
+
+[PL resumed] If the greater weight of the evidence does not support
+either of
+the
+breach of warranty
+claim
+s
+of Smith, your verdict
+on those claims
+should be for Best Hardware
+.
+
+[3.8 and PL combined] However, if the greater weight of the evidence does support
+any one of Smith's claims
+, then you shall consider the defense raised by Best Hardware. On the defense, the issues for your determination are [3.8
+a
+modified] whether Smith was, himself, negligent
+in his operation  [**51] or use of the lawn mower
+and, if so, whether such negligence was a contributing legal cause of the injury or damage complained of
+.
+
+[3.8 modified] If the greater weight of the evidence does not support the defense of Best Hardware, and the greater weight of the evidence does support
+one or more of
+the claim
+s
+of Smith, then your verdict should be for Smith in the total amount of his damages. If, however, the greater weight of the evidence shows
+either that Best Hardware was negligent or that the lawn mower was defective in the manner I have described, and shows also that Smith was negligent, and that the negligence of Best, or the defect, and the negligence of Smith
+each contributed as a legal cause of injury or damage sustained by Smith, you should determine and write on the verdict form what percentage of the total
+fault
+of both parties to this action is chargeable to each
+.
+
+[3.9] "Greater weight of the evidence" means the more persuasive and  [*806]  convincing force and effect of the entire evidence in the case
+.
+
+[5.1
+a
+and
+5.2a
+combined] Negligence
+or a defect in a product
+is a legal cause of loss, injury or damage if it directly and in a natural and continuous sequence produces or contributes substantially  [**52] to producing such loss, injury or damage, so that it can reasonably be said that, but for the negligence
+or defect
+, the loss, injury or damage would not have occurred
+.
+
+[5.1
+b
+and 5.2b
+combined] In order to be regarded as a legal cause of loss, injury or damage, negligence
+or a defect in a product
+need not be the only cause. Negligence
+or a defect
+may be a legal cause of loss, injury or damage even though it operates in combination with the act of another, if such other cause occurs at the same time as the negligence,
+or at the same time the defect has its effect
+, and if the negligence
+or defect
+contributes substantially to producing such loss, injury or damage
+.
+
+[6.1
+c
+] If your verdict is for Best Hardware
+on all of Smith's claims, 
+you will not consider the matter of damages. But, if you find for Smith
+on any of his claims
+, you should determine and write on the verdict form, in dollars, the total amount of damage which the greater weight of the evidence shows he sustained as a result of the incident complained of, including any such damage as Smith is reasonably certain to experience in the future. You shall consider the following elements
+:
+
+[6.2
+a
+] Any bodily injury sustained by Smith and any resulting  [**53] pain and suffering, disability or physical impairment, disfigurement, mental anguish, inconvenience or loss of capacity for the enjoyment of life experienced in the past, or to be experienced in the future. There is no exact standard for measuring such damage. The amount should be fair and just, in the light of the evidence
+.
+
+[6.2
+c
+] The reasonable expense of hospitalization and medical care and treatment necessarily or reasonably obtained by Smith in the past, or to be so obtained in the future
+.
+
+[6.2
+d
+] Any earnings lost in the past, and any loss of ability to earn money in the future
+.
+
+[6.9
+a
+] If the greater weight of the evidence shows that Smith has been permanently injured, you may consider his life expectancy. The mortality tables received in evidence may be considered in determining how long Smith may be expected to live. Such tables are not binding on you, but may be considered together with other evidence in the case bearing on Smith's health, age and physical condition, before and after the injury, in determining the probable length of his life
+.
+
+[6.10] Any amount of damages which you allow for future medical expenses or loss of ability to earn money in the future should be reduced  [**54] to its present money value, and only the present money value should be stated in your verdict. The present money value of future economic damages is the sum of money needed now which, together with what that sum will earn in the future, will compensate Smith for these losses as they are actually experienced in future years.
+
+[6.1
+c, 
+resumed] In determining the total amount of damages, you should not make any reduction because of the negligence, if any, of Smith. The court will enter a judgment based on your verdict and, if you find that Smith was  [*807]  negligent in any degree, the court, in entering judgment, will reduce the total amount of damages by the percentage of negligence which you find is chargeable to Smith
+.
+
+[7.1] Your verdict must be based on the evidence that has been received, and the law on which I have instructed you. In reaching your verdict, you are not to be swayed from the performance of your duty by prejudice, sympathy or any other sentiment for or against any party.
+
+[7.2] When you retire to the jury room, you should select one of your number to act as foreman or forewoman, to preside over your deliberations and sign your verdict. Your verdict must be unanimous, that is, your  [**55] verdict must be agreed to by each of you. You will be given a verdict form, which I shall now read and explain to you.
+(Court reads and explains verdict form)
+
+When you have agreed on your verdict, the foreman or forewoman, acting for the jury, should date and sign it. You may now retire to consider your verdict.
+ Special Verdict Form  
+VERDICT
+
+We, the jury, return the following verdict:
+
+1. Was there negligence on the part of defendant, Best Hardware Store, Inc., which was a legal cause of damage to plaintiff, John Smith
+
+YES    
+
+NO    
+
+2. Was the lawn mower defective when sold and, if so, was the defect a legal cause of damage to plaintiff, John Smith
+
+YES    
+
+NO    
+
+If your answers to questions 1 and 2 are both NO, your verdict is for defendant, and you should not proceed further except to date and sign this verdict form and return it to the courtroom. If your answer to either question 1 or question 2 is YES, please answer question 3.
+
+3. Was there negligence on the part of plaintiff, John Smith, which was a legal cause of his damage
+
+YES    
+
+NO    
+
+If your answer to question 3 is YES, please answer question 4. If your answer to question 3 is NO, skip question 4 and answer question 5.
+
+4. State the percentage  [**56] of any fault, which was a legal cause of damage to plaintiff, John Smith, that you charge to:
+
+Defendant, Best Hardware Store    %
+Plaintiff, John Smith    %
+
+Total must be 100%
+
+Please answer question 5.
+
+5. What is the total amount (100%) of any damages sustained by plaintiff, John Smith, and caused by the incident in question
+Total damages of plaintiff, John Smith $   
+
+In determining the total amount of damages, do not make any reduction because of the negligence, if any, of plaintiff, John Smith. If you find plaintiff, John Smith, negligent in any degree, the court, in entering judgment, will reduce Smith's total amount of damages (100%) by the percentage of negligence which you find is chargeable to Smith.
+SO SAY WE ALL, this     day of    ,19    .
+FOREMAN OR FOREWOMAN
+NOTE ON USE
+
+For a model itemized verdict form, as contemplated by section 768.77, Florida Statutes
+, refer to Model Verdict Form 8.1.
+ MODEL CHARGE NO. 8
+(product liability case; negligence and strict liability claims; comparative negligence defense)
+ Facts of the hypothetical case
+
+John Smith was injured when he was struck by a new hay baler being driven by Dilbert Driver on the highway near Driver's farm. The hay baler suddenly swerved  [**57] across the road into the path of Smith, who was approaching in the opposite direction. At the time, Smith was  [*808]  watching a group of deer in a field near the road, and failed to observe the hay baler in time to avoid the collision with his vehicle. An examination of the hay baler revealed that part of the steering mechanism was designed in such a way that it could not sustain the speed of highway driving. The mechanism had broken, making it impossible for Driver to steer the baler. There was evidence that a person could have observed the weakened condition of the steering mechanism had he or she examined it before driving the hay baler. Smith sued Driver, alleging that his operation of the hay baler had been negligent. Smith also sued the manufacturer of the hay baler, Mishap Manufacturing Co., and the retailer seller, Sharp Sales Co., alleging that the hay baler had been defectively built and that both had been negligent in their inspections of the hay baler. He sought recovery against both the manufacturer and the retailer on claims of (1) negligence and (2) strict liability. The defendants denied liability, and affirmatively alleged that Smith had been comparatively negligent. All  [**58] issues are to be submitted to the jury.
+ The court's charge
+
+[2.1] Members of the jury, I shall now instruct you on the law that you must follow in reaching your verdict. It is your duty as jurors to decide the issues, and only those issues, that I submit for your determination by your verdict. In reaching your verdict, you should consider and weigh the evidence, decide the disputed issues of fact, and apply the law on which I shall instruct you, to facts as you find them from the evidence.
+
+The evidence in this case consists of the sworn testimony of the witnesses, all exhibits received in evidence and all facts that may be admitted or agreed to by the parties.
+
+In determining the facts, you may draw reasonable inferences from the evidence. You may make deductions and reach conclusions which reason and common sense lead you to draw from the facts shown by the evidence in this case, but you should not speculate on any matters outside the evidence.
+
+[2.2
+a
+] In determining the believability of any witness and the weight to be given the testimony of any witness, you may properly consider the demeanor of the witness while testifying; the frankness or lack of frankness of the witness; the intelligence  [**59] of the witness; any interest the witness may have in the outcome of the case; the means and opportunity the witness had to know the facts about which the witness testified; the ability of the witness to remember the matters about which the witness testified; and the reasonableness of the testimony of the witness, considered in the light of all the evidence in the case and in the light of your own experience and common sense
+.
+
+[2.2
+b
+] Some of the testimony before you was in the form of opinions about certain technical subjects
+.
+
+You may accept such opinion testimony, reject it, or give it the weight you think it deserves, considering the knowledge, skill, experience, training or education of the witness; the reasons given by the witness for the opinion expressed; and all the other evidence in the case.
+
+[2.4] In your deliberations, you are to consider several distinct claims.
+Plaintiff, John Smith, alleges, first, that defendant Dilbert Driver was negligent in operating the hay baler in the circumstances shown by the evidence, and that such negligence was a legal cause of  [*809]  injury to Smith. Smith also alleges that the defendants Mishap Manufacturing Company, the manufacturer, and Sharp Sales  [**60] Company, the retail seller, were negligent- Mishap in designing, manufacturing and inspecting the baler, and Sharp in inspecting it before sale. Finally, Smith also alleges that, regardless of whether they were negligent or not, Mishap and Sharp should be held strictly liable for his damages because they placed the hay baler on the market in a defective condition, unreasonably dangerous to the user. All three defendants deny these claims and assert, as a defense, that Smith was, himself, negligent in the operation of his vehicle
+. Although Smith's claims have been tried together, each is separate from the others, and each party is entitled to have you separately consider each claim as it affects that party. Therefore, in your deliberations, you should consider the evidence as it relates to each claim separately, as you would had each claim been tried before you separately
+.
+
+[Conventional charge on claim 3.5] The issues for your determination on the
+negligence
+claims of plaintiff Smith against defendants are whether defendant Driver was negligent in operating the hay baler at the time and place in question, whether defendant Mishap was negligent in designing, manufacturing or inspecting  [**61] the hay baler, thereby placing it on the market in a defective condition, and whether defendant Sharp was negligent in inspecting the hay baler before sale; and, if so, [3.6
+c] 
+whether such negligence was a legal cause of loss, injury or damage sustained by Smith
+.
+
+[4.1] Negligence is the failure to use reasonable care. Reasonable care is that degree of care which a reasonably careful person would use under like circumstances. Negligence may consist either in doing something that a reasonably careful person would not do under like circumstances, or in failing to do something that a reasonably careful person would do under like circumstances.
+
+[3.7] If the greater weight of the evidence does not support the
+negligence
+claim of plaintiff Smith against defendant Driver, or defendant Mishap, or defendant Sharp, then your verdict
+on that claim
+should be for
+that
+defendant
+.
+
+[PL] The issues for your determination on the
+strict liability
+claims of plaintiff Smith against defendants Mishap and Sharp are whether the hay baler sold by the defendant was defective when it left the possession of the defendant and, if so, whether such defect was a legal cause of loss, injury or damage sustained by Smith. A product  [**62] is defective [PL 4] if it is in a condition unreasonably dangerous to the user and the product is expected to and does reach the user without substantial change affecting that condition
+.
+
+[PL resumed] If the greater weight of the evidence does not support the
+strict liability
+claim of plaintiff Smith against Mishap, the manufacturer, or against Sharp, the retail seller, then your verdict
+on that claim
+should be for
+that
+defendant
+.
+
+[3.8 and PL combined] However, if the greater weight of the evidence does support
+plaintiff Smith's negligence claim against any defendant or his strict liability claim against defendant Mishap or defendant Sharp
+, then you shall consider the defense raised by
+that
+defendant. On the defense, the issues for your determination are [3.8
+a
+] whether Smith was, himself, negligent in the operation of his vehicle, and, if so, whether such negligence was a contributing legal [*810]  cause of the injury or damage complained of
+.
+
+[3.8 modified] If the greater weight of the evidence does not support the defense of defendants, and the greater weight of the evidence does support 
+one or more of
+the claims of Smith, then your verdict should be for Smith in the total amount of his damages. If, however,  [**63] the greater weight of the evidence shows
+that one or more of the defendants were negligent or that the hay baler was defective when sold by defendant Mishap or by defendant Sharp, and the evidence shows also that Smith was negligent
+, you should determine and write on the verdict form what percentage of the total
+fault
+of all parties to this action is chargeable to each
+.
+
+[3.9] "Greater weight of the evidence" means the more persuasive and convincing force and effect of the entire evidence in the case
+.
+
+[5.1
+a
+and 5.2
+a
+combined] Negligence
+or a defect in a product
+is a legal cause of loss, injury or damage if it directly and in a natural and continuous sequence produces or contributes substantially to producing such loss, injury or damage, so that it can reasonably be said that, but for the negligence
+or defect
+, the loss, injury or damage would not have occurred
+.
+
+[5.1
+b
+and 5.2
+b
+combined] In order to be regarded as a legal cause of loss, injury or damage, negligence
+or a defect in a product
+need not be the only cause. Negligence
+or a defect
+may be  [**64] a legal cause of loss, injury or damage even though it operates in combination with the act of another, if such other cause occurs at the same time as the negligence,
+or at the same time the defect has its effect
+, and if the negligence
+or defect
+contributes substantially to producing such loss, injury or damage
+.
+
+[6.1
+c
+] If your verdict is for
+all
+defendants
+on all of plaintiff Smith's claims
+, you will not consider the matter of damages. But, if you find for Smith
+on any of his claims against any defendant
+, you should determine and write on the verdict form, in dollars, the total amount of loss or damage which the greater weight of the evidence showed Smith sustained as a result of the incident complained of, including any such damage as Smith is reasonably certain to experience in the future. You shall consider the following elements
+:
+
+[6.2
+a
+] Any bodily injury sustained by Smith and any resulting pain and suffering, disability or physical impairment, disfigurement, mental anguish, inconvenience or loss of capacity for the enjoyment of life experienced in the past, or to be experienced in the future. There is no exact standard for measuring such damage. The amount should be fair and just, in the  [**65] light of the evidence
+.
+
+[6.2
+c
+] The reasonable expense of hospitalization and medical care and treatment necessarily or reasonably obtained by Smith in the past, or to be so obtained in the future
+
+[6.2
+d
+] Any earnings lost in the past, and any loss of ability to earn money in the future
+.
+
+[6.9
+a
+] If the greater weight of the evidence shows that Smith has been permanently injured, you may consider his life expectancy. The mortality tables received in evidence may be considered in determining how long Smith may be expected to live. Such tables are not binding on you, but may be considered together with other evidence in the case bearing on Smith's health, age and physical condition, before and after the injury, in determining the probable length of his life
+.
+ [*811]  
+[6.10] Any amount of damages which you allow for future medical expenses or loss of ability to earn money in the future should be reduced to its present money value, and only the present money value of these future economic damages should be included in your verdict. The present money value of future economic damages is the sum of money needed now which, together with what that sum will earn in the future, will compensate Smith for these  [**66] losses as they are actually experienced in future years
+.
+
+[6.1
+c
+, resumed] In determining the total amount of damages, you should not make any reduction because of the negligence, if any, of Smith. The court will enter a judgment based on your verdict and, if you find that Smith was negligent in any degree, the court, in entering judgment, will reduce the total amount of damages by the percentage of negligence which you find is chargeable to Smith
+.
+
+[7.1] Your verdict must be based on the evidence that has been received, and the law on which I have instructed you. In reaching your verdict, you are not to be swayed from the performance of your duty by prejudice, sympathy or any other sentiment for or against any party
+.
+
+[7.2] When you retire to the jury room, you should select one of your number to act as foreman or forewoman, to preside over your deliberations and sign your verdict. Your verdict must be unanimous, that is, your verdict must be agreed to by each of you. You will be given a verdict form, which I shall now read and explain to you
+.
+
+(Court reads and explains verdict form)
+
+When you have agreed on your verdict, the foreman or forewoman, acting for the jury, should date and sign it.  [**67] You may now retire to consider your verdict.
+ Special Verdict Form  
+VERDICT
+
+We, the jury, return the following verdict:
+
+1a. Did defendant Mishap Manufacturing Co. place the hay baler on the market with a defect which was a legal cause of damage to plaintiff, John Smith
+
+YES    
+
+NO    
+
+1b. Was there negligence on the part of defendant Mishap Manufacturing Co. which was a legal cause of damage to plaintiff, John Smith
+
+YES    
+
+NO    
+
+2a. Did defendant Sharp Sales Co. place the hay baler on the market with a defect which was a legal cause of damage to plaintiff, John Smith
+
+YES    
+
+NO    
+
+2b. Was there negligence on the part of defendant Sharp Sales Co. which was a legal cause of damage to plaintiff, John Smith
+
+YES
+
+NO
+
+3. Was there negligence on the part of defendant Dilbert Driver which was a legal cause of damage to plaintiff, John Smith
+
+YES    
+
+NO    
+
+If your answers to this point are all NO, your verdict is for the defendants, and you should not proceed further except to date and sign this verdict form and return it to the courtroom. If your answer to any of the preceding questions is YES, please answer question 4.
+
+4. Was there negligence on the part of plaintiff, John Smith, which was a legal cause of his  [**68] damage
+ [*812]  
+YES    
+
+NO    
+
+Please answer question 5.
+
+5. State the percentage of any responsibility for plaintiff Smith's damages that you charge to
+:
+
+Defendant Mishap Manufacturing Co. (fill in only if you answered YES to question 1a, question 1b, or both)    
+%
+
+Defendant Sharp Sales Co. (fill in only if you answered YES to question 2a, question 2b, or both)    
+%
+
+Defendant Dilbert Driver (fill in only if you answered YES to question 3)    
+%
+
+Plaintiff, John Smith (fill in only if you answered YES to question 4)    
+%
+
+TOTAL RESPONSIBILITY OF ALL PARTIES MUST BE 100%
+
+Please answer question 6.
+
+6. What is the total amount (100%) of any damages sustained by plaintiff, John Smith, and caused by the incident in question
+
+Total damages of plaintiff, John Smith 
+$   
+
+In determining the total amount of damages, do not make any reduction because of the negligence, if any, of plaintiff, John Smith. If you find plaintiff, John Smith, negligent in any degree, the court, in entering judgment, will reduce Smith's total amount of damages (100%) by the percentage of negligence which you find is chargeable to Smith.
+
+SO SAY WE ALL, this   
+day of    , 
+19    .
+
+FOREMAN OR FOREWOMAN NOTE ON USE
+
+For a model itemized verdict form, as  [**69] contemplated by section 768.77, Florida Statutes
+, refer to Model Verdict Form 8.1.
+ COMMENT ON MODEL CHARGE NO. 8
+
+The Committee purposefully omitted from this hypothetical case, and from Model Charge No. 7, any possible claim by John Smith against the retailer or manufacturer based upon an implied warranty theory. Whether or not Smith was in privity with either defendant, 
+see § 672.318, Fla. Stat.
+ (1995), and regardless of any implied warranty claim that may have existed notwithstanding the strict liability claim, 
+see Kramer v. Piper Aircraft Corp520 So.2d 37, 39 n. 4 (Fla. 1988)
+., , the claims in this hypothetical case included no claim of implied warranty.
+
+The model charge and verdict form assume that both the negligence and strict liability claims are to be submitted to the jury. In cases involving claims of both negligent and defective DESIGN, however, submission of both claims may result in an inconsistent verdict. See, 
+e.g
+., 
+Consolidated Aluminum Corp. v. Braun447 So.2d 391 (Fla. 4th DCA 1984)
+, ; 
+Ashby Div. of Consolidated Aluminum Corp. v. Dobkin458 So.2d 335 (Fla. 3d DCA 1984)
+, , 
+North American Catamaran Racing Ass'n v. McCollister
+, 480 So.2d 669 (Fla. 5th DCA 1985)
+. See also 
+Moorman  [**70] v. American Safety Equipment594 So.2d 795 (Fla. 4th DCA 1992)
+, .
+Concur by: PARIENTE; CANADY (In Part); QUINCE (In Part)  
+Concur
+
+
+
+
+ [*788contd] 
+[EDITOR'S NOTE: The page numbers of this document may appear to be out of sequence; however, this pagination accurately reflects the pagination of the original published document.]
+ PARIENTE, J., concurring.
+A dedicated group of individuals has worked very hard in reorganizing the Standard Civil Jury Instructions for Products Liability, and I thank those Committee members. I concur with our decision to grant preliminary approval for the adoption of the majority of the proposed instructions. I further agree that in light of the legislative changes regarding crashworthiness, Instruction 403.16 must be rejected in its present form.
+I write to explain my reasons for agreeing with the majority's rejection of proposed Instruction 403.7, Strict Liability. As to Instruction 403.7, the Committee had proposed merging the definitions of manufacturing defect and design defect. I believe that the definitions of manufacturing defect and design defect should be kept separate in order to avoid confusion.
+The definition of a manufacturing defect currently contained in existing Instruction PL4 states: "A product is unreasonably dangerous because of a manufacturing defect if it was not built according to its intended design and fails to perform as safely as an ordinary consumer  [**71] would expect." This clarifies that the risk/benefit test is not a definition of an unintended manufacturing defect. Further, in the Committee's proposed notes on use, paragraph 1, the Committee specifically explains that the "risk/benefit test does not apply in cases involving claims of manufacturing defect," citing to Cassisi v. Maytag, 396 So. 2d 1140, 1146 (Fla. 1st DCA 1981). That is a correct statement of the law.
+With regard to design defect, the current Instruction PL5 states that "[a] product is unreasonably dangerous because of its design if [the product fails to perform as safely as an ordinary consumer would expect when used as intended or in a manner reasonably foreseeable by the manufacturer] [or] [the risk of danger in the design outweighs the benefits]." These alternative definitions encompass both the consumer expectations test and the risk/benefit test.
+With regard to defining design defect, according to commentator Larry S. Stewart, Instruction 403.7 was the "primary focus" of a "barrage of advocacy." I have read all the comments submitted, both those in favor and those against the proposed changes, and realize that the advocacy on both sides continues in this Court.  [**72] The existing committee note to PL5 has  [*789]  stated that the instruction defines "'unreasonably dangerous' both in terms of consumer expectations . . . and in terms weighing the design risk against its utility." It also explains that the instruction was adopted in response to this Court's opinion in Ford Motor Co. v. Hill, 404 So. 2d 1049, 1052 n.4 (Fla. 1981), which directed the Committee to improve its products liability jury instruction.
+In the proposed notes on use, paragraph 3, the Committee explains that the proposed instruction "retain[ed] the consumer expectations test and the risk/benefit test for product defect," both of which previously appeared in PL5, Design Defect. The proposed committee note specifically explained in paragraph 3 that "[p]ending further development in the law, the committee takes no position on whether the risk/benefit test is a standard for product defect that should be included in instruction 403.7 or an affirmative defense under instruction 403.18." In fact, proposed committee note 4 explains that Florida has not yet adopted provision 2(b) of the Restatement (Third) of Torts, Products Liability, which defines a design defect. In support, the proposed committee  [**73] note cites to Liggett Group, Inc. v. Davis, 973 So. 2d 467 (Fla. 4th DCA 2008), which recognized that this Court has only adopted the Restatement (Second) of Torts. The Fourth District subsequently certified the following specific question to this Court: "Should Florida adopt the Restatement (Third) of Torts for design defect cases?" Liggett Grp., Inc. v. Davis, 973 So. 2d 684, 685 (Fla. 4th DCA 2008). We declined to answer the certified question, as pointed out in the committee note.
+After the proposed committee notes were written, the Third District decided the case of Agrofollajes, S.A. v. E.I. Du Pont De Nemours & Co., 48 So. 3d 976, 996 (Fla. 3d DCA 2010), in which the Third District did adopt the Restatement (Third) of Torts, Products Liability, and rejected the "consumer expectations" test as an independent basis for finding a design defect. The Third District reversed a verdict in favor of the plaintiffs in part based on a jury instruction that was patterned after current Instruction PL5. Agrofollajes, 48 So. 3d at 996. Although a majority of this Court did not vote to accept jurisdiction in Agrofollajes, I hope that we will have the opportunity in the near future to clarify  [**74] the law regarding the proper definition of design defect and whether the definition varies depending on the type of product involved. I would urge the appellate courts to bring this issue to our attention by way of a certified question of great public importance in the appropriate case.
+Because this Court has not yet determined that issue and the definition of design defect is in a state of flux in Florida, I agree that the best course of action is to retain the current instructions on design defect, which have been in use since the 1980s, until this Court can reach a definitive substantive decision on this issue, including whether to adopt the Restatement (Third) of Torts regarding the definition of design defect. That decision should be made in the context of a case or controversy and not through an amendment to the jury instructions.
+Dissent by: CANADY (In Part); QUINCE (In Part)  
+Dissent
+
+
+
+
+CANADY, C.J., concurring in part and dissenting in part.
+I dissent from the Court's preliminary approval of new standard instructions 403.9 (Negligence); 403.10 (Negligent Failure to Warn); and 403.18 (Defense Issues). Because these particular instructions and certain of the comments associated with them have generated  [**75] substantial controversy, I conclude that it would be appropriate for the Court to now refrain from  [*790]  approving these instructions. The Court should defer addressing the contested issues until presented with a proper case for adjudication. I concur with the preliminary approval of the other new standard jury instructions.
+POLSTON, J., concurs.
+QUINCE, J., concurring in part and dissenting in part.
+I agree with Chief Justice Canady that we should not authorize for publication or use new standard instruction 403.10 (Negligence Failure to Warn). However, I also conclude that standard instruction 403.18 as modified should be authorized for publication and use.
+
+ 
+
+End of Document

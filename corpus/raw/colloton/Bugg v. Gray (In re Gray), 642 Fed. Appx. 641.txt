@@ -1,0 +1,46 @@
+
+  NeutralAs of: September 19, 2020 7:48 PM Z
+Bugg v. Gray (In re Gray)
+United States Court of Appeals for the Eighth Circuit
+October 7, 2015, Submitted; April 28, 2016, Filed
+No. 15-1345
+
+Reporter
+642 Fed. Appx. 641 *; 2016 U.S. App. LEXIS 7668 **
+ In re: Cyril M. Gray, Debtor; Eldon K. Bugg; Danny Bugg, Appellants, v. Cyril M. Gray, Appellee.  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Subsequent History: Rehearing denied by, Rehearing, en banc, denied by Bugg v. Gray (In re Gray), 2016 U.S. App. LEXIS 11697 (8th Cir., June 24, 2016)  
+Prior History:  [**1] Appeal from the United States Bankruptcy. Appellate Panel for the Eighth Circuit.
+Bugg v. Gray (In re Gray), 519 B.R. 767, 2014 Bankr. LEXIS 4830 (B.A.P. 8th Cir., 2014)  
+Counsel: Eldon K. Bugg, Appellant, Pro se, Boonville, MO. 
+Danny Bugg, Appellant, Pro se, Hot Springs, AR. 
+For Cyril M. Gray, Appellee: Marc Honey, William Marshall Hubbard, HONEY LAW FIRM, Hot Springs, AR.  
+Judges: Before SMITH, COLLOTON, and SHEPHERD, Circuit Judges. COLLOTON, Circuit Judge, concurring in the judgment.  
+Opinion
+
+
+
+
+ [*642]  PER CURIAM.
+Pro se creditors Eldon and Danny Bugg appeal from the judgment of the Bankruptcy Appellate Panel (BAP). The BAP affirmed the bankruptcy court's order holding that the Buggs had willfully violated the automatic stay provision of 11 U.S.C. § 362 when they evicted Chapter  [*643]  13 debtor Cyril Gray from his residence, and removed his truck and personal effects therefrom; but reversed its award of punitive damages based on the violation. For the following reasons, we conclude that the bankruptcy court's award of actual damages was also improper.
+This court applies the same review standards as the BAP, reviewing the bankruptcy court's factual findings for clear error and its legal conclusions de novo. See In re Vote, 276 F.3d 1024, 1026 (8th Cir. 2002). The commencement of a bankruptcy case creates an estate which includes all of the debtor's legal and equitable interests [**2]  in property as of the date the bankruptcy petition is filed. See 11 U.S.C. § 541(a)(1). The nature and extent of a bankruptcy debtor's property interests are governed by state law. See In re Broadview Lumber Co., Inc., 118 F.3d 1246, 1250 (8th Cir. 1997). The filing of a bankruptcy petition also triggers an automatic stay, which prohibits, inter alia, any act to take possession of, or to exercise control over, estate property. See 11 U.S.C. § 362(a). The automatic stay continues until the property in question is no longer property of the estate, the case is closed or dismissed, or a discharge is granted or denied. See 11 U.S.C. § 362(c).
+An individual who is harmed by a willful violation of the automatic stay is entitled to, as relevant to this appeal, actual damages. See 11 U.S.C. § 362(k)(1). Because there is no dispute that the Buggs willfully took possession of the property at issue, Gray was entitled to damages under section 362(k), if (1) he had legal or equitable interests--as determined by Arkansas state law--in the residence, truck, or personal effects; and (2) to the extent he had such interests, they had not been released from the estate, and thus the protection of the automatic stay, before he was evicted.
+First, assuming that the residence was properly included in the bankruptcy estate, we conclude that the stay was terminated as [**3]  to the residence before the Buggs evicted Gray. The parties do not dispute that, after the Buggs moved for relief from the automatic stay, the bankruptcy court did not comply with the statutorily mandated time frames set forth in 11 U.S.C. § 362(e) (automatic stay shall terminate with respect to party making request for relief from stay if bankruptcy court does not hold hearings or rule on motion by certain deadlines). As such, the automatic stay was terminated as to the residence by operation of law upon the section 362(e) violation. See Grundy Nat'l Bank v. Harman Invs., Inc., 887 F.2d 1079, 1079 [published in full-text format at 1989 U.S. App. LEXIS 21978], 1989 WL 117725, at *1 (4th Cir. 1989) (unpublished table decision). While the BAP found that the Buggs had waived their right to enforce the section 362(e) deadlines, we conclude that the BAP erred in relying on waiver because it is an affirmative defense that Gray failed to raise before the bankruptcy court, the BAP, or this court. See Stephenson v. Davenport Comm. Sch. Dist., 110 F.3d 1303, 1306 n.3 (8th Cir. 1997).
+Next, we conclude that the Buggs did not violate the automatic stay by taking possession of the personal effects, as the stay had been lifted as to those items because they were divested from the estate, prior to the eviction, by Gray's claimed exemptions for their full value. Cf. Schwab v. Reilly, 560 U.S. 770, 774-76, 130 S. Ct. 2652, 177 L. Ed. 2d 234 (2010); In re Grueneich, 400 B.R. 680, 684 (8th Cir. BAP 2009). As such, Gray was not entitled to relief under section 362(k) because the effects were no longer property of the estate, and the [**4]  estate suffered no harm. Finally, we conclude that--to the extent the estate had a legal or equitable interest in the truck--the estate nevertheless  [*644]  did not suffer any harm from its seizure, as a secured creditor had filed an uncontested claim against the estate for the balance of a loan secured by the truck, and Gray's co-signor has since reimbursed the creditor the full balance of that loan. See 11 U.S.C. § 362(k).
+Accordingly, we reverse the award of damages.
+Concur by: COLLOTON  
+Concur
+
+
+
+
+COLLOTON, Circuit Judge, concurring in the judgment.
+I agree that the bankruptcy court's award of damages should be reversed, but for different reasons. I am reluctant to declare that the Bankruptcy Appellate Panel erred by holding that creditors Eldon and Danny Bugg waived their right to enforce the statutory time limits under 11 U.S.C. § 362(e). As the BAP pointed out, the Buggs did not object to debtor Cyril Gray's request for a continuance of the hearing required by § 362(e), and then the Buggs moved for a continuance themselves on January 21, 2014—an act that "flies directly in the face of the argument that the stay had lapsed on January 12." In re Gray, 519 B.R. 767, 773 (8th Cir. BAP 2014). Despite the Buggs' present contention that the automatic stay had expired on January 12, they eventually came to an [**5]  agreement with Gray in February 2014 to modify the automatic stay. Even though Gray did not invoke an affirmative defense of waiver of the time limits in his pro se pleadings, the BAP had discretion to overlook any litigation waiver by Gray when the Buggs' waiver of the statutory deadlines was so obvious. Cf. Lufkins v. Leapley, 965 F.2d 1477, 1481 (8th Cir. 1992); United States v. Vontsteen, 950 F.2d 1086, 1091 (5th Cir. 1992).
+In my view, however, the Buggs did not violate the automatic stay because Gray's residence never became property of the bankruptcy estate. The undisputed evidence showed that before Gray filed his Chapter 13 petition, he had defaulted on the land installment contract involving the residence. As a result, the contract was terminated, and Gray's interest in the residence was converted to an at-will tenancy. When Gray failed to pay rent pursuant to the parties' agreement, the Buggs terminated the at-will tenancy, and Gray became a holdover tenant. Thus, under the better view of Arkansas law, the at-will tenancy ended with Gray's default, and he lost any interest in the residence when he failed to pay rent. The Buggs did not violate the automatic stay by taking possession of the residence, because Gray had no interest protected by the stay. See In re Ziemski, 338 B.R. 802, 804 (8th Cir. BAP 2006); Hosey v. Burgess, 319 Ark. 183, 890 S.W.2d 262, 267 (Ark. 1995); see also Ark. Code Ann. § 18-16-101; cf. Polk v. State, 28 Ark. App. 282, 772 S.W.2d 368, 369-70 (Ark. App. 1989). Because Gray's [**6]  interest in the residence was effectively terminated before he filed his bankruptcy petition, he also lost any interest he had in the truck and personal effects by leaving them at the premises. See Ark. Code Ann. § 18-16-108(a).
+When the Buggs evicted Gray from the residence in March 2014, they had initiated an unlawful-detainer action, but had not yet acquired a judgment of possession. Whether the Buggs might have violated the Arkansas entry and detainer statutes, however, is a separate matter from whether Gray retained an interest in the property such that the Buggs violated the automatic stay. E.g., Floro v. Parker, 205 So.2d 363, 365 (Fla. Dist. Ct. App. 1967) (explaining that it is "immaterial" in a forcible entry and detainer case whether the plaintiff had a legal right of possession or not).
+For these reasons, I agree that the Buggs did not violate the automatic stay, [*645]  and I concur in the judgment reversing the bankruptcy court's award of damages.
+
+ 
+
+End of Document

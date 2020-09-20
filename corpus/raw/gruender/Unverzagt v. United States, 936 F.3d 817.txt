@@ -1,0 +1,46 @@
+
+  NeutralAs of: September 19, 2020 8:13 PM Z
+Unverzagt v. United States
+United States Court of Appeals for the Eighth Circuit
+April 18, 2019, Submitted; August 29, 2019, Filed
+No. 17-2325
+
+Reporter
+936 F.3d 817 *; 2019 U.S. App. LEXIS 26215 **; 2019 WL 4062226
+ Norman Dale Unverzagt, Petitioner - Appellant, v. United States of America, Respondent - Appellee.  
+Prior History:  [**1] Appeal from United States District Court for the Western District of Missouri - Springfield.
+Unverzagt v. United States, 2017 U.S. Dist. LEXIS 61403 (W.D. Mo., Apr. 24, 2017)  
+Counsel: For Norman Dale Unverzagt, Petitioner - Appellant: Laine Cardarella, Federal Public Defender, Daniel Goldberg, Assistant Federal Public Defender, Federal Public Defender's Office, Kansas City, MO. 
+Norman Dale Unverzagt, Petitioner - Appellant, Pro se, Kansas City, KS. 
+For United States of America, Respondent - Appellee: James J. Kelleher, U.S. Attorney's Office, Springfield, MO.  
+Judges: Before COLLOTON, GRUENDER, and ERICKSON, Circuit Judges. GRUENDER, Circuit Judge, concurring in the judgment.  
+Opinion by: COLLOTON  
+Opinion
+
+
+
+
+ [*818]  COLLOTON, Circuit Judge.
+Norman Unverzagt was sentenced to fifteen years' imprisonment in 2005 as an armed career criminal under 18 U.S.C. § 924(e). This appeal arises from an order of the district court1  denying his second motion to correct his sentence under 28 U.S.C. § 2255. Unverzagt argues that the retroactive decision in Johnson v. United States, 135 S. Ct. 2551, 192 L. Ed. 2d 569 (2015), demonstrates that his  [*819]  sentence is unlawful. We conclude that Johnson does not justify relief and therefore affirm the district court's order.
+Unverzagt was convicted of unlawful possession of a firearm as a previously convicted felon. See 18 U.S.C. § 922(g)(1). The statutory maximum penalty for that offense ordinarily is ten years, id. § 924(a)(2), [**2]  but under the Armed Career Criminal Act (ACCA), Unverzagt was subject to a statutory minimum sentence of fifteen years' imprisonment if he had previously sustained three convictions for a violent felony. Id. § 924(e)(1). The district court applied the ACCA enhancement based on three prior convictions in Missouri: two for second-degree burglary and one for first-degree assault. On appeal, this court rejected Unverzagt's contention that the burglary convictions did not qualify as violent felonies and affirmed the judgment. United States v. Unverzagt, 166 F. App'x 886, 887 (8th Cir. 2006). Unverzagt unsuccessfully sought post-conviction relief in 2007 on other grounds.
+The definition of "violent felony" in 18 U.S.C. § 924(e)(2)(B) includes three different clauses, typically described as the force clause, the enumerated offenses clause, and the residual clause. Johnson ruled in 2015 that the residual clause is unconstitutionally vague, and Welch v. United States, 136 S. Ct. 1257, 194 L. Ed. 2d 387 (2016), held that the new rule of Johnson applies retroactively to cases on collateral review. Id. at 1265. In 2016, this court granted Unverzagt leave to file a successive motion to correct his sentence under 28 U.S.C. § 2255. The district court concluded that Unverzagt's three prior convictions still constituted violent felonies under current law and denied the motion on that basis. [**3] 
+Unverzagt disputes the district court's conclusion, but before considering whether the prior convictions would qualify as violent felonies under current law, we address whether Unverzagt is entitled to proceed with a second or successive motion under § 2255. To determine that issue, we consider whether the motion "contain[s] . . . a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable." 28 U.S.C. § 2255(h)(2); see Kamil Johnson v. United States, 720 F.3d 720, 720-21 (8th Cir. 2013) (per curiam). A motion "contains" a new rule if it "relies on" the new rule, and a claim "relies on" a new rule only when the rule is "sufficient to justify a grant of relief." Donnell v. United States, 826 F.3d 1014, 1016-17 (8th Cir. 2016).
+Johnson's new rule declared the residual clause unconstitutional, so a successive movant who invokes Johnson as the basis for relief must establish by a preponderance of the evidence that the residual clause "led the sentencing court to apply the ACCA enhancement." Walker v. United States, 900 F.3d 1012, 1015 (8th Cir. 2018). This inquiry requires the court to consider the law in effect at the time of the original sentencing and, in some cases, to examine the district court's rationale for applying the ACCA enhancement.
+In Walker, this court said that "[w]hether the residual clause provided the basis for an [**4]  ACCA enhancement is a factual question for the district court," and remanded the case for the district court to determine in the first instance whether the prisoner's successive motion relied on Johnson's new rule. Id. Unverzagt notes that before Walker was decided, the government asserted that the issue presented in this case was "identical" to the issue pending in Walker. It follows from the remand in Walker, he contends, that this case, too, should be remanded for a determination by the district court.
+ [*820]  There is a factual distinction between Unverzagt's case and Walker that could warrant differential treatment. In Walker, there was only a "sparse sentencing record," id., but this court thought it "might shed some light on the basis for Walker's original ACCA sentence." Dembry v. United States, 914 F.3d 1185, 1187 (8th Cir. 2019). In this case, Unverzagt concedes that "the record is silent" on whether the ACCA enhancement was based on the residual clause. If his concession refers to the sentencing record (as opposed to the post-conviction record), then there would be no point in remanding for factual findings. Where the sentencing record is inconclusive, this court may consider in the first instance "the relevant background legal environment [**5]  at the time of . . . sentencing to ascertain whether the movant was sentenced under the residual clause." Walker, 900 F.3d at 1015 (internal quotation marks omitted); see Golinveaux v. United States, 915 F.3d 564, 568 (8th Cir. 2019); Dembry, 914 F.3d at 1187.
+A more significant reason for eschewing a remand here is a legal one. If settled law at the time of the movant's sentencing or appeal required application of the ACCA enhancement on grounds other than the residual clause, then the movant cannot show that his sentence was based on the residual clause. In that situation, it does not matter what the district court might have articulated at the sentencing hearing, because the law—independent of the residual clause or the judge's subjective thoughts—compelled the court to apply the ACCA enhancement.
+That is the situation here. There is no dispute that Unverzagt's prior conviction for first-degree assault qualified as a violent felony under the force clause. In resolving Unverzagt's direct appeal, this court concluded that his two prior convictions for second-degree burglary counted under the enumerated offenses clause as "burglary." The opinion explained that Unverzagt's challenge to counting the burglary convictions was "foreclosed by" the holding of Taylor v. United States, 495 U.S. 575, 599, 110 S. Ct. 2143, 109 L. Ed. 2d 607 (1990), on the meaning of "generic burglary." [**6]  Unverzagt, 166 F. App'x at 887. This court's ruling thus establishes as a matter of law that Unverzagt was not sentenced based on the residual clause.
+For these reasons, Unverzagt has not satisfied the requirements for proceeding with a successive motion under 28 U.S.C. § 2255(h)(2). The order of the district court is affirmed.
+Concur by: GRUENDER  
+Concur
+
+
+
+
+GRUENDER, Circuit Judge, concurring in the judgment.
+While I concur in the judgment, I would first conclude that the sentencing record is silent before considering the background legal environment. See Golinveaux v. United States, 915 F.3d 564, 568 (8th Cir. 2019) (explaining that the relevant inquiry considers first the sentencing record and that the "second step is to determine the relevant legal environment"). Here, I take Unverzagt's statement that "the record is silent" to mean that the sentencing record is silent. It seems clear that he is not referring to the post-conviction record by making such a concession because the sentencing record is what is relevant to our analysis.
+After concluding that the record is silent, I would then affirm the district court because, as the court's analysis shows, the background legal environment makes clear that Unverzagt has not shown that it is "more likely than not" that he was sentenced under the residual clause. See Walker v. United States, 900 F.3d 1012, 1014-15 (8th Cir. 2018) ("Where [**7]  the record or an evidentiary hearing is inconclusive, the district court may consider 'the relevant  [*821]  background legal environment at the time of . . . sentencing' to ascertain whether the movant was sentenced under the residual clause.").
+
+ 
+
+End of Document

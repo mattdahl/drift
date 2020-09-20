@@ -1,0 +1,44 @@
+
+  CitedAs of: September 19, 2020 7:27 PM Z
+V.W. v. State
+Court of Appeal of Florida, Second District
+December 3, 2003, Opinion Filed 
+Case No. 2D03-657 
+
+Reporter
+870 So. 2d 102 *; 2003 Fla. App. LEXIS 18325 **; 28 Fla. L. Weekly D 2760
+ V.W., Appellant, v. STATE OF FLORIDA, Appellee.  
+Prior History:  [**1]  Appeal from the Circuit Court for Hillsborough County; Richard A. Nielsen, Judge.  
+  
+Disposition: Affirmed in part, reversed in part, and remanded.  
+  
+Counsel: James Marion Moorman, Public Defender, and Megan Olson, Assistant Public Defender, Bartow, for Appellant. 
+Charles J. Crist, Jr., Attorney General, Tallahassee, and Donna S. Koch, Assistant Attorney General, Tampa, for Appellee.    
+Judges: WALLACE, Judge. COVINGTON, J., Concurs. CANADY, J., Concurs specially.    
+Opinion by: WALLACE  
+Opinion
+
+
+
+
+ [*103]  WALLACE, Judge.
+V.W. challenges a disposition order adjudicating him delinquent of trespass of a dwelling and grand theft of the third degree. V.W. raises two points on appeal; however, the only issue meriting discussion is his assertion that the evidence was not sufficient to prove he committed the crime of grand theft. We affirm the adjudication of delinquency and disposition for trespass, but we reverse the adjudication of delinquency and disposition for grand theft because the State failed to meet its evidentiary burden.
+The State filed a petition for delinquency charging V.W. with committing the crime of grand theft after he entered a [**2]  home and removed numerous items, including a CD player, clothing, and cash. The victim's testimony was the only evidence presented at trial concerning the value of the stolen items. The victim testified that the CD player cost more than $ 100 when it was purchased and that the cash taken totaled $ 20. Thereafter, the prosecutor asked the victim the following: "[T]aking the total of all things that were taken from your house, what would you estimate the value of them at? Would it be more than $ 300?" The victim responded affirmatively. The State did not elicit any additional testimony from the victim concerning the value of the stolen items, either separately or collectively.
+With certain exceptions not material here, one of the elements of grand theft of the third degree is that the value of the property stolen is $ 300 or more. § 812.014(2)(c)(1), Fla. Stat. (2002). "Proof of the element of value is essential to a conviction for grand theft and must be established by the state beyond and to the exclusion of every reasonable doubt." Evans v. State, 452 So. 2d 1040, 1041 (Fla. 2d DCA 1984) (citing Negron v. State, 306 So. 2d 104 (Fla. 1974), [**3]  and Weatherspoon v. State, 419 So. 2d 404 (Fla. 2d DCA 1982)); accord Pickett v. State, 839 So. 2d 860 (Fla. 2d DCA 2003); Toler v. State, 779 So. 2d 594 (Fla. 2d DCA 2001). In this case, the victim responded affirmatively to the prosecutor's question that the estimated value of all of the stolen property was more than $ 300. The victim's response, however, only established that $ 300 was an estimated value. Based on this evidence, the items could have been valued at slightly less or more than $ 300. Therefore, the  [*104]  State failed to meet its evidentiary burden, and V.W.'s motion for judgment of acquittal 1  of the crime of grand theft should have been granted.
+Accordingly, we affirm the [**4]  adjudication of delinquency and disposition for trespass of a dwelling. However, we reverse the adjudication of delinquency and disposition for grand theft, and we remand for entry of an adjudication of delinquency and appropriate disposition for petit theft of the second degree. See § 812.014(3)(a).
+Affirmed in part, reversed in part, and remanded.
+COVINGTON, J., Concurs.
+CANADY, J., Concurs specially. 
+Concur by: CANADY  
+Concur
+
+
+
+
+CANADY, Judge, Specially concurring.
+I agree with the majority's conclusion concerning the disposition of this case. On the grand theft charge, I would, however, base the reversal on a deficiency in the proof not mentioned by the majority.
+The testimony of the victim at trial established that her house had been burglarized on two separate days during July 2002. The victim's testimony concerning the items stolen from her conflated the property stolen on the two separate days. The evidence linking the defendant to the burglary of the victim's house, however, only related to one of the burglaries. The trial testimony did not show the value of the items stolen during the burglary in which the defendant participated. I would rely on this circumstance [**5]  to support the reversal of the grand theft charge.  
+
+ 
+
+End of Document

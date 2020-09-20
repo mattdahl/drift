@@ -1,0 +1,65 @@
+
+  PositiveAs of: September 19, 2020 9:20 PM Z
+Martin v. Sec'y of State
+Supreme Court of Michigan
+September 4, 2008, Decided
+SC: 137173
+
+Reporter
+482 Mich. 956 *; 755 N.W.2d 153 **; 2008 Mich. LEXIS 1890 ***
+ CHRISTOPHER P. MARTIN, ANNA McCOY, RICHARD M. HARRIS, and J. RICHARD ERNST, Plaintiffs-Appellees, v SECRETARY OF STATE, DIRECTOR OF ELECTIONS, and BOARD OF STATE CANVASSERS, Defendants, and WILLIAM F. MYLES, Proposed Intervenor, and RONALD M. BERGERON, Proposed Intervenor-Appellant.  
+Subsequent History: Reconsideration denied by Martin v. Sec'y of State, 482 Mich. 969; 769 N.W.2d 186; 2008 Mich. LEXIS 1885 (Mich., Sept. 9, 2008)  
+Prior History:  [***1] COA: 286015. Ingham CC: 08-000752-PZ.
+Martin v. Sec'y of State, 2008 Mich. App. LEXIS 1769 (Mich. Ct. App., Aug. 21, 2008)  
+Judges: YOUNG, J. (concurring). TAYLOR, C.J., and CORRIGAN and MARKMAN, JJ., join the statement of YOUNG, J. MARKMAN, J. (concurring). TAYLOR, C.J., and CORRIGAN and YOUNG, JJ., join the statement of MARKMAN, J. CAVANAGH, J. (concurring in part and dissenting in part). WEAVER, J., joins the statement of CAVANAGH, J. KELLY, J. (dissenting).  
+Opinion
+
+
+
+
+ [**153]   [*956]  On order of the Court, the motion for immediate consideration is GRANTED.  [**154]  The application for leave to appeal the August 21, 2008 judgment of the Court of Appeals is considered and, pursuant to MCR 7.302(G)(1), in lieu of granting leave to appeal, we REVERSE the judgments of the Court of Appeals and the Ingham Circuit Court for the reasons stated in the Court of Appeals dissenting opinion, but only as to the issues of candidate standing and the trial court's application of equity. A candidate for elective office suffers a cognizable injury in fact if, due to the improper interpretation and enforcement of election law, he or she is prevented from being placed on the ballot or must compete against someone improperly placed on the ballot. We REINSTATE the decision of the Secretary of State to remove plaintiff Christopher  [***2] P. Martin's name from the ballot. In all other respects, leave to appeal is denied, because we are not persuaded that the remaining questions presented should be reviewed by this Court. We do not retain jurisdiction.
+Concur by: YOUNG; MARKMAN; CAVANAGH (In Part)  
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+I concur in the decision to reverse but write to express my own dismay at the tone and conclusion reached by Justice Kelly. She condemns as "manifestly unjust" the result reached by the majority. She does so based entirely on her understandable sympathy with the plaintiff, who was obviously misled by the Secretary of State's office. Justice Kelly does not explain how the Secretary of State has the power to alter the unambiguous statutory deadline, nor does she address the authority of the courts to revise such a statute. 1  
+Contrary to her position today, not long ago, Justice Kelly, writing for the Court in Stokes v Millen Roofing Co, 2  held:
+ [*957]  In its bench ruling granting equitable relief to Millen, the trial court stated that a court in equity may provide for nonlegal, equitable remedies to avoid unduly harsh legal doctrines. Its analysis is invalid because, in this case, equity is invoked to avoid application of a statute. Courts must be careful not to usurp the Legislative role under the guise of equity because a statutory penalty is expressly punitive. As the Court of Appeals stated:
+"Regardless of how unjust the statutory  [***4] penalty might seem to this Court, it is not our place to create an equitable remedy for a hardship created by an unambiguous, validly enacted, legislative decree."
+I agree with Justice Kelly's statement of legal principles in Stokes. Now, in this case, it appears that Justice Kelly has abandoned her Stokes opinion and the very principles she propounded there.
+It appears that Justice Kelly's adherence to precedent is "flexible" such that she is willing to ignore even her own decisions  [**155]  when she finds them inconvenient. I am, as is the majority, prepared to follow Stokes -- even if its author abandons it.
+TAYLOR, C.J., and CORRIGAN and MARKMAN, JJ., join the statement of YOUNG, J.
+MARKMAN, J. (concurring).
+With all respect to Justice Kelly, it is not "manifestly unjust" for this Court to conclude that the plain words of a law enacted by the Legislature cannot be modified by a clerk in the Secretary of State's office (or indeed by the Secretary of State herself). In this case, the law requires that a candidate, seeking to run for a judgeship in the 23rd Judicial Circuit obtain 200 to 400 petition signatures.  [***5] MCL 168.544f. 3  By the filing deadline, plaintiff, acting upon the guidance of the Secretary of State's office, had obtained only 158 signatures. Although it is unfortunate that plaintiff received incorrect guidance, such guidance cannot alter the law of this state. Thus, the trial court erred in affording plaintiff an opportunity beyond the filing deadline to obtain additional signatures. There cannot be as many laws as there are public servants who dispense guidance or advice on the meaning of the law. Rather, such guidance or advice must always be understood as subordinate to the law actually enacted by the elected representatives of the people.
+TAYLOR, C.J., and CORRIGAN and YOUNG, JJ., join the statement of MARKMAN, J.
+Dissent by: CAVANAGH (In Part); KELLY  
+Dissent
+
+
+
+
+CAVANAGH, J. (concurring in part and dissenting in part).
+I concur with the order in that the proposed intervenors do have standing; therefore, I would vacate the Court of Appeals judgment and reverse the trial court in  [***6] that respect.
+ [*958]  However, I disagree with the adoption of the Court of Appeals dissent regarding the remedy plaintiff deserved. 4  Instead, I would affirm the remedy granted by the trial court--an injunction mandating that plaintiff be given additional time to present the requisite valid signatures and be put on the ballot if he presents them. This is because the state defendants repeatedly informed plaintiff of the incorrect number of signatures required, while concomitantly warning plaintiff that it was unlawful to file more than the correct number. Therefore, the trial court granted the appropriate equitable relief.
+It would simply be unfair to punish plaintiff for an error that he did not commit and to which he was forced to comply.
+WEAVER, J., joins the statement of CAVANAGH, J.
+KELLY, J. (dissenting).
+I believe that the result reached by the majority of the Court in this case is manifestly unjust. The name of plaintiff-appellee, Christopher Martin, will not appear on the ballot  [***7] in the November election for judge of the circuit court for Alcona, Arenac, Iosco, and Oscoda counties. The reason is that Martin submitted too few signatures to qualify as a candidate.
+ [**156]  The undisputed reason Martin submitted too few signatures is that, before the due date, the Secretary of State mistakenly informed him, both verbally and in writing, about the number needed. The Secretary of State informed Martin that he needed to submit 100 to 200 petition signatures. More would subject him to a misdemeanor penalty. But after he had submitted 158 signatures and the deadline had expired, Martin learned that 200 to 400 signatures were needed. He immediately attempted to submit 208 additional signatures. The Secretary of State rejected the submission and removed Martin's name from the ballot.
+Martin brought a suit seeking equitable relief. The circuit court granted his request, ordering the Secretary of State to extend the filing deadline and, if the additional signatures were found to be valid, to place Martin's name on the ballot. The Court of Appeals affirmed the decision. 5  But this Court has reversed the lower courts' result and removed Martin from the ballot. It does so because it  [***8] refuses to allow equity to be applied in this election-law case for fear of creating a dangerous precedent.
+For years, candidates for office in this state have relied on the advice of the Secretary of State, particularly the director of elections, when attempting to decipher obtuse statutes. That is what Martin did here. But, as a result of today's unnecessarily rigid decision, Martin will be removed from the ballot. Moreover, future candidates will hesitate to rely on the interpretative advice of the Secretary of State in such matters.
+I believe that equity should have been applied here to uphold the result reached by the lower courts. Martin has been wronged by a mistake on the part of the Secretary of State. Our appellate opinion could and should right that wrong. If narrowly drawn, it could avoid a  [*959]  dangerous precedent, all the while treating Martin justly and continuing state assistance to candidates for office at the current level.
+Justice Young claims that I ignore and abandon my decision in Stokes v Millen Roofing Co. 6  This claim is both misleading and incorrect. In Stokes, I wrote to overrule  [***9] a Court of Appeals decision that allowed an unlicensed contractor to use equity as leverage to force payment from a homeowner. I reasoned that, if the Court of Appeals opinion had been allowed to stand,
+any unlicensed contractor could defy the residential builders act and the Construction Lien Act by refusing to obtain a Michigan residential builder's license. It could contract with a residential home owner to perform work on the owner's home. Then, if a dispute arose over money due, it could cloud the title with a lien and wait until the owner brought suit to clear title. It could then recover the amount due in an equity judgment. 7 
+Hence, Stokes involved the misuse of equity by a contractor to defy the licensing statute. That is quite a different matter than the use of equity by the courts to properly apply a statute and protect a person from the harm caused by a government agency's blunder.
+No statute prohibits a court from requiring the Secretary of State to accept the additional signatures, as the trial court  [**157]  required in this case. MCL 168.413 mandates that the Secretary of State, who is charged with the oversight of  [***10] elections, receive nominating petitions up to 4 p.m. of the fourteenth Tuesday preceding the primary. Without question, then, the Secretary of State must receive nominating petitions up to that time. However, the Secretary of State may accept nominating petitions after 4 p.m. on the relevant date. That is exactly what the trial court ordered it to do as a consequence of its mistake.
+In interpreting a statute, courts presume that the Legislature enacted it having in mind previously enacted statutes relating to the same subject matter. 8  Accordingly, all such statutes should be construed together to produce a harmonious result. 9  Applying this maxim here, although MCL 168.544f required 200 to 400 signatures once the counties' population was determined, MCL 168.413 allowed the Secretary of State to accept nominating petitions after the deadline for filing signatures. Therefore, the trial court's equitable remedy that ordered the Secretary of State to accept the additional signatures was within the bounds of MCL 168.544f and MCL 168.413 read together.
+This case presents an  [***11] extreme circumstance. Martin reasonably relied on, and placed confidence to his detriment in, the Secretary of State's [*960]  advice. 10  If the majority of this Court believes that equity is not applicable here, I question when it would apply equity at all.
+The decision of the Court of Appeals should be affirmed.
+
+ 
+
+End of Document

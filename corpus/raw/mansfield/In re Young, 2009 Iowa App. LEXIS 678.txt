@@ -1,0 +1,76 @@
+
+  WarningAs of: September 19, 2020 8:30 PM Z
+In re Young
+Court of Appeals of Iowa
+July 22, 2009, Filed
+No. 9-339 / 08-1369
+
+Reporter
+2009 Iowa App. LEXIS 678 *
+ IN THE MATTER OF PROPERTY SEIZED FOR FORFEITURE FROM MICHAEL WAYNE YOUNG, MICHAEL WAYNE YOUNG, Appellant.  
+Notice: NO DECISION HAS BEEN MADE ON PUBLICATION OF THIS OPINION. THE OPINION IS SUBJECT TO MODIFICATION OR CORRECTION BY THE COURT AND IS NOT FINAL UNTIL THE TIME FOR REHEARING OR FURTHER REVIEW HAS PASSED. AN UNPUBLISHED OPINION MAY BE CITED IN A BRIEF; HOWEVER, UNPUBLISHED OPINIONS SHALL NOT CONSTITUTE CONTROLLING LEGAL AUTHORITY.
+  
+Subsequent History: Reported at In re Young, 772 N.W.2d 269, 2009 Iowa App. LEXIS 1268 (Iowa Ct. App., 2009)  
+Prior History:  [*1] Appeal from the Iowa District Court for Black Hawk County, Jon Fister and Nathan Callahan, Judges. Young appeals the State's in rem forfeiture of his handgun.
+  
+Disposition: AFFIRMED.
+  
+Counsel: Michael W. Young, Tama, Pro se. 
+Thomas J. Miller, Attorney General, Kevin Cmelik, Assistant Attorney General, Thomas J. Ferguson, County Attorney, and Brad P. Walz, Assistant County Attorney, for appellee.  
+Judges: Heard by Vaitheswaran, P.J., and Eisenhauer and Mansfield, JJ. Vaitheswaran, P.J., and Eisenhauer, J., concur; Mansfield, J., concurs specially.  
+Opinion by: EISENHAUER  
+Opinion
+
+
+
+
+EISENHAUER, J.
+ I. Background Facts and Proceedings.
+In March 2002, Michael Young was arrested for weapons possession and operating while intoxicated, and his handgun was confiscated for evidence. Young was convicted on both charges. Judgment and sentence were entered on October 23, 2002. On July 15, 2003, Young's appeal was dismissed for failure to comply with the rules of appellate procedure.
+On October 15, 2007, the State filed an in rem forfeiture complaint seeking forfeiture of Young's handgun. The State did not utilize the notice of pending forfeiture administrative process. Young responded by filing a motion to dismiss.
+In January 2008, the court denied Young's motion  [*2] to dismiss and gave Young thirty days to file a claim for the property and an answer to the State's complaint. Young's subsequent motion to enlarge findings was denied. After Young failed to file either an answer or a claim as authorized by the district court, the State applied for a forfeiture order, which was entered on July 30, 2008.
+Young appeals and argues the State failed to meet the forfeiture statute's notice and statute of limitations provisions. Young further claims violations of his constitutional rights.
+ II. Scope of Review.
+Our review of forfeiture proceedings is for correction of errors at law. In re Property Seized from DeCamp, 511 N.W.2d 616, 619 (Iowa 1994). We review constitutional issues de novo. State v. Taft, 506 N.W.2d 757, 762 (Iowa 1993).
+ III. Preservation of Error.
+Initially, the State argues Young's failure to file a motion to set aside the default forfeiture judgment waives any issues for appeal. We disagree. Our rules specifically provide a motion to set aside a default judgment "shall not impair the finality of the judgment or impair its operation." Iowa R. Civ. P. 1.977. Therefore, a default judgment is a final judgment. Dolezal v. Bockes, 602 N.W.2d 348, 353 (Iowa 1999).  [*3] "All final judgments . . . may be appealed." Iowa R. App. P. 6.1(1). Because the default judgment was a final judgment, Young "had to appeal or risk having in force a valid judgment against [him]." See Dolezal, 602 N.W.2d at 353. We conclude Young's failure to move to set aside the default judgment does not constitute an appellate waiver.
+ IV. Five-year Statute of Limitations.
+Young argues his motion to dismiss should have been granted because the State's in rem complaint was not filed within the applicable five-year statute of limitations. See Iowa Code § 809A.20 (2007). A civil forfeiture action "shall be commenced within five years after the last conduct giving rise to forfeiture." Id. However, this timeframe excludes "any time during which . . . criminal proceedings relating to the same conduct are pending." Id.
+The statute does not specify whether pending criminal proceedings terminate their pendency at the time of judgment (October 23, 2002) or at the time of the completion of any appeal (July 15, 2003). However, we need not resolve this issue because the State's forfeiture complaint filing on October 15, 2007, was filed within five years of the earliest pendency termination option--the  [*4] judgment of October 23, 2002. We conclude the State's filing met the five-year statute of limitations.
+ V. In Rem Forfeiture.
+Initially, we must determine when Young's property was seized for forfeiture. Young asserts the date of seizure for forfeiture is March 21, 2002, the date the property was seized for evidence. We disagree.
+"Seized for forfeiture" requires the seizure of the property by a law-enforcement officer "accompanied by an assertion by the seizing agency or by a prosecuting attorney that the property is seized for forfeiture, in accordance with section 809A.6" Iowa Code § 809A.1(9).
+In re Property Seized from Williams, 676 N.W.2d 607, 612 (Iowa 2004). Therefore, Young's contention the property was seized for forfeiture at the time it was seized as evidence must fail. There was no assertion at the time the property was seized in 2002 that it had been seized for forfeiture as well as being seized for evidence. The first assertion of forfeiture occurred at the time the State filed its in rem complaint on October 15, 2007.
+Second, Young argues In re Property Seized from Williams requires dismissal because the State's failure to file a notice of pending forfeiture within ninety  [*5] days after seizure for forfeiture deprived the court of the authority to forfeit his property. See id.
+We conclude Williams is inapplicable. In Williams, the State elected to utilize the notice of pending forfeiture process, and Williams had requested the return of the property. Id. at 609-10. The Williams court ruled:
+Section 809A.8(1)(a)(1)'s requirement that notice of pending forfeiture be filed within ninety days is a special statutory limitation. It creates the State's right to forfeit the property in rem if an owner has requested the release of the property. In order to exercise its right of forfeiture under these circumstances, the State must comply with the time limits contained in the statute. . . .
+Id. at 613 (emphasis added). Williams is inapplicable because Young never requested release of the property and the State elected to initiate forfeiture of Young's property by verified complaint rather than by the notice of the pending forfeiture administrative process.
+Third, Young argues the "district court clearly erred in concluding that filing and service of the 'In Rem Forfeiture Complaint,' without the prerequisite filing and service of a 'notice of pending forfeiture,' was  [*6] sufficient notice to comply with the statutory scheme." We agree that Iowa courts can order forfeiture only after a determination the State gave proper notice. See Iowa Code § 809A.16(3). The issue, therefore, is whether Young received proper notice.
+The State argues notice of pending forfeiture is not required when the State elects to start forfeiture proceedings by filing an in rem forfeiture complaint. We agree. The forfeiture statute clearly allows the State to elect how it initiates in rem forfeiture proceedings: "An action in rem may be brought by the prosecuting attorney pursuant to a notice of pending forfeiture or verified complaint for forfeiture." Id. § 809A.13(2). The legislature's use of the word "or" shows the State is not required to file a notice of pending forfeiture "and" a verified complaint, rather, the complaint itself is intended to provide sufficient notice under the statutory scheme.
+However, for the in rem complaint itself to be sufficient notice, Young must be afforded an opportunity to respond to the State's attempted forfeiture. When the State commences forfeiture by electing to utilize the notice of pending forfeiture process, Iowa Code section 809A.11 provides  [*7] a property owner "may" file a claim "within thirty days after the effective date of notice of pending forfeiture." Here, the State elected not to utilize the notice of pending forfeiture administrative process and instead elected to file an in rem forfeiture complaint. Consequently, Young did not file a claim under section 809A.11. 1 
+Fourth, Young argues the notice is insufficient because he has no opportunity to respond when the State begins the forfeiture process by filing an in rem complaint. Young is precluded from filing an answer by Iowa Code section 809A.13(3), which provides: "Only an owner . . . who has timely filed a proper claim pursuant to section 809A.11 may file an answer in an action in rem."
+The State admits the forfeiture statute is not a model of clarity, urges us to harmonize the statute's provisions, and admits subsection 13(3) is an anomaly because "[i]t does not specifically  [*8] exempt processes begun by judicial complaint without a prior administrative process [notice of pending foreclosure] from" its reach. The State argues: "When an action is begun by an in rem forfeiture complaint, the answer to that complaint is the equivalent of and supplants the need for a claim." Further, "[t]he restriction of Iowa Code section 809A.13(3) is inapplicable to a forfeiture proceeding begun by a complaint in lieu of the administrative process." The State urges us to follow case law holding "we are obliged to construe statutes to uphold their constitutionality if possible." Iowa City v. Nolan, 239 N.W.2d 102, 103 (Iowa 1976).
+In resolving this issue, we note Young carries a heavy burden. He "must overcome a strong presumption of constitutionality and negate every reasonable basis upon which the enactment might be upheld." In re Henderson, 199 N.W.2d 111, 121 (Iowa 1972). Additionally, the Iowa legislature has specifically directed us to "liberally construe" the forfeiture chapter "to effectuate is remedial purposes." Iowa Code § 809A.23. Applying these principles, we conclude the restriction of Iowa Code section 809A.13(3) is inapplicable when the State elects to begin the  [*9] in rem proceedings by filing an in rem forfeiture complaint. See id. § 809A.13(2). Further, the answer filed is the equivalent of and supplants the need for a claim under section 809A.11.
+While Young did not have the benefit of this analysis, he did have the benefit of the district court's specific order allowing him thirty days to answer the State's in rem complaint, and he elected not to file an answer. Therefore, we uphold the district court's subsequent default judgment.
+ VI. Disposition.
+We have considered all issues raised, and those not specifically addressed are deemed without merit. We affirm the district court's order forfeiting the handgun.
+ AFFIRMED.
+Vaitheswaran, P.J., and Eisenhauer, J., concur; Mansfield, J., concurs specially.
+Concur by: MANSFIELD  
+Concur
+
+
+
+
+MANSFIELD, J. (concurring specially)
+This case requires us to construe the "Forfeiture Reform Act," Iowa Code chapter 809A. Both the State and Young agree that the text of the Act is problematic. So do we.
+Section 809A.13(2) provides that the State can bring an action in rem "pursuant to a notice of forfeiture or verified complaint for forfeiture." (Emphasis added.) On its face, this provision allows the State to file a verified complaint for in  [*10] rem forfeiture even if it did not previously file a notice of forfeiture. However, section 809A.13(3) provides that only an owner or interest holder in the property "who has timely filed a proper claim pursuant to section 809A.11" may file an answer to such a verified complaint. Yet, such a claim "pursuant to section 809A.11" would only have been filed in response to a notice of forfeiture. See Iowa Code § 809A.8(1)(b). Thus, where the State proceeds directly to a complaint for forfeiture, without previously filing a notice, there appears to be no opportunity for anyone with a claim to the property to appear and contest the forfeiture. That seems unfair and unconstitutional. See U.S. Const. amend. XIV ("[N]or shall any State deprive any person of . . . property, without due process of law."); Iowa Const. art. I, § 9 ("[N]o person shall be deprived of . . . property, without due process of law.").
+Confronted with this dilemma, the district court did the logical thing. It gave Young an opportunity to answer the complaint even though he had not "timely filed a proper claim pursuant to section 809A.11." The majority views what the district court did as a form of statutory construction.  [*11] While the majority opinion is very well-reasoned, I have some difficulty with that approach. Section 809A.13(3) is unambiguous. It explicitly denies anyone the right to file an answer unless that person "timely filed a proper claim pursuant to section 809A.11." I do not believe we can avoid the constitutional issue in this case.
+However, the district court can be affirmed on a slightly different basis. Where an application of a statute is unconstitutional, principles of severability normally apply. That is, we will remedy the constitutional violation, but leave other applications of the statute unaffected if that will fulfill legislative intent. See Gacke v. Pork Xtra, L.L.C., 684 N.W.2d 168, 172-75 (Iowa 2004). Iowa Code section 4.12 codifies this principle:
+If any provision of an Act or statute or the application thereof to any person or circumstance is held invalid, the invalidity does not affect other provisions or applications of the Act or statute which can be given effect without the invalid provision or application, and to this end the provisions of the Act or statute are severable.
+Accordingly, I would hold that Iowa Code section 809A.13(3) is unconstitutional, but only to the  [*12] extent it denies the opportunity to file an answer when the State has not previously filed a notice of forfeiture.
+Here, the district court cured the constitutional defect by giving Young the opportunity to file an answer despite the language of section 809A.13(3). Young declined to file an answer. Indeed, at oral argument he conceded that he probably had no substantive grounds for contesting the forfeiture of his handgun. Accordingly, I agree the judgment below should be affirmed.
+
+ 
+
+End of Document

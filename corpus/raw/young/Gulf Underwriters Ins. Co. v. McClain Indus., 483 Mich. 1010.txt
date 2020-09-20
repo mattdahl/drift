@@ -1,0 +1,59 @@
+
+  NeutralAs of: September 19, 2020 9:19 PM Z
+Gulf Underwriters Ins. Co. v. McClain Indus.
+Supreme Court of Michigan
+May 22, 2009, Decided
+SC: 137621
+
+Reporter
+483 Mich. 1010 *; 765 N.W.2d 16 **; 2009 Mich. LEXIS 1138 ***
+ GULF UNDERWRITERS INSURANCE COMPANY, Plaintiff/Counter-Defendant-Appellant, v McCLAIN INDUSTRIES, INC., McCLAIN E-ZPACK, INC., McCLAIN GALION, INC., a/k/a GALION HOLDINGS, INC., SHELBY STEEL PROCESSING COMPANY, McCLAIN TUBE, McCLAIN GROUP LEASING, INC., McCLAIN SOUTHLAND COMPANY, d/b/a SOUTHLAND EQUIPMENT CORPORATION, McCLAIN INTERNATIONAL, F.S.C., and McCLAIN LEASING CORPORATION, Defendants/Counter-Plaintiffs-Appellees, and GLEN HOLLIS and DEIDRE HOLLIS, Defendants, and DAVID C. COOK, Defendant-Appellee, and DANIEL BERG, Defendant-Appellee.  
+Prior History:  [***1] COA: 273768. Macomb CC: 2005-000711-CK.
+Gulf Underwriters Ins. Co. v. McClain Indus., 2008 Mich. App. LEXIS 1595 (Mich. Ct. App., Aug. 5, 2008)  
+Judges: Marilyn Kelly, Chief Justice. Michael F. Cavanagh, Elizabeth A. Weaver, Maura D. Corrigan, Robert P. Young, Jr., Stephen J. Markman, Diane M. Hathaway, Justices. YOUNG, J. (concurring). CORRIGAN, J. (dissenting). MARKMAN, J., joins the statement of CORRIGAN, J.  
+Opinion
+
+
+
+
+  [**16]   [*1010]  Order
+On order of the Court, the application for leave to appeal the August 5, 2008 judgment of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.
+Concur by: Robert P. Young, Jr.  
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+I concur in the order to deny leave. I write separately only to respond to Justice Corrigan's dissenting statement.
+Although I share Justice Corrigan's theoretical interest regarding the proper interpretation of the complex contract at issue in this case, the  [*1011]  appellant, Gulf Underwriters, has not cited adequate grounds to support this Court's review as required by MCR 7.302(B). 1  
+Specifically, this case involves a surplus lines insurance contract that, despite the considerable attention that Justice Corrigan gives to the statute, is not subject to the general provisions of the Insurance Code, MCL 500.100 et seq. See MCL 500.402b(a); MCL 500.1904. The policy here includes language similar to the required "bankruptcy provision" for contracts controlled by the code. MCL 500.3006. However, Gulf Underwriters has not indicated that contractual bankruptcy provisions similar to its own are included with any regularity in surplus lines contracts generally. And, contrary to Justice Corrigan's suggestion, there is no reason to assume that the  [***3] nonapplicable statutory provision will "ensure" that similar  [**17]  provisions will appear with any regularity in contracts not controlled by the Insurance Code.
+Gulf Underwriters' application for leave to appeal demonstrates only a narrow dispute regarding the interpretation of its contact. Accordingly, Gulf Underwriters has not shown that this case "has significant public interest" or "involves legal principles of major significance to the state's jurisprudence." MCR 7.302(B)(2), (3).
+Justice Corrigan accurately highlights the potential inconsistencies between the contract's bankruptcy provision and the self-insured retention (SIR) endorsement. However, and significantly, she makes no mention of the effect of Gulf Underwriter's failure to cancel or terminate the contract as provided under the plain language of the SIR endorsement. Gulf Underwriters has failed to explain why it is not bound by its obligation because it failed to cancel the policy upon McClain Industries' failure to pay.
+ [*1012]  Finally, I believe that Gulf Underwriters has not supported its application for leave to appeal by showing that the Court of Appeals decision is clearly erroneous. MCR 7.302(B)(5).
+Dissent by: Maura D. Corrigan  
+Dissent
+
+
+
+
+CORRIGAN,  [***4] J. (dissenting).
+This case involves a dispute between plaintiff Gulf Underwriters Insurance Company (Gulf) and defendant McClain Industries and several other affiliated corporate defendants (the McClain defendants). Gulf issued four liability insurance policies to the McClain defendants, each of which included a self-insured retention endorsement (SIR endorsement). The SIR endorsement of each contract provided, in part:
+In consideration of the premium charged, it is hereby agreed that such coverage as is afforded by this policy shall be excess of a 250,000 Self-Insured Retention [for] each "claim." It is also agreed that all expenses and costs under the Supplementary Payments section stated in the Coverage Form (Section 1) shall contribute to the exhaustion of the 250,000 Self-Insured Retention Limit and all such expenses and costs shall be entirely borne by the insured.
+All the terms of the policy including, but not limited to, those with respect to notice of "claim" or "suit" and the Company's right to investigate, negotiate, defend and settle any "claim" apply irrespective of the application of the Self-Insured Retention.
+The Company may, but is not obligated to, pay all or part of  [***5] the Self-Insured Retention to effect settlement of any "claim," "suit" or expense. Upon notification of the action taken, the insured shall promptly reimburse the Company for such Self-Insured Retention amount paid by the Company. . . .
+* * *
+The Self-Insured Retention obligation to this contract shall be considered to be an executory contract under all circumstances and payments on this obligation shall be paid by the insured. Failure to make the payment entitles the insurer to terminate the contractual obligation between the parties as a failure to the Self-Insured Retention endorsement is a material breach to the entire contract. In the event of a bankruptcy filing, the contract is deemed executory as under 11 U.S.C. 365, and the payments of the self-insured retention shall be made on a monthly basis and treated as an administrative expense under 11 U.S.C. 507(a)(1). [Emphasis added.]
+In addition, Section IV of the policies ("COMMERCIAL GENERAL LIABILITY CONDITIONS"), provided, in part:
+1. Bankruptcy
+ [**18]  Bankruptcy or insolvency of the insured or of the insured's estate will not relieve us of our obligations under this Coverage Part.
+ [*1013]  Defendant David Cook filed a products liability action  [***6] against the McClain defendants, and defendant Daniel Berg notified the McClain defendants that he also intended to sue. After the McClain defendants asserted an inability to pay the SIR endorsement because of their insolvency, Gulf sought a declaratory judgment that it was not obligated to provide coverage because of the McClain defendants' failure to comply with the SIR endorsement. 2  The trial court granted summary disposition in favor of Gulf, holding that Gulf had no obligation to defend or indemnify the McClain defendants because of their failure to pay the SIR endorsement. It also awarded Gulf defense costs. The Court of Appeals affirmed the award of defense costs but reversed the trial court's grant of summary disposition in favor of Gulf. It concluded that "the insolvency provision provides an exception to the requirement that McClain Industries must satisfy the SIR endorsement limit before Gulf Underwriters is required to defend and indemnify defendants." Gulf Underwriters Ins Co v McClain Industries, Inc, unpublished opinion per curiam of the Court of Appeals, issued August 5, 2008 (Docket No. 273768), 2008 Mich. App. LEXIS 1595, at *5.
+I dissent from this Court's order denying Gulf's application for leave to appeal. There is a strong argument that under the SIR endorsement, Gulf had no obligation to provide coverage because the McClain defendants failed to pay the SIR endorsement. The McClain defendants obtained favorable pricing on their general liability insurance policy with Gulf by agreeing to the large self-insured retention. Under the endorsement, the failure of the McClain defendants to make the retention payment "entitles the insurer to terminate the contractual obligations of the parties as a failure to the Self-Insured Retention is a material breach as to the entire contract." It appears that the bankruptcy or insolvency provision of the parties' contract merely clarifies that the McClain defendants' insolvency does not relieve Gulf of its contractual obligations. If this is correct, the bankruptcy or insolvency provision does not, as the Court of Appeals opinion  [***8] suggests, alter those obligations in the event of bankruptcy or insolvency. Indeed, the SIR itself contemplates the possibility of bankruptcy by providing that, "[i]n the event of a bankruptcy filing, the contract is deemed executory under 11 U.S.C. 365 and the payments of the Self-Insured Retention shall be made on a monthly basis and treated as an administrative expense under 11 U.S.C. 507(a)(1)." This provision suggests that the bankruptcy or insolvency provision may not be, as the Court of Appeals held, an "exception" to the SIR endorsement. Gulf Underwriters Ins Co, supra at 3.
+Another reason favoring a grant of leave to appeal is that this case presents an issue of contractual interpretation that is likely to recur. MCL 500.3006 provides:
+ [*1014]  In such liability insurance policies there shall be a provision that the insolvency or bankruptcy of the person insured shall not release the insurer from the payment of damages for injury sustained or loss occasioned during the life of such policy, and stating that in case execution against the insured is returned unsatisfied in an action brought by the injured person, or his or her  [**19]  personal representative in case death results from the accident,  [***9] because of such insolvency or bankruptcy, then an action in the nature of a writ of garnishment may be maintained by the injured person, or his or her personal representative, against such insurer under the terms of the policy for the amount of the judgment in the said action not exceeding the amount of the policy. [Emphasis added.]
+The Court of Appeals in this case held that Gulf was not subject to MCL 500.3006 because Gulf is a '"surplus lines carrier,' i.e., an insurer that is not authorized by the state insurance commissioner to transact insurance in the state of Michigan." Gulf Underwriters Ins Co, supra at 4. Even assuming the Court of Appeals is correct that the requirement is inapplicable to Gulf, 3  this statute ensures that bankruptcy provisions similar to the one at issue here will appear in many insurance contracts because they are required in insurance contracts that are subject to the code. 4  Because I would grant leave to consider this jurisprudentially significant issue of contract interpretation, I respectfully dissent from the Court's order denying leave to appeal.
+MARKMAN, J., joins the statement of CORRIGAN, J.
+
+ 
+
+End of Document

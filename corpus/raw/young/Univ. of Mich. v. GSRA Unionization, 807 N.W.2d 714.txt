@@ -1,0 +1,41 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+Univ. of Mich. v. GSRA Unionization
+Supreme Court of Michigan
+February 3, 2012, Decided
+SC: 144535
+
+Reporter
+807 N.W.2d 714 *; 2012 Mich. LEXIS 256 **
+ UNIVERSITY OF MICHIGAN, Respondent-Appellee, GRADUATE EMPLOYEES ORGANIZATION/AFT, Petitioner-Appellee, and STUDENTS AGAINST GSRA UNIONIZATION and MELINDA DAY, Proposed Intervenors-Appellees, and MICHIGAN ATTORNEY GENERAL, Proposed Intervenor-Appellant.  
+Subsequent History: Related proceeding at Univ. of Mich. v. Graduate Emples. Org./AFT, 807 N.W.2d 717; 2012 Mich. LEXIS 257 (Mich., Feb. 3, 2012)  
+Prior History:  [**1] COA: 307959. MERC: R11 D-034.
+  
+Judges: Robert P. Young, Jr., Chief Justice. Michael F. Cavanagh, Marilyn Kelly, Stephen J. Markman, Diane M. Hathaway, Mary Beth Kelly, Brian K. Zahra, Justices. YOUNG, C.J. (concurring). MARKMAN, J. (concurring).  
+Opinion
+
+
+
+
+ [*714]  On order of the Court, the motion for immediate consideration is GRANTED.  [*715]  The application for leave to appeal the January 25, 2012 order of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court. The motion for stay is DENIED.
+Concur by: Robert P. Young, Jr.; Stephen J. Markman  
+Concur
+
+
+
+
+Young, C.J. (concurring).
+I concur in this Court's order denying leave to appeal in this matter. The Court of Appeals reached the correct result when it dismissed the proposed intervenors' application for lack of jurisdiction, although I believe a different rationale controls this matter.
+The Court of Appeals claimed that MCL 24.301 does not give it jurisdiction to hear this matter "because the current proceeding . . . is not a contested case." Thus, the Court of Appeals interpreted MCL 24.301 as allowing interlocutory appeals only during contested cases. While the proposed intervenors present nonfrivolous  [**2] arguments rejecting that claim, the Court of Appeals does not have jurisdiction in this particular matter even if MCL 24.301 generally allows interlocutory appeals on matters that are not contested cases.
+MCL 24.301 is part of the Administrative Procedures Act, MCL 24.201 et seq., and provides that "[a] preliminary, procedural or intermediate agency action or ruling is not immediately reviewable, except that the court may grant leave for review of such action if review of the agency's final decision or order would not provide an adequate remedy" (emphasis added). Another provision of the Administrative Procedures Act, MCL 24.203(5), expressly defines "court" within the Act as "the circuit court." Accordingly, the interlocutory review provision of MCL 24.301 requires an appellant to seek circuit court review of an agency's action before proceeding to the Court of Appeals. Because the proposed intervenors did not do so here, the Court of Appeals reached the correct result in dismissing their application for lack of jurisdiction.
+Markman, J. (concurring).
+I concur in this Court's order denying leave to appeal because I am not convinced that the Court of Appeals erred in holding that it lacked  [**3] jurisdiction to entertain this appeal from an interlocutory order of the Michigan Employment Relations Commission (MERC). However, I share the unsuccessful intervenors' concerns regarding the manifest unfairness of the fact-finding hearing now underway before the administrative law judge as a result of MERC's denial of the two motions to intervene, one from the Attorney General and the other from an organization called "students against GSRA unionization," which is composed of graduate student research assistants (GSRAs) opposed to possible unionization.
+Given that both petitioner and respondent take the legal position that the GSRAs at the University of Michigan constitute "public employees" under the public employment relations act (PERA), MCL 423.201 et seq., there is no party to represent the alternative legal position that the GSRAs do not constitute "public employees" under PERA. In light of the Attorney General's broad authority to intervene in cases "in which the people of this state may be . . . interested," MCL 14.28; see also MCL 14.101, and in light of the potential impact of MERC's determination on the university, university students and their families, graduate students  [**4] who do not wish to become members of a union, and state taxpayers, this unfairness could easily have been dispelled by MERC granting the Attorney General's motion to intervene.
+ [*716]  In denying this motion, MERC stated, "We must carry out our statutory responsibility [of determining whether the GSRAs are "employees"] without interference from non-parties opposed to the very rights provided to public employees by PERA." (Emphasis added.) It would seem that in carrying out its statutory responsibility, MERC might have viewed it as helpful, rather than as a matter of "interference," that it be presented with arguments on both sides of an issue under consideration. Moreover, it is utterly inapt to characterize an effort by the Attorney General to intervene in a case of this significance—not only for the University of Michigan, but also for every other public college and university in this state—as "interference," in light of the straightforward grant of legal authority to the Attorney General to do precisely what he did in this case in an effort to intervene. Furthermore, MERC's statement in justification of its decision to deny the Attorney General's motion—that he is "opposed to the very rights  [**5] provided to public employees by PERA"—even if accurate, should have been of no consequence to MERC in rendering its decision. The Attorney General's supposed motives, or policy perspectives, concerning PERA have nothing to do with the propriety of his exercise of statutory authority to intervene in cases before MERC.
+By denying the Attorney General's motion, and thereby denying itself the benefit of any argument that the GSRAs are not "employees," MERC has only made its obligation to faithfully carry out its statutory obligations more difficult, if not impossible. MERC must now determine whether GSRAs are genuinely "employees" where the only legal argument being presented throughout the hearing will be the affirmative argument. And MERC placed itself in this situation in the face of the dissenting commissioner's objection that "a decision to refer this matter for hearing would appear . . . to be a sham if we were to permit only one side of this crucial debate to be proffered at hearing."
+Respondent argues that this result is tolerable because "[e]ven if the Attorney General were correct . . . with respect to the hypothesized 'one-sided' presentation of facts, the Court of Appeals would  [**6] have the power to remand this matter to [MERC] for further proceedings with the involvement of the Attorney General." However, although it may be true that after the "one-sided" fact-finding proceeding has been held, and after MERC, relying on the findings yielded by this "one-sided" proceeding, has issued a final decision, the Court of Appeals or this Court could conceivably remand for what essentially would be a "do-over," it is hard to understand the benefit of such a convoluted procedure from the point of view of either efficient administration of the law or the appearance of fair decision-making on the part of an administrative agency of this state.
+To her credit, the administrative law judge appears to recognize that it is "essential that the record upon which [MERC] bases its decision be complete and accurate," and given that both the petitioner and the respondent are arguing the same position in the hearings before her, she has a greater "responsibility . . . to develop the factual record than is usual in a [MERC] proceeding." Nonetheless, although she has agreed to "solicit the Attorney General's input after the parties have presented their evidence at the hearing," this is  [**7] clearly not sufficient to fully transform these hearings into a "two-sided" proceeding. It is merely the best that she can do under the circumstances given MERC's decision.
+
+ 
+
+End of Document

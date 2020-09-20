@@ -1,0 +1,44 @@
+
+  NeutralAs of: September 19, 2020 9:11 PM Z
+United States v. Gibbs
+United States Court of Appeals for the Seventh Circuit
+December 13, 2016, Argued; January 6, 2017, Decided
+No. 16-1747
+
+Reporter
+845 F.3d 804 *; 2017 U.S. App. LEXIS 277 **; 2017 WL 65388
+ UNITED STATES OF AMERICA, Plaintiff-Appellee, v. RYAN L. GIBBS, Defendant-Appellant.  
+Subsequent History: Post-conviction proceeding at Gibbs v. United States, 2017 U.S. Dist. LEXIS 85953 (S.D. Ill., June 5, 2017)
+Post-conviction relief denied at, Certificate of appealability denied, Dismissed by, Judgment entered by Gibbs v. United States, 2018 U.S. Dist. LEXIS 109269 (S.D. Ill., June 29, 2018)  
+Prior History:  [**1] Appeal from the United States District Court for the Southern District of Illinois. No. 4:15-cr-40037-JPG-1 — J. Phil Gilbert, Judge.
+  
+Counsel: For UNITED STATES OF AMERICA, Plaintiff - Appellee: Amanda A. Robertson, Attorney, OFFICE OF THE UNITED STATES ATTORNEY, Benton, IL. 
+For RYAN L. GIBBS, also known as BLOOD, Thomas W. Patton, Attorney, Defendants - Appellants: Daniel J. Hillis, Attorney, OFFICE OF THE FEDERAL PUBLIC DEFENDER, Springfield, IL.  
+Judges: Before POSNER, KANNE, and SYKES, Circuit Judges. SYKES, Circuit Judge, with whom KANNE, Circuit Judge, joins, concurring in the judgment. KANNE, Circuit Judge, concurring.  
+Opinion by: POSNER  
+Opinion
+
+
+
+
+ [*805]  Posner, Circuit Judge. The defendant pleaded guilty to possessing cocaine with intent to distribute it, in violation of 21 U.S.C. §§ 841(a)(1) and (b)(1)(C). Because of the quantity of the cocaine that he possessed and his history of drug and other criminal offenses, his guideline sentencing range was 151 to 188 months and his statutory maximum 240 months. The government recommended a 216-month sentence (i.e., 18 years, compared to the 15 and two-thirds years that would be the length in years of a sentence of 188 months, the top of the guideline range), and that was the sentence that the district judge imposed [**2]  and that the defendant's appeal challenges.
+The judge explained that he was imposing a sentence significantly higher than the top of the defendant's guideline range on the basis of the "[18 U.S.C. §] 3553(a) [sentencing] factors." He called the defendant "a poster child for being a career offender," and told him "unfortunately you may be one of those people that will never be able to conform to be a law-abiding person." He quoted loosely from the section 3553(a) factors, saying none too clearly that
+When I look at the 3553(a) factors apart from the "nature and circumstances of the offense," your "history and characteristics" of you as a defendant does [sic] not indicate that there should be any leniency at all; that they [antecedent unclear] "reflect the seriousness of the offense," "promote respect for the law," which your history and characteristics indicate that you have no respect for the law; "provide just punishment." Nothing—No previous sentence that this Court has imposed or other Courts have deterred you from your criminal conduct.
+Neither the government, in recommending a 216-month sentence, nor the district judge, in imposing it, attempted a sophisticated analysis of the likely consequences for the defendant, [**3]  his family, and society (primarily the persons to whom he sold illegal drugs) of adding roughly two years to the sentence he would have been given had the judge stopped at the top of the guideline range. Judging from the government's brief and the judge's sentencing statement, both the prosecution and the judge based the 216-month sentence (proposed by the government, imposed by the judge) on a hunch. As the prosecutors as well as the judge are highly experienced, their hunches are likely often to be reliable. And because federal prosecutors are free to suggest any sentence within the statutory range, and a federal district judge has broad latitude in picking the sentence to impose within that range, and because the briefs and argument of defense counsel in this case bordered on the perfunctory—the argument being that the judge should have reiterated his reasons for imposing the 216-month sentence, though as far as appears his prior explanation included all the considerations (of which we've noted the main ones) that entered into his decision—the sentence must be affirmed.
+Some consideration, however, should be given to the possibility of basing a prison sentence—at least a very long [**4]  one (and an 18-year sentence is very long)—on something other than a hunch. The work of the U.S. Sentencing Commission in formulating sentencing guidelines provides a clue to a possible alternative. The sentencing judge, instead of ranging at large, with little guidance, over the wide space between the statutory minimum sentence for the defendant's crime or crimes and the statutory maximum, might consider asking the Sentencing Commission to evaluate the appropriateness in particular cases of all the possible sentencing points in the statutory  [*806]  sentencing range, including points that fall outside the guideline sentencing range. In a case like the present one the Sentencing Commission might advise the prosecutors, defense counsel, and the judge why it had fixed the guideline range where it did and how disapproving it would be of sentences below or above that range. The Commission might for example take a close look at the government's suggested 216-month sentence in this case and the arguments the government gives for it, and conclude that maybe it's a proper sentence given the particular facts of the case even though it lies outside the guideline range. The defense proposed a sentence [**5]  of only 10 years, which would be about two and a half years below the sentencing guideline; and again, the Commission might agree in the special circumstances of this case that that was a plausible alternative to a sentence in the guideline range—or might explain why it was not. Judges wouldn't have to ask the Commission for its input, or follow its recommendations, but they might find it a valuable resource.
+The judgment of the district court is
+AFFIRMED.
+Concur by: SYKES; KANNE  
+Concur
+
+
+
+
+Sykes, Circuit Judge, with whom Kanne, Circuit Judge, joins, concurring in the judgment. The defendant's only argument is that the district judge failed to adequately explain his reasons for imposing a prison term of 216 months. The record shows otherwise. The judge addressed the main arguments in mitigation and then focused on the defendant's lengthy criminal record, which began as a juvenile, continued unabated into adulthood, and includes many violent crimes (including a shooting resulting in death). The judge emphasized the serious risk of recidivism, noting that all past efforts at deterrence had failed. That's explanation enough for the 216-month sentence—28 months above the top of the range recommended by the Sentencing [**6]  Guidelines.
+The defendant acknowledges the point but challenges the sequence of the judge's remarks. He thinks a judge must announce the sentence first and then give his reasons for it. Or if the judge has already given his reasons earlier in the hearing, he must repeat them after pronouncing sentence. Only then, the argument goes, can the parties know the link between the judge's rationale and the sentence. There's no support for this argument. Judges normally explain their reasoning before pronouncing sentence. The judge followed that norm here. No repetition was required.
+Kanne, Circuit Judge, concurring. I join Judge Sykes in her concurrence. I write further to add that although Judge Posner has envisioned an interesting method to arrive at an appropriate sentence in individual cases, it is my view that such a unique system would be fundamentally unworkable in practice and contrary to the statutory provisions enacted by Congress and approved by the Supreme Court.
+Judge Posner, of course, recognizes that in this case we cannot command the alternative approach to sentencing he suggests. Therefore, I join Judge Posner and Judge Sykes in affirming the sentence that the district court [**7]  imposed.
+
+ 
+
+End of Document

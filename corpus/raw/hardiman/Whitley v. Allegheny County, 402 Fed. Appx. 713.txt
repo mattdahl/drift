@@ -1,0 +1,43 @@
+
+  NeutralAs of: September 19, 2020 8:14 PM Z
+Whitley v. Allegheny County
+United States Court of Appeals for the Third Circuit
+October 22, 2010, Submitted Under Third Circuit LAR 34.1(a); November 22, 2010, Opinion Filed
+No. 10-1723
+
+Reporter
+402 Fed. Appx. 713 *; 2010 U.S. App. LEXIS 24061 **
+ DREW WHITLEY, Appellant v. ALLEGHENY COUNTY; THOMAS M. FITZGERALD, individually and as detective for ALLEGHENY COUNTY; ROBERT LAZARRO, individually and as detective for ALLEGHENY COUNTY; HERB FOOTE, individually and as detective of ALLEGHENY COUNTY; LEE TORBIN, individually and as detective of ALLEGHENY COUNTY; JOHN MARKLE, individually and as detective of ALLEGHENY COUNTY; ROBERT PAYNE, individually and as detective of ALLEGHENY COUNTY; SANFORD A. MIDDLEMAN, Esquire  
+Notice: NOT PRECEDENTIAL OPINION UNDER THIRD CIRCUIT INTERNAL OPERATING PROCEDURE RULE 5.7. SUCH OPINIONS ARE NOT REGARDED AS PRECEDENTS WHICH BIND THE COURT.
+PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Subsequent History: US Supreme Court certiorari denied by Whitley v. Allegheny County, 2011 U.S. LEXIS 3261 (U.S., Apr. 25, 2011)  
+Prior History:  [**1] On Appeal from the United States District Court for the Western District of Pennsylvania. (D.C. Civil No. 2-07-cv-00403). District Judge: The Honorable Joy Flowers Conti.
+Whitley v. Allegheny County, 2010 U.S. Dist. LEXIS 21262 (W.D. Pa., Mar. 9, 2010)  
+Counsel: For DREW WHITLEY, Plaintiff - Appellant: Lawrence H. Fisher, Esq., Cohen & Willwerth, Pittsburgh, PA. 
+For COUNTY OF ALLEGHENY, THOMAS M. FITZGERALD, individually and as detective for ALLEGHENY COUNTY, ROBERT LAZARRO, individually and as detective for ALLEGHENY COUNTY, HERB FOOTE, individually and as detective of ALLEGHENY COUNTY, LEE TORBIN, individually and as detective of ALLEGHENY COUNTY, JOHN MARKLE, individually and as detective of ALLEGHENY COUNTY, ROBERT PAYNE, individually and as detective of ALLEGHENY COUNTY, Defendants - Appellees: Craig E. Maravich, Esq., Michael H. Wojcik, Esq., Office of Allegheny County, Law Department, Pittsburgh, PA.  
+Judges: BEFORE: HARDIMAN, GREENAWAY, JR., and NYGAARD, Circuit Judges.  
+Opinion by: NYGAARD  
+Opinion
+
+
+
+
+ [*714]  NYGAARD, Circuit Judge.
+Because this opinion is wholly without precedential value we write briefly for the benefit of the parties, presuming their familiarity with the facts and procedural history of this case. Whitley appeals the grant of summary judgment in favor of the Defendants. We will affirm.
+Whitley  [**2] was arrested and convicted in 1989 for a 1988 murder, and he subsequently served seventeen years in prison. A DNA test in 2006 established Whitley's innocence. As a result, Whitley filed this suit against certain police officers and Allegheny County alleging, both, state law claims for malicious prosecution and constitutional violations under 42 U.S.C. § 1983.
+Whitley appeals three of the District Court's rulings. First, he challenges the District Court's decision applying the doctrine of collateral estoppel to Whitley's malicious prosecution claims. Whitley also takes issue with the District Court's ruling that the individual Defendants were entitled to qualified immunity. The District Court reasoned that, in 1989, there was not a clearly established right arising from the relationship between the constitutional entitlement to a fair trial and the level of care taken in criminal investigations. Finally, Whitley appeals the District Court's dismissals of the section 1983 claims against Allegheny County, which were based upon the District Court's related finding that the individual Defendants did not violate a clearly established right. 1 
+We exercise plenary review of the District Court's grant of summary judgment. Webb v. City of Philadelphia, 562 F.3d 256, 259 (3d Cir. 2009). After our careful, independent review of the record in this case and the arguments raised by both parties, we will affirm the order for essentially the same reasons set forth by the District Court.
+Concur by: HARDIMAN  
+Concur
+
+
+
+
+HARDIMAN, Circuit Judge, concurring.
+I concur with the result reached by the majority. Unlike my colleagues, however, I disagree with the District Court's holding that Whitley's malicious prosecution claims are barred by the doctrine of collateral estoppel.
+In denying Whitley's motion to suppress, the state court ruled that the August 18, 1988 affidavit in support of a warrant to search Whitley's home was supported by probable cause. This holding  [**4] collaterally estops Whitley from claiming in federal court that there was no cause to search his home. But Whitley's malicious prosecution claims were based on the alleged absence of probable cause underlying his eventual arrest. Whitley claimed the February 20, 1989 affidavit in support of the arrest warrant contained inaccuracies and omissions, some of which also allegedly plagued the search warrant affidavit, but some of which only became known to the police in the intervening months. Because the state court never  [*715]  adjudicated Whitley's challenge to the February 20, 1989 affidavit, the District Court erred in applying collateral estoppel.
+Nevertheless, my review of the record leads to the conclusion that, even though it was later determined that Whitley was innocent of the crime with which he was charged and convicted, there was probable cause for his arrest. See Wilson v. Russo, 212 F.3d 781, 789 (3d Cir. 2000) (excising any inaccuracies and inserting any facts recklessly omitted to determine whether or not a "corrected" affidavit would establish probable cause). Accordingly, his malicious prosecution claims must fail.
+
+ 
+
+End of Document

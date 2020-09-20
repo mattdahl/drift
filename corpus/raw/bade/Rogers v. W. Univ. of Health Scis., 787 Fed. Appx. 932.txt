@@ -1,0 +1,47 @@
+
+No Shepard’s  Signal™As of: September 19, 2020 7:05 PM Z
+Rogers v. W. Univ. of Health Scis.
+United States Court of Appeals for the Ninth Circuit
+September 12, 2019, Argued and Submitted, Pasadena, California; October 3, 2019, Filed
+No. 18-55003
+
+Reporter
+787 Fed. Appx. 932 *; 2019 U.S. App. LEXIS 29722 **; 2019 WL 4887847
+ LINDSAY ROGERS, Plaintiff-Appellant, v. WESTERN UNIVERSITY OF HEALTH SCIENCES, Defendant-Appellee.  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Prior History:  [**1] Appeal from the United States District Court for the Central District of California. D.C. No. 2:16-cv-07681-MWF-AGR. Michael W. Fitzgerald, District Judge, Presiding.
+  
+Disposition: AFFIRMED IN PART, REVERSED IN PART, REMANDED.
+  
+Counsel: For LINDSAY ROGERS, Plaintiff - Appellant: Laura Diamond, Esquire, CENTER FOR HUMAN RIGHTS AND CONSTITUTIONAL LAW, Los Angeles, CA; Christopher H. Knauf, Attorney, Knauf Associates, Santa Monica, CA. 
+For WESTERN UNIVERSITY OF HEALTH SCIENCES, Defendant - Appellee: Mark H. Meyerhoff, Alysha Stein, Liebert Cassidy Whitmore, Los Angeles, CA.  
+Judges: Before: WARDLAW, BERZON, and BADE, Circuit Judges. Bade, Circuit Judge, dissenting in part.  
+Opinion
+
+
+
+
+  [*934]  MEMORANDUM* 
+Lindsay Rogers appeals the district court's grant of summary judgment in her case alleging that Western University of Health Sciences (Western) denied her reasonable accommodations for her learning disabilities. We have jurisdiction under 28 U.S.C. § 1291. We affirm in part, reverse in part, and remand for further proceedings.
+1. The district court correctly concluded that Rogers's claim under the Americans with Disabilities Act (ADA) is moot because she does not intend to return to school at Western. See Cole v. Oroville Union High Sch. Dist., 228 F.3d 1092, 1098 (9th Cir. 2000). That Rogers seeks a declaratory judgment does not save [**2]  her claim from mootness. See Bayer v. Neiman Marcus Grp., Inc., 861 F.3d 853, 868 (9th Cir. 2017) ("[A] declaratory judgment merely adjudicating past violations of federal law—as opposed to continuing or future violations of federal law—is not an appropriate exercise of federal jurisdiction."). And because Rogers's request for disgorgement of profits seeks to relieve her of her obligation to repay her scholarship, it is properly viewed as a request for compensatory damages, which are not available under the ADA. See id. at 866; Pickern v. Holiday Quality Foods Inc., 293 F.3d 1133, 1136 (9th Cir. 2002). We do not consider Rogers's argument that she could receive injunctive relief in the form of a "correction" to her academic record. Rogers did not present this possibility to the district court and so did not allow for factual inquiry into what sort of "correction" is possible and whether it would have any practical impact. See Smith v. Marsh, 194 F.3d 1045, 1052 (9th Cir. 1999).
+2. On Rogers's damages claims under the Rehabilitation Act, Unruh Civil Rights Act, and Unfair Competition Law, the district court correctly concluded that there was insufficient evidence that Rogers requested "stop-the-clock breaks" before April 2015, when Western promptly granted the request. Neither the Accommodations Request Form submitted by Rogers nor the independent neuropsychological report specified [**3]  that Rogers needed stop-the-clock breaks, as opposed to merely the opportunity to take food, water, and bathroom breaks during exams. Rogers's vague testimony that she "sort of" verbally requested stop-the-clock breaks before April 2015 is insufficient to create a genuine dispute of material fact.
+3. The district court erred in concluding that there was no triable issue of fact as to whether Western appropriately handled Rogers's request for a schedule change during the Spring 2015 semester. Western reasonably responded to Rogers's initial January 2015 inquiries by allowing her to begin her exams earlier—an accommodation that she had suggested. But in February 2015, Rogers contacted Dr. Gerald Thrush, an associate dean at Western, to renew her request for a schedule change. She explained that the double-time accommodation she was receiving on exams required her to go straight from a six-hour exam to her five-hour Essentials of Clinical Medicine (ECM) class, leaving her no time for needed tutoring in between.
+It is undisputed that Western did not change Rogers's schedule in response to this renewed request, but the reason why  [*935]  it did not accommodate the request is unclear from the record. [**4]  In a February 3, 2015 email, Dr. Thrush told Rogers that he could meet with her the following week to discuss a schedule change, but there is no record of whether this meeting took place. Rogers testified that she also raised the schedule issue verbally on several occasions during the semester, but Dr. Thrush always responded, "Let's see how the next exam goes." On this sparse record, Western cannot meet its burden of showing that there is no genuine dispute of material fact as to whether it denied Rogers a reasonable accommodation by failing to change her schedule.
+Western's arguments to the contrary only demonstrate that disputed facts are present that preclude summary judgment. While Rogers did not contact the university's Accommodations and Resources Center (AARC) to request the schedule change, a reasonable factfinder could conclude from Dr. Thrush's numerous emails to Rogers on the subject that he held himself out as an appropriate person to handle the request. Western argues that Rogers did not identify her disabilities as the reason she needed a schedule change, but the record shows that at least one of the reasons she gave was that the double-time accommodation she was receiving [**5]  for her disabilities left her with no time between morning exams and afternoon classes. Western also contends that the schedule change would not have provided Rogers with any benefit. But Rogers explained why it would have been better for her to take her ECM class on a different day.
+Finally, to the extent that Western argues that its decisions with regard to Rogers's schedule are entitled to deference, we defer to an educational institution's academic decisions only if the "undisputed facts" show that it conducted "a fact-specific, individualized analysis of the disabled individual's circumstances and the accommodations that might allow [her] to meet the program's standards" and "concluded that the accommodations were not feasible or would not be effective." Wong v. Regents of Univ. of Cal., 192 F.3d 807, 818-19 (9th Cir. 1999). Western has not made this showing.
+4. The district court erred in concluding that there was no triable issue of fact as to whether Western appropriately handled Rogers's request for alternative texts when it refused to provide alternative texts directly and instead told Rogers where she might be able to get them from third parties, at her own expense. Western's own forms suggest that it has directly supplied students with alternative [**6]  texts in the past. And during her previous studies at other universities, Rogers received alternative texts at the university's expense. A factfinder could conclude from this evidence that alternative texts were a reasonable accommodation that Western was obligated to provide directly to Rogers.1  See id. at 820 (noting that the fact that a university had previously provided an accommodation to others "is certainly persuasive evidence from which a jury could conclude that the accommodation was reasonable"). Rogers's failure to fill out the Alternative Text Request Form is not fatal to her claims. In light of the statements of Sandra Rainwater-Lawler, the assistant director of AARC, that Western does not "directly provide" alternative texts to students because it "d[oes] not  [*936]  produce its own version of alternative text formats," there is a genuine dispute of material fact whether filling out the form would have made any difference in Rogers receiving alternative texts from the university.
+Each party shall bear its own costs.
+AFFIRMED IN PART, REVERSED IN PART, REMANDED.
+Dissent by: Bade  
+Dissent
+
+
+
+
+Bade, Circuit Judge, dissenting in part.
+I respectfully dissent from the conclusion in section 3 that the district court erred with [**7]  respect to Rogers's purported renewed request for an academic schedule change in February 2015. In my view, Rogers's communications to Dr. Thrush did not request a change to her schedule as an accommodation for her disability. Rogers merely sought to discuss her schedule, among multiple other topics, with Dr. Thrush. And even if Rogers did request a schedule change as a disability accommodation from Dr. Thrush, it was improper for her to do so. Rogers acknowledged Western's policy requiring students to direct disability accommodation requests to the AARC. There is no evidence that Rogers submitted a renewed request to the AARC for an academic schedule change in February 2015.
+
+ 
+
+End of Document

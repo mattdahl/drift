@@ -1,0 +1,60 @@
+
+  WarningAs of: September 19, 2020 9:20 PM Z
+Griesbach v. Ross
+Supreme Court of Michigan
+February 17, 2010, Decided
+SC: 136731
+
+Reporter
+485 Mich. 1095 *; 778 N.W.2d 76 **; 2010 Mich. LEXIS 271 ***
+ SARA GRIESBACH, as Next Friend of PATRICK GRIESBACH, Minor, and TIMOTHY GRIESBACH, Plaintiffs-Appellants/Cross-Appellees, v ROBERT R. ROSS, P.A.-C., Defendant-Appellee/Cross-Appellant, and FRANK L. FENTON, D.O. and WALLED LAKE MEDICAL CENTER, P.C., Defendants.  
+Subsequent History: Vacated by, On reconsideration by, Remanded by Griesbach v. Ross, 486 Mich. 933; 782 N.W.2d 198; 2010 Mich. LEXIS 1062 (Mich., May 28, 2010)  
+Prior History:  [***1] COA: 275826. Oakland CC: 2004-062028-NH.
+Griesbach v. Ross, 2008 Mich. App. LEXIS 1088 (Mich. Ct. App., May 22, 2008)  
+Judges: Marilyn Kelly, Chief Justice. Michael F. Cavanagh, Elizabeth A. Weaver, Maura D. Corrigan, Robert P. Young, Jr., Stephen J. Markman, Diane M. Hathaway, Justices. HATHAWAY, J. (concurring). YOUNG, J. (dissenting). CORRIGAN, J., joins the statement of YOUNG, J. MARKMAN, J. (dissenting).  
+Opinion
+
+
+
+
+  [*1095]  [**76]   Order
+On order of the Court, the application for leave to appeal the May 22, 2008 judgment of the Court of Appeals and the application for leave to appeal as cross-appellant are considered. Pursuant to MCR 7.302(H)(1), in lieu of granting leave to appeal, we VACATE the judgment of the Court of Appeals, and we REMAND this case to the Oakland Circuit Court for reconsideration of defendant's motions in light of Bush v Shabahang, 484 Mich 156, 772 N.W.2d 272 (2009), and Potter v McLeary, 484 Mich 397, 774 N.W.2d 1 (2009).
+Concur by: Diane M. Hathaway  
+Concur
+
+
+
+
+ [**77]  HATHAWAY, J. (concurring).
+The record reveals disputed facts regarding whether the notice of intent provided sufficient and timely notice to defendant Ross. Given the factual dispute, it is necessary to remand this case to the trial court for consideration of these issues in light of our decisions in Bush v Shabahang, 484 Mich 156, 772 N.W.2d 272 (2009), and Potter v McLeary, 484 Mich 397, 774 N.W.2d 1 (2009).
+Dissent by: Robert  [***2] P. Young, Jr.; Stephen J. Markman  
+Dissent
+
+
+
+
+YOUNG, J. (dissenting).
+I dissent from the order vacating the Court of Appeals judgment and remanding to the trial court for proceedings consistent with Bush v Shabahang 1  and Potter v McLeary. 2  First and foremost, plaintiff did not meet the requirements plainly described in MCL 600.2912b(3). Therefore, he is not entitled to the additional notice period provided in that statute. Moreover, the current case is factually [*1096]  inapposite to Bush and Potter and is based on an altogether different statutory provision. Accordingly, the standards provided in Bush and Potter are inapplicable to this case and cannot save plaintiff's claims. This remand represents another effort of the new majority to deconstruct the medical malpractice tort reform statutes.
+Plaintiff filed a medical malpractice action against Dr. Frank L. Fenton and Walled Lake Medical Center, P.C. based on their alleged failure to diagnose a bone infection. The only health care professional to examine plaintiff during his two visits at the medical center was a physician's assistant named Robert Ross. Although plaintiff concedes that he knew the identity of  [***3] the treating physician's assistant, he chose neither to serve a notice of intent (NOI) on Ross, as required by MCL 600.2912b(1), nor to name Ross as a defendant in the subsequently filed complaint. Given plaintiff's failure to serve an NOI on a known potential defendant, the statute of limitations applicable to plaintiff's claim against Ross is not subject to tolling under MCL 600.5856(c). 3  Plaintiff waited until the named defendants filed a notice of nonparty at fault identifying Ross before attempting to serve an NOI on Ross or amending the complaint to add Ross as a named defendant. The statute of limitations had expired by that time.
+In general, a plaintiff who "discovers" the identity of a defendant  [***4] through a notice of nonparty at fault after the expiration of the statute of limitations is entitled to file an amended complaint within 91 days of receiving the notice. 4  MCL 600.2912b(3) more specifically addresses the addition of defendants in medical malpractice actions, and it allows for the addition of a defendant only under the following circumstances:
+The 182-day notice period required in subsection (1) is shortened to 91 days if all of the following conditions exist:
+(a) The claimant has previously filed the 182-day notice required in subsection  [**78]  (1) against other health professionals or health facilities involved in the claim.
+(b) The 182-day notice period has expired as to the health professionals or health facilities described in subdivision (a).
+ [*1097]  (c) The claimant has filed a complaint and commenced an action alleging medical malpractice against 1 or more of the health professionals or health facilities described in subdivision (a).
+(d) The claimant did not identify, and could not reasonably have identified a health professional or health facility to which notice must be sent under subsection (1) as a potential party to the action before filing the complaint. 5 
+Plaintiff claims that he could not reasonably have identified Ross as a party entitled to notice before receiving the notice of nonparty at fault. Given plaintiff's own admissions, this claim is absurdly false. Plaintiff concedes that he actually knew the identity of the treating physician's assistant before serving his NOIs on the other defendants and before filing his complaint. Accordingly, plaintiff has not met, and cannot meet, the plain and unambiguous requirements to be entitled to the additional notice period provided in MCL 600.2912b(3). Thus, MCR 2.112(K)(4) is inapplicable to the instant case.
+Moreover, although I continue to believe that Bush and Potter were wrongly decided, the standards described in those cases are clearly irrelevant and inapplicable under the circumstances. The Bush majority held that the amendments to MCL 600.5856(c) provide that the statute of limitations for a medical malpractice action is tolled even if an NOI is substantively defective, and the NOI may thereafter be amended as provided by MCL 600.2301. 6  The majority based this holding on the introductory phrase in subsection (c): "At the time notice is given in compliance with the applicable  [***6] notice period under section 2912b." In Bush, that notice period was provided in the general 182-day provision--MCL 600.2912b(1).
+The Bush majority then relied on MCL 600.2301, which allows amendments to pleadings "for the furtherance of justice" if the amendment will not affect the "substantial rights" of the other party. 7  The majority concluded that it would not be in the furtherance of justice to dismiss a plaintiff's complaint when he "has made a good-faith attempt to comply with the content requirements" 8  of MCL 600.2912b(4). Such good-faith attempt to comply with the requirements of the statute is admittedly absent here. The majority conveniently ignores this fact.
+ [*1098]  In Potter,  [***7] the issues raised do not have even marginal relevance to the facts now before us. Potter involved whether a professional corporation is entitled to service of an NOI when the plaintiff alleges vicarious liability for the conduct of a servant health professional. Potter also implicated questions regarding the adequacy of the content of an NOI under MCL 600.2912b(4)  [**79]  when the NOI omits the standard for vicarious liability or fails to specifically identify the relationship between the professional corporation and the servant doctor.
+The notice provided in this case did not comply with the applicable notice period under section 2912b. As stated, MCL 600.2912b(3) provides an additional 91-day notice period to add an individual as a named defendant when that person could not be "reasonably identified" beforehand. Plaintiff's failure to serve an NOI on Ross along with the original named defendants cannot be considered a "good-faith attempt to comply" with the statutes under Bush. First, the failure to name Ross as a defendant does not implicate the content provision of MCL 600.2912b(4). The failure to serve an NOI on a required party goes straight to the heart of the "notice period"; it does  [***8] not implicate concerns regarding the adequacy of the notice actually provided. Nothing in MCL 600.5856(c), Bush, or Potter excuses a plaintiff who fails to meet the time limitation for providing notice.
+And centrally, as noted above, plaintiff admitted that he knew the identity of the treating health care professional before filing his complaint and that person was physician's assistant Ross. In the face of this admission, even if the "good-faith attempt" standard could apply to these circumstances, plaintiff cannot honestly argue that he "did not identify, and could not reasonably have identified" Ross as required by MCL 600.2912b(3)(d).
+Because Bush and Potter have absolutely no relevance to this case, by invoking them in its remand order, the new majority is essentially using them as a code whose meaning should be lost on no one: We no longer enforce the medical malpractice reform statute. The remand of this case can not be otherwise justified.
+This court should not waste judicial resources by forcing the trial court to reconsider a case involving such a blatant disregard of this medical malpractice statute. I cannot make the statement any plainer: plaintiff acknowledges that he knew  [***9] the identity of the treating medical professional from the outset of these proceedings. Even so, plaintiff chose not to serve an NOI on that individual--the only known treating medical professional. In light of plaintiff's admission, the suggestion that there are questions of fact remaining in this case is both preposterous and false, and the new majority's refusal to uphold the dismissal of this suit is indicative of the new majority's resistance to enforcing our laws as written. Plaintiff's failure to include Ross as a named defendant from the outset of the proceedings defies all logic and reason. If plaintiff has lost a viable claim against Ross because of this error, his recourse is against his attorney.
+Accordingly, I vigorously dissent from the majority's chosen course of action, which allows plaintiff to completely ignore the medical malpractice [*1099]  notice and limitations periods and proceed with his cause of action anyway. However, as stated, I think that this is precisely the new majority's goal.
+CORRIGAN, J., joins the statement of YOUNG, J.
+MARKMAN, J. (dissenting).
+I concur in Justice Young's legal analysis concerning the irrelevance of Bush v Shabahang, 484 Mich 156, 772 N.W.2d 272 (2009), and  [***10] Potter v McLeary, 484 Mich 397, 774 N.W.2d 1 (2009), to the instant case, and therefore dissent. The majority's decision to vacate the Court of Appeals and remand to the trial court for reconsideration in light of our completely inapposite decisions in Bush and Potter, as well as its decision in ADM 2009-13 to  [**80]  revise court rules pertaining to affidavits of merits in a manner inconsistent both with this Court's opinion in Kirkaldy v Rim, 478 Mich 581; 734 N.W.2d 201 (2007), and with the constitution's apportionment of legislative and judicial responsibilities, is indicative of an attitude toward tort and medical malpractice reform that ought to be deeply troubling to citizens of this state concerned about representative self-government. My objections are elaborated upon in dissents in Bush, Potter, and ADM 2009-13.
+
+ 
+
+End of Document

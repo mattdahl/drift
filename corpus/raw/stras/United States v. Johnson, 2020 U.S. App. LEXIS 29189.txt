@@ -1,0 +1,42 @@
+
+No Shepard’s  Signal™As of: September 19, 2020 9:08 PM Z
+United States v. Johnson
+United States Court of Appeals for the Eighth Circuit
+April 17, 2020, Submitted; September 15, 2020, Filed
+No. 19-2858
+
+Reporter
+2020 U.S. App. LEXIS 29189 *
+ United States of America, Plaintiff - Appellee v. Nyles Earlmondo Johnson, also known as Fred Jones, Defendant - Appellant  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Prior History:  [*1] Appeal from United States District Court for the Northern District of Iowa - Sioux City.
+United States v. Johnson, 2019 U.S. Dist. LEXIS 140568, 2019 WL 3938472 (N.D. Iowa, Aug. 20, 2019)  
+Counsel: For United States of America, Plaintiff - Appellee: Ron Timmons, Assistant U.S. Attorney, Shawn Wehde, U.S. ATTORNEY'S OFFICE, Northern District of Iowa, Sioux City, IA. 
+For Nyles Earlmondo Johnson, also known as Fred Jones, Defendant - Appellant: Samuel Owen Cross, Assistant Federal Public Defender, FEDERAL PUBLIC DEFENDER'S OFFICE, Northern District of Iowa, Cedar Rapids, IA. 
+Nyles Earlmondo Johnson, FEDERAL CORRECTIONAL INSTITUTION, Pro se, Beaver, WV.  
+Judges: Before KELLY, WOLLMAN, and STRAS, Circuit Judges. STRAS, Circuit Judge, dissenting.  
+Opinion
+
+
+
+
+PER CURIAM.
+In September 2006, Nyles Johnson entered a plea agreement pursuant to Federal Rule of Criminal Procedure 11(c)(1)(C) and pleaded guilty to three counts related to cocaine base, including Count 1, conspiracy to distribute 50 grams or more of cocaine base, in violation of 21 U.S.C. §§ 841 (a)(1), 841(b)(1)(A), and 846. At the time Johnson committed the offense, the statutory penalty for Count 1 was 10 years to life. 21 U.S.C. § 841(b)(1)(A)(iii) (2006). The district court accepted the Rule 11(c)(1)(C) plea agreement and imposed the 200-month sentence agreed upon by the parties.
+In 2018, the First Step Act made section 2 of the Fair Sentencing Act retroactive, and the statutory range for Johnson's [*2]  conviction became 5 to 40 years. See 21 U.S.C. § 841(b)(1)(B)(iii) (2018) (setting the statutory sentencing range for distributing 28 grams to 280 grams of cocaine base as 5 to 40 years). Johnson subsequently filed a motion pursuant to 18 U.S.C. § 3582(c)(1)(B) for a sentence reduction under § 404 of the First Step Act. The district court denied the motion, and this appeal followed.
+Courts apply a two-step analysis when considering a motion for a reduction of sentence under § 404 of the First Step Act. United States v. McDonald, 944 F.3d 769, 772 (8th Cir. 2019). First, "the court must decide whether the defendant is eligible for relief under § 404." Id. Second, "if the defendant is eligible, the court must decide, in its discretion, whether to grant a reduction." Id. We review de novo the applicability of the First Step Act to a defendant's case, including whether a defendant is eligible for a sentence reduction. Id. at 771. We review for an abuse of discretion a district court's decision to grant or deny a motion for sentence reduction under the First Step Act. Id.
+The district court properly determined that Johnson was eligible for relief under the First Step Act. But at step two, it is unclear from the court's careful opinion whether it understood it had the discretion to grant Johnson relief. The district court [*3]  followed the Supreme Court's guidance in Hughes v. United States, 138 S. Ct. 1765, 201 L. Ed. 2d 72 (2018), which addressed whether a defendant who entered a binding Rule 11(c)(1)(C) plea agreement is eligible for a sentence reduction pursuant to § 3582(c)(2) based on a retroactive amendment to the Guidelines. The district court found that a reduction pursuant to § 3582(c)(2) is a "somewhat-analogous type of sentence reduction" to a reduction under the First Step Act, and determined it should "analyze [Johnson's motion] in the same way."
+While similar in result, sentencing reductions pursuant to § 3582(c)(2) and those pursuant to § 3582(c)(1)(B) are not identical. Compare 18 U.S.C. § 3582(c)(2) (a court may reduce the term of imprisonment "in the case of a defendant who has been sentenced to a term of imprisonment based on a sentencing range that has subsequently been lowered by the Sentencing Commission"); with 18 U.S.C. § 3582(c)(1)(B) ("court may modify an imposed term of imprisonment to the extent otherwise expressly permitted by statute") (emphasis added). A court may find guidance in Hughes when exercising its discretion to grant or deny a defendant relief under § 404 of the First Step Act. But Hughes does not mandate that Johnson's motion filed pursuant to § 3582(c)(1)(B) be denied. Cf. United States v. Moore, 963 F.3d 725, 727 (8th Cir. 2020) ("When reviewing a section 404 petition, a district court may, but need not, consider the section 3553 factors."). [*4]  Because we cannot tell from its otherwise thorough opinion whether the district court viewed Hughes as dictating the result at step two of the McDonald analysis1  , we remand this case for such further consideration as the district court deems appropriate.
+Dissent by: STRAS  
+Dissent
+
+
+
+
+STRAS, Circuit Judge, dissenting.
+The district court said everything it needed to say when it denied Nyles Earlmondo Johnson's motion. See First Step Act of 2018, Pub. L. No. 115-391, 132 Stat. 5194. It first explained that Johnson was eligible for a sentence reduction. See United States v. McDonald, 944 F.3d 769, 771-72 (8th Cir. 2019). It then said it was denying one because of the specific circumstances surrounding Johnson's plea agreement. See Fed. R. Crim. P. 11(c)(1)(C). At that point, there was nothing else to say.
+The court concludes otherwise based on the possibility that the district court may have thought that it lacked discretion. It is true that, in the course of its analysis, the district court discussed another type of sentence-reduction motion. See 18 U.S.C. § 3582(c)(2); see also Hughes v. United States, 138 S. Ct. 1765, 201 L. Ed. 2d 72 (2018). But then it focused on the facts of this case and described why a reduction would require too much "conjecture" about the reasons behind the "the agreed[-upon] sentence" in Johnson's plea agreement. It is not our place to disturb this conclusion, United States v. Williams, 943 F.3d 841, 844 (8th Cir. 2019) (requiring [*5]  only "a reasoned basis for [the district court's] decision"), and certainly not so the district court can simply clean up a few sentences in what is an "otherwise thorough" 20-page order.2 Ante at 3. I respectfully dissent.
+
+ 
+
+End of Document

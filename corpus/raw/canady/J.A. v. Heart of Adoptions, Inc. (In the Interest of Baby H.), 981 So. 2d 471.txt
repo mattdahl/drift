@@ -1,0 +1,56 @@
+
+  WarningAs of: September 19, 2020 7:26 PM Z
+J.A. v. Heart of Adoptions, Inc. (In the Interest of Baby H.)
+Court of Appeal of Florida, Second District
+March 28, 2007, Decided ; March 28, 2007, Opinion Filed 
+Case No. 2D05-5058 
+
+Reporter
+981 So. 2d 471 *; 2007 Fla. App. LEXIS 4545 **; 32 Fla. L. Weekly D 807
+ In the Interest of Baby H., a child. J.A., Appellant, v. HEART OF ADOPTIONS, INC., Appellee.  
+Subsequent History: Released for Publication April 13, 2007. 
+Later proceeding at Heart of Adoptions, Inc. v. J.A., 954 So. 2d 1155, 2007 Fla. LEXIS 806 (Fla., 2007)
+Quashed by, Remanded by Heart of Adoptions, Inc. v. J.A., 963 So. 2d 189, 2007 Fla. LEXIS 1236 (Fla., July 12, 2007)  
+Prior History:  [**1]  Appeal from the Circuit Court for Hillsborough County; Monica L. Sierra, Judge.  
+J.A. v. Heart of Adoptions, Inc. (In the Interest of Baby H.), 2007 Fla. App. LEXIS 1404 (Fla. Dist. Ct. App. 2d Dist., Feb. 7, 2007)  
+Disposition: Reversed and remanded.  
+  
+Counsel: Rhonda Portwood, Inverness, for Appellant. 
+Raymond T. Elligett, Jr., of Schropp, Buell & Elligett, P.A., and Jeanne T. Tate of Jeanne T. Tate, P.A., Tampa, for Appellee.    
+Judges: CANADY and LaROSE, JJ., and THREADGILL, EDWARD F., SENIOR JUDGE, Concur. CANADY, J., Concurs specially with opinion.    
+Opinion
+
+
+
+
+ [*471]  PER CURIAM.
+J.A., the named biological father, appeals a final judgment of termination of parental rights pending adoption which was entered pursuant to chapter 63, Florida Statutes (2004). We reverse.
+Here, as in J.C.J. v. Heart of Adoptions, Inc. (In re Baby R.P.S.), 942 So. 2d 906 (Fla. 2d DCA 2006), and A.S. v. Gift of Life Adoptions, Inc. (In re Termination of Parental Rights for the Proposed Adoption of Baby A.), 944 So. 2d 380 (Fla. 2d DCA 2006), the trial court determined that because the named biological father had failed to properly file a claim of paternity with the Florida Putative Father Registry, the biological father's consent to adoption was not required and that the adoption entity was therefore entitled to the judgment terminating [**2]  the biological father's parental rights. In A.S., we held that in a proceeding on a petition for termination of parental rights pending adoption, a putative father's failure to meet the requirement of section 63.062(2), Florida Statutes (2004), for the filing of a notarized claim of paternity did not constitute a basis for terminating his parental rights. In J.C.J., we held that it was fundamental error to base such a termination of parental rights on a failure to file a claim of paternity.
+We reverse the judgment on appeal here because the circumstances present in this case differ in no material respect from the circumstances present in J.C.J.
+Pursuant to article V, section 3(b)(4) of the Florida Constitution and Florida Rule of Appellate Procedure 9.030(a)(2)(A)(v), we certify that the following question upon  [*472]  which this decision passes is one of great public importance.
+IN A PROCEEDING ON A PETITION FOR TERMINATION OF PARENTAL RIGHTS PENDING ADOPTION, MAY THE PUTATIVE FATHER'S RIGHTS IN RELATION TO THE CHILD BE TERMINATED BASED ON THE PUTATIVE FATHER'S FAILURE TO PROPERLY FILE A CLAIM OF PATERNITY WITH [**3]  THE FLORIDA PUTATIVE FATHER REGISTRY? 
+Reversed and remanded.
+CANADY and LaROSE, JJ., and THREADGILL, EDWARD F., SENIOR JUDGE, Concur.
+CANADY, J., Concurs specially with opinion.  
+Concur by: CANADY  
+Concur
+
+
+
+
+CANADY, Judge, Concurring specially.
+I agree that the disposition of this case is controlled by this court's decision in J.C.J. Because of the significance of the issues considered in A.S. and J.C.J., I write to express my view concerning the correct interpretation of the rights of unmarried biological fathers under chapter 63, the Florida Adoption Act (the Act).
+A central feature of the Act is the Florida Putative Father Registry. See § 63.054. Another central feature of the Act is the authorization of petitions to terminate parental rights pending adoption. See §§ 63.062, .082, .087-.089. Section 63.062 sets forth various provisions governing the granting of such petitions. Section 63.062(2)(d) provides:
+An unmarried biological father who does not comply with each of the conditions provided in this subsection [including filing a claim of paternity with the Florida Putative Father Registry] is deemed to have waived and surrendered any rights  [**4]   in relation to the child, including the right to notice of any judicial proceeding in connection with the adoption of the child, and his consent to the adoption of the child is not required.
+(Emphasis added.) See §§ 63.062(2)(b)(1); 63.054.
+The provision with respect to the waiver and surrender of the rights of unmarried biological fathers is based on a legislative finding set forth in section 63.053(2):
+The Legislature finds that the interests of the state, the mother, the child, and the adoptive parents described in this chapter outweigh the interest of an unmarried biological father who does not take action in a timely manner to establish and demonstrate a relationship with his child in accordance with the requirements of this chapter. An unmarried biological father has the primary responsibility to protect his rights and is presumed to know that his child may be adopted without his consent unless he complies with the provisions of this chapter and demonstrates a prompt and full commitment to his parental responsibilities.
+The legislature has also specifically found in section 63.022(1)(e) that "[t]he state has a compelling interest in requiring an unmarried [**5]  biological father . . . [to establish] legal paternity rights in accordance with the requirements of [the Act]."
+Section 63.054(1) provides that a "claim of paternity may be filed at any time prior to the child's birth, but a claim of paternity may not be filed after the date a petition is filed for termination of parental rights."
+While I recognize that A.S. and J.C.J. both undertake a painstaking analysis of the statutory scheme, I believe that the analysis never truly comes to terms with the provision in section 63.062(2)(d) that an unmarried biological father who does not timely file a claim of paternity "is deemed to have waived and surrendered any rights in relation to the child." I am unpersuaded that a trial court errs in terminating  [*473]  any rights in relation to the child of a biological father who has failed to timely register with the Florida Putative Father Registry and who is therefore by the unequivocal terms of the statute "deemed to have waived and surrendered" such rights. A judgment terminating any parental rights of such a biological father does nothing more than carry out the mandate of section 63.062(2)(d).
+I also question whether a claim of this sort [**6]  should be treated as fundamental error. I believe that we should be very reluctant to depart from the general requirement that issues be properly preserved in the trial court and properly presented by the appellant on appeal. It should also be noted that to the extent concerns might be raised regarding the constitutionality of section 63.062(2)(d), such concerns were not presented or addressed in A.S. or J.C.J. Nor have such concerns been presented in the instant case.
+Accordingly, were I not bound by the decision in J.C.J., I would affirm the judgment on appeal.  
+
+ 
+
+End of Document

@@ -1,0 +1,52 @@
+
+  CitedAs of: September 19, 2020 7:22 PM Z
+McConville v. Cotton States Mut. Ins. Co.
+Court of Appeals of Georgia
+March 20, 2012, Decided
+A11A1644.
+
+Reporter
+315 Ga. App. 11 *; 726 S.E.2d 481 **; 2012 Ga. App. LEXIS 302 ***; 2012 Fulton County D. Rep. 1153
+  
+McCONVILLE v. COTTON STATES MUTUAL INSURANCE COMPANY.  
+Prior History: Automobile insurance. Lowndes Superior Court. Before Judge Cowart.
+  
+Disposition:  [***1] Judgment affirmed.
+  
+Counsel: Carl G. Fulp III, for appellant.  
+Young, Thagard, Hoffman, Smith & Lawrence, James B. Thagard, Brian J. Miller, Hall, Booth, Smith & Slover, Anthony A. Rowell, Charles A. Dorminy, for appellee.  
+Judges: BARNES, Presiding Judge. Adams, J., concurs. Blackwell, J., concurs specially.  
+Opinion by: BARNES  
+Opinion
+
+
+
+
+ [*11]   [**482]  Barnes, Presiding Judge.
+After Bruce McConville was injured when his car was rear-ended, he filed a complaint for personal injury against the driver, and also served Cotton States Mutual Insurance Company, his insurer, pursuant to the uninsured/underinsured motorist statute, OCGA § 33-7-11 (b) (1) (D). The driver, through his insurer, settled with McConville for his policy limits of $25,000. Cotton States filed its answer and defenses, and subsequently moved for summary judgment on the basis that McConville's policy only provided so-called “reduction” uninsured motorist benefits under the pre-2008 version of OCGA § 33-7-11, and not “excess” uninsured motorist coverage pursuant to the statute as amended in 2008. McConville countered that the amended statute applies to all policies existing on January 1, 2009, when the amended statute became effective. Because of that, McConville maintained, he was entitled to receive “excess” coverage; thus, his uninsured motorist coverage from Cotton States would be stacked with the other driver's coverage for a total sum available to him of $50,000.  [***2] The trial court granted Cotton States’ motion for summary judgment, finding that McConville's policy with Cotton States was subject to the “reduction” rule under the pre-2008 statute, and thus, there was no uninsured motorist coverage available to him under his policy. It is from that order that McConville appeals, and for the reasons discussed below, we affirm.
+“This Court's review of the grant or denial of summary judgment is de novo in order to determine whether any genuine issue of material fact exists for resolution by a jury.” (Citation omitted.) QBE Ins. Co. v. Couch Pipeline &c., 303 Ga. App. 196, 197 (692 SE2d 795)  [*12]  (2010). The record reveals that at the time of the accident, McConville was insured with Cotton States under a policy that he had renewed on December 9, 2008. The policy included uninsured motorist coverage of $25,000 per person and expired on June 9, 2009, at which time McConville renewed it. Per the policy, “[a]mounts payable for damages under Uninsured Motorist, Coverage U, will be reduced by: (1) all sums paid by or on behalf of persons or organizations who may be legally responsible for the bodily injury or property damage.” McConville was injured in a car accident  [***3] on April 27, 2009, during the policy period but after OCGA § 33-7-11 was amended. The statute provides:
+[A] motor vehicle shall be considered uninsured to the full extent of the limits of the uninsured motorist coverage provided under the insured's motor vehicle insurance policies, and such coverages shall apply to the insured's losses in addition to the amounts payable under any available bodily injury liability and property damage liability insurance coverages. The insured's uninsured motorist coverage shall not be used to duplicate payments made under any available bodily injury liability insurance and property damage liability insurance coverages but instead shall be available as additional insurance coverage in excess of any available bodily injury liability insurance and property damage liability insurance coverages; provided, however, that the insured's combined recovery from the insured's uninsured motorist coverages and the available  [**483]  coverages under the bodily injury liability insurance and property damage liability insurance on such uninsured motor vehicle shall not exceed the sum of all economic and noneconomic losses sustained by the insured. …
+(Emphasis supplied.) OCGA § 33-7-11 (b) (1) (D) (ii) (I).  [***4] The statute also provides that the insured can reject in writing the uninsured motorist coverage entirely, OCGA § 33-7-11 (a) (3), or
+select in writing coverage for the occurrence of sustaining losses from the owner or operator of an uninsured motor vehicle that considers such motor vehicle to be uninsured only for the amount of the difference between the available coverages under the bodily injury liability insurance and property damage liability insurance coverages on such motor vehicle and the limits of the uninsured motorist coverages provided under the insured's motor vehicle insurance policies.
+ [*13]  OCGA § 33-7-11 (b) (1) (D) (ii) (II). The statute also requires the insurer to give notice of the available uninsured motorist coverage to its policy holders whose policies are up for renewal after January 1, 2009. It provides:
+…For private passenger motor vehicle insurance policies in effect on January 1, 2009, insurers shall send to their insureds who have not rejected coverage pursuant to paragraph (3) of subsection (a) of this Code section a notice at least 45 days before the first renewal of such policies advising of the coverage options set forth in this division. Such notice shall not  [***5] be required for any subsequent renewals for policies in effect on January 1, 2009, or for any renewals for policies issued after January 1, 2009. …
+OCGA § 33-7-11 (b) (1) (D) (ii) (III).
+The only issue on appeal is whether McConville's policy in effect at the time of the April 2009 accident was subject to OCGA § 33-7-11, as amended, resulting in excess coverage of $25,000, or whether it was subject to its terms, resulting in a reduction of his underinsured coverage by the $25,000 paid by the other driver's liability carrier and thus no additional coverage to him.
+(1) Generally, “statutes prescribe for the future and that is the construction to be given unless there is a clear contrary intention shown. On the other hand, where a statute governs only procedure of the courts, including the rules of evidence, it is to be given retroactive effect absent an expressed contrary intention.” (Citations omitted.) Polito v. Holland, 258 Ga. 54, 55 (2) (365 SE2d 273) (1988). Substantive law “creates rights, duties, and obligations. Procedural law is that law which prescribes the methods of enforcement of rights, duties, and obligations.” (Citations omitted.) Id. at 55 (3). Here, although not codified by  [***6] the General Assembly, the bill provided that the amendment to OCGA § 33-7-11 shall apply “to all policies issued, delivered, issued for delivery, or renewed in this state on and after [January 1, 2009].” Ga. L. 2008, p. 1192, § 5. Nothing in the statute, however, explicitly states whether the amendment applies to policies existing on January 1, 2009.
+In Devore v. Liberty Mut. Ins. Co., 257 Ga. App. 7 (570 SE2d 87) (2002), we considered whether an amendment to OCGA § 46-7-12 permitting a direct action against the insurer of a motor common carrier under certain conditions could be applied retroactively. Id. at 9. We held that the amendment applied retroactively because it altered evidentiary rules rather than substantive rights. Id. Likewise, in Jackson v. Sluder, 256 Ga. App. 812 (569 SE2d 893) (2002),  [*14]  we also held that OCGA § 46-7-12 applied retroactively because it did not create a new cause of action against the insurer or expand its contractual obligations, but simply removed a technical bar to filing against an insurer directly. Id. at 816. Conversely, in State Farm &c. Ins. Co. v. Hall, 309 Ga. App. 271, 272 (709 SE2d 867) (2011), we held that a 2008 amendment to OCGA § 33-7-11 (i), allowing  [***7] an uninsured motorist insurer to set off payments made to its insured under the medical benefits provision of the policy, altered substantive rights rather than procedural or evidentiary rules, and thus, did not apply retroactively.
+(2) Before it was amended, OCGA § 33-7-11 (b) (1) (D) (ii) defined “uninsured motor vehicle” as one on which the liability insurance  [**484]  coverage was less than the uninsured motorist coverage under the insured's policy, but only to the extent of the difference between the available coverage under the liability insurance policy and the coverage under the uninsured motorist policy. OCGA § 33-7-11 (2007).
+The statute as amended now provides that “no automobile liability policy or motor vehicle liability policy shall be issued or delivered” unless the insured is given the option of selecting the type of uninsured motorist coverage desired. This change created a new right for the insured — the ability to elect to have excess uninsured motorist coverage, a reduction in that coverage, or no uninsured motorist coverage at all. Likewise, the insurer's rights were affected by the statutory amendment, which now requires the insurer to provide excess coverage unless its insured  [***8] specifically rejects it.
+Thus, because the amendment affected the rights of all parties, the amendment was substantive in nature and could not be retroactively applied to authorize excess coverage for McConville's accident that occurred before he renewed his policy. Accordingly, the trial court did not err in granting summary judgment to Cotton States.
+Judgment affirmed. Adams, J., concurs. Blackwell, J., concurs specially.
+Concur by: BLACKWELL  
+Concur
+
+
+
+
+Blackwell, Judge, concurring specially.
+I agree that the judgment below ought to be affirmed, but I do not think the analysis is as complicated as the majority opinion suggests. When the General Assembly amended OCGA § 33-7-11 in 2008, it specified that the amendment applies “to all policies issued, delivered, issued for delivery, or renewed in this state on and after [January 1, 2009].” Ga. L. 2008, p. 1192, § 5. That is all we need to know to conclude that the amendment does not apply to the policy at issue here, inasmuch as that policy was issued and delivered prior to January 1, 2009. For that reason, the commentary in the majority opinion about the distinctions between substantive and procedural  [*15]  statutes is unnecessary.
+
+ 
+
+End of Document

@@ -1,0 +1,402 @@
+
+  NeutralAs of: September 19, 2020 8:20 PM Z
+Tenn. Hosp. Ass'n v. Azar
+United States Court of Appeals for the Sixth Circuit
+June 14, 2018, Argued; November 14, 2018, Decided; November 14, 2018, Filed
+File Name: 18a0252p.06
+Nos. 17-5970/6033
+
+Reporter
+908 F.3d 1029 *; 2018 U.S. App. LEXIS 32204 **; 2018 FED App. 0252P (6th Cir.) ***; 2018 WL 5931518
+ TENNESSEE HOSPITAL ASSOCIATION; TAKOMA REGIONAL HOSPITAL; DELTA MEDICAL CENTER; PARKWEST HOSPITAL, Plaintiffs-Appellees/Cross-Appellants, v. ALEX M. AZAR, II, in his official capacity as Secretary of Health and Human Services; SEEMA VERMA, Administrator of the Centers for Medicare and Medicaid Services; CENTERS FOR MEDICARE AND MEDICAID SERVICES, Defendants-Appellants/Cross-Appellees.  
+Prior History:  [**1] Appeal from the United States District Court for the Middle District of Tennessee at Nashville. No. 3:16-cv-03263—Waverly D. Crenshaw, Jr., Chief District Judge.
+Tenn. Hosp. Ass'n v. Price, 2017 U.S. Dist. LEXIS 96601 (M.D. Tenn., June 21, 2017)  
+Counsel: ARGUED: Tara S. Morrissey, UNITED STATES DEPARTMENT OF JUSTICE, Washington, D.C., for Appellants/Cross-Appellees. 
+William H. West, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, PC, Nashville, Tennessee, for Appellees/Cross-Appellants. 
+ON BRIEF: Tara S. Morrissey, UNITED STATES DEPARTMENT OF JUSTICE, Washington, D.C., for Appellants/Cross-Appellees. 
+William H. West, BAKER DONELSON BEARMAN CALDWELL & BERKOWITZ, PC, Nashville, Tennessee, for Appellees/Cross-Appellants.  
+Judges: Before: MOORE, KETHLEDGE, and STRANCH, Circuit Judges. MOORE, J., delivered the opinion of the court in which STRANCH, J., joined, and KETHLEDGE, J., joined in the result. KETHLEDGE, J., delivered a separate opinion concurring in the judgment.  
+Opinion by: KAREN NELSON MOORE  
+Opinion
+
+
+
+
+ [*1032]  [***2]   KAREN NELSON MOORE, Circuit Judge. This case marks the latest in a string of lawsuits brought by hospitals across the country challenging efforts by the Centers for Medicare and Medicaid Services ("CMS") to direct states to recoup certain reimbursements made under the Medicaid program. Here, plaintiffs [**2]  are the Tennessee Hospital Association and three of its member hospitals, Takoma Regional Hospital, Delta Medical Center, and Parkwest Hospital. These hospitals serve a disproportionate share of Medicaid-eligible patients and are thereby entitled to supplemental payments under the Medicaid Act, known as "DSH payments" or "DSH payment adjustments." The Medicaid Act limits the amount of DSH payments each hospital can receive in a given year, and CMS contends that plaintiffs in this case miscalculated their DSH payment-adjustments for fiscal year 2012 and received extra payments as a result. Plaintiffs, in turn, insist that CMS's approach to calculating DSH payment adjustments is out of step with the Medicaid Act and the regulations that CMS implemented in 2008 pursuant to the Medicaid Act. The district court agreed with plaintiffs and held that  [*1033]  CMS's methodology was inconsistent with both the Medicaid Act and CMS's 2008 regulation. Although we agree that CMS's policy is inconsistent with its 2008 rule and cannot be enforced against plaintiffs unless it is promulgated pursuant to notice-and-comment rulemaking, we disagree with the district court's conclusion that CMS's policy exceeds [**3]  the agency's authority under the Medicaid Act. We therefore AFFIRM the final judgment of the district court on the sole ground that CMS may not enforce an invalidly promulgated policy against plaintiffs and REMAND for further proceedings consistent with this opinion.
+  [***3]  I. BACKROUND
+Plaintiffs in this case—the Tennessee Hospital Association and three of its member hospitals—are challenging efforts by the Centers for Medicare and Medicaid Services ("CMS") to direct Tennessee to recoup certain reimbursements paid to the hospitals under the Medicaid program. Plaintiffs are "Disproportionate Share Hospitals" ("DSH"), which means that they serve a disproportionate share of Medicaid-eligible and low-income patients. 42 U.S.C. §§ 1396a(a)(13)(A)(iv); 1396r-4(b). As DSH hospitals, plaintiffs receive supplemental "DSH payments" under the Medicaid Act to help offset the cost of caring for indigent individuals. See id. § 1396r-4(c). The Medicaid Act limits the amount of funds any given DSH hospital can receive in a given year to its uncompensated cost of care—i.e., the cost of caring for Medicaid-eligible and uninsured patients less certain payments made on behalf of those patients. Id. § 1396r-4(g)(1)(A).
+Congress amended the Medicaid Act in 2003 to require [**4]  states to audit and report the amount of DSH payments distributed to each hospital. Id. § 1396r-4(j). In 2008, CMS issued a final rule pursuant to notice-and-comment rulemaking implementing the 2003 auditing requirements. See Medicaid Program; Disproportionate Share Hospital Payments, 73 Fed. Reg. 77,904 (Dec. 19, 2008). To "permit verification of the appropriateness of [each hospital's DSH] payments," the rule requires "each DSH hospital to which the State made a DSH payment" to submit certain data to CMS. 42 C.F.R. § 447.299(c) (2016).1  The preamble to the rule refers to the various categories of required data as "data elements," 73 Fed. Reg. at 77,948, and we adopt that terminology here. For the purposes of this case, the most relevant data elements are displayed in the chart below.
+ [*1034]  
+ [***4] 
+Provision
+Data Element
+Description
+42 C.F.R. § 447.299(c)(9)
+Total Medicaid
+The sum of the "[P/OP
+
+IP/OP2  Payments
+Medicaid fee-for-service
+
+
+(FFS) basic rate
+
+
+payments,"3  the
+
+
+"IP/OP Medicaid managed
+
+
+care organization
+
+
+payments,"4  and the
+
+
+"Supplemental/enhanced
+
+
+Medicaid 1P/OP
+
+
+payments."5 
+42 C.F.R. § 447.299(c)(10)
+Total Cost of
+"The total annual costs
+
+Care for
+incurred by each hospital
+
+Medicaid IP/OP
+for furnishing inpatient
+
+Services
+hospital and
+
+
+outpatient hospital
+
+
+services to Medicaid
+
+
+eligible individuals."
+42 C.F.R. § 447.299(c)(11)
+Total Medicaid
+"The total amoimt of
+
+Uncompensated
+uncompensated [**5]  care
+
+Care
+attributable to Medicaid
+
+
+inpatient and outpatient
+
+
+services. The amount
+
+
+should be the result of
+
+
+subtracting the amount
+
+
+identified in §
+
+
+447.299(c)(9) from the
+
+
+amoimt identified in §
+
+
+447.299(c)(10). The
+
+
+uncompensated care costs
+
+
+of providing Medicaid
+
+
+physician services cannot
+
+
+be included in this
+
+
+amount."
+42 C.F.R. § 447.299(c)(12)
+Uninsured [P/OP
+"Total annual payments
+
+revenue
+received by the hospital
+
+
+by or on behalf of
+
+
+individuals with no
+
+
+source of third party
+
+
+coverage for inpatient
+
+
+and outpatient hospital
+
+
+services they receive.
+
+
+This amount does not
+
+
+include payments made by
+
+
+a State or units of local
+
+
+government, for services
+
+
+furnished to indigent
+
+
+patients."
+42 C.F.R. § 447.299(c)(13)
+Total Applicable
+"Federal Section 1011
+
+Section 1011
+payments6  for
+
+Payments
+uncompensated inpatient
+
+
+and outpatient hospital
+
+
+services provided to
+
+
+Section 1011 eligible
+
+
+aliens with no source of
+
+
+third party coverage for
+
+
+the inpatient and
+
+
+outpatient hospital
+
+
+services they receive."
+42 C.F.R. § 447.299(c)(14)
+Total cost of
+"[T]he total costs
+
+IP/OP care for
+incurred for furnishing
+
+the uninsured
+inpatient hospital and
+
+
+outpatient hospital
+
+
+services to individuals
+
+
+with no source of third
+
+
+party coverage for the
+
+
+hospital services they
+
+
+receive."
+42 C.F.R. § 447.299(c)(16) [**6] 
+Total annual
+"The total annual
+
+uncompensated
+uncompensated care cost
+
+care costs
+equals the total cost of
+
+
+care for furnishing
+
+
+inpatient hospital and
+
+
+outpatient hospital
+
+
+services to Medicaid
+
+
+eligible individuals and
+
+
+to individuals with no
+
+
+source of third party
+
+
+coverage for the hospital
+
+
+services they receive
+
+
+less the sum of regular
+
+
+Medicaid FFS rate
+
+
+payments, Medicaid
+
+
+managed care organization
+
+
+payments, supplemental /
+
+
+enhanced Medicaid
+
+
+payments, uninsured
+
+
+revenues, and Section
+
+
+1011 payments for
+
+
+inpatient and outpatient
+
+
+hospital services. This
+
+
+should equal the sum of
+
+
+paragraphs
+
+
+(c)(9),(c)(12), and
+
+
+(c)(13) subtracted from
+
+
+the sum of paragraphs
+
+
+(c)(10) and (c)(14) of
+
+
+this section."
+ [*1035]  [***5]   The parties' dispute turns, in large part, on how to define properly the so-called "Medicaid shortfall" for hospitals that treat Medicaid-eligible patients who have additional sources of insurance coverage. The Medicaid shortfall is represented by the data element in 42 C.F.R. § 447.299(c)(11), and it reflects the "[t]otal annual costs incurred" ((c)(10)) in treating Medicaid-eligible patients less the total annual "Medicaid IP/OP payments" received ((c)(9)).
+ [***6]  The question is not as simple as it may seem. For certain hospitals—and, defendants contend, for the plaintiff-hospitals [**7]  here—subtracting total annual "Medicaid IP/OP payments" received from "[t]otal annual costs incurred" does not give an accurate picture of how much money a hospital has ultimately lost in caring for indigent patients because Medicaid is not the sole source of insurance coverage for all Medicaid-eligible patients. "[C]hildren with certain disabilities may be eligible for Medicaid and have private insurance coverage through their parents," for instance, and "some elderly individuals are eligible for both Medicare and Medicaid." First Br. at 4--5 (citing 42 U.S.C. § 1396a(a)(10)(A)(i)(II), (ii)(I)). (The latter group is generally referred to as "dual eligibles." Id.) For individuals with some form of dual coverage, Medicaid typically serves as the "payer of last resort," which means that it contributes funds only if the private insurance or Medicare payments are less than what Medicaid would have paid. Massachusetts v. Sebelius, 638 F.3d 24, 26 (1st Cir. 2011) (quoting Ark. Dep't of Health & Human Servs. v. Ahlborn, 547 U.S. 268, 291, 126 S. Ct. 1752, 164 L. Ed. 2d 459 (2006)). Thus, if private insurance or Medicare compensates hospitals at a higher rate than Medicaid (which defendants contend is typical, see First Br. at 5), then Medicaid contributes nothing to defray the cost of caring for such patients. Assume, then, that a hospital spent $100 to treat a dual-eligible patient, and assume [**8]  further that Medicaid would have contributed $20 to offset the cost of that care but that Medicaid instead contributed nothing because Medicare footed $40 of the bill. Under this scenario, the Medicaid shortfall is seemingly $100 (total costs incurred minus total Medicaid payments received (zero)), even though the actual loss to the hospital is only $60. See First Br. at 34.
+Defendants argue that the Medicaid Act should not be read to require such a perverse result, and that CMS has in fact directed hospitals to account for third-party payments (such as the $40 Medicare payment in the above hypothetical) on three separate occasions. First, defendants insist that CMS "articulated [its] payment-deduction policy" in the "Discussion of Public Comments" section of the preamble to the 2008 rule. First Br. at 10. In response to a question about how to calculate the costs attributable to "dual eligibles"—i.e., patients with both Medicaid and Medicare [*1036]  coverage—CMS advised that "the costs attributable to dual eligibles should be included in the calculation of the uncompensated costs of serving Medicaid eligible individuals. But in calculating those uncompensated care costs, it is necessary to [**9]  take into account both the Medicare and Medicaid payments made, since those payments are contemplated  [***7]  under Title XIX [of the Social Security Act]." 73 Fed. Reg. at 77,912. To defendants, this response plainly directs hospitals to "take both the good and the bad when calculating the uncompensated costs of treating dual eligibles"—i.e., to account for both the gross costs and the offsetting Medicare payments. First Br. at 26. Plaintiffs, however, stress that the published text of 42 C.F.R. § 447.299(c) contains no similar instructions regarding dual eligibles or Medicare patients, and, in fact, does not mention dual-insured patients at all. See Second Br. at 7, 9.
+Next, defendants point to two "Frequently Asked Questions" ("FAQs") and responses that CMS published on its website in 2010. FAQ 33 asks, in essence, whether costs and revenues associated with patients who have "both Medicaid and private insurance" should be included in the "DSH limit." R. 45-1 (Van Cleave Decl., Ex. A, "Additional Information on the DSH Reporting and Audit Requirements" at 18) (Page ID #607). CMS responds that both "costs[] and revenues associated with patients that are eligible for Medicaid and also have private insurance should be included in the [**10]  calculation of the hospital-specific DSH limit." Id. FAQ 34, in turn, notes that "[t]he regulation states that costs for dual eligibles should be included in uncompensated care costs" and asks, "[u]nder what circumstances should [hospitals] include Medicare payments?" Id. In response, CMS explains that hospitals must "include the costs attributable to dual eligibles when calculating the uncompensated costs of serving Medicaid eligible individuals," but "must also take into account payment[s] made on behalf of the individual, including all Medicare and Medicaid payments made on behalf of dual eligibles." Id. Neither FAQ 33 nor FAQ 34 was promulgated through notice-and-comment rulemaking.
+Finally, in August 2016, CMS issued a notice of proposed rulemaking that proposed to amend subpart (c)(10) of the 2008 rule to define the "total annual costs incurred by each hospital" for treating Medicaid-eligible patients as "costs net of third-party payments, including, but not limited to, payments by Medicare and private insurance." Medicaid Program; Disproportionate Share Hospital Payments—Treatment of Third Party Payers in Calculating Uncompensated Care Costs, 81 Fed. Reg. 53,980, 53,985 (Aug. 15, 2016). The final rule was published in April 2017 with the same language as quoted above, and it went into effect [**11]  on a prospective basis on June 2, 2017. Medicaid Program; Disproportionate Share Hospital Payments—Treatment of Third Party Payers in Calculating Uncompensated Care Costs, 82 Fed.  Reg. 16,114, 16,122 (Apr. 3, 2017) [***8] . The District Court for the District of Columbia subsequently determined that the final rule was "inconsistent with the plain language of the Medicaid Act," and vacated the rule. See Children's Hosp. Ass'n of Tex. v. Azar, 300 F. Supp. 3d 190, 205, 211 (D.D.C. 2018). That case is currently on appeal before the D.C. Circuit.
+Notwithstanding CMS's purported payment-deduction policy, plaintiffs here did not account for third-party payments when calculating their DSH payment adjustment. On December 1, 2016, Tennessee's Medicaid program (TennCare) notified plaintiffs that audits of their 2012 payment adjustments revealed that they had received significant DSH overpayments for the 2012 fiscal year and directed plaintiffs  [*1037]  to repay the excess funds to the state.7  R. 16 (Am. Compl. Ex. D) (Page ID #260--68). In response, plaintiffs sued. As is relevant for purposes of this appeal, plaintiffs alleged in their complaint that CMS's payment-deduction policy was contrary to the unambiguous language in the Medicaid Act (Count One), ran afoul of the published text of the [**12]  2008 rule (Count Two), and had not been promulgated pursuant to the required notice-and-comment rulemaking process (also Count Two). See R. 16 (Am. Compl. ¶¶ 74--89) (Page ID #217--20). The district court granted summary judgment in plaintiffs' favor, reasoning that the policy was arbitrary and capricious, procedurally invalid, and promulgated in excess of CMS's statutory authority. Tenn. Hosp. Ass'n v. Price, No. 3:16-CV-3263, 2017 U.S. Dist. LEXIS 96601, 2017 WL 2703540, at *7--8 (M.D. Tenn. June 21, 2017). For the remedy, the district court "permanently enjoined" defendants from enforcing the "policies reflected in FAQs 33 and 34" against plaintiffs, "for the fiscal years 2012--2016." R. 85 (Order at 1) (Page ID #1441). Defendants now appeal the district court's judgment in plaintiffs' favor, and plaintiffs appeal the district court's failure to impose a permanent injunction.
+  [***9]  II. DISCUSSION
+As the discussion below will show, defendants are correct to insist that CMS's payment-deduction policy, as purportedly established in the preamble to the 2008 rule and as plainly set forth in the 2010 FAQs, is consistent with the Medicaid Act. We agree, however, with plaintiffs and the district court that CMS failed to promulgate this policy in a procedurally valid fashion. [**13]  We further agree (now with only plaintiffs) that the district court's chosen remedy—to enjoin CMS from enforcing its policy from fiscal years 2012 to 2016—was insufficient. We therefore AFFIRM the final judgment of the district court because FAQs 33 and 34 are not procedurally valid legislative rules, and we REMAND this case to the district court with instructions to permanently enjoin defendants from enforcing FAQs 33 and 34 against plaintiffs.
+ A. Is the "Payment-Deduction Policy" Consistent with the Medicaid Act?
+The Administrative Procedure Act ("APA") prohibits agencies from taking action "in excess of statutory jurisdiction, authority, or limitations, or short of statutory right." 5 U.S.C. § 706(2)(C). We review the propriety of agency action under the two-step framework set forth in Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 104 S. Ct. 2778, 81 L. Ed. 2d 694 (1984). At the first step of Chevron, we employ "traditional tools of statutory construction" to determine whether "Congress had an intention on the precise question at issue." Id. at 843 n.9. "If the intent of Congress is clear, that is the end of the matter; for the court, as well as the agency, must give effect to the unambiguously expressed intent of Congress." Id. at 842--43. But if the statute is instead "silent or ambiguous with respect to the specific [**14]  issue," we then ask, at step two of the analysis, "whether the agency's answer is based on a permissible construction [*1038]  of the statute." Id. at 843.
+The relevant statutory provision here is 42 U.S.C. § 1396r-4(g)(1)(A), which states that annual DSH payments to a hospital may not surpass:
+the costs incurred during the year of furnishing hospital services (as determined by the Secretary and net of payments under this subchapter, other than under this section, and by uninsured patients) by the hospital to individuals who either are eligible for medical assistance under the State plan or have no health insurance (or other source of third party coverage) for services provided during the year.
+ [***10]  Id. (emphasis added). Defendants highlight the express delegation to the Secretary to "determine[]" the "costs incurred" as dispositive evidence that CMS's decision to define "costs incurred" as costs net of payments by Medicare and private insurers is reasonable under the statute. In other words, defendants argue that CMS's proposed interpretation of the statute is permissible under Chevron step two. See Third Br. at 15--21. Plaintiffs disagree, arguing that Congress capped CMS's discretion to "determine[]" the "costs incurred" by directly [**15]  specifying which "payments" must be "net[ted]" from the final figure. See 42 U.S.C. § 1396r-4(g)(1)(A). In Chevron parlance, plaintiffs argue that the statute unambiguously precludes the agency's interpretation, such that CMS's payment-deduction policy fails at step one of the analysis. See Second Br. at 55; Fourth Br. at 9. For six reasons, defendants prevail on this point.
+First, the ambiguity of the statute is demonstrated by plaintiffs' lack of strong textual basis for their position. Allowing defendants to define "costs incurred" as "costs incurred net of Medicare and private insurance payments" does not render the reference to other "payments" in the provision superfluous. To be superfluous, one statutory phrase must be subsumed by another. See, e.g., McDonnell v. United States, 136 S. Ct. 2355, 2367--69, 195 L. Ed. 2d 639 (2016) (rejecting the government's broad interpretation of "question" and "matter" in a statute that governs public officials' actions "on any question, matter, cause, suit, proceeding or controversy" because the government's "unlimited" interpretation would mean that "every 'cause, suit, proceeding or controversy' would also be a 'question' or 'matter'"). Here, CMS's proposed interpretation of "costs incurred" would not subsume a statutory definition of "payments"—in [**16]  part because 42 U.S.C. § 1396r-4(g)(1)(A) does not actually define "payments." Rather, 42 U.S.C. § 1396r-4(g)(1)(A) instructs CMS to deduct payments "by uninsured patients" and "payments under this subchapter"—i.e., Medicaid payments from the state and federal governments—from hospitals' final calculation of costs. 42 U.S.C. § 1396r-4(g)(1)(A). But the statute does not instruct CMS to deduct only those payments from the determination of costs; the fact that certain payments must be deducted from costs does not mean that other payments cannot be. To hold otherwise would be "to read into the statute requirements that are simply not there." Rote v. Zel Custom Mfg. LLC, 816 F.3d 383, 395 (6th Cir.), cert. denied, 137 S. Ct. 199, 196 L. Ed. 2d 129 (2016); see also Sage v. United States, 250 U.S. 33, 38, 39 S. Ct. 415, 63 L. Ed. 828, 54 Ct. Cl. 199, T.D. 2885 (1919) (rejecting an argument that "reads into the words of the statute what is not there").
+ [***11]  Defendants, meanwhile, point to a host of textual signals indicating that CMS has wide latitude to define "costs incurred" as it sees fit. Defendants first note that agencies generally have "broad methodological leeway" to interpret "words like [*1039]  'cost,'" Verizon Communs., Inc. v. FCC, 535 U.S. 467, 500, 122 S. Ct. 1646, 152 L. Ed. 2d 701 (2002) (first quote quoting AT&T Corp. v. Iowa Utilities Bd., 525 U.S. 366, 432, 119 S. Ct. 721, 142 L. Ed. 2d 834 (Breyer, J., concurring in part and dissenting in part)), and the phrase "costs incurred" has been interpreted, in other settings, to mean costs net of certain reimbursements, see, e.g., Pharm. Research & Mfrs. of Am. v. Thompson, 251 F.3d 219, 226, 346 U.S. App. D.C. 158 (D.C. Cir. 2001) (holding that state Medicaid payments to pharmacies are not [**17]  "costs" for the purposes of 42 U.S.C. § 1315(a)(2)(A) because manufacturers fully reimburse the state for the payments). See First Br. at 28--29; 39. Defendants further argue that their interpretational discretion in this case is particularly far-reaching because the statutory phrase "as determined by the Secretary" marks "an express delegation of authority to the agency to elucidate [the] specific provision of the statute." Transitional Hosps. Corp. of La. v. Shalala, 222 F.3d 1019, 1026, 343 U.S. App. D.C. 82 (D.C. Cir. 2000) (second quote quoting Chevron, 467 U.S. at 843--44) (alteration in original); see also First Br. at 37--38. Taken all together, these textual arguments demonstrate the statute's ambiguity and show that CMS has broad power to interpret "costs incurred."
+Second, plaintiffs' structural argument suffers the same defect as their textual claim: they again assume that if Congress did not require third-party and Medicare payment deductions, then CMS may not require such deductions. Plaintiffs focus on 42 U.S.C. § 1396r-4(g)(2)(A), which provides for additional DSH payments to certain hospitals to be used for "health services." Under that provision, the additional payments cannot
+exceed 200 percent of the costs of furnishing hospital services described in [42 U.S.C. § 1396r-4(g)(1)(A), and] . . . there shall be excluded any amounts received under the Public Health Service Act, [**18]  subchapter V of this chapter, subchapter XVIII of this chapter, or from third party payors (not including the State plan under this subchapter) that are used for providing such services during the year.
+Id. (emphasis added). According to plaintiffs, Congress's express direction to exclude payments from third-party payors in subsection (g)(2)(A) coupled with its failure to include any similar language in subsection (g)(1)(A) show that Congress did not intend to give CMS authority to exclude private-party payments from the "costs incurred" in (g)(1)(A). See Second Br. at 23--24;  [***12]  see also Loughrin v. United States, 573 U.S. 351, 134 S. Ct. 2384, 2390, 189 L. Ed. 2d 411 (2014) ("[W]hen 'Congress includes particular language in one section of a statute but omits it in another'—let alone in the very next provision—this Court 'presume[s]' that Congress intended a difference in meaning." (quoting Russello v. United States, 464 U.S. 16, 23, 104 S. Ct. 296, 78 L. Ed. 2d 17 (1983)) (second alteration in original)). There is no tension, however, in Congress requiring third-party payment deductions in subsection (g)(2)(A) and allowing third-party payment deductions in subsection (g)(1)(A). The DSH payments provided for in (g)(2)(A) are above and beyond those mandated by (g)(1)(A); it therefore makes sense for Congress to impose a hard limit on the ceiling of the (g)(2)(A) funds—i.e., no more than 200% of the costs of serving Medicaid-eligible [**19]  patients, less payments from Medicaid, uninsured patients, and "third party payors"—while giving CMS more discretion to calibrate the appropriate cap on the "standard" DSH payments discussed in (g)(1)(A). While the statute does not require CMS to use the calculation proposed here, it may reasonably be interpreted to allow for third-party deductions.
+Third, CMS's proposed interpretation aligns with the statutory purpose behind  [*1040]  the hospital-specific DSH limit, thereby buttressing the conclusion that, at Chevron step two, the proposed interpretation is reasonable. According to the legislative history accompanying the 1993 amendment to the Medicaid Act,
+[t]he purpose of the Medicaid DSH payment adjustment is to assist those facilities with high volumes of Medicaid patients in meeting the costs of providing care to the uninsured patients that they serve, since these facilities are unlikely to have large numbers of privately insured patients through which to offset their operating losses on the uninsured.
+H. R. Rep. No. 103-111, at 211 (1993) (emphasis added). But allowing hospitals to receive DSH payments for costs that private insurance companies and Medicare have already compensated would [**20]  do more than help hospitals "meet[] the costs" of serving Medicaid-eligible patients—it would doubly "offset their operating losses on the uninsured." See id. Indeed, the record shows that plaintiffs had already been fully compensated for the costs of caring for Medicaid-eligible and uninsured patients before receiving DSH payments in fiscal year 2012. See R. 42 (Fan Decl. at 3) (Page ID #551); R. 42-2 (Fan Decl., Exhibit B, "State of Tennessee Schedule of Annual Reporting Requirements For The Year Ended June 30, 2012") (Page ID #562).
+ [***13]  What is more, one of the concerns Congress identified as motivating its enactment of hospital-specific DSH-payment caps—that some state psychiatric or university hospitals had received DSH payments "in amounts that exceed the net costs, and in some instances the total costs, of operating the facilities" and had then transferred their excess funds to the "State general fund" to be used for other projects—is at least partially addressed by CMS's payment-deduction policy. H. R. Rep. No. 103-111, at 211 (emphasis added). In essence, Congress was concerned that hospitals were double dipping by collecting DSH payments to cover costs that had already been reimbursed. [**21]  CMS's payment-deduction policy responds to that double-dipping concern. While there is no indication that the plaintiffs were transferring excess DSH funds to Tennessee's "general fund," plaintiffs are conspicuously careful not to claim that their net operating costs exceeded their compensation in fiscal year 2012. See Second Br. at 43 (arguing that two of the three plaintiff hospitals "were running at losses in 2015 and part of 2016"—but not in 2012—and noting that "[t]heir DSH funds were far below" the "costs they experienced in 2012"—meaning, presumably, the total costs experienced in 2012). Thus, the payment-deduction policy may very well help alleviate some of the issues motivating the hospital-specific DSH-payment limit in the first place.
+Fourth, the legislative history more broadly does not foreclose CMS's proffered interpretation. Plaintiffs note that a later House Conference Report describes the statutory provision setting hospital-specific DSH-payment limits, in relevant part, as follows:
+Assuring Proper Payments to Disproportionate Share Hospitals (Section 13621).--Prohibits designation of a hospital as a disproportionate share hospital for purposes of Medicaid reimbursement unless the [**22]  hospital has a Medicaid inpatient utilization rate of at least one percent. Limits disproportionate share hospital (DSH) payment adjustments to no more than the costs of providing inpatient and outpatient services to Medicaid and uninsured patients, less payments received from Medicaid (other than DSH payment adjustments) and uninsured patients.
+H.R. Conf. Rep. 103--213, at 835 (1993) (emphasis added). Plaintiffs are correct to  [*1041]  insist that nothing in this description of 42 U.S.C. § 1396r-4(g)(1)(A) suggests that CMS should interpret costs to exclude payments from Medicare or private insurers, or that Congress contemplated that such payments would be deducted from the final cost calculation. But plaintiffs go a step too far  [***14]  when they argue that the bolded sentence above precludes CMS from "consider[ing] Medicare payments or private insurance payments in th[e] DSH analysis." Second Br. at 25--26. Congressional silence on a matter is simply not the same as a congressional prohibition. To the contrary, when silence is coupled with an express delegation, it indicates that multiple reasonable interpretations of the statute are possible.
+Fifth, if plaintiffs are right that only Medicaid payments and payments from uninsured [**23]  patients may be deducted from the gross costs of caring for Medicaid-eligible and uninsured individuals, then the 2008 rule would itself be contrary to the Medicaid Act—an issue that no hospital appears to have raised in any court. The 2008 rule directs hospitals to deduct "Section 1011" payments from the hospitals' total costs each year, even though 42 U.S.C. § 1396r-4(g)(1) does not call for such deductions.8  During the notice-and-comment period for the 2008 rule, at least some affected parties recognized the discrepancy between the statute and the regulation, as "[n]umerous commenters" asked CMS "to amend the proposed rule to eliminate the proposed treatment of Section 1011 payments" because such payments "do not appear to fit in the statutory categories of Medicaid payments, health plan payments, or payments made by uninsured patients[] that are required to be 'netted' from cost for the purpose of the DSH limit calculations." 73 Fed. Reg. at 77,916. CMS declined to make this modification, and it seems that no party subsequently challenged CMS's authority to exclude Section 1011 payments from the DSH cost calculation. While the affected parties' acquiescence to the 2008 rule does not resolve this case, it lends additional credence to the conclusion that CMS could [**24]  reasonably instruct hospitals to deduct payments beyond those expressly identified in 42 U.S.C. § 1396r-4(g)(1)(A) when determining the hospitals' DSH-payment limits.
+Last, plaintiffs argue extensively that CMS has changed its interpretation of 42 U.S.C. § 1396r-4(g)(1)(A) over time. See Second Br. at 26--27, 29--31. This argument will become relevant in the context of our discussion of Count Two, but it is not clear how this point furthers plaintiffs' claim under the Medicaid Act. "Unexplained inconsistency" in statutory interpretation  [***15]  may be "a reason for holding an interpretation to be an arbitrary and capricious change from agency practice under the Administrative Procedure Act," but it is "not a basis for declining to analyze the agency's interpretation under the Chevron framework." Nat'l Cable & Telecomms. Ass'n v. Brand X Internet Servs., 545 U.S. 967, 981, 125 S. Ct. 2688, 162 L. Ed. 2d 820 (2005). Count One of plaintiffs' complaint alleges that CMS exceeded its statutory authority in enacting and enforcing a policy that was contrary to the plain statutory text—not that CMS's conduct was arbitrary and capricious because it was inadequately explained. See R. 16 (Am. Compl. ¶¶ 74--80) (Page ID #217--18). Following  [*1042]  Brand X, it is hard to see how CMS's purported inconsistencies have any bearing on CMS's statutory authority to pursue its payment-deduction [**25]  policy. Put differently, Brand X forecloses parties from arguing that an agency's construction of a statute is unreasonable simply because it conflicts with a prior interpretation—yet this is precisely the argument that plaintiffs here seem to make. For this reason and the five that precede it, we conclude that CMS's payment-deduction policy is a reasonable interpretation of an ambiguous section of the Medicaid Act.
+ B. Is the "Payment-Deduction Policy" a Valid Interpretative Rule?
+Though CMS may reasonably direct states to deduct Medicare and private-insurance payments from costs when determining each hospital's DSH-payment limit, CMS has not exercised its authority to do so in a procedurally proper way. The APA sets different procedural requirements for "legislative rules" and "interpretive rules": the former must be promulgated pursuant to notice-and-comment rulemaking; the latter need not. Perez v. Mortg. Bankers Ass'n, 135 S. Ct. 1199, 1203--04, 191 L. Ed. 2d 186 (2015); see also 5 U.S.C. § 553(b)(A). If an agency attempts to issue a legislative rule without abiding by the APA's procedural requirements, the rule is invalid. See S. Forest Watch, Inc. v. Jewell, 817 F.3d 965, 972 (6th Cir. 2016).
+The distinction between a legislative rule and an interpretive rule can be difficult to discern, though the Supreme Court and this court have drawn some [**26]  helpful lines. For one, legislative rules have the "force and effect of law," and interpretive rules do not. Perez, 135 S. Ct. at 1203 (quoting Chrysler Corp. v. Brown, 441 U.S. 281, 302--03, 99 S. Ct. 1705, 60 L. Ed. 2d 208 (1979)). Thus, a rule that "intends to create new law, rights or duties" is legislative, while a rule that "simply states what the administrative agency thinks the statute means, and only reminds affected parties of existing  [***16]  duties" is interpretive. Michigan v. Thomas, 805 F.2d 176, 182--83 (6th Cir. 1986) (quoting Gen. Motors Corp. v. Ruckelshaus, 742 F.2d 1561, 1565, 239 U.S. App. D.C. 408 (D.C. Cir. 1984)); see also Perez, 135 S. Ct. at 1204 ("[T]he critical feature of interpretive rules is that they are 'issued by an agency to advise the public of the agency's construction of the statutes and rules which it administers.'" (quoting Shalala v. Guernsey Mem'l Hosp., 514 U.S. 87, 99, 115 S. Ct. 1232, 131 L. Ed. 2d 106 (1995)). Because interpretive rules cannot "effec[t] a substantive change in the regulations," a rule that "adopt[s] a new position inconsistent with any of the Secretary's existing regulations" is necessarily legislative. Guernsey Mem'l Hosp., 514 U.S. at 100 (citation omitted) (first alteration in original).
+Here, defendants argue that the payment-deduction policy, as set forth in the preamble to the 2008 rule and the 2010 FAQs, is a valid interpretative rule that answers "unaddressed" questions raised by the Medicaid Act and the 2008 rule. See First Br. at 25. According to defendants, the payment-deduction policy merely "clarifies how to comply with the preexisting [**27]  regulatory obligation to report 'uncompensated care costs,'" and thus "did not create 'new rights or duties.'" Third Br. at 6 (first quoting 42 C.F.R. § 447.299(c)(11); then quoting Friedrich v. Sec. of Health & Human Servs., 894 F.2d 829, 835 (6th Cir. 1990)). In particular, defendants explain that the payment-deduction policy makes clear that 42 C.F.R. § 447.299(c)(10), which directs hospitals to report their total annual costs attributable to Medicaid-eligible patients, excludes payments from Medicare and private insurers. Plaintiffs,  [*1043]  of course, disagree, arguing that the policy substantively alters the existing regulatory framework, and therefore could not be enacted or enforced except through notice-and-comment rulemaking. See, e.g., Second Br. at 35--37. On this point, plaintiffs have the better argument.
+As three circuit courts and several district courts have now held, the payment-deduction policy elucidated in the FAQs and hinted at in the preamble to the 2008 rule seeks to amend, rather than merely clarify, the 2008 regulations. See, e.g., Children's Health Care v. Ctrs. for Medicare & Medicaid Servs., 900 F.3d 1022, 1026--27 (8th Cir. 2018); Children's Hosp. of the King's Daughters, Inc. v. Azar, 896 F.3d 615, 623, (4th Cir. 2018); N.H. Hosp. Ass'n v. Azar, 887 F.3d 62, 74 (1st Cir. 2018).
+When an agency acts pursuant to an express delegation that directs the agency to issue regulations or set permissible standards, the resulting rule is generally (although not universally)  [***17]  considered to be legislative. See Mendoza v. Perez, 754 F.3d 1002, 1022, 410 U.S. App. D.C. 210 (D.C. Cir. 2014) ("[R]ather than setting out a substantive [**28]  standard . . ., the statute delegates authority for the Secretary of Labor to create the substantive standard. Where Congress has specifically declined to create a standard, the Department cannot claim its implementing rule is an interpretation of the statute."); Hoctor v. U.S. Dep't of Agric., 82 F.3d 165, 169--70 (7th Cir. 1996) (deeming a binding rule promulgated pursuant to a delegation of legislative authority "the clearest possible example of a legislative rule"). As defendants have repeatedly reminded us, 42 U.S.C. § 1396r-4(g)(1)(A) contains just such an express delegation of authority.
+The agency exercised that delegated authority by promulgating the 2008 regulations, which define the "Total Cost of Care for Medicaid IP/OP [inpatient and outpatient] Services" as "[t]he total annual costs incurred by each hospital for furnishing inpatient hospital and outpatient hospital services to Medicaid eligible individuals." 42 C.F.R. § 447.299(c)(10). Having defined the "Total Cost of Care" to Medicaid-eligible patients as the "total annual costs incurred" in a binding regulation, CMS cannot now interpret the "Total Cost of Care" to mean something less.
+It may seem odd to hold that the regulatory language is unambiguous while the statutory language is open to multiple permissible constructions. In truth, [**29]  however, the two positions are well aligned. Congress offered CMS an opportunity to determine the "costs incurred" as it saw fit. CMS then enacted a regulation that interpreted that statutory term expansively—i.e., to mean the "total" annual costs hospitals incurred in treating Medicaid-eligible patients. CMS cannot now narrow the regulatory definition through an interpretive rule.
+Defendants resist the plain reading of 42 C.F.R. § 447.299(c)(10) and remind us that "'expressio unius' type argument[s]" should not be used to reject an agency's interpretation of its own regulation. See First Br. at 31 (quoting Ky. Res. Council, Inc. v. EPA, 467 F.3d 986, 994 (6th Cir. 2006)). But defendants' reliance on Kentucky Resources Council is unavailing. There, a regulation listed two exceptions to a particular regulatory requirement, and the EPA successfully argued that this express naming of two exceptions did not preclude the agency from reading other language in the regulation to allow a third exception. See 467 F.3d at 993--94. The flexibility evident in the regulation at issue in Kentucky Resources Council is absent here, as the 2008 rule says precisely what "total annual costs incurred" encompasses. An "'expressio unius'  [***18]  type argument" is not needed to hold that regulatory terms  [*1044]  defined to mean [**30]  one thing cannot be interpreted to mean the opposite.
+Defendants argue that the 2008 rule does, in fact, contain the sort of textual hooks needed to sustain defendants' proposed interpretation. For instance, defendants note that "[t]he regulation describes the Medicaid shortfall as the 'Total Medicaid Uncompensated Care' or '[t]he total amount of uncompensated care attributable to Medicaid inpatient and outpatient services.'" First Br. at 30 (quoting 42 C.F.R. § 447.299(c)(11)) (emphasis in original). Defendants further note that the regulation describes the Medicaid shortfall as a component of each hospital's "total annual uncompensated care cost[s]." Id. § 447.299(c)(16) (emphasis added). According to defendants, such references to uncompensated costs support defendants' subsequent instruction to deduct third-party payments from hospitals' total costs of caring for Medicaid-eligible patients. The trouble for defendants, however, is that the regulation already defines "uncompensated costs" in a manner that forecloses defendants' current interpretation. 42 C.F.R. § 447.299(c)(11), for example, explains that the "total amount of uncompensated care" attributable to Medicaid patients "should be the result of subtracting the amount identified in § 447.299(c)(9) [total [**31]  Medicaid payments] from the amount identified in § 447.299(c)(10) [total cost of caring for Medicaid-eligible patients]," and as already described above, § 447.299(c)(10) defines the cost of caring for Medicaid-eligible patients as the "total annual costs incurred by each hospital"—not the total uncompensated or unreimbursed costs. The regulation therefore cannot support defendants' proposed gloss.
+For this reason, defendants' dependence on the "Discussion of Public Comments" portion of the preamble to the 2008 rule as evidence of CMS's "contemporaneous" interpretation of the 2008 regulations is misplaced. Courts grant great deference "to an agency's interpretation of its own ambiguous regulation," Ohio Dep't of Medicaid v. Price, 864 F.3d 469, 477 (6th Cir. 2017) (quoting Thornton v. Graphic Commc'ns Conference of Int'l Bhd. of Teamsters Supplemental Ret. & Disability Fund, 566 F.3d 597, 611 (6th Cir. 2009)), and "[w]hen a regulation is ambiguous, [courts] consult the preamble of the final rule as evidence of context or intent of the agency promulgating the regulations." City of Las Vegas v. FAA, 570 F.3d 1109, 1117 (9th Cir. 2009). But whether a regulation is ambiguous is a "threshold matter." Ohio Dep't of Medicaid,  [***19]  864 F.3d at 477. "If the regulation is not ambiguous, [the court must] forego deference and apply the plain language of the regulation as written." Id. "A regulation is ambiguous when its meaning is 'not free from doubt,' and its language 'compel[s]' no particular interpretation." [**32]  Id. (first quoting Martin v. OSHRC, 499 U.S. 144, 150, 111 S. Ct. 1171, 113 L. Ed. 2d 117 (1991); then quoting Thomas Jefferson Univ., 512 U.S. at 512) (alteration in original). As discussed above, 42 C.F.R. § 447.299(c)(10) unambiguously declines to exclude third-party payments from hospitals' calculation of their total annual incurred costs. Deference to the preamble is therefore unwarranted.
+Moreover, even if it were appropriate to consider the preamble when assessing the meaning of the 2008 rule, the preamble does as much to harm defendants' cause as to advance it. The preamble explains that the 2008 rule is intended to provide "detailed identification of the data elements necessary to comply with such reporting and auditing requirements expressly contained in [the] statute." 73 Fed. Reg. at 77,907. The preamble further states that "[t]he definitions of the data elements track the statutory language, and do not  [*1045]  change the calculation that should have always been performed." Id. at 77,921. Yet, as plaintiffs detail in their briefs, none of the "data elements" set forth in 42 C.F.R. §§ 447.299(c)(6)--(c)(16) accounts for payments by Medicare or private insurance. See, e.g., Second Br. at 7. There is thus a disconnect between the preamble—which assures hospitals that the 2008 rule identifies all the data necessary to calculate and report their respective DSH limits—and CMS's current interpretation—which [**33]  essentially says that proper calculation and reporting requires additional data (i.e., third-party payments) that are never directly mentioned or requested in the published text of the rule.
+Indeed, the mismatch between the "data elements" the rule identifies as "necessary to comply with [the statute's] reporting and auditing requirements," 73 Fed. Reg. at 77,907, and the payments CMS now argues the hospitals ought to have deducted may explain why Tennessee's own auditor violated the 2008 rule in its efforts to comply with CMS's payment-deduction policy. A declaration submitted by Casey Dungan, the former Chief Financial Officer for TennCare, explained that the auditor of TennCare's DSH program accounted for Medicare and private insurance payments by placing those funds in the "Regular IP/OP Medicaid FFS Rate  [***20]  Payments" column of the DSH audit spreadsheet that the state submitted to CMS in accordance with its audit and reporting requirements. See R. 44 (Dungan Decl. at 2) (Page ID #568); see also R. 60 (Joint Stipulations of Fact ¶ 24) (Page ID #836) (explaining that the column headings in the "Schedule of Annual Reporting Requirements" are virtually identical to the "categories of payments and costs set [**34]  forth in 42 C.F.R. § 447.299(c)" and that CMS generated the Schedule form and used the Schedule in reviewing Tennessee's 2012 DSH audit). Plainly, this accounting methodology violates the 2008 rule, which defines the "IP/OP Medicaid fee-for-service (FFS) basic rate payments" as "[t]he total annual amount paid to the hospital under the State plan, including Medicaid FFS rate adjustments, but not including DSH payments or supplemental/enhanced Medicaid payments, for inpatient and outpatient services furnished to Medicaid eligible individuals." 42 C.F.R. § 447.299(c)(6). Defendants argue that the auditor's misaccounting shows only that "that the auditor misunderstood precisely how the regulation accounts for third-party payments" but not "whether the regulation accounts for third-party payments." Third Br. at 27. But the auditor cited the FAQs—not the regulation—as the basis for its decision to deduct third-party payments from hospitals' gross costs, see R. 44 (Dungan Decl. at 2) (Page ID #568), and the misalignment between the auditor's Schedule and the FAQs more likely shows that CMS's payment-deduction policy cannot be squared with the 2008 rule's requirements.
+Two final considerations weigh in favor of treating CMS's payment-deduction [**35]  policy as a legislative rule. First, defendants themselves seemed to recognize that the policy ought to be implemented through notice-and-comment rulemaking, as they attempted to formalize the payment-deduction policy through a proposed rule in August 2016—three-and-a-half months before they then attempted to enforce the FAQs directly against plaintiffs in this case. See 81 Fed. Reg. at 53,985.
+Second, as the First Circuit recently recognized, "pragmatic considerations" support classifying the payment-deduction policy as legislative: "The precise question addressed by the rule—whether to offset Medicare and third-party reimbursements—calls for a categorical resolution that affects a broad range of payments and scenarios and likely involves large sums of  [*1046]  money." N.H. Hosp. Ass'n, 887 F.3d at 73. Such sweeping policy initiatives are seemingly not  [***21]  what the Supreme Court had in mind when it held that agencies need not "address every conceivable question" that could arise in a regulatory scheme through notice-and-comment rulemaking. Guernsey Mem'l Hosp., 514 U.S. at 96. In Guernsey, the Supreme Court held that "an informal Medicare reimbursement guideline" was a valid interpretive rule because it answered "[t]he only question unaddressed by the otherwise comprehensive regulations [**36]  on this particular subject." 514 U.S. at 90, 97. "There, the Secretary argued, and the Court appeared to agree, that the only plausible interpretation of the statutory and regulatory scheme was the one advanced by the Secretary." N.H. Hosp. Ass'n, 887 F.3d at 71. Thus, CMS was "simply following the statutory command." Id. Here, by contrast, CMS's payment-deduction policy is not filling the last hole in a regulation that it is otherwise "comprehensive and intricate in detail." Guernsey Mem'l Hosp., 514 U.S. at 96. It is instead attempting to exercise its delegated discretion to "determine[]" the "costs incurred" in serving Medicaid-eligible patients—but this is precisely the sort of agency action that requires notice-and-comment rulemaking. See 42 U.S.C. § 1396r-4(g)(1)(A). Because the APA does not authorize such a maneuver, we AFFIRM the district court's grant of summary judgment to plaintiffs on Count Two of their complaint.
+ C. Did the District Court Err in Declining to Grant Plaintiffs a Permanent Injunction?
+Though plaintiffs largely prevailed in the district-court proceedings, they argue that the district court erred in enjoining defendants from "enforcing the policies reflected in FAQs 33 and 34 against Plaintiffs" only "for the fiscal years 2012--2016." R. 85 (Order) (Page ID #1441). We employ [**37]  "a number of different standards when reviewing a district court's decision to grant or deny a permanent injunction: 'Factual findings are reviewed under the clearly erroneous standard, legal conclusions are reviewed de novo, and the scope of injunctive relief is reviewed for an abuse of discretion.'" King v. Zamiara, 788 F.3d 207, 217 (6th Cir. 2015) (quoting Worldwide Basketball & Sport Tours, Inc. v. Nat'l Collegiate Athletic Ass'n, 388 F.3d 955, 958 (6th Cir. 2004)).
+The district court's injunction here is puzzling. The district court offered no explanation for its expiration date, though it presumably assumed that the 2017 rule would govern CMS's enforcement efforts for fiscal years 2017 onward. As the 2017 rule has since been vacated, see Children's Hosp. Ass'n of Tex., 300 F. Supp. 3d at 211, nothing now precludes CMS from  [***22]  enforcing the policies established in FAQ 33 and 34 against plaintiffs from purported overpayments discovered after fiscal year 2016. Because the deficiencies with CMS's policy as currently formulated did not end in 2016, the district court's cut-off date is based on "erroneous factual findings," and is thus an abuse of discretion. See S. Elec. Health Fund v. Bedrock Servs., 146 F. App'x 772, 779 (6th Cir. 2005).
+This does not mean, however, that the district court's injunction—as it is currently drafted—should be extended indefinitely. A permanent injunction should reach only "the conduct which has been found to have been pursued or is related [**38]  to the proven unlawful conduct." Perez v. Ohio Bell Tel. Co., 655 F. App'x 404, 412 (6th Cir. 2016) (quoting Howe v. City of Akron, 801 F.3d 718, 753 (6th Cir. 2015)). We hold now that CMS's payment-deduction policy is invalid because it failed to follow the proper notice-and-comment requirements, [*1047]  but not because it is at odds with the Medicaid Act. In such circumstances, the proper remedy is to "reinstate[]" the "agency's previous practice" and instruct that such practice must "remain[] in effect unless and until it is replaced by a lawfully promulgated regulation." N.H. Hosp. Ass'n v. Burwell, No. 15-CV-460-LM, 2017 U.S. Dist. LEXIS 29549, 2017 WL 822094, at *16 (D.N.H. Mar. 2, 2017), aff'd sub nom. N.H. Hosp. Ass'n, 887 F.3d 62 (quoting Tex. Children's Hosp. v. Burwell, 76 F. Supp. 3d 224, 247 (D.D.C. 2014)). We now so hold: defendants are permanently enjoined from enforcing against plaintiffs FAQs 33 and 34 or the purported payment-deduction policy hidden in the preamble of the 2008 rule, but defendants are not permanently enjoined from enforcing the policies embedded in FAQs 33 and 34 or the preamble to the 2008 rule, in the event that CMS promulgates (or has promulgated, via the 2017 rule) those policies through a procedurally valid rule.
+ III. CONCLUSION
+Plaintiffs are distressed by CMS's efforts to claw back DSH payments based on a procedurally invalid payment-deduction policy, and CMS is now permanently enjoined from attempting to enforce this policy, in its current procedural [**39]  form, against plaintiffs. CMS is right, however, that it may reasonably interpret an ambiguous section of the Medicaid Act to require deductions of third-party payments. We therefore leave it to CMS to devise a procedurally valid legislative rule that accomplishes this statutory goal. We therefore AFFIRM the district court's  [***23]  grant of summary judgment based only on CMS's failure to promulgate its payment-deduction policy in a procedurally valid fashion, and we REMAND this case to the district court with instructions to permanently enjoin defendants from enforcing FAQ 33, FAQ 34, or the purported payment-deduction policy in the preamble of the 2008 rule against plaintiffs.
+Concur by: KETHLEDGE  
+Concur
+
+
+
+
+  [***24]  CONCURRING IN THE JUDGMENT
+KETHLEDGE, Circuit Judge, concurring in the judgment. In this case the Centers for Medicare and Medicaid Services (CMS) has offered opposite interpretations of § 1396r-4(g)(1)(A) of the Medicaid Act. The first interpretation came in a 2008 regulation that, as the majority recognizes, essentially echoes the statute, see Maj. Op. at 17, the second in an informal 2010 publication (responses to "Frequently Asked Questions") in which the echoes are quite different. That inconsistency is not only "[u]nexplained" [**40]  by the agency, Nat'l Cable & Telecom. Ass'n v. Brand X Internet Servs., 545 U.S. 967, 981, 125 S. Ct. 2688, 162 L. Ed. 2d 820 (2005), but unacknowledged by it. Nor is the Act's relevant language ambiguous. Thus, on this record, either the Act's meaning has changed without any action by Congress—a "Living Statute," so to speak—or else one of the agency's interpretations is wrong. I think the agency's 2010 interpretation (if one can call it that) is wrong, whereas the Majority essentially concludes that both interpretations are right. Hence I write separately.
+The question presented is whether determination of a hospital's "costs incurred[,]" as § 1396r-4(g)(1)(A) uses that term, requires a hospital not only to add up its outlays in providing services to Medicaid patients (which is the usual sense of "cost"), but also to subtract certain payments that the hospital receives for those services. The short answer—as a matter of ordinary English usage, and as § 1396r-4(g)(1)(A) uses these terms—is that costs and payments are different concepts, and that the payments a hospital receives for  [*1048]  services are not part of its "costs incurred" in providing them.
+Section 1396r-4(g)(1)(A) provides:
+
+(g) Limit on amount of payment to hospital
+(1) Amount of adjustment subject to uncompensated costs
+(A) In general
+A payment adjustment [i.e., payment under § 1396r-4] during a fiscal year shall [**41]  not be considered to be consistent with [§ 1396r-4] with respect to a hospital if the payment adjustment exceeds the costs incurred during the year of furnishing hospital services (as determined by the Secretary and net of payments under this  [***25]  subchapter, other than under this section, and by uninsured patients) by the hospital to individuals who either are eligible for medical assistance under the state plan or have no health insurance (or other source of third party coverage) for services provided during the year. . . .
+(Emphasis added.)
+This provision limits the amount of reimbursement a hospital receives under § 1396r-4 to the hospital's "uncompensated costs[,]" which is itself a term of art defined by the formula set forth in § 1396r-4(g)(1)(A). That formula includes three core elements: "costs," "payments," and "net." All are easy enough to define. The "cost" of providing a service is what one loses in providing that service. See, e.g., Oxford English Dictionary (online ed. 2018) (defining "cost" as the "[t]he spending or outlay of money"). Indeed § 1396r-4 itself defines cost in this way. That section provides not only a cap—in § 1396r-4(g)(1)(A)—for the payment that a particular hospital may receive, but also a floor. That floor can be calculated [**42]  several ways; the first among them depends on the hospital's "operating costs for inpatient hospital services[.]" § 1396r-4(c)(1). And those costs in turn are defined as "all routine operating costs, ancillary service operating costs, and special care unit operating costs with respect to inpatient hospital services"—in other words, the money that a hospital spends to serve patients. § 1395ww(a)(4).
+In contrast, a "payment" is what one receives in return for providing a service. See, e.g., Oxford English Dictionary (online ed. 2018) (defining "payment" as "[a] sum of money . . . in return for goods or services"). The Act is clear about which payments count for purposes of § 1396r-4(g)(1)(A): specifically, payments from Medicaid (i.e., "payments under this subchapter") and from patients themselves (i.e., "by uninsured patients").
+The "net," in turn, is what remains after deducting payments from costs. See, e.g., Oxford English Dictionary (online ed. 2018) (defining "net" as what "remain[s] after all necessary deductions"). Section 1396r-4(g)(1)(A) therefore provides a straightforward formula to determine the cap for a hospital's § 1396r-4 payment: the hospital's "costs incurred" in providing Medicaid services, minus certain "payments[,]" equals the "net," i.e., its [**43]  "uncompensated costs[.]" Thus, the maximum that a hospital may receive under § 1396r-4 in a given year is the difference between the money it spent serving Medicaid patients that year and  [***26]  certain payments (specifically, payments from Medicaid and from uninsured patients) it received in return.
+The 2008 regulation is as clear as the Act. As the Majority points out, the regulation specifically lists the payments that hospitals must deduct. Payments from Medicare and private insurers are not among them. See 42 C.F.R. § 447.299 (2008).
+But now—per the agency's 2010 responses to "Frequently Answered Questions" (and later in a regulation promulgated in 2017, see 42 C.F.R. § 447.299(c)(10)(i))—the  [*1049]  agency asserts that payments from Medicare and private insurers indeed must be included in the calculation set forth in § 1396r-4(g)(1)(A). That calculation, to reiterate, is simple: a hospital's "costs incurred" in providing Medicaid services, minus certain enumerated payments (which do not include payments from Medicare or private insurers), equals the "net," i.e., the hospital's "uncompensated costs." Payments from Medicare and private insurers (referred to from here as "unenumerated payments") do not, in the agency's view, actually count as "payments" in this calculation. [**44]  Instead, the agency says, unenumerated payments are part of the determination of a hospital's costs incurred in providing Medicaid services. Specifically, the agency points out that, under § 1396r-4(g)(1)(A), "'costs incurred' are 'as determined by the Secretary[,]'" CMS Br. at 18 (agency's emphasis); and thus, the agency argues, the Secretary (meaning here CMS), has discretion to deduct unenumerated payments for Medicaid services from the hospital's outlays for those services in determining the hospitals' "costs incurred" for them.
+In making that argument the agency seriously overplays its hand. True, § 1396r-4(g)(1)(A) expressly grants the agency a measure of discretion in prescribing what counts towards a hospital's "costs incurred." And that means the agency has discretion to prescribe, in the sort of minute detail that calls upon its expertise, the specific outlays that count towards a hospital's "costs incurred" for a particular service. Those outlays might include, for example, the hospital's direct costs of providing the service (for which the agency might prescribe a rate schedule), plus some portion (as prescribed by the agency) of the hospital's costs for overhead.
+But just as the statutory delegation is circumscribed [**45]  by the English language, so too is the agency's discretion. As an initial matter, per the statute's plain terms, the express grant of  [***27]  discretion ("as determined by the Secretary") modifies only "costs incurred[,]" not "net of payments." And § 1396r-4(g)(1)(A) clearly enumerates the payments that count in this calculation (i.e., payments from Medicaid and by the patients themselves), without any catchall language that would bring in payments from third parties generally. Thus, § 1396r-4(g)(1)(A) is "silent" as to whether other, unenumerated payments count in this calculation only in the sense that, say, "children 12 and under admitted free" is silent as to whether 13-year-olds must pay. Moreover, § 1396r-4(g)(1)(A) itself, as well as § 1396r-4(g)(2)(A), make clear that, when Congress wanted to refer to "third party payment" or "third party payors[,]" respectively, it was fully capable of doing so. For good reason, then, CMS focuses instead on its discretion to determine what counts as "costs incurred."
+As for that discretion, "costs" are outflows of money; "payments" are inflows. And nothing in the phrase "costs incurred . . . as determined by the Secretary" allows the agency to redefine "costs" to include "payments." The agency counters (and the Majority [**46]  agrees) that "'words like "cost" give' agencies 'broad methodological leeway.'" CMS Br. at 39 (quoting Verizon Communs., Inc. v. FCC, 535 U.S. 467, 500, 122 S. Ct. 1646, 152 L. Ed. 2d 701 (2002)). But again that leeway does not extend to treating "payments" as "costs," as Verizon itself illustrates. There, as here, "cost" was "an intermediate term" in a formula for determining another statutory number—there, the "just and reasonable rates" that a telecommunications provider could charge its customers. Id. at 499-500. The agency's "leeway" there concerned the "expenditures"—which is to say, the outlays—that would count as "costs" for purposes of that  [*1050]  determination. Id. at 498-99 (emphasis added). Thus, the agency here seeks to cross a linguistic line that Verizon never contemplated. Moreover, § 1396r-4(g)(1)(A) expressly treats "costs," "payments," and "net" as separate concepts; and "it would have been passing strange" to think that, "in the very same sentence," Congress meant to collapse all three concepts into one. See id. at 500. Yet that is what CMS does when it says that a hospital's "costs incurred" in providing a service are the net of its outlays for that service minus unenumerated payments (from which net, in the agency's view, the hospital then deducts the enumerated payments, for the "net" of its uncompensated costs). [**47] 
+Agencies have a strong incentive (namely, Chevron) to make statutory language seem more complicated than it actually is. Here, as shown above, the statutory formula is  [***28]  straightforward: costs, minus certain clearly enumerated payments, equals the net of a hospital's "uncompensated costs." The only confusion inheres in the agency's own efforts to convince us to read the statute contrary to its terms. Meanwhile, the plaintiffs, for their part, have chosen not to argue that the agency's responses to "Frequently Asked Questions" are unworthy of deference, and that the only agency action to which we ever could defer in this case is the 2008 regulation—which says the opposite of what the agency says now.
+In the end, however, the formula in § 1396r-4(g)(1)(A) is discernable easily enough by means of "the traditional tools of statutory construction." Chevron U.S.A., Inc. v. Nat. Res. Def. Council, Inc., 467 U.S. 837, 843 n.9, 104 S. Ct. 2778, 81 L. Ed. 2d 694, (1984). The agency's 2008 regulation substantially honors the statute's terms, whereas the agency's later about-face does not. Thus, the agency's current interpretation of § 1396r-4(g)(1)(A) is invalid substantively, as well as (in this case) procedurally. Hence the district court was right on both points.
+
+ 
+
+End of Document

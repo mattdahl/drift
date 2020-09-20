@@ -1,0 +1,64 @@
+
+  NeutralAs of: September 19, 2020 8:30 PM Z
+Determann v. Empl. Appeal Bd.
+Court of Appeals of Iowa
+May 26, 2010, Filed
+No. 0-296 / 09-1872
+
+Reporter
+2010 Iowa App. LEXIS 527 *
+ JUDY DETERMANN, Petitioner-Appellee, vs. EMPLOYMENT APPEAL BOARD and DETERMANN INDUSTRIES, INC., Respondents-Appellants.  
+Notice: NO DECISION HAS BEEN MADE ON PUBLICATION OF THIS OPINION. THE OPINION IS SUBJECT TO MODIFICATION OR CORRECTION BY THE COURT AND IS NOT FINAL UNTIL THE TIME FOR REHEARING OR FURTHER REVIEW HAS PASSED. AN UNPUBLISHED OPINION MAY BE CITED IN A BRIEF; HOWEVER, UNPUBLISHED OPINIONS SHALL NOT CONSTITUTE CONTROLLING LEGAL AUTHORITY.
+  
+Subsequent History: Reported at Determann v. Empl. Appeal Bd., 786 N.W.2d 520, 2010 Iowa App. LEXIS 1136 (Iowa Ct. App., 2010)  
+Prior History:  [*1] Appeal from the Iowa District Court for Clinton County, Paul L. Macek, Judge. Employer and agency appeal the district court's remand to the agency for further proceedings.
+  
+Disposition: AFFIRMED.
+  
+Counsel: Martha L. Shaff and Amanda M. Richards of Betty, Neuman & McMahon, Davenport, for appellant Determann Industries. 
+Richard Autry, Des Moines, for appellant Board. 
+Ralph H. Heninger of Heninger & Heninger, P.C., Davenport, for appellee.  
+Judges: Considered by Sackett, C.J., and Eisenhauer and Mansfield, JJ. Sackett, C.J., concurs; Mansfield, J., dissents.  
+Opinion by: EISENHAUER  
+Opinion
+
+
+
+
+EISENHAUER, J.
+The issue in this unemployment insurance benefits case is whether Judy Determann voluntarily quit her employment or was terminated by her employer. The district court found the record inadequate due to "at least five locations in the transcript that are stated as being inaudible." Accordingly, the district court remanded to the agency for further proceedings. The employer and the Employment Appeal Board appeal arguing the record is sufficient to decide the matter.
+We affirm pursuant to Iowa Rule of Appellate Procedure 6.1203(a), (d).
+AFFIRMED.
+Dissent by: MANSFIELD  
+Dissent
+
+
+
+
+MANSFIELD, J. (dissenting)
+I respectfully dissent. The transcript indicates several instances where  [*2] the word "inaudible" appears. Despite these lacunae, however, there is more than enough evidence in the record to sustain the agency's decision. Moreover, none of the parties has ever complained about the adequacy of the record to decide this case. None of them contends that anything meaningful is hidden by the lacunae. I would therefore reverse the district court and uphold the Board's decision.
+Judy Determann worked ten hours a week for Determann Industries, coming into the office for a couple of hours each weekday morning. On Saturday, July 12, 2008, there was a shift in familial control of the company. Her husband Thomas, the president, was fired by the board of directors and replaced by Judy's sister-in-law, Joan Gifford. On Monday, July 14, 2008, and thereafter, Judy Determann failed to report to work.
+At issue was whether Judy Determann voluntarily quit her job, thereby rendering her ineligible for unemployment benefits. See Iowa Code § 96.5(1) (2007). There is considerable evidence to support this conclusion:
+Q. Did anyone tell you that you didn't have a job? A [Judy Determann]. No.
+. . . .
+Q. All right. So it was your decision that you would not go in. A. Yes.
+Q. And what caused  [*3] you to think it would be a hostile work environment? A. Well, she [Joan Gifford, Judy's sister-in-law] just would have been president and her husband who would have been running the Riverton Mall which my husband did I would have worked for him.
+Q. What caused you to think that would be a problem? A. Oh, just the way they dismissed my husband. They fired him without warning and it was a very--well, the way that they went about it was not--wasn't the way that it should have been done. I mean they fired him. He went into a meeting and they took him off the board of directors and after leaving place they just handed him a paper saying he was fired. They gave him no warning.
+. . . .
+Q. Did you consider working under the new management to see if it would be hostile? A. I just--no, I just--just the way--
+Q. I can't hear you. A. Just the way the whole thing went about it I just--it--no.
+Later in her testimony, Judy Determann testified that her name ended up on a list of individuals who were not allowed on the property. However, the testimony was unrebutted that this occurred after she quit:
+Q. When did you hire security? A [Joan Gifford]. Probably July 16th of 2008.
+Q. Now Ms. Determann said she  [*4] was told that her name was on the list as well as that of her husband. Have you seen the list? A. Yes.
+Q. Did you make up the list? A. Yes.
+Q. And was Judy Determann's name on the list? A. Yes. But that was after she quit.
+The administrative law judge, who heard this testimony live, concluded that Judy Determann was not entitled to unemployment benefits, reasoning as follows:
+Ms. Determann's speculation concerning the work environment did not constitute good cause attributable to the employer for quitting. It appears that she quit more out of support for her husband than any real, identifiable, work-related problems. Although she was banned from the work property, this did not occur until July 16, after she had already quit. Therefore, it must be concluded that she was not discharged. Inasmuch as her separation was not for good cause attributable to the employer, she is not entitled to job insurance benefits.
+This decision was affirmed by the Employment Appeal Board, which adopted it as its own.
+Judy Determann then petitioned for review with the district court. Although Determann had never argued or even suggested that the record was defective, the district court remanded for further proceedings,  [*5] asserting that the "record is inadequate." The court focused on two specific answers in the transcript where the word "inaudible" appears. The district court never requested the original recording, which it could have done if it had a concern about the transcript.
+I disagree with the district court's action and with my colleagues' affirmance of it. Records are not always perfect, particularly when a hearing is conducted by telephone. Iowa Workforce Development holds thousands of unemployment hearings a year. Inevitably, there will be some gaps in transcripts. However: "The entire transcript is not required if the record is sufficiently complete to permit full and fair appellate review." In Interest of T.V., 563 N.W.2d 612, 614 (Iowa 1997). Here, no party claims that the missing words (if any) matter. Furthermore, even if we went through the mental exercise of replacing the word "inaudible" with the strongest possible words we could imagine to support Judy Determann's case, substantial evidence for the Board's decision would remain.
+When confronted with an appeal, our duty as judges is to assess whether the agency's decision is supported by "substantial evidence in the record . . . when  [*6] that record is viewed as a whole." Iowa Code § 17A.19(10)(f). Because I agree with the agency that its decision is clearly supported by substantial evidence, I see no reason to put the parties through a remand they did not ask for.
+
+ 
+
+End of Document

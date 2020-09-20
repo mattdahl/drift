@@ -1,0 +1,229 @@
+
+  CautionAs of: September 19, 2020 9:19 PM Z
+People v. Morson
+Supreme Court of Michigan 
+April 21, 2004, Argued ; July 30, 2004, Decided ; July 30, 2004, Filed 
+No. 124083 
+
+Reporter
+471 Mich. 248 *; 685 N.W.2d 203 **; 2004 Mich. LEXIS 1692 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellant, v LATASHA GENISE MORSON, Defendant-Appellee.  
+Subsequent History: Updated Copy March 3, 2005.  
+  
+Prior History:  [***1]  Oakland Circuit Court, John James McDonald, J. Court of Appeals, WHITBECK, C.J., and WHITE and DONOFRIO, JJ. (Docket No. 238750).  
+PEOPLE v. MORSON, 2003 Mich. App. LEXIS 1297 (Mich. Ct. App., May 29, 2003)  
+Disposition: Affirmed in part, reversed in part, and remanded.  
+  
+Counsel: Michael A. Cox, Attorney General, Thomas L. Casey, Solicitor General, David G. Gorcyca, Prosecuting Attorney, Joyce F. Todd, Chief, Appellate Division, and Danielle DeJong, Assistant Prosecuting Attorney, for the people. [Pontiac, MI]. 
+State Appellate Defender (by Gary L. Rogers), for the defendant.    
+Judges: Chief Justice:, Maura D. Corrigan. Justices: Michael F. Cavanagh, Elizabeth A. Weaver, Marilyn Kelly, Clifford W. Taylor, Robert P. Young, Jr., Stephen J. Markman. CORRIGAN, C.J. (concurring). MARKMAN, J. (concurring in part and dissenting in part). YOUNG, J. (concurring in part and dissenting in part).    
+Opinion by: Elizabeth A. Weaver  
+Opinion
+
+
+
+
+BEFORE THE ENTIRE BENCH [*251] 
+  [**204] WEAVER, J.
+Defendant Latasha Morson waited in a car while her friend, Iesha Northington, robbed Deborah Sevakis of her purse at gunpoint, using a gun obtained from defendant. As Northington fled the scene, she shot James Bish, who tried to stop her and recover Sevakis's purse. Following a bench trial, defendant was convicted of armed robbery, 1  conspiracy to commit armed robbery, 2  [***2]  and two counts of possession of a firearm during the commission of a felony. 3  She was sentenced to concurrent terms of eight to thirty years for the armed robbery and conspiracy convictions, 4  to be served consecutively to the mandatory two-year sentence for felony-firearm.
+The first issue to be addressed is how many points defendant could be properly assessed at sentencing under offense variables (OV) 1 and 3. OV 1, which considers aggravated use of a weapon, and OV 3, which considers physical injury to the victim, require both that the highest number of points be assessed and that multiple offenders be assessed the same number of points for these [***3]  variables. When Iesha Northington's  [*252]  armed robbery conviction was scored on May 10, 2000, she was assessed fifteen points for OV 1 and zero points for OV 3. But when defendant's armed robbery conviction was scored on December 10, 2001, the sentencing court assessed defendant [**205]  twenty-five points for OV 1 and twenty-five points for OV 3. The Court of Appeals reversed the decision of the sentencing court on this issue, concluding that the multiple offender provision required that defendant's scores on OV 1 and OV 3 be the same as those previously assessed to Iesha Northington for OV 1 and OV 3. 
+The second issue that must be decided is how many points defendant could be properly assessed under OV 9, which considers the number of victims. The sentencing court assessed ten points under this variable, concluding that there were two victims. The Court of Appeals reversed and concluded that defendant should be assessed zero points because there was one victim.
+We affirm in part and reverse in part. The Court of Appeals correctly concluded that pursuant to the sentencing guidelines, defendant should have been assessed the same scores for OV 1 and OV 3 that Iesha Northington was assessed. But [***4]  the Court of Appeals incorrectly held that under OV 9, defendant should have been assessed zero points because there was only one victim. Pursuant to the language of the guidelines, two people were placed in danger. Consequently, the sentencing court properly assessed defendant ten points under OV 9. We remand this case to the circuit court for resentencing consistent with this opinion.
+Facts
+Deborah Sevakis was robbed of her purse at gunpoint by Iesha Northington as Sevakis was walking down Nine Mile Road in Ferndale at about 10:00 p.m. on May [*253]  29, 1999. Sevakis testified that someone tapped her on the shoulder and demanded her purse. When Sevakis initially refused to give up her purse, Northington pointed a gun at her. As Northington ran off with the purse, Sevakis yelled, "Call 9-1--1. I've been robbed." Immediately, James Bish, who was standing nearby and had witnessed the robbery, ran after Northington. When Bish told Northington to drop the purse, Northington shot him.
+In her written statement to the police, defendant stated that as she and Northington were driving down Nine Mile Road, they observed a lady walking with her purse and discussed robbing her. Northington got out [***5]  of the car while defendant drove to a gas station. Defendant next observed Northington running toward the car, carrying a black purse. She also saw a man running and holding his chest; Northington told her that she thought she had shot the man. Defendant admitted that she had given Northington the gun that Jermaine Calloway had given her. Defendant stated that she and Northington stopped to get gas, then went to a Kmart store, where they tried unsuccessfully to use Sevakis's credit card.
+Following a bench trial, defendant was convicted of armed robbery, conspiracy to commit armed robbery, and two counts of felony-firearm. 5  Before defendant's sentencing, Northington, who was sentenced on May 10, 2000, was assessed fifteen points on OV 1 and zero points on OV 3. At defendant's sentencing on December 10, 2001, she asserted that she should be assessed the same number of points as Ms. Northington on OV 1 and OV 3 when defendant's armed robbery conviction was [*254]  scored. But the court assessed defendant twenty-five points on OV 1 and twenty-five points on OV 3 when scoring defendant's armed robbery conviction. The trial court also assessed defendant ten points on OV 9.
+ [***6]   [**206]  Defendant appealed, and the Court of Appeals reversed and remanded for resentencing. 6  The Court of Appeals concluded that defendant should have been assessed the same scores as Northington on OV 1 and OV 3 for the armed robbery conviction. Additionally, the Court of Appeals concluded that defendant should have been assessed zero points on OV 9 because there was only one victim, not two.
+This Court granted the prosecution's application for leave to appeal. 7  
+ [***7]   [*255]  Standard of Review
+ The issues in this case concern the proper interpretation and application of the legislative sentencing guidelines, MCL 777.11 et seq., which are legal questions that this Court reviews de novo. People v Perkins, 468 Mich. 448, 452; 662 N.W.2d 727 (2003). When construing a statute, this Court's primary goal is to give effect to the intent of the Legislature. We begin by construing the language of the statute itself. Where the language is unambiguous, we give the words their plain meaning and apply the statute as written. People v Morey, 461 Mich. 325, 330; 603 N.W.2d 250 (1999).
+Analysis
+Generally, to determine a minimum sentence range under the legislative sentencing guidelines, the sentencing court must first determine the offense category. MCL 777.21(1)(a). The sentencing court must then determine which offense variables (OV) are applicable, score those variables, and total the points to determine the offender's offense variable level. Id. The sentencing court also scores all prior record variables. MCL 777.21(1)(b) [***8]  . The offender's offense variables score and prior record variables score are then used with the sentencing grids to determine the recommended minimum sentence range under the guidelines. MCL 777.21(1)(c).
+In this case, the sentencing issues presented arise out of defendant's armed robbery conviction, MCL 750.529. Under the guidelines, armed robbery is categorized as a [*256]  crime against a person. MCL 777.16y. [**207]  MCL 777.22(1), as amended by 2002 PA 143, provided:
+For all crimes against a person, score offense variables 1, 2, 3, 4, 7, 8, 9, 10, 11, 12, 13, 14, 19, and 20. Score offense variables 5 and 6 for homicide, attempted homicide, conspiracy or solicitation to commit a homicide, or assault with intent to commit murder. Score offense variable 16 under this subsection for a violation or attempted violation of . . . MCL 750.110a. Score offense variables 17 and 18 if an element of the offense or attempted offense involves the operation of a vehicle, vessel, ORV, snowmobile, aircraft, or locomotive.
+At issue are defendant's scores for OV [***9]  1, OV 3, and OV 9.
+OV 1 and OV 3
+OV 1 assesses points for the aggravated use of a weapon, MCL 777.31, and OV 3 assesses points for physical injury to a victim, MCL 777.33. This case concerns how these two variables are to be scored in cases involving multiple offenders. MCL 777.31 provides in part:
+(1) Offense variable 1 is aggravated use of a weapon. Score offense variable 1 by determining which of the following apply and by assigning the number of points attributable to the one that has the highest number of points:
+(a) A firearm was discharged at or toward a human being or a victim was cut or stabbed with a knife or other cutting or stabbing weapon……25 points
+* * *
+(c) A firearm was pointed at or toward a victim or the victim had a reasonable apprehension of an immediate battery when threatened with a knife or other cutting or stabbing weapon…………….15 points [*257]  
+(d) The victim was touched by any other type of weapon……………….10 points
+(e) A weapon was displayed or implied…….5 points
+(f) No aggravated use of a weapon occurred………0 points
+(2) All of the following apply to scoring [***10]  offense variable 1:
+(a) Count each person who was placed in danger of injury or loss of life as a victim.
+(b) In multiple offender cases, if 1 offender is assessed points for the presence or use of a weapon, all offenders shall be assessed the same number of points.
+(c) Score 5 points if an offender used an object to suggest the presence of a weapon.
+(d) Score 5 points if an offender used a chemical irritant, chemical irritant device, smoke device, or imitation harmful substance or device.
+(e) Do not score 5 points if the conviction offense is a violation of . . . MCL 750.82 and 750.529. [Emphasis added.] 8  
+MCL 777.33 [***11]  provides in part:
+(1) Offense variable 3 is physical injury to a victim. Score offense variable 3 by determining which of the following apply and by assigning the number of points attributable to the one that has the highest number of points:
+ [**208]  (a) A victim was killed………..100 points
+(b) A victim was killed………..50 points
+(c) Life threatening or permanent incapacitating injury occurred to a victim……..25 points
+(d) Bodily injury requiring medical treatment occurred to a victim……..10 points
+(e) Bodily injury not requiring medical treatment occurred to a victim………..5 points [*258]  
+(f) No physical injury occurred to a victim………….5 points
+(2) All of the following apply to scoring offense variable 3:
+(a) In multiple offender cases, if 1 offender is assessed points for death or physical injury, all offenders shall be assessed the same number of points.
+* * *
+(d) Do not score 5 points if bodily injury is an element of the sentencing offense.
+(3) As used in this section, "requiring medical treatment" refers to the necessity for treatment and not the victim's success in obtaining treatment. [Emphasis added.] 9  
+ [***12]  When the sentencing court scored defendant's armed robbery conviction, it assessed defendant twenty-five points on OV 1 for the shooting of Bish. But when Iesha Northington had previously been sentenced for the armed robbery before defendant, she was assessed only fifteen points under OV 1. Similarly, on OV 3, defendant was assessed twenty-five points for the shooting of Bish, while Iesha Northington had been assessed zero points. 
+Focusing on subsection 1 of each statute, the prosecution contends that defendant may be assessed twenty-five points for OV 1 and OV 3 when scoring the armed robbery conviction because subsection 1 requires the sentencing court to assess the "highest number of points" and because the sentencing court should not be bound to apply "inaccurate" scores. Defendant, on the other hand, asserts that subsection 2 of each statute requires that defendant, for her armed robbery conviction,  [*259]  be assessed the same scores for OV 1 and OV 3 that Iesha Northington was assessed when scored for armed robbery. On the facts before us, we agree with defendant that the plain language of subsection 2 requires that defendant, when scored on the armed robbery conviction, be assessed [***13]  the same scores on OV 1 and OV 3 that Iesha Northington was previously assessed on those variables when she was scored for armed robbery. 10  
+Each multiple offender provision states that if one offender is assessed points under the variable, "all offenders shall be assessed the same number of points." MCL 777.31(2)(b), MCL 777.33(2)(a)(emphasis [**209]  added). 11  [***15]  While we agree that the sentencing court should not be bound to apply an [***14]  erroneous score in the multiple offender context, we note that the prosecution does not characterize Iesha Northington's scores on OV 1 and OV 3 of her armed robbery conviction as inaccurate or erroneous. In fact, the prosecution acknowledged in its brief that Northington's scores were not disputed by the prosecution at sentencing. 12  Rather, the prosecution's argument seems to be that whenever it appears [*260]  possible that a higher score could be argued for under the variables, a subsequent sentencing court is not bound by the prior score because the sentencing court is required to assess the "highest number of points." We find such analysis contrary to the plain language of the statute, which requires the sentencing court to assess the same number of points to multiple offenders. 13 
+ [***16]  Further, we reject the argument that our conclusion would read the "highest number of points" requirement out of the statute. When the sentencing court assesses points for the first offender, it must assess the "highest number of points" that can be assessed under the statute. If Iesha Northington's scores were inaccurate or erroneous because the sentencing court failed to assess the highest number of points, the prosecution should have challenged the scores at Northington's sentencing. But the prosecution acknowledges that Northington's scores were not disputed and it does not argue to [*261]  this Court that the scores Northington received under OV 1 and OV 3 were erroneous. Consequently, in the absence of any clear argument that the scores assessed to Northington under OV 1 and OV 3 were incorrect, the sentencing court should have assessed defendant the same number of points that were assessed to Northington for OV 1 and OV 3 when her armed robbery conviction was scored: fifteen points and zero points. 
+For these reasons, we affirm the Court of Appeals conclusion concerning defendant's scores for OV 1 and OV 3.
+ [**210]  OV 9
+Offense variable 9 assesses points on the basis of the number of [***17]  victims. MCL 777.39 provides:
+(1) Offense variable 9 is number of victims. Score offense variable 9 by determining which of the following apply and by assigning the number of points attributable to the one that has the highest number of points:
+(a) Multiple deaths occurred……100 points
+(b) There were 10 or more victims…….25 points
+(c) There were 2 to 9 victims……….10 points
+(d) There were fewer than 2 victims…….0 points
+(2) All of the following apply to scoring offense variable 9:
+(a) Count each person who was placed in danger of injury or loss of life as a victim. 
+(b) Score 100 points only in homicide cases. [Emphasis added.]
+Defendant was assessed ten points by the sentencing court for two victims: Deborah Sevakis and James Bish. The Court of Appeals reversed that determination by the sentencing court, concluding that Sevakis was the [*262]  only victim of the armed robbery. We disagree with the Court of Appeals and therefore reverse its conclusion regarding OV 9.
+Pursuant to the plain language of the statute, the sentencing court is to count "each person who was placed in danger of injury or loss of life" as a victim. Though Sevakis was the [***18]  only person actually robbed, Bish, who was standing nearby and responded to Sevakis's call for help, was also "placed in danger of injury or loss of life" by the armed robbery of Sevakis. 14  Consequently, the sentencing court properly counted Bish as a victim and properly scored defendant under OV 9.
+Conclusion
+We conclude that pursuant to the language of the sentencing guidelines, defendant should have been assessed the same number of points on OV 1 and OV 3 that Iesha Northington was assessed when scored on the armed robbery conviction. Unless the prosecution can demonstrate that the number of points assessed to the prior offender was erroneous or inaccurate, the sentencing court is required to follow the plain language [***19]  of the statute, which requires the court to assess the same number of points on OV 1 and OV 3 to multiple offenders. The prosecution has not alleged that Northington's score on these variables was in error. Consequently, we affirm the Court of Appeals conclusion that defendant should have been assessed the same number of points as Northington on OV 1 and OV 3. 
+Additionally, we conclude that defendant was properly assessed ten points by the sentencing court for OV 9 [*263]  because there were two people placed in danger of injury or loss of life: Sevakis, who was robbed, and Bish, a bystander who responded to Sevakis's call for help. Accordingly, the decision of the Court of Appeals is reversed on this point. 15 
+ [**211]  We remand the case to the [***20]  circuit court for resentencing consistent with this opinion. 
+Elizabeth A. Weaver
+Maura D. Corrigan
+Michael F. Cavanagh
+Marilyn Kelly 
+Concur by: Maura D. Corrigan; Stephen J. Markman (In Part); Robert P. Young, Jr. (In Part)   
+Concur
+
+
+
+
+CORRIGAN, C.J. (concurring).
+I concur in the majority's result for the sake of reaching a clear rule regarding the legislative sentencing guidelines and providing direction to trial courts in implementing the guidelines. I believe that offense variables 1 (OV 1) and 3 (OV 3), however, contain language that may be contradictory in some cases, such as the instant case. I further believe that armed robbery is a transactional offense and thus concur with the majority's conclusion that the trial court properly assessed defendant ten points under OV 9.
+I. ARMED ROBBERY IS A TRANSACTIONAL OFFENSE
+At the time that defendant and Northington committed the armed robbery in this case, the armed robbery statute, MCL 750.529, provided, in part: 1  
+Any person who shall assault another, and shall feloniously rob, steal and take from his person, or in his presence, any money or other property, which may be the [*264]  subject of larceny, such [***21]  robber being armed with a dangerous weapon, or any article used or fashioned in a manner to lead the person so assaulted to reasonably believe it to be a [**212]  dangerous weapon, shall be guilty of a felony, punishable by imprisonment in the state prison for life or for any term of years.
+In People v Randolph, 466 Mich. 532, 551; 648 N.W.2d 164 (2002), a majority of this Court rejected the "transactional approach" to unarmed robbery. Under the transactional approach, "a defendant has not completed a robbery until he has escaped with stolen merchandise. Thus, a completed larceny may be elevated to a robbery if the defendant uses force after the taking and before reaching temporary safety." Id. at 535 (citations omitted). A majority of this Court determined, on the basis of the language of the unarmed robbery statute in existence [***22]  at that time and on the common-law history of unarmed robbery, that the force used to accomplish the taking must be contemporaneous with the taking. Id. at 536. In so holding, the majority overruled four Court of Appeals cases, including three involving armed robbery, People v Tinsley, 176 Mich. App. 119; 439 N.W.2d 313 (1989) People v Turner, 120 Mich. App. 23; 328 N.W.2d 5 (1982) and People v Sanders, 28 Mich. App. 274; 184 N.W.2d 269 (1970). Randolph, supra at 546.
+The portion of the Randolph opinion overruling the above cases involving armed robbery is dicta because Randolph did not involve armed robbery. Further, the unarmed robbery statute at issue in Randolph, MCL 750.530, was significantly different than the armed robbery statute at issue in the instant case. The statute at issue in Randolph stated:
+Any person who shall, by force or violence, or by assault or putting in fear, feloniously rob, steal and take from the person of another, or in his presence, any money or other property which may be the subject of larceny, [***23]  such robber [*265]  not being armed with a dangerous weapon, shall be guilty of a felony, punishable by imprisonment in the state prison not more than 15 years. [Emphasis added.]
+
+The armed robbery statute at issue in this case, however, does not contain the above emphasized language that the Randolph majority found required a taking contemporaneous with the use of force, violence, or putting in fear. Rather, MCL 750.529 merely required an assault "and" a taking. Thus, the majority opinion in Randolph did not implicate armed robbery, and the armed robbery statute at issue in this case followed a transactional approach because nothing in the statute required that the use of force be contemporaneous with the taking. 2  
+ [***24]   [*266]  II. OV 1 and OV 3
+Because armed robbery is a transactional offense, and Northington shot Bish immediately after she stole Sevakis's purse and before she reached a place of temporary safety, the trial court's consideration of the shooting when determining defendant's score under OV 1 and OV 3 was arguably proper. 3  OV 1, MCL 777.31, involves [**213]  the aggravated use of a weapon. At the [*267]  time that defendant committed the armed robbery in this case, that section provided, in relevant part: 4 
+(1) Offense variable 1 is aggravated use of a weapon. Score offense variable 1 by determining which of the following [*268]  apply and by assigning the number of points attributable to the one that has the highest number of points:
+(a) A firearm was discharged at or toward a human being or a victim was cut or stabbed with a knife or other cutting or stabbing weapon…..25 points
+(b) A firearm was pointed at or toward a victim or the victim had a reasonable apprehension of an immediate battery when threatened with a knife or other cutting or stabbing weapon……..15 points
+* * *
+(2) All of the following apply to scoring offense variable 1:
+(a) Count each person who was [***25]  placed in danger of injury or loss of life as a victim.
+(b) In multiple offender cases, if 1 offender is assessed points for the presence or use of a weapon, all offenders shall be assessed the same number of points. [Emphasis added.]
+The trial court also assessed twenty-five points under OV 3. OV 3, MCL 777.33, involves physical injury to a victim. At the time that defendant committed the armed robbery in this case, MCL 777.33 provided, in relevant part: 5 
+(1) Offense variable 3 is physical injury to a victim. Score offense variable 3 by determining which of the following apply and by assigning the number of points attributable to the one that has the highest number of points:
+* * *
+(c) Life threatening or permanent incapacitating injury occurred to a victim………….  [***26]  25 points
+(d) Bodily injury requiring medical treatment occurred to a victim………………..10 points
+(e) Bodily injury not requiring medical treatment occurred to a victim…………………5 points
+(f) No physical injury occurred to a victim……………………………..0 points
+(2) All of the following apply to scoring offense variable 3:
+(a) In multiple offender cases, if 1 offender is assessed points for death or physical injury, all offenders shall be assessed the same number of points. [Emphasis added.]
+Subsection 1 of both OV 1 and OV 3 required the trial court to assess the highest number of points that it could assess for each variable. Following the transactional approach to armed robbery, [*269]  the trial court did so by assessing defendant twenty-five points under OV 1 because Northington discharged a firearm toward Bish.  [***27]   [**214]  The court also assessed defendant twenty-five points under OV 3 because Bish's gunshot wound to the chest was life-threatening. Thus, the trial court properly complied with subsection 1 of both variables and assessed the highest number of points possible under each variable.
+Notwithstanding the above language of OV 1 and OV 3, subsection 2(b) in OV 1 and subsection 2(a) in OV 3 required the trial court to assess the same number of points under those variables as were assessed for Northington. The trial court assessed Northington fifteen points under OV 1 and zero points under OV 3. Thus, the trial court did not assess Northington the highest number of points as subsection 1 of OV 1 and OV 3 directs. The question then is whether the trial court was obligated to assess defendant the same number of points as were assessed for Northington notwithstanding the fact that Northington was not assessed the highest number of points. The answer to this question is unclear. In these circumstances, the language of subsection 1 of OV 1 and OV 3 conflicts with the language of subsection 2(b) in OV 1 and subsection 2(a) in OV 3. The trial court could not have followed one provision without rendering [***28]  the other nugatory.
+Because it is the duty of the judiciary to interpret, not to write, our laws, we, as judges, are unable to correct the conflicting language of OV 1 and OV 3. Rather, that task is left to the Legislature. A practical approach to this problem would require trial courts to assess offenders in multiple offender cases the same number of accurately scored points. In that event, trial courts would be required to assess multiple offenders the same number of points only if the first offender's assessment of points was accurate. Otherwise, trial courts would be required to assess subsequently sentenced offenders "the highest number of points." Because the "highest number of points" provision of OV 1 and OV 3 conflicts with the "multiple offender" provision of those variables, and nothing directs which provision prevails, I concur with the majority that defendant was required to be assessed the same number of points as were scored for Northington. 6  
+ [***29]   [*270]  III. OV 9
+I also concur with the majority that the trial court properly assessed defendant ten points under OV 9. OV 9, MCL 777.39, provides, in part:
+(1) Offense variable 9 is number of victims. Score offense variable 9 by determining which of the following apply and by assigning the number of points attributable to the one that has the highest number of points:
+(a) Multiple deaths occurred………..100 points
+(b) There were 10 or more victims…….25 points
+(c) There were 2 to 9 victims………..10 points
+(d) There were fewer than 2 victims……0 points
+(2) All of the following apply to scoring offense variable 9:
+ [**215]  (a) Count each person who was placed in danger of injury or loss of life as a victim.
+Because armed robbery is a transactional offense and Bish was placed in danger of injury or loss of life while the robbery was ongoing, the trial court properly considered him a victim of the armed robbery under subsection 2(a). 7  Accordingly, the trial court's assessment of ten points under this variable was correct.
+  [***30]  IV. CONCLUSION
+The "multiple offender" provision of OV 1 and OV 3 conflicts with the "highest number of points" provision [*271]  of those variables. Accordingly, it is unclear whether the trial court assessed the proper number of points under each variable. Nevertheless, I concur with the majority for the sake of reaching a clear rule and offering guidance to sentencing courts in implementing the legislative sentencing guidelines. I urge the Legislature to amend those sentencing variables containing the above conflicting provisions. Further, I concur with the majority's conclusion regarding OV 9. Because armed robbery is a transactional offense, the trial court properly assessed defendant ten points under OV 9. 
+Maura D. Corrigan 
+Dissent by: Stephen J. Markman (In Part); Robert P. Young, Jr. (In Part)   
+Dissent
+
+
+
+
+MARKMAN, J. (concurring in part and dissenting in part).
+I concur in the conclusion of the majority opinion that the trial court improperly scored OV 1 and OV 3, although I reach this conclusion by a different analysis. I respectfully dissent from the conclusion of the majority opinion that the trial court properly scored OV 9. 
+Defendant and Iesha Northington robbed an elderly woman,  [***31]  Deborah Sevakis. Northington stole Sevakis's purse. James Bish, a bystander who witnessed the robbery, chased after Northington and Northington shot Bish. Defendant was the getaway driver. Northington pleaded guilty to armed robbery and assault with intent to murder, and defendant was convicted of armed robbery, but never charged with the assault.
+OV 1 is to be scored at fifteen points for pointing a firearm at a person and twenty-five points for discharging a firearm at a person. MCL 777.31(1)(a) and (c). Although defendant's accomplice, Iesha Northington, was assessed twenty-five points for the assault conviction, she was assessed only fifteen points for the armed robbery conviction. Defendant was assessed twenty-five points for the armed robbery conviction. Defendant was never charged with an assault. The Court of Appeals [*272]  concluded that the trial court erred in assessing defendant twenty-five points for the armed robbery conviction because MCL 777.31(2)(b) provides that "in multiple offender cases, if 1 offender is assessed points for the presence or use of a weapon, all offenders shall be assessed the same number of points." The [***32]  majority opinion agrees. 
+OV 3 is to be scored at twenty-five points if a victim suffered a life-threatening injury. MCL 777.33(1)(c). Clearly, James Bish suffered a life-threatening injury when he was shot in the chest and his lung was punctured. Although Northington was assessed twenty-five points for the assault conviction, she was assessed zero points for the armed robbery conviction. Defendant was assessed twenty-five points [**216]  for the armed robbery conviction. Again, the Court of Appeals concluded that this was an error because MCL 777.33(2)(a) provides that "in multiple offender cases, if 1 offender is assessed points for death or physical injury, all offenders shall be assessed the same number of points." The majority opinion again agrees. 
+MCL 769.31(d) provides:
+"Offense characteristics" means the elements of the crime and the aggravating and mitigating factors relating to the offense that the legislature determines are appropriate. For purpose of this subdivision, an offense described in section 33b of 1953 PA 232, MCL 791.233b, that resulted in a conviction [***33]  and that arose out of the same transaction as the offense for which the sentencing guidelines are being scored shall be considered as an aggravating factor. [Emphasis added.] 
+Therefore, in general, when scoring offense variables, the trial court can only consider the offense for which the sentencing guidelines are being scored and those [*273]  enumerated offenses that arose out of the same transaction as that offense and that resulted in convictions. 1 
+In this case, the discharging of the firearm and the resulting injury to Bish are not factors that relate to the robbery offense--the offense for which the sentencing guidelines are being scored--but are, instead, factors that relate to the assault offense--an offense [***34]  of which defendant was never convicted. Therefore, the trial court erred when it considered these factors in scoring defendant's robbery conviction.
+MCL 777.31(1) and MCL 777.33(1) provide that OV 1 and OV 3 are to be scored "by determining which of the following apply and by assigning the number of points attributable to the one that has the highest number of points." With regard to OV 1, defendant argues that fifteen points was the highest score attributable to either offender for the robbery because a weapon was pointed, but not discharged during the robbery. Northington did not discharge the weapon until after the robbery. Similarly, with regard to OV 3, defendant argues that zero points was the highest score attributable to either offender for the robbery because nobody was injured during the robbery. Northington did not shoot Bish until after the robbery. 
+MCL 769.31(d) explicitly states that "an offense described in section 33b of 1953 PA 232, MCL 791.233b, that resulted in a conviction and that arose out of the same transaction as the offense for which the sentencing [***35]  guidelines are being scored shall be considered as an aggravating factor." This is clearly an exception to the general rule--the general rule being that the relevant [*274]  factors are those that relate to the offense being scored, and the exception being that, if the defendant is convicted of certain enumerated offenses that arose out of the same transaction as the offense being scored, these offenses can be taken into consideration in scoring. Although assault with intent to murder is one of the enumerated offenses and the assault arguably arose out of the same transaction as the armed robbery, defendant was not convicted of assault with intent to murder. Therefore, the fact that Northington shot Bish cannot be considered in scoring defendant's robbery conviction. The trial court took this shooting into consideration when it scored OV 1 and [**217]  OV 3, and, thus, improperly scored OV 1 and OV 3.
+That the general rule is that the relevant factors are those that relate to the offense being scored is further supported by the fact that some offense variables specifically provide otherwise. For instance, MCL 777.44(2)(a) provides that in scoring OV 14 (whether the offender [***36]  was a leader in a multiple offender situation), "the entire criminal transaction should be considered." In other offense variables, the Legislature unambiguously made it known when behavior outside of the scored offense is to be taken into account. OV 12, for example, applies to acts that occurred within twenty-four hours of the sentencing offense and have not resulted in separate convictions. MCL 777.42(2)(a). OV 13 explicitly permits scoring for "all crimes within a 5-year period, including the sentencing offense" regardless of whether they resulted in conviction. MCL 777.43(2)(a). OV 16 provides that "in multiple offender or victim cases, the appropriate points may be determined by adding together the aggregate value of the property involved, including property involved in uncharged offenses or charges dismissed under a plea agreement." MCL 777.46(2)(a). Finally, OV 8 (scoring for [*275]  victim asportation or captivity) specifically focuses on conduct "beyond the time necessary to commit the offense." MCL 777.38. That the Legislature has explicitly stated in some offense variables that conduct [***37]  not related to the offense being scored can be considered strengthens the conclusion that, unless stated otherwise, only conduct that relates to the offense being scored may be considered.
+OV 9 is to be scored at ten points if two to nine victims were involved. MCL 777.39(1)(c). "Each person who was placed in danger of injury or loss of life" is to be counted as a victim. MCL 777.39(2)(a). OV 9 does not require multiple offenders to receive the same score. Both defendant and Northington were assessed ten points. The Court of Appeals concluded that this was error because only Deborah Sevakis was placed in danger during the robbery. I agree. The robbery was complete by the time Bish intervened. Bish was not the victim of the robbery; he was the victim of the assault. 2  [***38]  Defendant was not charged with the assault. 3  [***39]  For the [*276]  same reason that the assault cannot be considered when scoring [**218]  OV 1 and OV 3, it cannot be considered when scoring OV 9. 4  
+ [***40]   [*277]  OV 1 should only have been scored at fifteen points because Northington only pointed a firearm during the robbery; she did not discharge a firearm during the robbery. OV 3 should have been scored at zero points because the robbery victim did not suffer from a life-threatening injury; only the assault victim suffered from a life-threatening injury. Finally, OV 9 should have been scored at zero points because there was only one robbery victim; Bish was an assault victim, but not a robbery victim. Therefore, I would affirm the judgment of the Court of Appeals, which concluded that the trial court erred in scoring OV 1, OV 3, and OV 9, albeit on different grounds.
+Stephen J. Markman
+Clifford W. Taylor
+YOUNG, J. (concurring in part and dissenting in part).
+I agree with the majority that the trial court did not err when it assessed ten points for offense variable (OV) 9. The language of MCL 777.39(2)(a) clearly states that each person "placed in danger of injury or loss of life" is to be counted as a victim. Because a gun was fired at him, James Bish was placed in danger even if he had not intervened or been injured.
+However, I dissent from that [***41]  portion of the majority opinion holding that the trial court erred in assessing twenty-five points each for OV 1 and OV 3. Because I believe that the guidelines were scored correctly, I would affirm the trial court's scoring of those guidelines.
+I disagree with the majority's conclusion that defendant was entitled to have her [**219]  armed robbery scores [*278]  match Northington's armed robbery scores. I believe the majority's position is based on a flawed assumption regarding the "multiple offender" provision of OV 1 and OV 3.
+When scoring the guidelines, the court is instructed by MCL 769.31(e) 1  to consider not only the actual elements constituting the offense, but also any aggravating or mitigating factors associated with the offense as designated in the guidelines:
+"Offense characteristics" means the elements of the crime and the aggravating and mitigating factors relating to the offense that the commission determines are appropriate and consistent with the criteria described in section 33(1)(e) of this chapter. For the purposes of this subdivision, an offense described in section 33b of 1953 PA 232, MCL 791.233b [***42]  , that resulted in a conviction and that arose out of the same transaction as the offense for which the sentencing guidelines are being scored shall be considered as an aggravating factor. [Emphasis added.] 2  
+ [*279] Therefore, an "offense characteristic" clearly encompasses more than merely the offense itself-it contemplates both positive and negative factors "related to," but not constituting, the charged offense.
+ [***43]  When scoring OV 1, which takes into account the aggravated use of a weapon, MCL 777.31(2) specifically requires a trial court to:
+(a) Count each person who was placed in danger of injury or loss of life as a victim.
+(b) In multiple offender cases, if 1 offender is assessed points for the presence or use of a weapon, all offenders shall be assessed the same number of points.
+Likewise, when scoring OV 3, which assesses physical injury to a victim, MCL 777.33(2)(a) requires that:
+In multiple offender cases, if 1 offender is assessed points for death or physical injury, all offenders shall be assessed the same number of points.
+The majority opinion rests upon the analytical assumption that the requirement of equal scores for "multiple offenders" means that identical crimes must be compared to identical crimes. However, as illustrated above, the plain language of MCL 777.31(2)(b) and MCL 777.33(2)(a) clearly does not require that the convicted offenses must be identical. Rather, the statutes contemplate the comparison of identical offense variable scores. I believe [***44]  that the correct reading of the statutes requires that, to the degree that both defendants  [**220]  are convicted of crimes requiring the scoring of OV 1 and OV 3, the second defendant would get the same OV 1 and OV 3 scores as the first defendant.
+Here, defendant was scored twenty-five points for her armed robbery OV 1 score. This score is supported by the evidence because a firearm was discharged at or toward James Bish, and the discharge of the firearm [*280]  was an aggravating factor related to the armed robbery. Defendant's OV 1 score for use of a weapon coincides with Northington's OV 1 score for use of a weapon, as shown in the table below. 
+Additionally, defendant was scored twenty-five points for her OV 3 score. This score is supported by the evidence because of the life-threatening gunshot injury suffered by James Bish, which was an aggravating factor related to the armed robbery. Defendant's OV 3 score of twenty-five points for physical injury to a victim is identical to Northington's OV 3 score for physical injury to a victim, as shown in the table below:
+
+DEFENDANT &
+ov 1
+ov 3
+OFFENSE
+Aggravated use of
+Physical injury
+
+weapon
+to victim
+Northington
+
+
+Assault with intent
+
+
+to murder
+25 points
+25 points
+
+
+
+Northington
+
+
+Armed robbery
+15 points
+0 points
+
+
+
+Morson
+
+
+Armed robbery
+25 points
+25 points
+ [***45]  The majority errs in simply comparing identical convictions. However, as noted above, the directives contained in OV 1 and OV 3 do not require equality of criminal convictions--they merely necessitate that the offense variables be scored identically. Because defendant received the same OV 1 and OV 3 scores as her [*281]  cohort, I do not believe that defendant is entitled to resentencing.  3 
+As [***46]  Chief Justice Corrigan notes in her concurring opinion, there is an arguable tension between the sentencing instructions requiring assessment of the highest number of points shown by the evidence and the instruction included in some offense variables directing the court to assess equal OV points in multiple offender situations. However, I believe that enforcing the statute as written, which instructs  [**221]  a sentencing court to compare offense variable to like offense variable, promotes both accuracy and equality in the scoring of the guidelines. 4  
+ [***47]   [*282]  For the reasons stated herein, I dissent from that portion of the majority opinion holding that the trial court erred in scoring offense variables 1 and 3. Because I believe that the guidelines were scored correctly, I would reverse the Court of Appeals judgment and reinstate the sentence imposed by the circuit court.
+Robert P. Young, Jr.  
+
+ 
+
+End of Document

@@ -1,0 +1,44 @@
+
+  NeutralAs of: September 19, 2020 7:27 PM Z
+Herring v. State
+Supreme Court of Florida
+March 31, 2017, Decided
+CASE NO.: SC15-1562
+
+Reporter
+2017 Fla. LEXIS 739 *; 2017 WL 1192999
+ TED HERRING, Appellant(s) vs. STATE OF FLORIDA, Appellee(s)  
+Notice: NOT FINAL UNTIL TIME EXPIRES TO FILE REHEARING MOTION AND, IF FILED, DETERMINED.
+  
+Prior History:  [*1] Lower Tribunal No(s).: 1981-01957 CFAES; 1991-026305 XXAES.
+Teffeteller v. Dugger, 676 So. 2d 369, 1996 Fla. LEXIS 335 (Fla., 1996)  
+Judges: LABARGA, C.J., and PARIENTE, LEWIS, and QUINCE, JJ., concur. LAWSON, J., concurs in result. CANADY, J., dissents with an opinion, in which POLSTON, J., concurs. HON. TERENCE ROBERT PERKINS, CHIEF JUDGE. HON. LEAH RANSBOTTOM CASE, JUDGE.  
+Opinion
+
+
+
+
+Ted Herring, a prisoner under sentence of death, appeals the circuit court's denial of a motion for postconviction relief filed pursuant to Florida Rule of Criminal Procedure 3.851. We have jurisdiction. See art. V, § 3(b)(1), Fla. Const. This Court first affirmed Herring's conviction and death sentence in 1984. Herring v. State, 446 So. 2d 1049, 1051-53 (Fla. 1984). Following the United States Supreme Court decision Atkins v. Virginia, 536 U.S. 304, 122 S. Ct. 2242, 153 L. Ed. 2d 335 (2002), Herring raised an intellectual disability claim in a postconviction motion, which the circuit court granted, reducing his sentence to life. This Court reversed the circuit court and vacated the order of a life sentence because Herring did not present an IQ score below 70 during his evidentiary hearing in the circuit court. State v. Herring, 76 So. 3d 891, 895 (Fla. 2011), cert. denied Herring v. Florida, 567 U.S. 935, 133 S. Ct. 28, 183 L. Ed. 2d 676 (2012).
+In the instant postconviction motion, Herring argues that this Court's decision vacating the circuit court's order of a life sentence was decided under a rule of law that has now been found unconstitutional under Hall v. Florida, 134 S. Ct. 1986, 188 L. Ed. 2d 1007 (2014). The circuit court denied Herring's postconviction motion [*2]  finding that Herring failed to show that Hall should be applied retroactively to his case. During the pendency of this case, this Court subsequently determined that Hall applies retroactively as a development of fundamental significance. Walls v. State, 213 So. 3d 340, 2016 Fla. LEXIS 2328, *17, 41 Fla. L. Weekly S 466, S 469 (Fla. Oct. 20, 2016).
+To prevail on a claim of intellectual disability, a defendant must establish three elements: (1) significantly subaverage intellectual functioning (2) existing concurrently with deficits in adaptive behavior and (3) manifesting prior to age 18. Fla. R. Crim. P. 3.203; see also § 921.137, Fla. Stat. (2015). Hall recognizes that intellectual disability "is a condition, not a number," and requires that defendants with IQ scores within a standard error of measurement of 70 may be considered intellectually disabled. Hall, 134 S. Ct. at 2001. This Court has held that Hall requires courts to consider all three prongs of intellectual disability in tandem and that no single factor should be dispositive of the outcome. See Oats v. State, 181 So. 3d 457, 459 (Fla. 2015).
+As we noted in Walls, "all three prongs of the intellectual disability test [must] be considered in tandem and . . . the conjunctive and interrelated nature of the test requires no single factor be considered dispositive." 2016 Fla. LEXIS 2328 at *18, 41 Fla. L. Weekly at S 469 (citing Oats, 181 So. 3d at 459). The postconviction [*3]  court in 2009 properly evaluated all three prongs of the intellectual disability test and determined that Herring is intellectually disabled. State v. Herring, No. 81-1957-C (Fla. 7th Jud. Cir. 2009) (Final Order Vacating Sentence of Death).
+Herring has IQ scores under 75 from tests administered both before and after age 18 and he has previously established deficits in adaptive functioning and significantly subaverage intellectual functioning. Id. Because Herring has previously established each element of the test for intellectual disability, we vacate his sentence of death and reduce his sentence to life.
+It is so ordered.
+LABARGA, C.J., and PARIENTE, LEWIS, and QUINCE, JJ., concur.
+LAWSON, J., concurs in result.
+CANADY, J., dissents with an opinion, in which POLSTON, J., concurs.
+Dissent by: CANADY  
+Dissent
+
+
+
+
+CANADY, J., dissenting.
+I disagree with the majority's decision to vacate Herring's death sentence and impose a life sentence. For the reasons I have explained in my dissent in Walls v. State, 213 So. 3d 340, 2016 Fla. LEXIS 2328, *23, 41 Fla. L. Weekly S 466, S 470 (Fla. Oct. 20, 2016) (Canady, J., dissenting), I have concluded that Hall v. Florida, 134 S. Ct. 1986, 188 L. Ed. 2d 1007 (2014), should not be given retroactive effect. But even assuming that Hall applies retroactively, I would still disagree with the decision to impose a life sentence [*4]  for the reasons explained below.
+By vacating Herring's death sentence and imposing a life sentence, the majority has essentially deprived the State of its right to appeal the trial court's 2009 findings that Herring met the second and third prongs of the intellectual disability standard. In its appeal of the 2009 order vacating Herring's death sentence due to intellectual disability, the State argued that the trial court erred in concluding not only that Herring had established that he met the first prong of the intellectual disability standard—significantly subaverage general intellectual functioning—but also that the trial court erred in concluding that Herring met the second and third prongs of the standard—deficits in adaptive behavior and manifestation prior to age 18. See Initial Brief of Appellant at 36-38, State v. Herring, 76 So. 3d 891 (Fla. 2011), 2010 WL 2806167, at *36-38 (arguing that the trial court erred in refusing to recognize that Florida Rule of Criminal Procedure 3.203(b) and section 921.137(1), Florida Statutes, require that the adaptive deficits be current and that the trial court's conclusion that Herring's intellectual disability manifested before the age of 18 was not supported by any evidence). But in reversing the trial court's 2009 order, this Court addressed only the State's argument [*5]  that the trial court erred in concluding that Herring met the first prong and vacated the 2009 order based solely on that error. This Court did not address the State's arguments that the trial court erred in concluding that Herring met the second or third prongs of the intellectual disability standard. See Herring, 76 So. 3d at 894-97.
+Instead of simply reinstating the trial court's previously vacated 2009 order finding that Herring meets all three prongs of the intellectual disability standard, this Court should, as the State has requested, remand this case to the trial court for a new intellectual disability hearing so that the trial court can conduct the "conjunctive and interrelated assessment," Hall, 134 S. Ct. at 2001, of all three prongs as required by Hall. To do so would provide "the type of holistic review" that this Court has stated is necessary in assessing intellectual disability claims in the wake of Hall. See, e.g., Walls, 2016 Fla. LEXIS 2328 at *18, 41 Fla. L. Weekly at S 469 ("[I]t is clear that although Walls has had an earlier evidentiary hearing as to intellectual disability and was allowed to present evidence of all three prongs of the test, he did not receive the type of holistic review to which he is now entitled."). And it would also afford the [*6]  State an opportunity for a meaningful appeal of the intellectual disability determination under the current state of the law. Accordingly, I dissent.
+POLSTON, J., concurs.
+
+ 
+
+End of Document

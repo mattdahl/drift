@@ -1,0 +1,52 @@
+
+  PositiveAs of: September 19, 2020 8:14 PM Z
+Stites v. Alan Ritchey, Inc.
+United States Court of Appeals for the Third Circuit
+December 6, 2011, Argued; January 23, 2012, Opinion Filed
+No. 11-1275
+
+Reporter
+458 Fed. Appx. 110 *; 2012 U.S. App. LEXIS 1286 **; 2012 WL 171965
+ ELAINE STITES; LAUREN BALL; BARBARA BUCHMAN, Appellants v. ALAN RITCHEY, INC.  
+Notice: NOT PRECEDENTIAL OPINION UNDER THIRD CIRCUIT INTERNAL OPERATING PROCEDURE RULE 5.7. SUCH OPINIONS ARE NOT REGARDED AS PRECEDENTS WHICH BIND THE COURT.
+PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+Prior History:  [**1] APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA. (D.C. Civil No. 2-09-cv-00392). District Judge: Honorable Eduardo C. Robreno.
+Stites v. Alan Ritchey, Inc., 2011 U.S. Dist. LEXIS 2419 (E.D. Pa., Jan. 10, 2011)  
+Counsel: Jeremy M. Cerutti, Esq. (Argued), Ari R. Karpf, Esq., Karpf & Karpf, Bensalem, PA, Counsel for Appellants. 
+David M. Walsh, Esq. (Argued), Jackson Lewis, Morristown, NJ, Counsel for Appellee.  
+Judges: Before: HARDIMAN, BARRY and VAN ANTWERPEN, Circuit Judges.  
+Opinion by: BARRY  
+Opinion
+
+
+
+
+ [*111]  BARRY, Circuit Judge
+Elaine Stites, Barbara Buchman, and Lauren Ball appeal the District Court's grant of summary judgment on their reverse race discrimination and retaliation claims brought under 42 U.S.C. § 1981, Title VII, and the Pennsylvania Human Rights Act. We will affirm, essentially for the reasons stated by the District Court in its thorough opinion.
+ I.
+Because we write for the parties, we recount only the essential facts, and we do so in the light most favorable to Appellants. Appellants, who are Caucasian, were employed as inspectors by Alan Ritchey, Inc. ("ARI"), a company that, prior to closing all of its mail transport facilities, serviced mail transport equipment ("MTE") pursuant to a contract with the United States Postal Service ("USPS"). Inspectors were required  [**2] to sort through bins of MTE to check for damaged or defective products. To track how efficiently individual inspectors performed their work, ARI utilized a software program that calculated an individual inspector's efficiency rating based on the number of items serviced by that inspector in a given time period.
+In 2006, in response to a steady decline in the volume of MTE arriving at its facility for servicing, ARI initiated a Reduction in Force ("RIF"), which resulted in the layoff of six employees, including Ball. In early 2007, as its revenues continued to plummet, ARI conducted a second RIF, this time laying off fifteen employees, including Buchman. In September 2007, Stites was terminated in accordance with ARI policy after failing to meet the minimum required weekly efficiency rating for the fourth time that year. In both RIFs, ARI conducted a "Reduction in Workforce Analysis," which ranked employees based on the efficiency ratings, and eliminated those employees with the lowest ratings, regardless of their race. Each time, this methodology resulted in the termination of Asian and non-Asian employees; similarly, both Asian and non-Asian employees were retained in each RIF. Likewise,  [**3] three weeks after Stites' termination for low efficiency ratings, an Asian inspector was terminated for the identical reason.
+On January 27, 2009, Appellants filed suit accusing ARI of reverse race discrimination and retaliation. On January 10, 2011, the District Court granted ARI's motion for summary judgment. This appeal followed.
+ II.1 
+A. Discrimination
+Appellants claim that their terminations resulted from reverse race discrimination.  [*112]  In analyzing such claims, we employ the familiar burden shifting analysis set forth by the Supreme Court in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 93 S. Ct. 1817, 36 L. Ed. 2d 668 (1973). Because the parties do not dispute that Appellants have established a prima facie case of discrimination or that ARI has articulated a nondiscriminatory reason for terminating them—namely, that it applied objective, performance-based efficiency ratings—our analysis  [**4] turns solely on whether Appellants have overcome the "difficult burden" of proving pretext. Fuentes v. Perskie, 32 F.3d 759, 765 (3d Cir. 1994). We hold that they have not.
+To establish pretext, Appellants must "point to some evidence . . . from which a fact finder could reasonably either (1) disbelieve the employer's articulated legitimate reasons; or (2) believe that an invidious discriminatory reason was more likely than not a motivating . . . cause of the employer's action." Iadimarco v. Runyon, 190 F.3d 151, 165-66 (3d Cir. 1999). Here, Appellants admit that they do not—and cannot—dispute the accuracy of ARI's employee efficiency scores. Nor do they dispute that ARI laid off only those employees with the lowest efficiency scores or that these layoffs affected both Asian and non-Asian employees. And finally, although Appellants allege that Asian employees were given easier work, thereby "making it impossible for non-Asians to score as well as Asians," they admit that several non-Asian inspectors maintained efficiency scores better than many—if not most—of the Asian inspectors. We therefore hold that Appellants have not shown such "contradictions in the employer's proffered legitimate  [**5] reasons for its action that a reasonable factfinder could rationally find them unworthy of credence." Id. at 166 (citation omitted). Accordingly, summary judgment was appropriate.
+B. Retaliation
+Appellants also allege that ARI retaliated against them for complaining about the alleged preferential treatment of Asian workers. To prevail on a retaliation claim, a plaintiff must prove that "(1) she engaged in protected activity, (2) the employer took a materially adverse action against her, and (3) there was a causal connection between the protected activity and the employer's action." LeBoon v. Lancaster Jewish Cmty. Ctr. Ass'n, 503 F.3d 217, 231 (3d Cir. 2007). Here, the only evidence presented by Appellants to show a "causal connection" is the claimed temporal proximity between their complaints and their terminations. Although temporal proximity alone may be sufficient to create an inference of causality in some cases, it must be "unusually suggestive" to do so. Id. at 232. The record here, however, shows that Appellants complained numerous times over the course of several years of employment at ARI. Thus, far from being "unusually suggestive," any proximity between Appellants' final  [**6] complaints and their terminations is merely coincidental. Consequently, summary judgment for ARI again was appropriate.
+ III.
+For the foregoing reasons, we will affirm the judgment of the District Court.
+Concur by: HARDIMAN (In Part)  
+Dissent by: HARDIMAN (In Part)  
+Dissent
+
+
+
+
+HARDIMAN, Circuit Judge, concurring in part and dissenting in part,
+I agree with my colleagues that Appellants' retaliation claims fail at summary judgment. I disagree, however, that Appellants' discrimination claims fail for want  [*113]  of pretext under Fuentes v. Perskie, 32 F.3d 759, 765 (3d Cir. 1994).
+Before they were laid off, Appellants complained to management that Asian unloaders favored Asian inspectors in the distribution of work. Supervisor Arlene Yorgey validated these complaints, stating: "yes, I do know that . . . you're not getting the work because it's going down . . . to the . . . Asian girls." Under our precedents, an employer's reliance on objective criteria tainted by discrimination or inequality evidences pretext. See, e.g., Goosby v. Johnson & Johnson Med., Inc., 228 F.3d 313, 319-21 (3d Cir. 2000); Bray v. Marriott Hotels, 110 F.3d 986, 994-95 (3d Cir. 1997). In addition, ARI expressed racial bias 1  and hired employees immediately before  [**7] and after the 2006 and 2007 RIFs. 2  Finally, the fact that some Caucasians survived ARI's layoffs and some Asians did not is not dispositive, see, e.g., Goosby, 228 F.3d at 321; Iadimarco v. Runyon, 190 F.3d 151, 165 (3d Cir. 1999), particularly where, as here, ARI eliminated all but six or seven Caucasian processing employees in just two years.
+For these reasons, I would give Appellants their day in court.
+
+ 
+
+End of Document

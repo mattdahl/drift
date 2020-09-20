@@ -1,0 +1,41 @@
+
+  NeutralAs of: September 19, 2020 9:08 PM Z
+United States v. Strickland
+United States Court of Appeals for the Eighth Circuit
+January 14, 2019, Submitted; March 5, 2019, Filed
+No. 18-1476
+
+Reporter
+759 Fed. Appx. 544 *; 2019 U.S. App. LEXIS 6597 **
+ United States of America, Plaintiff - Appellee v. Lawrence J. Strickland, Defendant - Appellant  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Subsequent History: US Supreme Court certiorari denied by Strickland v. United States, 140 S. Ct. 179, 205 L. Ed. 2d 96, 2019 U.S. LEXIS 5647 (U.S., Oct. 7, 2019)
+Post-conviction proceeding at, Motion denied by Strickland v. United States, 2020 U.S. Dist. LEXIS 114436 (E.D. Mo., June 30, 2020)  
+Prior History:  [**1] Appeal from United States District Court for the Eastern District of Missouri - Cape Girardeau.
+  
+Counsel: For United States of America, Plaintiff - Appellee: Paul W. Hahn, U.S. Attorney's Office, Eastern District of Missouri, Cape Girardeau, MO. 
+For Lawrence J. Strickland, Defendant - Appellant: Michael Skrien, Federal Public Defender's Office, Cape Girardeau, MO. 
+Lawrence J. Strickland, Defendant - Appellant, Pro se, Forrest City, AR.  
+Judges: Before LOKEN, GRASZ, and STRAS, Circuit Judges. STRAS, Circuit Judge, concurring.  
+Opinion
+
+
+
+
+ [*544]  PER CURIAM.
+Lawrence Strickland pleaded guilty to being a felon in possession of a firearm in violation of 18 U.S.C. § 922(g)(1). Under the Armed Career Criminal Act, the mandatory minimum penalty is fifteen years imprisonment if a defendant "has three previous convictions . . . for a violent felony or a serious drug offense, or both, committed on occasions different from one another." 18 U.S.C. § 924(e)(1). The district court1  concluded that Strickland has three qualifying prior convictions, a conviction for Unlawful Use of a Weapon-Shoot at a Person or a Motor Vehicle in July 2000, and two convictions for Trafficking in Drugs 1st Degree and Sale of a Controlled Substance for two sales of crack cocaine to the same undercover agent [**2]  on October 14 and October 19, 1999. The court imposed the mandatory minimum 180-month sentence. Strickland appeals, arguing the district court erred in sentencing him as an armed career criminal because his two crack cocaine sales were charged as two counts in the same case, "were part of a continuing course of conduct," and therefore should be counted as only one predicate conviction. Reviewing whether a prior conviction is a predicate offense de novo, we conclude that this argument is foreclosed by controlling Eighth Circuit decisions and therefore affirm. United States v. Van, 543 F.3d 963, 966 (8th Cir. 2008) (standard of review).
+"We have repeatedly held that convictions for separate drug transactions on separate days are multiple ACCA predicate offenses, even if the transactions were sales to the same victim or informant." Id. (three crack sales in eight days); see United States v. Ross, 569 F.3d 821, 822-23 (8th Cir. 2009) (two crack sales in four days charged in the same indictment); United States v. Abbott, 794 F.3d 896, 897 (8th Cir. 2015) (two crack sales on consecutive days). We noted in Abbott that, because the statute stipulates that the offenses be committed on different occasions, "it is sufficient (although not necessary) to show that some time elapsed between the two prospective predicate offenses." Id. at 898 (quotation omitted; emphasis in original). [**3] 
+ [*545]  Accordingly, the district court did not err in sentencing Strickland as an armed career criminal. The judgment of the district court is affirmed.
+Concur by: STRAS  
+Concur
+
+
+
+
+STRAS, Circuit Judge, concurring.
+I still harbor grave doubts about whether judges, rather than juries, can make the finding that multiple offenses were committed "on occasions different from one another" without violating the Sixth Amendment. See United States v. Perry, 908 F.3d 1126, 1134-36 (8th Cir. 2018) (Stras, J., concurring). But because the court's opinion is consistent with binding circuit precedent, I concur.
+
+ 
+
+End of Document

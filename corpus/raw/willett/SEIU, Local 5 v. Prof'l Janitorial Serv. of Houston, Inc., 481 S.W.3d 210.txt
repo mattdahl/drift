@@ -1,0 +1,56 @@
+
+  NeutralAs of: September 19, 2020 9:22 PM Z
+SEIU, Local 5 v. Prof'l Janitorial Serv. of Houston, Inc.
+Supreme Court of Texas
+December 19, 2014, Order Pronounced
+13-0882
+
+Reporter
+481 S.W.3d 210 *; 2014 Tex. LEXIS 1234 **; 58 Tex. Sup. J. 175
+ SERVICE EMPLOYEES INTERNATIONAL UNION LOCAL 5, DAN SCHLADEMAN, AND SUSAN STRUBBE v. PROFESSIONAL JANITORIAL SERVICE OF HOUSTON, INC.  
+Notice: DECISION WITHOUT PUBLISHED OPINION
+  
+Subsequent History: Motion for rehearing on petition for review denied by SEIU Local 5 v. Prof'l Janitorial Serv. of Houston, 2015 Tex. LEXIS 364 (Tex., May 1, 2015)  
+Prior History: From Harris County; 1st Court of Appeals District (01-12-00660-CV, 415 S.W.3d 387 [**1] , 09-17-13).
+SEIU, Local 5 v. Prof'l Janitorial Serv. of Houston, 415 S.W.3d 387, 2013 Tex. App. LEXIS 11701 (Tex. App. Houston 1st Dist., Sept. 17, 2013)  
+Judges: Justice Willett dissents to the denial of the petition for review.  
+Opinion
+
+
+
+
+PETITION FOR REVIEW DENIED.
+Justice Willett dissents to the denial of the petition for review.
+Dissent by: Don R. Willett  
+Dissent
+
+
+
+
+ [*210]  Justice Willett, dissenting to the denial of the petition for review.
+Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.1 
+Of all the empowering, life-altering lessons Ferris Bueller taught us—for example, you can't erase telltale mileage off a 1961 Ferrari 250 GT California Spyder by jacking up the car and running it in reverse—his "life moves pretty fast" insight rings truest. It isn't tired reel-life wisdom but tried real-life wisdom, both for everyday Texans and for the courts that serve them. The modern Internet age moves far faster than the pre-digital grind from which Ferris Bueller played hooky almost thirty years ago. Life in 2014 moves blazingly fast, and nowhere faster than online, where an increasing number of Americans consume news and political information.
+* * *
+Who qualifies as a member of the "electronic media" under Texas law? [**2]  Given the proliferation of Web and other digital publishing, it's a vexing question. And a vital one, since members of the "electronic or print media" can immediately appeal orders that burden their free-speech or free-press rights.2 
+In this libel case about allegedly defamatory statements published on a website, the court of appeals applied a narrow, multi-factor test and held that because the website owner's "primary business" is not "reporting the news," it did not qualify as "electronic media" and couldn't bring a free-speech interlocutory appeal.3  Petitioners contend the statute aims to protect those "engaged in disseminating news to a mass audience via electronic means," and is not focused on whether that's their primary or profit-driven purpose: "it is the marketplace of ideas that is protected and not the marketplace [**3]  of commerce." Petitioners also say the "primary business" test arbitrarily favors those who report/inform  [*211]  the news while disfavoring those who generate/influence it, an artificial distinction Petitioners say is "like hinging vital Free Speech rights upon the determination of whether Miller Light primarily 'tastes great' or is 'less filling.'" Several amici curiae (various legal and political bloggers and websites)4  have also weighed in, echoing Petitioners' view that online publishers qualify as "electronic media," adding that the court of appeals' "primary business" test discriminates in favor of institutional corporate media enterprises.
+The Legislature did not define "media" in the interlocutory-appeal statute, but it did define "medium" in the related journalist-privilege statute. And it did so broadly, saying "news medium" includes, among other things, "a newspaper, magazine or periodical . . . that disseminates news or information [**4]  to the public by any means, including . . . electronic; and . . . other means, known or unknown, that are accessible to the public."5  Petitioners, while conceding that not "anyone with a computer, a website or a blog" should be afforded interlocutory protection, say the Legislature's expansive definition of "medium" in the journalist-privilege statute should control how Texas courts interpret "media" in the interlocutory-appeal statute. If so, then websites and other digital publications are likely included, regardless of whether the online publication was the "primary business" of the authors who contributed analysis and information.
+The American media landscape has shifted rapidly and radically in recent years. And many authors who write for the nation's most visited and prominent blogs and websites do so as a sideline. They publish, but their "primary business" is not publishing. The amici bloggers and writers, for example, distribute information and opinions, but their principal business is law practice, university teaching, or policy analysis, not "professional" journalism.6  Their online contributions are things they do on the side. The amici argue that [**5]  the court of appeals' definition "would exclude a broad range of publications, past and present, including advocacy-group and religious-group magazines." Indeed, as Judge-blogger Richard Posner notes, Internet-based publishers, including bloggers, who are not "commercially constrained" can pursue stories with more doggedness "than the conventional media dare to."7  The focus, amici argue, should be less on organizational format and more on individual function. That is, courts should look more to what journalists, "traditional" or not, actually do—provide news and analysis about vital issues—and look less to mainstream organizational structures and revenue models. The old-school news industry confronts urgent economic challenges (to put it mildly), spurring media outlets to innovate with alternative  [*212]  business models and creating space for professionals who, while not full-time "journalists," undoubtedly serve a journalistic function, and serve it well. One example: the emergence of specialized publications led by subject-matter experts who wear multiple hats.
+Texas appellate courts are split on how to interpret "electronic media." The court below adopted the "primary business" test, but an earlier court did not require that the Internet publication be its author's primary business. In that case, Kaufman v. Islamic Society of Arlington, the court listed six factors and held section 51.014(a)(6) applies:
+when [a] person's communication, under circumstances relating to [1] the character and text of the communication itself, [2] its editorial process, [3] its volume of dissemination, [4] the communicator's extrinsic notoriety unconnected to the communication, [5] the communicator's compensation for or professional relationship to making the communication, and [**7]  [6] other relevant circumstances as the facts may dictate, would otherwise qualify as a communication covered by that section through more traditional electronic or print media.8 
+This approach, while different from the "primary business" test, also features several extra-statutory factors arguably too vague to render clear, workable guidance. A more recent court of appeals went a different route altogether. In that case, Hotze v. Miller, the court did not elaborate a standard for "media defendant" but simply held that the defendant, a physician sued for radio statements and for editorials he published in traditional newspapers and on the Internet, was a media defendant who had an established presence online and was not merely a "self-promoting" physician.9 
+One might argue the three cases are not contradictory, but complementary, but as the court of appeals in this case noted, while it considered many of the same facts as the Kaufman court did, it did so "as dispositive of a single issue—the defendant's primary business."10  Divining the "primary business" was the bottom-line inquiry, the court underscored: "we do not treat them as 'factors' or balance them but, instead, consider them in [**8]  toto in determining the defendant's primary business."11  Texas courts have adopted varying approaches, and there's enough daylight between them that the State's highest court should articulate uniform criteria.
+Does denying prompt appellate resolution to those who publish as a sideline to their principal job, or as complementary to their chief ideological mission, withhold protection from those who most need it—speakers most likely to lack funds and libel insurance? Does that in turn chill speech, as speakers are less apt to publish unflattering-yet-important pieces that, while likely to be vindicated as non-defamatory down the road, invite expensive, time-consuming, soul-sapping litigation? Is the court of appeals' multi-factor "primary business" test too gauzy and unpredictable to be practically useful?12  Are the individual  [*213]  factors themselves unduly vague and substantively imprudent? Should courts focus on who does the publishing or on what and why and to whom it's published? More fundamentally, do "professional" journalists—and only professional journalists—have preferred status when it comes to informing the public? Do other engaged citizens—lawyers, professors, activists, etc.—have [**9]  no fruitful analysis, information, or commentary to add to the public debate, at least none worth protecting with up-front judicial attention to safeguard the free, unchilled exchange of ideas? These vital questions, and many others, deserve 21st-century attention.13 
+I doubt the Framers intended that First Amendment protections were meant solely for the institutional press and "professional" journalists. But that doesn't mean interlocutory appeals must belong to anyone with an Internet connection. Blogs and other digital news outlets—including those who don't publish for profit—are increasingly indispensable to how engaged citizens consume news and information. Given the warp-speed evolution of digital news-gathering and dissemination, we should insist on clear rules, clearly [**11]  defined and clearly applied. We should not countenance vague and varying approaches that invite inconsistency and thus unpredictability—not when free-speech and free-press rights are implicated.
+* * *
+Ferris Bueller is chock-full of practical life lessons, including this gem: "The question isn't what are we going to do. The question is what aren't we going to do."14  Today we aren't bringing clarity and uniformity to an important, fast-changing area of law—an area where (1) Texas courts apply different tests, and (2) as the U.S. Supreme Court recognizes, "the line between the media and others who wish to comment on political and social issues becomes far more blurred."15 
+ [*214]  This case merits Supreme Court attention.
+Justice Bueller . . . ?
+Justice Bueller . . . ?
+Justice [**12]  Bueller . . . ?
+Don R. Willett
+Justice
+OPINION DELIVERED: December 19, 2014
+
+ 
+
+End of Document

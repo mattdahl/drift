@@ -1,0 +1,53 @@
+
+  NeutralAs of: September 19, 2020 8:05 PM Z
+People v. Wolf
+Supreme Court of Colorado
+January 17, 2017, Decided
+Court of Appeals Case No. 13CA2110
+
+Reporter
+2017 CO 4 *; 387 P.3d 753 **; 2017 Colo. LEXIS 21 ***
+ Petitioner: The People of the State of Colorado, v. Respondent: Alexander L. Wolf.  
+Prior History:  [***1] Supreme Court Case No. 15SC742. Certiorari to the Colorado Court of Appeals.
+People v. Wolf, 2015 Colo. App. LEXIS 1158 (Colo. Ct. App., July 30, 2015)  
+Disposition: Judgment Affirmed.
+  
+Syllabus
+
+
+
+
+In this case, the supreme court considers whether Amendment 64 deprived the State of the power to continue to prosecute individuals for possession of less than one ounce of marijuana after Amendment 64 became effective. The supreme court concludes that under People v. Boyd, 2017 CO 2, 2 387 P.3d 755  , Amendment 64 nullified the State's authority to continue to prosecute the respondent at his jury trial because Amendment 64 superseded the underlying statutory authority for the prosecution. Accordingly, the supreme court affirms the judgment of the court of appeals which vacated the respondent's conviction and sentence.
+Counsel: Attorneys for Petitioner: Cynthia H. Coffman, Attorney General, Kevin E. McReynolds, Assistant Attorney General, Denver, Colorado. 
+No appearance by or on behalf of Alexander L. Wolf.  
+Judges: CHIEF JUSTICE RICE delivered the Opinion of the Court. JUSTICE EID dissents, and JUSTICE COATS and JUSTICE HOOD join in the dissent.  
+Opinion by: RICE  
+Opinion
+
+
+
+
+ [**754]  [*P1]   This case requires us to determine if Amendment 64 to the Colorado Constitution, which legalized possession of small amounts of marijuana, deprived the State of the  [**755]  power to continue to prosecute [***2]  individuals for possession of less than one ounce of marijuana after the Amendment became effective. In light of our holding today in People v. Boyd, 2017 CO 2, 2 387 P.3d 755  , we hold that it did.
+ I. Facts and Procedural History
+ [*P2]  In September 2012, the police arrested Respondent Alexander Wolf after a search of his car found various narcotics, including less than one ounce of marijuana. In October 2012, Wolf was charged with possession of less than two ounces of marijuana,1  possession of cocaine, possession of dihydrocodeinone, and possession of drug paraphernalia. On December 10, 2012, before Wolf's case was submitted to a jury, Amendment 64—a Colorado citizen initiative that legalized the possession of up to one ounce of marijuana for personal use—became effective. See Colo. Const. art. XVIII, § 16(3)(a). Subsequently, in July 2013, a jury found Wolf guilty of possessing cocaine, dihydrocodeinone, drug paraphernalia, and less than two ounces of marijuana.2  In October 2013, the trial court sentenced him to twenty-one days in jail and two years of probation. Wolf filed a timely notice of appeal. On appeal, Wolf argued that his conviction for possessing what ultimately was less than one ounce of marijuana should be vacated because Amendment 64 legalized possession [***3]  of less than one ounce of marijuana before he had been convicted. The court of appeals in a split decision agreed and vacated his marijuana possession conviction and sentence. People v. Wolf, No. 13CA2110, slip op. at 19 (Colo. App. July 30, 2015). Judge Dailey dissented in relevant part. Id. at 21. (Dailey, J. concurring in part, dissenting in part). We granted certiorari.3 
+ II. Standard of Review
+ [*P3]  The proper interpretation of a constitutional amendment is a question of law that we review de novo. Danielson v. Dennis, 139 P.3d 688, 691 (Colo. 2006).
+ III. Analysis
+ [*P4]  This case asks us to resolve whether Amendment 64 deprived the State of the power to continue to prosecute individuals for possession of less than one ounce of marijuana after the Amendment became effective. We addressed a nearly identical issue in People v. Boyd, also decided today. 2017 CO 2. In Boyd, the defendant, Pamela Boyd, had been convicted of possession of what ultimately was less than one ounce of marijuana. ¶ 2. The State originally derived its authority to prosecute her from section 18-18-406(1), C.R.S. (2011), which provided that possession of two or fewer ounces of marijuana was a class 2 petty offense. Boyd, ¶ 6. However, before Boyd's right to appeal had expired, Amendment [***4]  64 became effective and rendered inoperative the relevant language of this statute because it legalized what the statute had prohibited. Id. at ¶ 9.4  Therefore, we held in Boyd that Amendment 64 deprived the State of the power to continue to prosecute Boyd under the statute during her appeal. Id.
+ [*P5]  Similarly here, Wolf was charged under section 18-18-406(1), C.R.S. (2012).5  Again, Amendment 64 rendered this section inoperative insofar as this section criminalized possession of less than one ounce of marijuana. See Boyd, ¶ 9. Thus, once Amendment 64 became effective, the State no longer had authority to prosecute Wolf under this section at his jury trial. Cf. id.
+ IV. Conclusion
+ [*P6]  We conclude that Amendment 64 deprived the State of the power to continue to prosecute individuals for possession of less than one ounce of marijuana after the Amendment became effective. Accordingly, we affirm the judgment of the court of appeals.
+JUSTICE EID dissents, and JUSTICE COATS and JUSTICE HOOD join in the dissent.
+Dissent by: EID  
+Dissent
+
+
+
+
+JUSTICE EID, dissenting.
+ [*P7]  Because I disagree with the majority's holding that Amendment 64 is retroactive, I respectfully dissent from its opinion for the reasons set forth in my dissent in People v. Boyd, 2017 CO 2, 2 387 P.3d 755  .
+I am authorized to state that JUSTICE COATS [***5]  and JUSTICE HOOD join in this dissent.
+
+ 
+
+End of Document

@@ -1,0 +1,36 @@
+
+  NeutralAs of: September 19, 2020 8:23 PM Z
+People v. Parsley
+Supreme Court of Michigan
+July 24, 2017, Decided
+SC: 154734
+
+Reporter
+500 Mich. 1033 *; 897 N.W.2d 742 **; 2017 Mich. LEXIS 1391 ***; 2017 WL 3138288
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellant, v HOOPER JACKSON PARSLEY, Defendant-Appellee.  
+Prior History:  [***1] COA: 327924. Kent CC: 14-010337-FH.
+People v. Wheeler, 2016 Mich. App. LEXIS 1739, 2016 WL 5122023 (Mich. Ct. App., Sept. 20, 2016)  
+Judges: Stephen J. Markman, Chief Justice. Brian K. Zahra, Bridget M. McCormack, David F. Viviano, Richard H. Bernstein, Joan L. Larsen, Kurtis T. Wilder, Justices. LARSEN, J. (concurring). VIVIANO, J., joins the statement of LARSEN, J.  
+Opinion
+
+
+
+
+  [**742]   [*1033]  .Order
+On order of the Court, the application for leave to appeal the September 20, 2016 judgment of the Court of Appeals is considered. Pursuant to MCR 7.305(H)(1), in lieu of granting leave to appeal, we VACATE that part of the judgment of the Court of Appeals reversing, without a showing of prejudice, the defendant's convictions because the trial court erred by joining his case with Todd Allen Wheeler's case for trial. We REMAND this case to the Court of Appeals for consideration of whether the error in joining the defendant's and Wheeler's trials was harmless. See MCL 769.26. We note that by order dated July 24, 2017, we remanded People v Wheeler (Docket No. 154577), 2017 Mich. LEXIS 1390, 897 N.W.2d 742 to the  [**743]  Court of Appeals for consideration of Wheeler's joinder challenge.
+We do not retain jurisdiction.
+Concur by: LARSEN  
+Concur
+
+
+
+
+Larsen, J. (concurring).
+I concur fully in the Court's orders remanding this case and its companion, People v Wheeler, 500 Mich. 1032, 897 N.W.2d 742 (2017), to the Court of Appeals. I write separately to highlight the counterintuitive [***2]  result dictated by our law: because of our interpretation of MCL 769.26 in People v Lukity, 460 Mich 484; 596 N.W.2d 607 (1999), a defendant is better off on appeal for not having raised a claim in the lower courts than for having raised it.
+The defendant in this case raised his misjoinder claim in the trial court, in the Court of Appeals, and in our Court. To succeed under the applicable Lukity harmless-error standard, defendant will have the burden to show by a preponderance of the evidence that the error more likely than not affected the outcome of his trial. Id. at 495-496. His codefendant, on the other hand, did not object to the joinder in the trial court and did not raise the claim in the Court of Appeals. See Wheeler, 500 Mich at 1033. Now, for the first time in our Court, the codefendant raises the misjoinder claim, casting it as ineffective assistance of counsel. Yet the codefendant, who waited until this Court to raise the misjoinder claim, faces a lower prejudice burden than defendant, needing to show only a reasonable probability of a different outcome. See Strickland v Washington, 466 U.S. 668, 694; 104 S. Ct. 2052; 80 L. Ed. 2d 674 (1984).
+As these cases illustrate, a defendant is better off on appeal for not having preserved an error in the trial court than the defendant would be if he had preserved it all along. That seems precisely the opposite of [***3]  the  [*1034]  incentive scheme we would expect the law to create. Nonetheless, that is the result dictated by Lukity, which neither party has asked us to revisit. Accordingly, I concur fully in the Court's order remanding this case to the Court of Appeals to apply Lukity's harmless-error standard.
+Viviano, J., joins the statement of Larsen, J.
+
+ 
+
+End of Document

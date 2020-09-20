@@ -1,0 +1,48 @@
+
+  NeutralAs of: September 19, 2020 8:15 PM Z
+United States v. Taffaro
+United States Court of Appeals for the Fifth Circuit
+March 29, 2019, Filed
+No. 18-30498
+
+Reporter
+919 F.3d 947 *; 2019 U.S. App. LEXIS 9395 **; 2019 WL 1417202
+ UNITED STATES OF AMERICA, Plaintiff - Appellant v. CRAIG A. TAFFARO, Defendant - Appellee  
+Prior History:  [**1] Appeal from the United States District Court for the Eastern District of Louisiana.
+  
+Counsel: For UNITED STATES OF AMERICA, Plaintiff - Appellant: Jeffrey Ryan McLaren, Assistant U.S. Attorney, Kevin G. Boitmann, Assistant U.S. Attorney, Diane Hollenshead Copes, Esq., Assistant U.S. Attorney, Chandra Menon, Assistant U.S. Attorney, U.S. Attorney's Office, Eastern District of Louisiana, New Orleans, LA. 
+For CRAIG A TAFFARO, Defendant - Appellee: Michael W. Magner, John R. Guenard, Jones Walker, L.L.P., New Orleans, LA.  
+Judges: Before CLEMENT, OWEN, and HO, Circuit Judges. JAMES C. HO, Circuit Judge, concurring in the judgment.  
+Opinion by: EDITH BROWN CLEMENT  
+Opinion
+
+
+
+
+ [*948]  EDITH BROWN CLEMENT, Circuit Judge:
+Craig Taffaro was convicted by a jury of several counts of tax evasion and filing false income tax returns. Based on his total offense level, the Presentence Report ("PSR") calculated a guidelines imprisonment range of 27 to 33 months. The district court varied downward from the guidelines and sentenced Taffaro to 60 months' probation and assessed a fine. The government appealed the sentence as substantively unreasonable. Finding its arguments unpersuasive, we affirm.
+"The standard of review on a challenge to the substantive reasonableness [**2]  of a sentence is abuse of discretion." United States v. Broussard, 882 F.3d 104, 112 (5th Cir. 2018). "Appellate review is highly deferential as the sentencing judge is in a superior position to find facts and judge their import . . . with respect to a particular defendant. An appeals court may not require 'extraordinary circumstances'  [*949]  to justify a sentence outside the guidelines range." United States v. Campos-Maldonado, 531 F.3d 337, 339 (5th Cir. 2008) (internal citation omitted). "The fact that the appellate court might reasonably have concluded that a different sentence was appropriate is insufficient to justify reversal of the district court." Gall v. United States, 552 U.S. 38, 51, 128 S. Ct. 586, 169 L. Ed. 2d 445 (2007).
+This court recently had occasion to explore the outer bounds of district court discretion in departing downward to award probation to white-collar criminals for whom the guidelines recommend incarceration. United States v. Hoffman, 901 F.3d 523 (5th Cir. 2018). Over a strenuous dissent, this court concluded that a district court abused its discretion in sentencing a man to 60 months' probation when the guidelines recommended a range of 168 to 210 months of incarceration. See id. Besides the "colossal" gap "between the . . . recommended . . . range . . . and the [sentence] . . . received," this court focused on the fact that the perpetrator of the crime was "the leader of a sophisticated, multimillion dollar fraud scheme" [**3]  with a prior "criminal history." Id. at 555-58. In that same case, this court affirmed a 36-month probationary sentence for a different defendant for whom the guidelines "recommended a prison term of 46 to 57 months." Id. at 559-60.
+The guidelines recommended a custodial term of 27 to 33 months for Taffaro—making the district court's departure significantly smaller than the departure that was actually upheld in Hoffman. See id. Taffaro also has no prior criminal history and acted alone—on a significantly smaller scale than the defendant whose probationary sentence was overturned. Further, the district court decided that, even considering the public interest in deterrence, Taffaro's age, physical condition, family responsibilities, charitable activity, work as a law enforcement officer, and voluntary service in the military during the Vietnam era deserved weight. Given these considered factors and our recent caselaw, nothing that the government has presented convinces us that the district court abused its discretion.1  AFFIRMED.
+Concur by: JAMES C. HO  
+Concur
+
+
+
+
+JAMES C. HO, Circuit Judge, concurring in the judgment:
+Nothing is more corrosive to public confidence in our criminal justice system than the perception [**4]  that there are two different legal standards—one for the powerful, the popular, and the well-connected, and another for everyone else. I fear that the sentence awarded in this case—probation only, no prison time, despite multiple acts of tax evasion and false tax returns across a twelve-year period—will only further fuel public cynicism and distrust of our institutions of government.
+Under the federal Sentencing Guidelines, the defendant here was subject to a guidelines imprisonment range of 27 to 33 months. To gain leniency, he boasted that, as the longtime Chief Deputy of the Jefferson Parish Sheriff's Office—the primary law enforcement and tax collecting agency in Jefferson Parish and the largest sheriff's office in Louisiana—he has enjoyed an otherwise "unblemished" record of public service (that is, other than his twelve years  [*950]  of unabashed pillaging of the public treasury). He also secured letters of support from prominent state and local officials and other members of the community. The district court granted the request for leniency and reduced his sentence to five years of probation and a fine. The government, understandably, appealed.
+As our panel observes today, established [**5]  precedents require us to apply a strong measure of deference to district courts when it comes to appellate review of criminal sentencing decisions. See, e.g., United States v. Hoffman, 901 F.3d 523, 560 (5th Cir. 2018) ("We defer to both upward and downward variances so long as the district court provides an explanation tailored to the statutory sentencing factors that is not outside the bounds of reasonableness.").
+So I have no quarrel with my distinguished colleagues, who are only dutifully following the legal precedents that all court of appeals judges must obey. Likewise, the district judge who issued this sentence, and to whom we owe significant deference under established precedents, is among the most experienced and respected in our circuit.
+But deference need not mask disagreement. The defendant was convicted on six counts of tax evasion, five counts of filing a false tax return, and one count of failing to file a tax return. Yet he will serve no prison time. This despite the fact that he filed false tax returns, not once, but every year for twelve years. Among other things, he claimed a series of brazenly false business expense deductions—ignoring repeated warnings from his accountant—including:
+• an Alaskan cruise with his wife and [**6]  friends;
+• his uniform, firearms, training, and first responder equipment—even though they were all provided to him, free of charge, by the Jefferson Parish Sheriff's Office;
+• expenses associated with driving approximately 80,000 miles, allegedly for business purposes, on his two co-owned cars—even though the odometers on his two cars reflected a combined total mileage of less than 40,000 miles.
+As a result, he deprived the public treasury of nearly a quarter million dollars (perhaps he would have taken even more, but he was limited by the amount of his actual tax liability).
+These are not the acts of a faithful public servant. What's more, imagine an ordinary citizen of Louisiana—one without the power and connections that come with holding powerful office—had defrauded the United States of nearly a quarter million dollars. Would that person have received zero prison time as well?1 
+During the defendant's sentencing hearing, the district judge observed that "the public is fed up with politicians and people  [*951]  in public life who cut corners at the expense of the public." I concur.
+
+ 
+
+End of Document

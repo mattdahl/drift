@@ -1,0 +1,40 @@
+
+  NeutralAs of: September 19, 2020 9:19 PM Z
+People v. Howard
+Supreme Court of Michigan
+December 21, 1999, Decided 
+SC: 113706 
+
+Reporter
+461 Mich. 934 *; 603 N.W.2d 247 **; 1999 Mich. LEXIS 2851 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellee, v TROY HOWARD, Defendant-Appellant.  
+Prior History:  [***1]  Recorder's Ct: 96-004965. COA: 201907.  
+  
+Judges: Young, J., Concurring in part and dissenting in part. Kelly, J., dissents. Cavanagh, J., concurs in the statement of Kelly, J   
+Opinion
+
+
+
+
+ [**247]   [*934]  By order of February 25, 1999, the application for leave to appeal was held in abeyance pending the decision in People v Stevens (Docket No. 110866). On order of the Court, the decision having been issued on July 20, 1999, 460 Mich. 626, 597 N.W.2d 53 (1999), the application is again considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court. See People v Vasquez (After Remand), 461 Mich. 235, 602 N.W.2d 376 (1999). 
+Concur by: Young (In Part)   
+Dissent by: Young (In Part); Kelly  
+Dissent
+
+
+
+
+Young, J. I agree with Justice Kelly that the Court of Appeals erred in failing to follow Wilson v Arkansas, 514 U.S. 927, 131 L. Ed. 2d 976, 115 S. Ct. 1914 (1995), and Richards v Wisconsin, 520 U.S. 385, 137 L. Ed. 2d 615, 117 S. Ct. 1416 (1997). However, I concur in the order denying leave to appeal because [***2]  the decision to allow the evidence was the right result in light of our decisions in People v Stevens, 460 Mich. 626, 597 N.W.2d 53 (1999), and People v Vasquez (After Remand), 461 Mich. 235, 602 N.W.2d 376 (1999), decisions with which I continue to agree, but Justice Kelly apparently does not.
+Kelly, J. I would grant leave to appeal in this case. The Court of Appeals published opinion states that a knock-and-announce "timing error" does not rise "to the level of unreasonable police conduct for purposes of a Fourth Amendment violation." 233 Mich. App. 52, 61, 595 N.W.2d 497 (1998). It appears that the appeals court committed a grave error by failing to follow binding precedent established by the United States Supreme Court. See Wilson v Arkansas, 514 U.S. 927, 131 L. Ed. 2d 976, 115 S. Ct. 1914 (1995), and Richards v Wisconsin, 520 U.S. 385, 137 L. Ed. 2d 615, 117 S. Ct. 1416 (1997). This Court should not deny leave to appeal in reliance on its holding in People v Vasquez (After Remand), 1  [***3]  which, unfortunately, relied on the erroneous majority decision in People v Stevens. 2 
+In this case we are faced yet again with a violation of the knock-and-announce statute. 3  Similar to the facts in Stevens, the police executed a search warrant at the defendant's residence. Upon arrival, they announced their presence, but did not give those inside a sufficient chance to respond before forcing their way inside.
+The trial court suppressed the evidence seized in [***4]  the raid, ruling that the manner in which the police executed the search was unreasonable under the Fourth Amendment. The Court of Appeals reversed, essentially holding that the knock-and-announce violation did not rise to the level of "unreasonable police conduct." 233 Mich. App. at 61. [**248]  
+Only four years ago, the United States Supreme Court announced that the knock-and-announce principle is "'embedded in Anglo-American Law.'" Wilson v Arkansas, 514 U.S. 927 at 934, 131 L. Ed. 2d 976, 115 S. Ct. 1914, quoting Miller v United States, 357 U.S. 301, 313, 2 L. Ed. 2d 1332, 78 S. Ct. 1190 (1958). As such, this principle is an element of the reasonableness inquiry under the Fourth Amendment. See id. 
+Clearly, situations present themselves when the law permits police officers to make a "no knock entry": 
+In order to justify a "no-knock" entry, the police must have a reasonable suspicion that knocking and announcing their presence, under the particular circumstances, would be dangerous or futile, or that it would inhibit the effective investigation of the crime by [*935]  . . . allowing the destruction of evidence. This standard . . . strikes [***5]  the appropriate balance between the legitimate law enforcement concerns at issue in the execution of search warrants and the individual privacy interests affected by no-knock entries. . . . This showing is not high, but the police should be required to make it whenever the reasonableness of a no-knock entry is challenged. [Richards v Wisconsin, 520 U.S. 385 at 394- 395, 137 L. Ed. 2d 615, 117 S. Ct. 1416.] 
+In the case at bar, the Court of Appeals failed to follow the United States Supreme Court's reasonableness inquiry. Moreover, the majority's denial of leave in reliance on its decision in Vasquez, which relied on Stevens, will permit further violations of the knock-and-announce statute to go unnoticed.
+I would grant leave to appeal to remedy the damage that threatens our Fourth Amendment rights. 
+Cavanagh, J., concurs in the statement of Kelly, J.  
+
+ 
+
+End of Document

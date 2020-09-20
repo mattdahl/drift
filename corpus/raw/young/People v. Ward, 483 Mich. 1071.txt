@@ -1,0 +1,53 @@
+
+  PositiveAs of: September 19, 2020 9:20 PM Z
+People v. Ward
+Supreme Court of Michigan
+June 12, 2009, Decided
+SC: 137979
+
+Reporter
+483 Mich. 1071 *; 765 N.W.2d 881 **; 2009 Mich. LEXIS 1362 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plain tiff-Appellee, v NATHANIEL WARD, Defendant-Appellant.  
+Prior History:  [***1] COA: 288318. Grand Traverse CC: 07-010368-FH.
+  
+Judges: Marilyn Kelly, Chief Justice. Michael F. Cavanagh, Elizabeth A. Weaver, Maura D. Corrigan, Robert P. Young, Jr., Stephen J. Markman, Diane M. Hathaway, Justices. YOUNG, J. (concurring). CORRIGAN, J., joins the statement of YOUNG, J. KELLY, C.J. (dissenting).  
+Opinion
+
+
+
+
+  [**881]   [*1071]  Order
+On order of the Court, the application for leave to appeal the November 12, 2008 order of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.
+Concur by: Robert P. Young, Jr.  
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+I concur in this Court's order denying defendant's application for leave to appeal and write separately to respond to Chief Justice Kelly's dissent. Chief Justice Kelly's dissent reveals an unusual perspective of criminal law and criminality in general. What Chief Justice Kelly vilifies as a "ruse" and "subterfuge" is a legitimate law enforcement tactic to safely apprehend a known drug dealer. Further, [*1072]  because offense variable (OV) 19, MCL 777.49, plainly does not include an intent element, the caselaw from other states that Chief Justice Kelly cites is irrelevant. Accordingly, there is no basis in the law  [***2] for rescoring OV 19, as Chief Justice Kelly urges.
+Defendant is a career drug dealer who sold heroin, powder cocaine, and crack cocaine to a confidential informant and an undercover officer on three separate occasions between April 24, 2007, and April 30, 2007. Because the police officers possessed cash seized from defendant during a traffic stop on April 16, 2007, 1  they asked defendant to meet at a Michigan State Police post for return of the money seized. Defendant agreed and they were able to arrest him for the three prior drug sales in the safety of a controlled environment. I agree that this was a "ruse," but it offends no principle of law to use a criminal's stupidity against him.
+Chief Justice Kelly chooses to chastise the police officers for their "subterfuge" rather than the defendant, who knowingly carried 47 grams of crack cocaine and 20 packets of heroin into a police station and then attempted to smuggle the same 47 grams of crack cocaine and packets of heroin into the Grand Traverse County Jail. Chief Justice Kelly asserts that defendant "could hardly  [***3] be said to have intended to engage in conduct that 'threatened the security of a penal institution.'" 2  It is hard to believe that anyone could sincerely dispute that the presence of illicit drugs "threaten[s] the security of a penal institution." Moreover, it was not "only because of a police subterfuge" 3  that defendant's behavior was a threat to the security of a penal institution. Defendant could have  [**882]  told the officers that he had the 47 grams of crack cocaine and packets of heroin in his underwear when he was arrested at the station. Instead, he chose to attempt to smuggle this considerable amount of drugs into the county jail. Chief Justice Kelly suggests that defendant may be excused from the consequences of that choice "because he wished not to be charged for possession with intent to deliver prohibited substances in addition to his other crimes." 4  A criminal's interest in avoiding punishment for his crimes does not, has never, and, hopefully, will never excuse criminal behavior. The law does not require courts to ignore criminal behavior; rather, it assigns consequences. "[T]rying to avoid having drugs . . . detected during booking" 5  is deviant behavior for which the law  [***4] assigned a consequence--25 points for OV 19. That we may be able to theorize a defendant's motive to conceal his crime does not decriminalize the act.
+OV 19 does not contain a "ruse" exception to its provisions. And, contrary to Chief Justice Kelly's argument, OV 19 does not contain an intent element. Whether defendant "intended to 'threaten the security [*1073]  of a penal institution'" is irrelevant. 6  Twenty-five points are assigned when "the offender by his or her conduct threatened the security of a penal institution." MCL 777.49(a) (emphasis added). Defendant's conduct--attempting to smuggle 47 grams of crack cocaine and packets of heroin into the jail--"threatened the security of a penal institution"; thus, OV 19 was properly scored.
+Because I do not share Chief Justice Kelly's vision of criminal jurisprudence, I concur in this Court's order denying leave to appeal.
+CORRIGAN, J., joins the statement of YOUNG, J.
+Dissent by: Marilyn Kelly  
+Dissent
+
+
+
+
+KELLY, C.J. (dissenting).
+I would grant leave to appeal to consider the scoring of offense variable (OV) 19. Defendant was brought to the police station as part of a police  [***5] ruse. The officers told defendant that he could recover some money that had been seized during a traffic stop if he came to the station. When he arrived, he was arrested and sent to the jail for booking. During a strip search at the jail, officers found 47 grams of crack cocaine and numerous packets of heroin in his underwear.
+Clearly, defendant should not have been in possession of illegal drugs and should not have taken them to the police station. But his purpose in going there was not to deal drugs. He could hardly be said to have intended to engage in conduct that "threatened the security of a penal institution." 7  If his behavior can be said to have been a threat, regardless of defendant's intent, it must be conceded that the threat existed only because of a police subterfuge. 8  I believe this crucial fact could make defendant's conduct an insufficient basis for the scoring of OV 19 here.
+Justice Young observes that defendant could have avoided having his sentence increased by telling the officers that he carried prohibited substances  [***6] on his person when he was arrested at the station. He points out that it was defendant's  [**883]  choice to bring the drugs into the county jail. However, defendant chose not to reveal the drugs, presumably because he wished not to be charged for possession with intent to deliver prohibited substances in addition to his other crimes. It seems unlikely that he chose to conceal the drugs because he intended to "threaten the security of a penal institution."
+I believe that scoring points for OV 19 may require that a defendant intend to threaten the security of a penal institution. Caselaw from our sister states supports the conclusion that intent is necessary for a defendant to be liable for conduct of this sort. 9  Courts in some other jurisdictions have come to contrary conclusions. 10  Moreover, this issue is [*1074]  currently before the supreme courts of Washington and California. 11  Clearly, the issue is of jurisprudential significance and this Court should not summarily dismiss it.
+Courts in other jurisdictions have disagreed over whether a defendant's culpability is affected by the defendant's failure to reveal the existence of contraband on his or her person before booking. 12  This was the basis for the trial court's scoring of OV 19 and is the key argument advanced by Justice Young's concurrence. My conclusion that further review of this issue is warranted is supported by these varying outcomes under similar circumstances.
+The Washington Court of Appeals recently addressed this issue in the same sentencing enhancement context at issue in this case. In State v Eaton, 13  the defendant was arrested for driving while under the influence (DUI) and transported to the county jail. During a search of his person, an officer discovered methamphetamine. Defendant was charged with one count of DUI and one count of possession of a controlled substance. The state sought a sentencing enhancement under RCW 9.94A.533(5)(c), which allows a court to add 12 months to a defendant's sentence if the offense was committed "while in a county jail or state correctional facility." Although defendant objected to the sentencing enhancement, the trial court increased defendant's sentence from 0 to 6 months to 12 to 18 months.
+The Washington Court of Appeals reversed. The Court first noted that "this sentence enhancement is not a separate  [***9] sentence or a separate substantive  [**884]  crime. . . . Rather, it presupposes that the defendant's behavior already constitutes a crime, such as possession of a controlled substance." 14  Nevertheless, the court ultimately determined that the [*1075]  legislature "did not intend the unlikely, absurd, or strained consequence of punishing a defendant for his involuntary act." 15  
+The argument accepted by the court in Eaton is even more persuasive in the context of OV 19. Many of the statutes in Eaton and the other cited cases explicitly did not contain an intent requirement. The courts reversed the convictions because they considered the requirement that conduct be volitional as part of the actus reus of the crime. Even  [***10] if one rejects that argument, here OV 19 arguably does include an intent requirement because of the Legislature's use of the word "threatened." Black's Law Dictionary's definition of "threat" includes the element of the intention to cause loss or harm to something. 16  In my mind, the use of this language makes defendant's argument more persuasive and worthy of further review. I would have no difficulty with the scoring of OV 19 in this case if the OV provided extra points for trying to avoid having drugs being detected during a booking, or, as Justice Young suggests, simply for "stupidity." But it does neither. I think the assessment of 25 points here may have lengthened defendant's sentence for conduct not covered by OV 19. 17  
+Hence, I would grant leave to appeal to consider the scoring of OV 19.
+
+ 
+
+End of Document

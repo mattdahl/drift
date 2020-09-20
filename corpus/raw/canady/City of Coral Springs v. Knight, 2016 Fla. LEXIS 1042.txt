@@ -1,0 +1,45 @@
+
+  NeutralAs of: September 19, 2020 7:26 PM Z
+City of Coral Springs v. Knight
+Supreme Court of Florida
+May 18, 2016, Decided
+CASE NO.: SC14-222
+
+Reporter
+2016 Fla. LEXIS 1042 *; 2016 WL 2931093
+ CITY OF CORAL SPRINGS vs. RICHARD KNIGHT, ET AL. Petitioner(s) Respondent(s)  
+Notice: NOT FINAL UNTIL TIME EXPIRES TO FILE REHEARING MOTION AND, IF FILED, DETERMINED.
+ DECISION WITHOUT PUBLISHED OPINION
+  
+Subsequent History: Rehearing denied by City of Coral Springs v. Knight, 2016 Fla. LEXIS 1844 (Fla., Aug. 22, 2016)  
+Prior History:  [*1] Lower Tribunal No(s).: 01-014055CF10A; 4D13-4070.
+Knight v. State, 76 So. 3d 879, 2011 Fla. LEXIS 2288 (Fla., Sept. 28, 2011)  
+Judges: LABARGA, C.J., and PARIENTE, QUINCE, POLSTON, and PERRY, JJ., concur. LEWIS, J., dissents. CANADY, J., concurs in part and dissents in part with an opinion.  
+Opinion
+
+
+
+
+Richard Knight is a prisoner under sentence of death. Knight v. State, 76 So. 3d 879 (Fla. 2011). The City of Coral Springs is a nonparty to the underlying cause of action. On January 9, 2013, Knight filed a public records request directed to the City of Coral Springs, which asked for police officer personnel records, internal affairs files, and training records. On June 7, 2013, the circuit court issued an order directing the City to comply with the request. The City filed a motion for extension of time, which was granted. Thereafter, Knight asserted that the City, not he, was required to pay the costs of production.
+On August 20, 2013, the City filed a Motion for Costs of Duplication and Production of Additional Public Records or to Limit the Scope of the Request. The circuit court held a hearing on that motion on September 27, 2013, and subsequently denied the motion. The City seeks relief from that Order.
+The City filed this petition pursuant to Florida Rule Appellate Procedure 9.142(c), as a nonparty subject to a nonfinal order in a death penalty postconviction [*2]  proceeding. "As a general principle, the right to appeal is limited to those who were parties to the proceeding in the lower tribunal." Smith v. Chepolis, 896 So. 2d 934, 935 (Fla. 2005). This rule however should not be applied in a purely mechanical way to deny the right to appeal in all circumstances. Id. In some situations, the right to appeal extends to a nonparty who is adversely affected by an order. Id. Rule 9.142(c) appeals were designed to be limited to the State, a defendant, or a prisoner of the trial court's mental retardation determination, In re Amendments to Florida Rules of Criminal Procedure and Florida Rules of Appellate Procedure, 875 So. 2d 563, 565 (Fla. 2004). Despite this limitation, the City is aggrieved by the order of the lower court because it directly adjudicates the City's rights by imposing liability against it in the form of compulsory production and compulsory payment of costs of production of records, and therefore entitles the City to review by this Court. Smith, 896 So. 2d at 935.
+Requests for the public records of law enforcement officers by a postconviction defendant in a death penalty case are limited to the records of those officers who played substantive roles in, or who were relevant to, the defendant's case. Dennis v. State, 109 So. 3d 680 (Fla. 2012) (holding that a request for the personnel records of all fourteen [*3]  officers of a police department who had no substantive role at the crime scene was nothing more than a fishing expedition, and therefore a request is limited to only those officers who played a substantive role at the crime scene); Parker v. State, 904 So. 2d 370 (Fla. 2005) (holding that a "blanket request" for the personnel and internal affairs records of forty-five police officers was limited to only those officers specifically named in the request who were relevant to the case). To the extent that Knight's demand for records requests records of officers who had no substantive role in his case it is beyond the scope of rule 3.852(g) and is nothing more than a "fishing expedition" for records. Id.
+ Conclusion
+We conclude that the trial court's order departs from the essential requirements of law because it fails to apply the correct standards in Parker and Dennis. Further, the order has caused a material injury to the City, to the extent that the order imposes an undue burden or expense in producing excessive records. We therefore quash the circuit court's order to the extent that it required the City to produce records beyond those officers who played a substantive role in, or were relevant to, Knight's case, and required the City to pay [*4]  costs associated with such records and reject the City's argument to the extent that the City argues that it has no obligation for the costs of producing those records of law enforcement officers who were substantively involved in Knight's case. We remand for further proceedings in accordance with this order.
+It is so ordered.
+LABARGA, C.J., and PARIENTE, QUINCE, POLSTON, and PERRY, JJ., concur.
+LEWIS, J., dissents.
+CANADY, J., concurs in part and dissents in part with an opinion.
+Concur by: CANADY (In Part)  
+Dissent by: CANADY (In Part)  
+Dissent
+
+
+
+
+CANADY, J., concurring in part and dissenting in part.
+I agree that the City is entitled to review of the trial court's order, which is a final order. See State v. Fourth Dist. Ct. App. 697 So. 2d 70, 71 (Fla. 1997) (holding "that in addition to our appellate jurisdiction over sentences of death, we have exclusive jurisdiction to review all types of collateral proceedings in death penalty cases"). I also agree with the majority that the trial court erred, but I do not agree with the majority regarding the scope of that error. I would conclude that under section 27.7081, Florida Statutes (2013), the City was required—as specified in subsection (6)(d)—to pay the cost associated with only those "public records that were produced in the investigation or prosecution of the case"—that is, the [*5]  underlying case against Mr. Knight. I therefore would quash the trial court's order to the extent that it required the City to pay costs beyond those specified in section 27.7081(6)(d).
+
+ 
+
+End of Document

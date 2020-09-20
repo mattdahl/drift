@@ -1,0 +1,85 @@
+
+  PositiveAs of: September 19, 2020 8:05 PM Z
+Judd v. Cedar St. Venture (In Re: District Court, City and County of Denver)
+Supreme Court of Colorado
+June 27, 2011, Decided
+Case No. 10SA374
+
+Reporter
+256 P.3d 687 *; 2011 Colo. LEXIS 552 **
+ In Re: District Court, City and County of Denver, 09CV7235, Plaintiffs: Cedar Street Venture, LLC a Colorado limited liability company and Montage Project Joint Venture, v. Defendants: Richard D. Judd and Robinson Waters & O'Dorisio, P.C., and District Court, City and County of Denver, 09CV11018, Plaintiffs: Moreland/Manoogian, LLC and Tamsen Investments, LLC, v. Defendants: Richard D. Judd, Stephen L. Waters, and Robinson Waters & O'Dorisio, P.C.  
+Prior History:  [**1] Original Proceeding Pursuant to C.A.R. 21 District Court, City and County of Denver. Case Nos. 09CV7235 and 09CV11018. Honorable Herbert L. Stern, III, Judge.
+  
+Disposition: RULE MADE ABSOLUTE.
+  
+Syllabus
+
+
+
+
+The supreme court discusses the framework that trial courts should employ when deciding discovery requests implicating the right to privacy. The party requesting the information must always first prove that the information requested is relevant to the subject of the action. Next, the party opposing the discovery request must show that it has a legitimate expectation that the requested materials or information is confidential and will not be disclosed. If the trial court determines that there is a legitimate expectation of privacy in the materials or information, the requesting party must prove either that disclosure is required to serve a compelling state interest or that there is a compelling need for the information. If the requesting party is successful in proving one of these two elements, it must then also show that the information is not available from other sources. Lastly, if the information is available from other sources, the requesting party must prove that it is using the least intrusive means to  [**2] obtain the information.
+The supreme court holds that the documents requested in this case fall under the umbrella of the right to privacy and thus remands to the trial court for analysis under this framework.
+Counsel: The Law Offices of Peter R. Bornstein, Peter R. Bornstein, Denver, Colorado, Attorneys for Plaintiffs Cedar Street Venture, LLC and Montage Project Joint Venture. 
+Featherstone Petrie DeSisto LLP, Andrew J. Petrie, Lisa A. Lee, Sarah Block Wallace, Denver, Colorado, Attorneys for Plaintiffs Moreland/Manoogian, LLC and Tamsen Investments, LLC. 
+Gordon & Rees LLP, John M. Palmeri, Heather K. Kelly, Denver, Colorado, Attorneys for Defendants.  
+Judges: JUSTICE RICE delivered the Opinion of the Court. JUSTICE EID concurs in the judgment.  
+Opinion by: RICE  
+Opinion
+
+
+
+
+  [*689]  EN BANC
+In this original proceeding, we determine whether a litigant may compel discovery of financial documents which identify an opposing litigant's compensation and how that compensation is determined. We hold that a litigant has a personal right to privacy in these types of financial records and that disclosure is only required if the requesting party proves that: (1) the documents are relevant to the subject matter of the case; (2) disclosure is required to  [**3] serve a compelling state interest or there is a compelling need for the documents; (3) the requested information is not available from other sources; and, if it is, (4) that the requesting party is using the least intrusive means to obtain the information. We make this rule absolute and remand to the trial court with instructions to apply this test.
+ I. Facts and Proceedings Below
+This discovery dispute arises out of claims for legal malpractice and breach of fiduciary duty brought by Moreland/Manoogian, LLC and Tamsen Investments, LLC (collectively "M/M") against Richard D. Judd, Stephen L. Waters, and Robinson Waters & O'Dorisio, P.C. (collectively "RWO") and claims for breach of fiduciary duty brought by Cedar Street Venture, LLC and Montage Project Joint Venture (collectively "Cedar Street") against RWO.1 
+Cedar Street and M/M entered into a real estate purchase and development deal. RWO represented M/M in the transaction. During the course of the transaction, Cedar Street's attorney withdrew. RWO continued to represent M/M in the transaction but, at times, also advised and acted on behalf of Cedar Street. Because of these  [**4] actions, Cedar Street viewed RWO as its attorney. The relationship between M/M and Cedar Street eventually soured, resulting in arbitration proceedings.
+Ancillary to the conflict between M/M and Cedar Street, in November 2009, M/M filed a complaint against RWO alleging professional negligence and breach of fiduciary duties. Likewise, Cedar Street filed a complaint against RWO alleging breach of fiduciary duties and intentional interference with a contractual relationship. The trial court consolidated these two cases. M/M and Cedar Street allege, among other things, that RWO's pursuit of fees and pecuniary gain from the continued representation of M/M formed part of the basis for their claims.
+ [*690]  During discovery, M/M sought financial records regarding Judd's compensation from Judd and RWO. Among other things, M/M requested:
+(1) Each and every DOCUMENT that identifies Judd's compensation from RWO for the years 2004, 2005, 2006, and 2007; and
+(2) Each and every DOCUMENT that describes the methodology by which RWO determined the amount of compensation it paid to JUDD for the years 2004, 2005, 2006 and 2007.
+(emphasis in original).
+After RWO refused to produce these documents, M/M made a motion  [**5] to compel their disclosure.2  With minimal explanation, the trial court found that these documents were directly relevant to the case and that RWO failed to show good cause for protecting the information from discovery and thus granted the motion to compel. The trial court also awarded attorney fees and costs associated with the discovery dispute to M/M.
+RWO petitioned this Court for review under C.A.R. 21 and we issued a rule to show cause as to whether Judd and RWO must disclose the financial records.
+ II. Analysis  
+A. Standard of Review
+When deciding issues relating to discovery disputes, we construe the Colorado Rules of Civil Procedure liberally in order to effectuate  [**6] the full extent of their truth-seeking purpose. Corbetta v. Albertson's, Inc., 975 P.2d 718, 720 (Colo. 1999). Motions to compel discovery are committed to the discretion of the trial court. Id. Thus, we review a trial court's ruling in this context for an abuse of discretion. Id.
+ B. Discovery of the Requested Financial Information
+The Colorado Rules of Civil Procedure provide that "parties may obtain discovery regarding any matter, not privileged, that is relevant to the claim or defense of any party . . . . Relevant information need not be admissible at the trial if the discovery appears reasonably calculated to lead to the discovery of admissible evidence." C.R.C.P. 26(b)(1). Although the Colorado Rules of Civil Procedure allow for a broad scope of discovery, they do not allow for unlimited discovery of all available information. Stone v. State Farm Mut. Auto. Ins. Co., 185 P.3d 150, 155 (Colo. 2008). There are certain situations where both the General Assembly and this Court have recognized the need to limit discovery. Alcon v. Spicer, 113 P.3d 735, 738 (Colo. 2005).
+ 1. Right to Privacy
+One circumstance that warrants additional inquiry outside of the general requirement of relevancy  [**7] is when a party opposes discovery on the grounds that it would violate his right to privacy. Corbetta, 975 P.2d at 720. This right to privacy, also commonly referred to as the right to confidentiality, "protects "the individual interest in avoiding disclosure or personal matters.'" Martinelli v. Dist. Court, 199 Colo. 163, 173, 612 P.2d 1083, 1091 (1980) (quoting Whalen v. Roe, 429 U.S. 589, 599, 97 S. Ct. 869, 51 L. Ed. 2d 64 (1977)). This right "includes "the power to control what we shall reveal about our intimate selves, to whom, and for what purpose.'" Stone, 185 P.3d at 155 (quoting Martinelli, 199 Colo. at 173-74, 612 P.2d at 1091).
+When the right to privacy is at issue, the trial court must give the discovery request special consideration and balance an individual's right to keep personal information private with the general policy in favor  [*691]  of broad disclosure. Cantrell v. Cameron, 195 P.3d 659, 660 (Colo. 2008). We have recognized numerous types of information that require special analysis based on the right to privacy. Specifically, we have given extra consideration to personnel files in Corbetta, 975 P.2d at 720-21, and Martinelli, 199 Colo. at 173-75, 612 P.2d at 1091-92, to computers in Cantrell, 195 P.3d at 661,  [**8] to sexual history in Williams v. District Court, 866 P.2d 908, 912 (Colo. 1993), and to tax returns in Stone, 185 P.3d at 155, and Alcon, 113 P.3d at 743.
+ 2. The Martinelli and Stone Tests
+We have articulated two different tests to apply when such information is at issue. In Martinelli, a case involving a request for personnel files maintained by the Denver Police Department, we laid out a three-part balancing test. 199 Colo. at 174, 612 P.2d at 1091. That test asks:
+(1) [D]oes the party seeking to come within the protection of right to confidentiality have a legitimate expectation that the materials or information will not be disclosed?
+(2) [I]s disclosure nonetheless required to serve a compelling state interest?
+(3) [I]f so, will the necessary disclosure occur in that manner which is least intrusive with respect to the right to confidentiality?
+Id. We have employed the Martinelli test in cases involving personnel files, Corbetta, 975 P.2d at 720-21; Martinelli, 199 Colo. at 174, 612 P.2d at 1091, computers, Cantrell, 195 P.3d at 661, and sexual history, Williams, 866 P.2d at 912.
+We have used a separate test, however, in cases involving requests for tax returns. Stone, 185 P.3d at 159;  [**9] Alcon, 113 P.3d at 743. When a party seeks disclosure of tax returns, we require that it show that: (1) the information is relevant to the subject of the action; and (2) there is a compelling need for the information in the returns because the information sought is not otherwise readily obtainable. Stone, 185 P.3d at 159. Although we have only applied the Stone test to cases involving tax returns, federal courts have applied the test in other contexts as well. Spacecon Speciality Contractors, LLC v. Bensinger, No. 09-CV-02080-REB-KLM, 2010 U.S. Dist. LEXIS 111092, 2010 WL 3927783, at *1-2, *6-7 (D. Colo. Oct. 1, 2010) (requesting information relating to Spacecon from the Colorado State Directory of New Hires which is a confidential and secure repository for receiving new hire data reported by employers in Colorado); Bonanno v. Quizno's Franchise Co., LLC, 255 F.R.D. 550, 552, 555 (D. Colo. 2009) (requesting information relating to a financial transaction); Gordanier v. Montezuma Water Co., No. 08-CV-01849-PAB-MJW, 2010 U.S. Dist. LEXIS 143314, 2010 WL 1413109, at *1-2 (D. Colo. Apr. 2, 2010) (concerning a request for undescribed tapes and documents).
+Choosing which test to apply has proven difficult. See Cantrell, 195 P.3d at 660-61; Stone, 185 P.3d at 158;;  [**10] see also Spacecon Specialty Contractors, 2010 U.S. Dist. LEXIS 111092, 2010 WL 3927783, at *6; Bonanno, 255 F.R.D. at 555; I'Mnaedaft, Ltd. v. Intelligent Office Sys., LLC, No. 08-CV-01804-LTB-KLM, 2009 U.S. Dist. LEXIS 25747, 2009 WL 824304, at *3 (D. Colo. Mar. 30, 2009). Further, the facts of some cases do not lend themselves to analysis under either test. See Cantrell, 195 P.3d at 661 (recognizing that this Court has applied the Martinelli test in numerous instances where a state actor was not involved).
+ 3. The Appropriate Test in This Case
+We hold that instead of choosing between the Martinelli and Stone tests, trial courts should apply a comprehensive framework -- incorporating, as appropriate, the principles from both tests -- to all discovery requests implicating the right to privacy. The party requesting the information must always first prove that the information requested is relevant to the subject of the action. Next, the party opposing the discovery request must show that it has a legitimate expectation that the requested materials or information is confidential and will not be disclosed. If the trial court determines that there is a legitimate expectation of privacy in the materials or information, the requesting party must prove  [**11] either that disclosure is required to serve a compelling state interest or that there is a compelling need for the information. If the requesting party is successful in proving one of these  [*692]  two elements, it must then also show that the information is not available from other sources. Lastly, if the information is available from other sources, the requesting party must prove that it is using the least intrusive means to obtain the information.
+In this case, M/M requested a broad category of documents regarding Judd's compensation, specifically:
+(1) Each and every DOCUMENT that identifies Judd's compensation from RWO for the years 2004, 2005, 2006, and 2007; and
+(2) Each and every DOCUMENT that describes the methodology by which RWO determined the amount of compensation it paid to JUDD for the years 2004, 2005, 2006 and 2007.
+(emphasis in original). Despite M/M's contentions, this broad discovery request likely includes tax returns as well as other financial documents and potentially confidential information regarding Judd and RWO. We hold that, based on the broader protection that we have afforded to financial records in other contexts, see, e.g., Leidholt v. Dist. Court, 619 P.2d 768, 770 (Colo. 1980)  [**12] (in the context of punitive damages), these documents fall under the umbrella of the right to privacy and necessitate analysis under the framework discussed above.
+Therefore, M/M must prove that the requested financial information is relevant to the subject of the action -- legal malpractice and breach of fiduciary duty -- and that there is a compelling need for the documents. Further, because M/M has requested all potential documents that contain the desired information, M/M must prove that it is using the least intrusive means to obtain the information contained therein.
+We have repeatedly held that it must be apparent from the order that the trial court performed the required balancing test. See Stone, 185 P.3d at 160-61; Corbetta, 975 P.2d at 721; Martinelli, 199 Colo. at 175, 612 P.2d at 1092. Here, the trial court provided minimal analysis in its order granting M/M's motion to compel. The trial court, in relevant part, stated:
+Plaintiffs claim Mr. Judd continued to represent Plaintiffs despite conflicts of interest in order to increase fee revenues. They further allege Mr. Judd's conduct in collecting legal fees violated his fee agreement with Plaintiffs. Thus, information related  [**13] to Mr. Judd's compensation is directly relevant to this case. The Court finds Defendants have failed to show good cause for protecting the information from discovery.
+It is clear to us from this statement that the trial court did not consider whether there is a compelling need for the information or whether M/M is using the least intrusive means to obtain the information. Further, the trial court placed the burden on Judd and RWO to show good cause for protecting the information where the burden should be on M/M to show a compelling need for the information.
+ C. Attorney Fees
+The trial court awarded attorney fees incurred as a result of this discovery dispute to M/M, finding that RWO's failure to comply with the discovery request lacked justification and caused unnecessary delay. In light of our decision today, we reverse this order.
+ III. Conclusion
+For the reasons discussed in this opinion, we hold that the trial court abused its discretion in requiring RWO to disclose its financial records. Accordingly, we make this rule absolute and remand to the trial court with instructions to apply the test described herein.
+Concur by: EID  
+Concur
+
+
+
+
+JUSTICE EID, concurring in the judgment.
+Because this case involves a discovery  [**14] dispute between private parties over confidential financial information, the appropriate framework to be applied is the one we articulated in Stone v. State Farm Mutual Automobile Insurance Co., 185 P.3d 150, 159 (Colo. 2008). Because the trial court did not  [*693]  apply this framework, I, like the majority, would make the rule absolute and remand the case. Unlike the majority, however, I would leave for another day the issue of whether this framework should be applied in other contexts. Maj. op. at 10. I therefore concur in the judgment only.
+
+ 
+
+End of Document

@@ -1,0 +1,39 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+Stand Up for Democracy v. Sec'y of State
+Supreme Court of Michigan
+July 11, 2012, Decided
+SC: 145387
+
+Reporter
+491 Mich. 950 *; 815 N.W.2d 780 **; 2012 Mich. LEXIS 1019 ***; 2012 WL 2865779
+ STAND UP FOR DEMOCRACY, Plaintiff-Appellee, v SECRETARY OF STATE and BOARD OF STATE CANVASSERS, Defendants, and CITIZENS FOR FISCAL RESPONSIBILITY, Intervenor-Defendant-Appellant.  
+Prior History:  [***1] COA: 310047.
+Stand Up for Democracy v. Sec'y of State, 2012 Mich. App. LEXIS 1085 (Mich. Ct. App., June 8, 2012)  
+Judges: Robert P. Young, Jr., Chief Justice. Michael F. Cavanagh, Marilyn Kelly, Stephen J. Markman, Diane M. Hathaway, Mary Beth Kelly, Brian K. Zahra, Justices. YOUNG, C.J. (concurring). MARKMAN, J., (concurring).  
+Opinion
+
+
+
+
+ [*950]   [**780]  On order of the Court, the motion for immediate consideration is GRANTED. The application for leave to appeal the June 8, 2012 judgment of the Court of Appeals is considered. We direct the Clerk to schedule oral argument on Wednesday, July 25, 2012 at 10 a.m. on whether to grant the application or take other action. MCR 7.302(H)(1). Each side will have 30 minutes for oral argument. At oral argument, the parties shall address: (1) whether plaintiff actually complied with the 14-point type requirement in MCL 168.482(2), specifically given the terms "point" and "type;" and (2) if not, whether substantial compliance with the 14-point type requirement in § 482(2) is sufficient to give plaintiff a clear legal right to certification of the petition. The parties may file supplemental briefs regarding those issues within 7 days of the date of this order, but they should not submit mere restatements of their application papers.
+Concur by: Robert P. Young, Jr.; Stephen J. Markman  
+Concur
+
+
+
+
+Young, C.J.  [***2] (concurring).
+I concur in the decision to order oral argument on the application. However, I also ask the parties to address specific issues related to our resolution of the question whether plaintiff  [*951]  has actually complied with the requirement of MCL 168.482(2) that the heading be printed in 14-point type.
+First, I would like the parties to address the definitions of "point" and "type" as they stood at the time the Legislature enacted MCL 168.482 in 1954 and amended it in 1965, specifically, whether the "point" measurement of "type" requires a size measurement of the entire printer's block rather than of the actual character produced by the block. See, e.g., Webster's New International Dictionary of the English Language, Second Edition (1948); Webster's Third New International Dictionary of the English Language Unabridged (1965).
+ [**781]  Second, I would like the parties to address whether these definitions of "point" and "type" continue to control the interpretation of MCL 168.482(2), notwithstanding subsequent amendments of the statute in 1993 and 1998 that did not alter the terms "point" and "type" within that subsection. Finally, if the original definitions of "point" and "type" control the  [***3] interpretation of MCL 168.482(2) today, I would like the parties to address how the Court is to determine whether the computer font used in this case complies with those definitions.
+Markman, J., (concurring).
+I concur in the decision to order oral argument on the application. However, I respectfully ask the parties to address the following questions:
+First, in addressing the meaning of the terms "point" and "type," see, e.g., Webster's New Collegiate Dictionary (2d ed) (1960), what is the significance, if any, of the context in which those terms are used, i.e., within a statute that provides that the heading of the petition "shall be . . . printed in capital letters in 14-point boldface type"? MCL 168.482(2) (emphasis added).
+Second, assuming that the statute requires a size measurement of the entire printer's block rather than of the actual printed character itself, how is such a block to be measured and what are the sizes of the blocks at issue in this case?
+Third, assuming that the printer's block is determinative, would a 3-point font, for example, be sufficient under the statute as long as the blank space between the two lines is sufficiently large?
+Fourth, what legislative purpose  [***4] would be served under MCL 168.482(2) by a type-size requirement that measures the size of the printer's block compared to a requirement that measures the size of the actual printed character?
+
+ 
+
+End of Document

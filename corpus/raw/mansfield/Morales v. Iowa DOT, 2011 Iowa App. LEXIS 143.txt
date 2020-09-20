@@ -1,0 +1,70 @@
+
+  NeutralAs of: September 19, 2020 8:30 PM Z
+Morales v. Iowa DOT
+Court of Appeals of Iowa
+February 23, 2011, Filed
+No. 0-324 / 09-1642
+
+Reporter
+2011 Iowa App. LEXIS 143 *
+ RODOLFO MORALES JR., Petitioner-Appellant, vs. IOWA DEPARTMENT OF TRANSPORTATION, MOTOR VEHICLE DIVISION, Defendant-Appellee.  
+Subsequent History: Reported at Morales v. Iowa DOT, 798 N.W.2d 349, 2011 Iowa App. LEXIS 700 (Iowa Ct. App., 2011)  
+Prior History:  [*1] Appeal from the Iowa District Court for Adams County, Gregory A. Hulse, Judge. Morales appeals the district court's order affirming his driver's license revocation based on his refusal of chemical testing.
+  
+Disposition: REVERSED AND REMANDED.
+  
+Counsel: Jon H. Johnson of Johnson Law, P.L.C., Sidney, for appellant. 
+Thomas J. Miller, Attorney General, Mark Hunacek, Assistant Attorney General, Des Moines, and David Gorham, Ames, for appellee.  
+Judges: Considered by Sackett, C.J., and Eisenhauer and Mansfield, JJ. Sackett, C.J., concurs, Mansfield, J., dissents.  
+Opinion by: EISENHAUER  
+Opinion
+
+
+
+
+EISENHAUER, J.
+Rudolfo Morales, Jr. was driving a personal vehicle, but held a commercial driver's license (CDL), when he refused chemical testing without being advised as to the consequences of his refusal on his CDL. We conclude the failure to give the complete implied consent advisory precluded revocation of an ordinary driver's license, as well as precluding disqualification of a CDL.
+ I. Background Facts & Proceedings.
+On January 3, 2009, Morales was investigated for operating a private motor vehicle while intoxicated. Morales held a CDL at the time the officer requested chemical testing. It is undisputed the officer read an implied consent advisory to Morales  [*2] that did not include the provisions in Iowa Code section 321J.8(1)(c)(2) (2009), regarding the consequences of a chemical test failure or refusal on a CDL. Morales refused chemical testing and the Iowa Department of Transportation (DOT) revoked his ordinary driver's license for one year.
+Morales contested the revocation claiming a violation of statutory and constitutional rights. In March 2009, after a hearing, an administrative law judge (ALJ) sustained Morales's revocation and, citing Iowa Code section 321J.13(2), ruled: "The implied consent issue raised is outside the scope of the issues which [an ALJ] may decide . . . ." Morales filed an intra-agency appeal and in May 2009, the agency affirmed the ALJ's decision.
+In May 2009, Morales petitioned for judicial review. In August 2009, Morales and the DOT stipulated: "[T]he issue of application of the implied consent advisory is an issue that is properly before this court and the parties request that this forum address the issue . . . ." In September 2009, the court affirmed the agency, stating: "The Court takes no position on whether the issue should have been addressed by the ALJ because it is not necessary."1  The court ruled "there  [*3] was no prejudice by the failure to read the CDL portion of the advisory."
+Morales appeals arguing: (1) section 321J.8(1)(c)(2) is mandatory, not directory; and (2) the failure to give the full implied consent advisory is an unconstitutional denial of due process.
+ II. Standard of Review.
+Our review of the DOT's decision to revoke a driver's license is governed by Iowa Code chapter 17A. Voss v. Iowa Dep't of Transp., 621 N.W.2d 208, 210 (Iowa 2001). We review the district court's decision by applying the standards of section 17A.19 to the agency's decision to determine if our conclusions are the same as those reached by the district court. Id. If they are the same, we affirm; otherwise, we reverse. Id. We review constitutional challenges raised in an agency proceeding de novo. Drake Univ. v. Davis, 769 N.W.2d 176, 181 (Iowa 2009).
+ III. Implied Consent Advisory.
+Iowa's implied consent statute provides that in return for the privilege of using the public highway, a driver impliedly agrees to submit to chemical testing. State v. Garcia, 756 N.W.2d 216, 220 (Iowa 2008); see Iowa Code § 321J.6(1). However,  [*4] a driver has the right to withdraw his implied consent and refuse to take the test. Iowa Code § 321J.9. Under Iowa Code section 321J.8, when an officer requests a driver to submit to chemical testing, the officer must advise the driver "of the consequences of refusing the test as well as the consequences of failing the test." State v. Massengale, 745 N.W.2d 499, 501 (Iowa 2008).
+In 2007, the Iowa General Assembly amended section 321J.8 to expand the officer's implied consent advisory to include information regarding the potential for CDL disqualification when a person is operating a noncommercial vehicle. 2007 Iowa Acts ch. 69, § 1. This amendment ensured the officer's advisory reflected the 2005 amendments to Iowa Code section 321.208, which created a one year CDL disqualification for a person who refused/failed chemical testing regardless of whether the person was operating a commercial or noncommercial vehicle.2  See 2005 Iowa Acts ch. 8 § 23.
+In Massengale, 745 N.W.2d 499, the Iowa Supreme Court considered  [*5] the exclusion of breath test results in a criminal prosecution for a 2006 operating while intoxicated (OWI) charge. The officer gave the defendant an implied consent advisory which predated the 2007 amendments to 321J.8 and which failed to inform him of the consequences of test failure on his CDL. Massengale, 745 N.W.2d at 502. The court found the advisory to be misleading "with respect to the revocation period for commercial driving privileges," and concluded this substantive due process violation required suppression of the breath test results. Id. at 503-04. Massengale recognizes "under Iowa law, there are both civil and criminal penalties for" OWI, but does not address the question whether an administrative license revocation must be rescinded if the implied consent advisory did not comply with sections 321.208 and 321J.8(1)(c)(2).
+The information in subsection 321J.8(1)(c)(2) was omitted from the implied consent advisory read to Morales:
+1. A person who has been requested to submit to a chemical test shall be advised by a peace officer of the following:
+. . . .
+c. . . . .
+(2) If the person is operating a noncommercial motor vehicle and holding a commercial driver's license . . . and  [*6] either refuses to submit to the test or operates a motor vehicle while under the influence of an alcoholic beverage . . . the person is disqualified from operating a commercial motor vehicle for the applicable period under section 321.208 in addition to any revocation of the person's driver's license or nonresident operating privilege which may be applicable . . . .
+(Emphasis added.)
+Generally, the word "shall" imposes a duty. See Iowa Code § 4.1(30)(a). Section 321J.8 imposes a duty upon police officers to provide certain information to drivers who have been asked to submit to chemical testing. However, the duty imposed by the word "shall" may be either "directory" or "mandatory." Downing v. Iowa Dep't of Transp., 415 N.W.2d 625, 628 (Iowa 1987). The DOT argues the duty is directory and the revocation should be upheld due to Morales's lack of prejudice. Morales argues the duty is mandatory and invalidates subsequent proceedings. In resolving this issue we look to legislative intent to determine whether "shall" is mandatory or directory. Taylor v. Iowa Dep't of Transp., 260 N.W.2d 521, 522 (Iowa 1977).
+If the duty imposed is "essential to the main objective of the whole statute, the provision  [*7] is mandatory, and failure to perform the duty will invalidate subsequent proceedings under the statute." Downing, 415 N.W.2d at 628. When the duty is "not essential to accomplishing the principle purpose" of the statute, it "is directory, and a violation will not invalidate subsequent proceedings unless prejudice is shown." Taylor, 260 N.W.2d at 523. Statutory duties "designed to assure order and promptness in the proceeding," are ordinarily directory. Id.
+Under section 321J.8, "the officer must advise the person of the consequences of refusing to submit to the test and the consequences of not passing the test, including the potential periods of license revocation." Garcia, 756 N.W.2d at 221. The overall purpose of the implied consent statute is "to help reduce the appalling number of highway deaths resulting" from intoxicated drivers. Id. at 220. However, the specific purpose of section 321J.8 is to provide a person who has been asked to submit to a chemical test "a basis for evaluation and decision-making in regard to either submitting or not submitting to the test." Voss, 621 N.W.2d at 212. The purpose of the implied consent advisory is to give information to allow a person to make  [*8] a reasoned and informed decision regarding chemical testing. Massengale, 745 N.W.2d at 504. The purpose of the statue is to fully inform the driver of the impacts of refusal on his driver's license and CDL. If Morales is not fully informed, a reasoned and well-informed decision cannot be made, especially in this case where Morales holds a CDL, but was stopped while driving a noncommercial vehicle. Not fully informing Morales about the CDL consequences rendered his refusal involuntary and not a viable basis for either disqualifying his CDL or revoking an ordinary driver's license.
+We disagree with the district court. The duty imposed by section 321J.8 is essential to the specific purpose of that statutory provision—to give vehicle drivers a basis for evaluating whether to submit to a chemical test. We conclude the duty to provide the information found in section 321J.8 is mandatory. Accordingly, the failure to provide the required information invalidates subsequent proceedings under the statute. See Downing, 415 N.W.2d at 628. We remand for proceedings consistent with this opinion.
+ IV. Due Process.
+Because we have determined the revocation of Morales's license should be rescinded on statutory  [*9] grounds, we do not address the due process issue.
+REVERSED AND REMANDED.
+Sackett, C.J., concurs, Mansfield, J., dissents.
+Dissent by: MANSFIELD  
+Dissent
+
+
+
+
+MANSFIELD, J. (dissents)
+I respectfully dissent. In my view, the record is clear that Morales was not prejudiced by the implied consent advisory he received. His decision to refuse chemical testing could not have been affected by any omissions from that advisory. Accordingly, I would affirm the revocation of his commercial driver's license.
+The majority's analysis centers on a supposed distinction between Iowa laws that are "mandatory" and those that are "directory." In general, I do not think that is a helpful distinction, and the supreme court (in my view correctly) has avoided using it in recent years, except when addressing the consequences of a failure to hold a hearing by a particular deadline. See In re Detention of Fowler, 784 N.W.2d 184 (Iowa 2010).
+Apart from special situations like hearing deadlines, I think it is a clearer and better approach just to say that all laws are presumptively mandatory. After all, this is the very essence of what a law is. But saying a law is mandatory does not resolve what we should do when that law is violated. Usually,  [*10] in our legal system, we deny a party relief when that party has not been affected by the violation of law. Also, different violations of law may warrant different remedies. Our legal system tries to tailor the remedy to the situation.
+In the area of implied consent advisories, prior published decisions have followed this approach. They have not mentioned a mandatory/directory distinction. Instead, if the advisory was inaccurate, but the driver could not have been prejudiced, they have simply denied relief. See State v. McCoy, 603 N.W.2d 629, 630 (Iowa 1999) (denying relief for clerical error); Smith v. Department of Transportation, 523 N.W.2d 607, 610 (Iowa Ct. App. 1994) (denying relief when "the mistake did not influence Smith's decision nor was he prejudiced thereby"); see also State v. Bernhard, 657 N.W.2d 469, 472 (Iowa 2003) (denying relief where there was "no reason to assume that [the defendant's] choice would have been different"); cf. State v. Massengale, 745 N.W.2d 499, 503-04 (Iowa 2008) (granting relief where the defendant's decision could have been influenced by the misleading advisory).
+I believe those precedents control and should have been followed here. In this case,  [*11] Morales was told he would lose his privilege to operate a motor vehicle for one year if he refused to consent and would lose his privilege to operate a motor vehicle for six months if he consented and failed the test. The only thing inaccurate about this advisory was it did not convey to Morales that if he consented to testing and failed, he would actually lose his CDL privileges for one year. Thus, the advisory accurately disclosed the potential adverse consequences of refusing to consent, but it understated the potential adverse consequences of a consent. Despite this, Morales refused to consent.
+Given these circumstances, no one can argue that the failure of the advisory to comply with Iowa Code section 321J.8 affected Morales's choice. Under the authority of McCoy and Smith, I would deny relief.
+The majority's decision appears to open the door to any drunk driver who wants to raise any technical problem in the implied consent advisory, no matter how minor that problem may be. Consider, for example, the possibility of a driver who was not given the CDL portion of the implied consent advisory, but who does not have a CDL. Under the majority's "no exceptions" analysis, she would be  [*12] able to get the revocation of her license thrown out.
+For the foregoing reasons, I dissent.
+
+ 
+
+End of Document

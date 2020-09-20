@@ -1,0 +1,45 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+People v. Kadzban (In re Kadzban)
+Supreme Court of Michigan
+April 4, 2008, Decided
+SC: 134389
+
+Reporter
+480 Mich. 1148 *; 746 N.W.2d 304 **; 2008 Mich. LEXIS 691 ***
+ IN RE GARY TYLER KADZBAN, Minor. PEOPLE OF THE STATE OF MICHIGAN, Petitioner-Appellee, v GARY TYLER KADZBAN, Respondent-Appellant.  
+Subsequent History: Leave to appeal denied by People v. Kadzban (In re Kadzban), 488 Mich. 862, 788 N.W.2d 10, 2010 Mich. LEXIS 1893 (2010)  
+Prior History:  [***1] COA: 273558. Shiawassee CC: 00-009391-DL.
+  
+Judges: WEAVER, J., dissents. CORRIGAN, J., dissents. YOUNG, J., dissents.  
+Opinion
+
+
+
+
+ [**304]   [*1148]  On order of the Court, the application for leave to appeal the May 18, 2007 order of the Court of Appeals is considered and, pursuant to MCR 7.302(G)(1), in lieu of granting leave to appeal, we REMAND this case to the Shiawassee Probate Court to conduct an evidentiary hearing pursuant to People v Ginther, 390 Mich 436; 212 N.W.2d 922 (1973), to determine whether the respondent's appellate counsel, David Merchant and Michael Maddaloni, were ineffective for failing to raise on appeal the issue of whether the respondent's conviction for second-degree criminal sexual conduct was improper under People v Cornell, 466 Mich 335, 355; 646 N.W.2d 127 (2002). See People v Nyx, 479 Mich 112; 734 N.W.2d 548 (2007). Although the decision in Cornell was  [*1149]  issued on June 18, 2002, while the respondent's appeal was pending in the Court of Appeals, Attorney Merchant did not file a supplemental brief on appeal and Attorney Maddaloni failed to cite Cornell in defendant's application for leave to appeal to this Court. In all other respects, leave to appeal is DENIED, because we are not persuaded that the remaining question presented should be reviewed  [***2] by this Court.
+We do not retain jurisdiction.
+Dissent by: WEAVER; CORRIGAN; YOUNG  
+Dissent
+
+
+
+
+WEAVER, J., dissents and states as follows:
+I dissent from the order remanding this case for an evidentiary hearing. I would deny the defendant's application for leave to appeal for the reasons stated in Justice Corrigan's and Justice Young's dissenting statements.
+CORRIGAN, J., dissents and states as follows:
+I respectfully dissent from the order remanding for an evidentiary hearing to determine whether defendant's appellate counsel was ineffective for failing to raise the issue whether defendant's second-degree criminal sexual conduct conviction was improper under People v Cornell, 466 Mich 335, 355; 646 N.W.2d 127 (2002). I would deny leave to appeal because defendant's successive motion for relief from judgment is prohibited by MCR 6.502(G).
+Defendant was charged with CSC I for digitally penetrating a four-year-old girl's vagina. The trial court instructed the jury on the lesser offense of CSC II, and the jury found him guilty of that lesser offense. On direct review, the Court of Appeals affirmed defendant's conviction, In re Kadzban, unpublished opinion per curiam, decided October 22, 2002 (Docket No. 233391) 2002 Mich. App. LEXIS 1449, and this Court denied  [***3] leave to appeal. 468 Mich. 926, 664 N.W.2d 213 (2003). Defendant filed two earlier motions for relief from judgment, which the trial court denied. Defendant then filed the current motion for relief from judgment, which the trial court denied. The Court of Appeals denied leave to appeal. In re Kadzban, unpublished order, entered May 18, 2007 (Docket No. 273558). Defendant now seeks leave to appeal to this Court.
+MCR 6.502(G) limits a defendant to one motion for relief from judgment after August 1, 1995. The rule permits a subsequent  [**305]  motion only where: (1) a retroactive change in law occurred after the first motion for relief from judgment; or (2) a claim of new evidence was not discovered before the first motion. MCR 6.502(G)(2).
+This Court's order remanding to the trial court to consider whether appellate counsel was ineffective for failing to raise a Cornell issue is unwarranted because:
+(1) Defendant has not raised this issue.
+(2) Appellate counsel was not ineffective for failing to raise a Cornell issue given that Cornell did not address formally degreed lesser offenses such as CSC II. It was not until People v Nyx, 479 Mich 112; 734 N.W.2d 548 (2007), that this Court extended the Cornell holding to formally degreed  [***4] lesser offenses. Nyx was decided after defendant's conviction became final and thus does not apply retroactively in this collateral proceeding. 1  
+ [*1150]  (3) Even if Cornell had addressed formally degreed offenses, MCR 6.502(G)(2) would bar defendant's successive motion because Cornell was decided before defendant's first motion for relief from judgment. MCR 6.502(G)(2) permits a successive motion only where the retroactive change in law occurs after the first motion.
+(4) Finally, defendant failed to raise the Cornell issue in his earlier motions for relief from judgment. Thus, it was defendant's own failure to raise the issue in his first motion that has led to the application of MCR 6.502(G) barring his successive motion.
+For these reasons, I  [***5] would deny leave to appeal because MCR 6.502(G) prohibits defendant's successive motion for relief from judgment.
+YOUNG, J., dissents and states as follows:
+Because this motion is a successive motion for relief from judgment, it is governed by MCR 6.502(G). That rule bars successive motions for relief from judgment unless the motion qualifies under MCR 6.502(G)(2). Under that subsection, "[a] defendant may file a second or subsequent motion based on a retroactive change in law that occurred after the first motion for relief from judgment or a claim of new evidence that was not discovered before the first such motion." MCR 6.502(G)(2). The majority has remanded for an evidentiary hearing under People v Ginther, 390 Mich 436; 212 N.W.2d 922 (1976), to determine whether respondent's appellate counsel was ineffective. I am uncertain how that hearing will lead to information that will allow respondent to pursue a successive motion for relief from judgment. Assuming that the court finds that respondent's appellate counsel was ineffective, which Justice Corrigan correctly notes is highly unlikely, there is no reason why such ineffectiveness could not have been discovered before respondent's first motion for  [***6] relief from judgment. Therefore, the rule bars a successive motion for relief from judgment based on the alleged ineffectiveness of appellate counsel. Because respondent's successive motion for relief from judgment is barred by MCR 6.502, I would deny his application for leave to appeal.
+
+ 
+
+End of Document

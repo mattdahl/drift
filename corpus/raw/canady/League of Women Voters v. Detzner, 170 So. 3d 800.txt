@@ -1,0 +1,42 @@
+
+  NeutralAs of: September 19, 2020 7:27 PM Z
+League of Women Voters v. Detzner
+Supreme Court of Florida
+July 9, 2015, Decided
+CASE NO.: SC14-1905
+
+Reporter
+170 So. 3d 800 *; 2015 Fla. LEXIS 1471 **
+ THE LEAGUE OF WOMEN VOTERS OF FLORIDA, ETC., ET AL., Appellants/Cross-Appellees vs. KEN DETZNER, ET AL., Appellees/Cross-Appellants  
+Notice: DECISION WITHOUT PUBLISHED OPINION
+  
+Prior History:  [**1] Lower Tribunal No(s).: 1D14-3953; 372012CA000412XXXXXX; 372012CA000490XXXXXX.
+League of Women Voters of Fla. v. Detzner, 172 So. 3d 363, 2015 Fla. LEXIS 1474 (Fla., 2015)  
+Judges: LABARGA, C.J., and PARIENTE, LEWIS, QUINCE, and PERRY, JJ., concur. CANADY, J., dissents with an opinion, in which POLSTON, J., concurs.  
+Opinion
+
+
+
+
+ [*800]  Pursuant to the opinion of the Court issued on July 9, 2015, this order sets forth the specific parameters of the relinquishment and transmission of the record.
+Following the enactment of the new congressional redistricting plan, the Legislature is directed to submit the plan to the trial court in .doj format, which is compatible with Maptitude for Redistricting software. Along with the newly enacted plan, the Legislature shall also file the 2012 congressional redistricting plan, the 2014 remedial redistricting plan, and the 2002 benchmark redistricting plan in .doj format, which is compatible with Maptitude for Redistricting software.
+ [*801]  For the newly enacted redistricting plan, the Legislature is directed to specify the software used to create the plan, the data and criteria used in drafting the plan, the source of the data used in drafting the plan, and any other relevant information. The Legislature is also directed to file, along with the plan, statistical reports for both [**2]  the new plan and the prior 2002, 2012, and 2014 plans in both searchable .pdf and .xls formats. These reports shall include, at a minimum, the following from the applicable census data: the population numbers in each district, the total voting age population (VAP) in each district, and the VAP of each racial and ethnic group in each district. Reports with additional information and statistics, such as compactness measurements, and reports for prior redistricting plans, may also be submitted in searchable .pdf and .xls formats.
+The Legislature shall also file copies of any transcripts from legislative hearings, including committee meetings, regarding the passage of the new redistricting plan.
+The Legislature is further directed to file any available hard-copy maps of the newly enacted congressional redistricting plan, which shall include depictions of the entire state as well as regional maps. In addition to the maps depicting the districts, the Legislature may also file maps depicting the redistricting plan with data overlays. For each such map, the Legislature is directed to specify the data depicted in the data overlay and the source of that data. Each hard-copy map shall also be filed [**3]  in electronic .pdf format.
+Any alternative plans submitted by the Appellants/Cross-Appellees must conform to the same requirements as apply to the plans submitted by the Legislature, including the submission of the plan in .doj format, the submission of any maps in hard-copy and electronic .pdf format, and the reporting of the same statistics and data in searchable .pdf and .xls formats.
+All filings submitted in the trial court shall be simultaneously submitted to this Court by specifying the Florida Supreme Court on the portal service list via the following e-mail address: fsc-service@flcourts.org . Upon the conclusion of the relinquishment, the Clerk of the Circuit Court of the Second Judicial Circuit in and for Leon County, Florida, shall file the entire record of the relinquishment proceedings on or before October 22, 2015.
+LABARGA, C.J., and PARIENTE, LEWIS, QUINCE, and PERRY, JJ., concur.
+CANADY, J., dissents with an opinion, in which POLSTON, J., concurs.
+Dissent by: CANADY  
+Dissent
+
+
+
+
+CANADY, J., dissenting.
+As fully described in my dissent to the opinion of the Court issued on July 9, 2015, I dissent to these specific directives to the Legislature. I also dissent from the majority's retention of jurisdiction [**4]  in this case after the issues presented for review have been decided. The majority has cited no authority justifying this extraordinary course of action, which is outside the framework established for our appellate review of trial court judgments certified by district courts under article V, section 3(b)(5).
+POLSTON, J., concurs.
+
+ 
+
+End of Document

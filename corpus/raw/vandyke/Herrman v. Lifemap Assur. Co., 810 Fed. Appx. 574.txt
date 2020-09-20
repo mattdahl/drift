@@ -1,0 +1,47 @@
+
+  NeutralAs of: September 19, 2020 9:16 PM Z
+Herrman v. Lifemap Assur. Co.
+United States Court of Appeals for the Ninth Circuit
+May 15, 2020** , Submitted, Portland, Oregon; June 25, 2020, Filed
+No. 19-35182
+
+Reporter
+810 Fed. Appx. 574 *; 2020 U.S. App. LEXIS 19947 **; 2020 WL 3468187
+ DEBRA HERRMAN, Plaintiff-Appellant, v. LIFEMAP ASSURANCE COMPANY, Defendant-Appellee.  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Prior History:  [**1] Appeal from the United States District Court for the District of Oregon. D.C. No. 3:17-cv-01336-MO. Michael W. Mosman, District Judge, Presiding.
+Herrman v. Lifemap Assur. Co., 2019 U.S. Dist. LEXIS 34924 (D. Or., Mar. 5, 2019)  
+Disposition: LREVERSED AND REMANDED.
+  
+Counsel: For Debra Herrman, Plaintiff - Appellant: James P. Keenley, James P. Keenley, Bolt Keenley Kim LLP, Berkeley, CA. 
+For Lifemap Assurance Company, Defendant - Appellee: Matthew Yium, Foster Garvey PC, Portland, OR.  
+Judges: Before: BYBEE and VANDYKE, Circuit Judges, and CHHABRIA,***  District Judge. VanDyke, J., dissenting.  
+Opinion
+
+
+
+
+  [*574]  MEMORANDUM* 
+Debra Herrman appeals the district court's denial of her motion for attorney's fees. We reverse and remand with instructions to reconsider Herrman's fee motion under the correct legal standard.
+1. Title 29 U.S.C. § 1132(g)(1) provides that the district court may, in its discretion, award attorney's fees to either party in certain types of ERISA actions. To guide the exercise of this discretion, we have instructed that district courts should consider the five so-called Hummell factors. Simonia v. Glendale Nissan/Infiniti Disability Plan, 608 F.3d 1118, 1121 (9th Cir. 2010) (citing Hummell v. S. E. Rykoff & Co., 634 F.2d 446, 453 (9th Cir. 1980)). In many cases, we have also applied a rule that a prevailing ERISA beneficiary "should ordinarily recover an attorney's fee unless special circumstances would render such an award unjust." Smith v. CMTA-IAM Pension Tr., 746 F.2d 587, 589 (9th Cir. 1984) (internal quotation marks omitted).
+Our cases do [**2]  not make entirely clear how the Hummell factors and the "prevailing beneficiary" rule interact in all cases. But at a minimum, when an ERISA beneficiary  [*575]  obtains a full recovery of benefits owed or otherwise prevails entirely, the district court abuses its discretion if it denies fees by merely applying the Hummell factors, without identifying "special circumstances" that would render a fee award unjust. See Carpenters Health & Welfare Tr. for S. Cal. v. Vonderharr, 384 F.3d 667, 674 (9th Cir. 2004); McConnell v. MEBA Med. & Benefits Plan, 778 F.2d 521, 525 (9th Cir. 1985); see also McElwaine v. US W., Inc., 176 F.3d 1167, 1173 (9th Cir. 1999) (per curiam). Indeed, the presumption in favor of fees in such cases means that the district court need not discuss the Hummell factors at all before granting the motion. See Grosz-Salomon v. Paul Revere Life Ins. Co., 237 F.3d 1154, 1164 (9th Cir. 2001); Nelson v. EG & G Energy Measurements Grp., Inc., 37 F.3d 1384, 1392 (9th Cir. 1994).
+Herrman obtained a full recovery of benefits, but the district court denied fees by merely applying the Hummell factors, without analyzing whether special circumstances existed that would make a fee award unjust. Accordingly, it applied the wrong legal standard. See Micha v. Sun Life Assurance of Can., Inc., 874 F.3d 1052, 1057 (9th Cir. 2017).
+2. The Supreme Court's decision in Hardt v. Reliance Standard Life Ins. Co., 560 U.S. 242, 130 S. Ct. 2149, 176 L. Ed. 2d 998 (2010), does not disturb this analysis. Hardt addressed a different question under section 1132(g)(1)—whether a party who is not a "prevailing party," but who nonetheless achieves some degree of success on the merits, can obtain a fee award—and expressly declined to overturn circuit precedents discussing [**3]  factors that guide the district court's exercise of discretion. Id. at 255 n.8. Our precedent guiding district court discretion in cases where a beneficiary has obtained a full recovery of benefits is thus not "clearly irreconcilable" with Hardt. See Lair v. Bullock, 697 F.3d 1200, 1207 (9th Cir. 2012).
+3. Herrman is entitled to an award of attorney's fees for this appeal, in an amount to be determined by the district court upon remand. See Bos. Mut. Ins. v. Murphree, 242 F.3d 899, 904 (9th Cir. 2001). We view our conclusion that Herrman is entitled to fees for her successful appeal as separate from the question whether special circumstances exist that would render a fee award for the district court phase of the litigation unjust. That is a question for the district court to decide on remand.
+REVERSED AND REMANDED.
+Dissent by: VanDyke  
+Dissent
+
+
+
+
+VanDyke, J., dissenting.
+Smith v. CMTA-IAM Pension Trust, 746 F.2d 587 (9th Cir. 1984) imposes a requirement in ERISA cases that courts in our circuit must award attorney's fees to a prevailing ERISA beneficiary "unless special circumstances would render such an award unjust." Id. at 589. I think the panel majority correctly applies the Smith requirement in this case, and so would join its well-reasoned decision if I thought Smith was reconcilable with Hardt v. Reliance Standard Life Insurance Co., 560 U.S. 242, 130 S. Ct. 2149, 176 L. Ed. 2d 998 (2010). But I don't. And because Hardt post-dates Smith and I am not aware of any binding opinion from this court that [**4]  has applied the Smith presumption since Hardt, I think the Smith requirement falls with our court's rule that we are not bound by circuit precedent that is "clearly inconsistent" with intervening higher precedent. Lair v. Bullock, 697 F.3d 1200, 1207 (9th Cir. 2012). Without the distorting influence of the Smith requirement, I would affirm  [*576]  the district court's application of the Hummell factors in this case.1 
+In Hardt, the Supreme Court observed that the text of Section 1132(g)(1) "unambiguously allows a court to award attorney fees 'in its discretion ... to either party.'" 560 U.S. at 254 (quoting 29 U.S.C. § 1132(g)(1)). The Court noted that "[t]he words 'prevailing party' do not appear" in ERISA's fee-shifting statute, id. at 252, and distinguished ERISA's fee-shifting authority from other statutes requiring an award of fees to the "prevailing party," explaining that "'prevailing party' precedents ... do not govern the availability of fees awards under § 1132(g)(1)." Id. at 251. The Court also emphasized that Section 1132(g)(1) "vest[s] judges with such broad discretion" when determining whether to award fees. Id. at 254.
+Smith, in contrast, treats Section 1132(g)(1) like a civil rights fee-shifting statute where the prevailing party must get attorney's fees absent special circumstances. See Smith, 746 F.2d at 589 ("As in cases involving section 1988 awards, a district court considering [**5]  a motion for attorney's fees under ERISA should apply its discretion consistent with the purposes of ERISA, those purposes being to protect employee rights and to secure effective access to federal courts.") (emphasis added).2 Smith's rule removes all discretion from judges in the Ninth Circuit whenever an ERISA beneficiary is a "prevailing party," requiring our courts to award fees absent special circumstances. This is just a "prevailing party" fee rule by another name—exactly what the Supreme Court in Hardt disavowed. Indeed, in describing the "prevailing party" fee standard, the Supreme Court has used precisely the same "special circumstances" language that Smith used to describe ERISA's fee-shifting requirements. See, e.g., Newman v. Piggie Park Enters., Inc., 390 U.S. 400, 402, 88 S. Ct. 964, 19 L. Ed. 2d 1263 (1968) ("It follows that one who succeeds in obtaining an injunction under [Title II of the Civil Rights Act of 1964] should ordinarily recover an attorney's fee unless special circumstances would render such an award unjust.") (emphasis added).
+Because Smith's rule, borrowed from the "prevailing party" fee-shifting context, is inconsistent with Hardt's clarification that Section 1132(g)(1) should not be treated like a prevailing party statute, I would affirm [**6]  the district court. I therefore respectfully dissent.
+
+ 
+
+End of Document

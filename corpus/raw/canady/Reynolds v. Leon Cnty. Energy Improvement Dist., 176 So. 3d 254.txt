@@ -1,0 +1,41 @@
+
+  CitedAs of: September 19, 2020 7:27 PM Z
+Reynolds v. Leon Cnty. Energy Improvement Dist.
+Supreme Court of Florida
+October 1, 2015, Decided
+No. SC14-710
+
+Reporter
+176 So. 3d 254 *; 2015 Fla. LEXIS 2126 **; 40 Fla. L. Weekly S 522
+ ROBERT R. REYNOLDS, Appellant, vs. LEON COUNTY ENERGY IMPROVEMENT DISTRICT, etc. et al., Appellees.  
+Prior History:  [**1] An Appeal from the Circuit Court in and for Leon County — Bond ValidationsKevin John Carroll, Judge — Case No. 37-2013-CA-003396.
+  
+Counsel: John Stephen Menton of Rutledge Ecenia, P.A., Tallahassee, Florida, for Appellant. 
+Elizabeth Wilson Neiberger of Bryant Miller Olive P.A., Tallahassee, Florida; Susan Hamilton Churuti of Bryant Miller Olive P.A., Tampa, Florida; Jolinda L. Herring of Bryant Miller Olive P.A., Miami, Florida; Herbert William Albert Thiele, Leon County Attorney, Tallahassee, Florida; Jon Cameron Moyle, Jr. and Karen Ann Putnal of The Moyle Law Firm, Tallahassee, Florida; and Georgia Anne Cappleman, Assistant State Attorney, Leon County Courthouse, Tallahassee, Florida, for Appellees.  
+Judges: LABARGA, C.J., and PARIENTE, LEWIS, QUINCE, POLSTON, and PERRY, JJ., concur. CANADY, J., dissents with an opinion.  
+Opinion
+
+
+
+
+ [*255]  PER CURIAM.
+This case is before the Court on appeal from a circuit court judgment validating a proposed bond issue.1  On the merits, we affirm the circuit court's decision to validate the bonds, but as we required with a virtually identical financing agreement in Thomas v. Clean Energy Coastal Corridor, SC14-1282, 176 So. 3d 249, 2015 Fla. LEXIS 2116 at *1 (Fla. Oct. 1, 2015), we remand with instructions for the circuit court to require Leon County [**2]  Energy Improvement District to amend the financing agreement to remove all references to judicial foreclosure and to file the amended agreement in the circuit court following its approval by the district's governing board. Cf. State v. City of Venice, 147 Fla. 70, 2 So. 2d 365, 367-68 (Fla. 1941) (remanding to circuit court "with directions to require the amendment of the resolution and the bonds" to correct language regarding the pledged funds that was "too broad to be sustained" and stating that "when the same are so amended the decree of validation . . . will stand affirmed").
+We write further, however, because we conclude it is necessary to recede from our decision in Meyers v. City of St. Cloud, 78 So. 2d 402 (Fla. 1955), on which the appellant relied to argue he has standing to file this appeal notwithstanding his failure to appear in the bond validation proceeding below. In Meyers, 78 So. 2d at 403, we expressly addressed the question of "whether citizens and taxpayers may appear for the first time as appellants in bond validation proceedings." We concluded that parties who failed to appear in the bond validation proceedings in circuit court nonetheless had the right to appeal from the trial court's decision. Id. (citing State v. Sarasota Cnty., 118 Fla. 629, 159 So. 797 (Fla. 1935)). The reasoning of Meyers, however, fails to take into account central provisions [**3]  of the statutory scheme governing bond validation proceedings. When the relevant provisions of the statutory scheme are considered, the conclusion reached by Meyers cannot be sustained.
+Under the plain terms of the statute, any person wishing to participate in bond validation proceedings must appear in the circuit court. In connection with the filing of a bond validation complaint, section 75.05(1), Florida Statutes, requires that "[t]he court shall issue an order directed against the state and the several property owners, taxpayers, citizens and others having or claiming any right, title or interest in property to be affected by the issuance of bonds or certificates, or to be affected thereby, requiring all persons, in general terms and without naming them and the state through its state attorney or attorneys of the circuits where the county, municipality or district lies, to appear at a designated time and place within the circuit where the complaint is filed and show why the complaint should not be granted and the proceedings and bonds or certificates validated." Section 75.07, Florida Statutes, goes on to provide that "[a]ny property owner, taxpayer, citizen or person interested may become a party to the action by moving against or pleading to the complaint [**4]  at or before the time set for hearing."
+ [*256]  Under these provisions, full party status is granted only to those who appear and plead in the circuit court proceedings. Only such parties may avail themselves of the right of appeal recognized in section 75.08, Florida Statutes. This understanding of the right of appeal in bond validation proceedings is consistent with the general rule that "failure to participate as a party in the lower tribunal precludes the ability to invoke appellate proceedings." Bondi v. Tucker, 93 So. 3d 1106, 1108 (Fla 1st DCA 2012). And it is in accord with the specific rule that "[e]ven class members who are already parties and bound by a judgment must intervene as named parties in the trial court before they can appeal." Id. ("See Ramos v. Philip Morris Cos., Inc., 714 So. 2d 1146, 1147 (Fla. 3d DCA 1998) ('We agree with the Fourth District that 'non-named class members must intervene formally in the class action to gain standing to appeal.' Concerned Class Members[ v. Sailfish Point, Inc., 704 So. 2d 200, 201 (Fla. 4th DCA 1998)]).'")). Accordingly, persons who have the status of "parties defendant to the action" resulting from the publication of notice under section 75.06, Florida Statutes, and are therefore bound by the judgment in the case are no more entitled to appeal without having formally participated in the trial proceedings than are class members who failed to intervene at trial.
+Therefore, we recede from Meyers [**5] . Since Meyers, we have stated on three other occasions that citizens and taxpayers who failed to appear in the circuit court bond validation proceeding nevertheless had standing to appeal the final judgment. See Rowe v. St. Johns Cnty., 668 So. 2d 196, 197-98 (Fla. 1996); Lozier v. Collier Cnty., 682 So. 2d 551, 552 n.2 (Fla. 1996); Bruns v. Cnty. Water-Sewer Dist., 354 So. 2d 862, 862 n.2 (Fla. 1977). We recede from these decisions as well.
+It is so ordered.
+LABARGA, C.J., and PARIENTE, LEWIS, QUINCE, POLSTON, and PERRY, JJ., concur.
+CANADY, J., dissents with an opinion.
+Dissent by: CANADY  
+Dissent
+
+
+
+
+CANADY, J., dissenting.
+I do not disagree with the reasoning of the majority opinion either on the merits or regarding the conclusion that the reasoning of Meyers is seriously flawed. But I am constrained to dissent because I conclude that this case should be dismissed. For reasons the majority opinion makes plain, the appellant lacks standing to bring this appeal. The proper disposition of such a case is dismissal. I thus would give effect in this case to the abrogation of Meyers and its progeny.
+
+ 
+
+End of Document

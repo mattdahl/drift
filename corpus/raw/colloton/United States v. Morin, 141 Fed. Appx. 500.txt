@@ -1,0 +1,42 @@
+
+  NeutralAs of: September 19, 2020 7:48 PM Z
+United States v. Morin
+United States Court of Appeals for the Eighth Circuit
+January 10, 2005, Submitted ; July 12, 2005, Filed 
+No. 04-1151 
+
+Reporter
+141 Fed. Appx. 500 *; 2005 U.S. App. LEXIS 14147 **
+ United States of America, Appellee, v. Adrian Morin, Appellant.  
+Notice:  [**1]  RULES OF THE EIGHTH CIRCUIT COURT OF APPEALS MAY LIMIT CITATION TO UNPUBLISHED OPINIONS. PLEASE REFER TO THE RULES OF THE UNITED STATES COURT OF APPEALS FOR THIS CIRCUIT.  
+  
+Subsequent History: Decision reached on appeal by United States v. Morin, 437 F.3d 777, 2006 U.S. App. LEXIS 3444 (8th Cir. N.D., 2006)  
+Prior History: Appeal from the United States District Court for the District of North Dakota.  
+United States v. Morin, 2004 U.S. Dist. LEXIS 31475 (D.N.D., Aug. 17, 2004)  
+Counsel: For UNITED STATES OF AMERICA, Plaintiff-Appellee: Christopher Cory Myers, U.S. ATTORNEY'S OFFICE, Fargo, ND. 
+ADRIAN MORIN, Defendant-Appellant, Pro se, Springfield, MO. 
+For ADRIAN MORIN, Defendant-Appellant: Jeff L. Nehring, Williston, ND.    
+Judges: Before SMITH, HEANEY, and COLLOTON, Circuit Judges. COLLOTON, Circuit Judge, concurring.    
+Opinion
+
+
+
+
+ [*500]  PER CURIAM.
+Adrian Morin was indicted and convicted by a jury of possession with intent to deliver a controlled substance in violation of 21 U.S.C. § 841(a)(1) and possession of firearms in furtherance of a drug trafficking crime in violation of 18 U.S.C. § 924(c)(1)(A). Morin challenges his sentence of 123 months' imprisonment. We affirm.
+At trial, the jury concluded that Morin possessed "with intent to distribute 50 grams or more of a mixture containing a detectable amount of methamphetamine." A presentence report (PSR) was prepared prior [**2]  to sentencing and recommended calculating Morin's base offense level on an amount of methamphetamine greater than 50 grams. No objections to the PSR were filed. At the sentencing hearing, the district court 1  asked if Morin had any objections to the PSR and he replied in the negative.
+Morin argues that the district court erroneously calculated his base offense level by failing to exclude drug quantities intended for personal use. He contends that if his personal use quantities were excluded, the actual drug quantity for sentencing purposes would be less than 50 grams. We review the sentence imposed by the district court and will reverse if the sentence is unreasonable. United States v.  [*501]  Booker, 543 U.S. 220, 160 L. Ed. 2d 621, 125 S. Ct. 738 (2005) (Breyer, J.); see also United States v. Mashek 406 F.3d 1012, 1017 (2005) (explaining that we will review a sentence for reasonableness [**3]  in light of the factors listed in 18 U.S.C. § 3553(a) if the district court properly computes the Guidelines range). Because Morin failed to object to the PSR, we are limited to plain error review. United States v. Piggie, 316 F.3d 789, 791 n.4 (8th Cir. 2003). Under the plain error standard of review, we determine whether there is an error that is plain and that affects substantial rights, and reverse only if that error seriously affects the fairness, integrity or public reputation of the judicial proceedings. United States v. Rashid, 383 F.3d 769, 775 (8th Cir. 2004).
+Drug quantities intended for a defendant's personal use must be excluded in calculating the base offense level for possession of a controlled substance with intent to distribute. See United States v. Fraser, 243 F.3d 473 (8th Cir. 2001). In Fraser, the defendant plead guilty and the district court was required to calculate the drug quantity. Id. However, when a jury makes a finding as to the element of drug quantity, the district court is prohibited from reducing that quantity for personal consumption during the sentencing phase. United States v. Campos, 362 F.3d 1013 (8th Cir. 2004). [**4]  Pointedly stated, once a jury finds "beyond a reasonable doubt that the amount of methamphetamine [a defendant] intended to distribute was 50 or more grams, it [is] a legal impossibility for the district court to find by a preponderance of the evidence that the amount of methamphetamine [the defendant] intended to distribute was less than 50 grams." Id. at 1015-16.
+In this case, the jury made a specific finding that Morin possessed with intent to distribute 50 grams or more of a mixture containing a detectable amount of methamphetamine. Therefore, the district court had no authority to reduce the amount for any quantity it perceived to be intended for personal use. On this record, we cannot conclude that the district court committed plain error in calculating Morin's base offense level. The sentence imposed is not unreasonable in light of the factors listed in § 3553(a). Accordingly, we affirm Morin's sentence. 
+Concur by: COLLOTON  
+Concur
+
+
+
+
+COLLOTON, Circuit Judge, concurring.
+I agree with the court that the district court did not commit plain error in calculating Morin's base offense level under the sentencing guidelines, and that his sentence therefore was not [**5]  imposed as a result of an incorrect application of the sentencing guidelines. See 18 U.S.C. § 3742(f)(1). Morin has not raised any challenge to the reasonableness of the sentence in light of 18 U.S.C. § 3553(a) or United States v. Booker, 543 U.S. 220, 160 L. Ed. 2d 621, 125 S. Ct. 738 (2005). See United States v. Cole, 395 F.3d 929, 932 & n.4 (8th Cir. 2005); cf. United States v. Mashek, 406 F.3d 1012, 1017 (8th Cir. 2005). Therefore, I agree that the sentence should be affirmed.  
+
+ 
+
+End of Document

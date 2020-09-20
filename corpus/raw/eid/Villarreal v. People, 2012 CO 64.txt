@@ -1,0 +1,59 @@
+
+  NeutralAs of: September 19, 2020 8:05 PM Z
+Villarreal v. People 
+Supreme Court of Colorado
+November 5, 2012, Decided
+Supreme Court Case No. 09SC846
+
+Reporter
+2012 CO 64 *; 288 P.3d 125 **; 2012 Colo. LEXIS 841 ***
+ Petitioner: Henrietta Villarreal, v. Respondent: The People of the State of Colorado.  
+Subsequent History: Reported at Villarreal v. People, 2012 Colo. LEXIS 804 (2012)  
+Prior History:  [***1] Certiorari to the Colorado Court of Appeals. Court of Appeals Case No. 08CA713.
+People v. Villarreal, 231 P.3d 29, 2009 Colo. App. LEXIS 1475 (Colo. Ct. App., 2009)  
+Disposition: Judgment Affirmed.
+  
+Syllabus
+
+
+
+
+Employing the reasoning of Hagos v. People, 2012 CO 63, ¶¶ 16-24, the supreme court holds that a determination on direct appeal that instructional error did not constitute plain error does not control a determination of prejudice under Strickland v. Washington, 466 U.S. 668, 684-86, 104 S. Ct. 2052, 80 L. Ed. 2d 674 (1984), because the two standards are not the same. The plain error standard requires that an error impair the reliability of the judgment of conviction to a greater degree than the Strickland prejudice standard. Villarreal's ineffective assistance of counsel claim, nonetheless, fails under the separate, fact-specific Strickland analysis. Thus, we affirm the court of appeals' judgment, albeit on different grounds.
+Counsel: Attorneys for Petitioner: Nora V. Kelly, P.C., Nora V. Kelly, Denver, Colorado. 
+Attorneys for Respondent: John W. Suthers, Attorney General, Deborah Isenberg Pratt, Assistant Attorney General, Denver, Colorado.  
+Judges: JUSTICE RICE delivered the Opinion of the Court. JUSTICE EID concurs in the judgment, and JUSTICE COATS joins in the concurrence.  
+Opinion by: RICE  
+Opinion
+
+
+
+
+ en banc
+ [**125]  JUSTICE RICE delivered the Opinion of the Court.
+JUSTICE  [***2] EID concurs in the judgment, and JUSTICE COATS joins in the concurrence.
+ [*P1]  We granted certiorari in this case, along with Hagos v. People, 2012 CO 63, to address whether a determination on direct appeal that instructional error did not constitute plain error necessarily requires a determination in postconviction proceedings that trial counsel's failure to object to the erroneous instruction did not prejudice the defense.1 
+ [**126]   [*P2]  For the reasons discussed in Hagos, ¶¶ 16-24, we conclude that a determination that instructional error did not constitute plain error does not control a determination of prejudice under Strickland v. Washington, 466 U.S. 668, 684-86, 104 S. Ct. 2052, 80 L. Ed. 2d 674 (1984), because the plain error and Strickland standards are  [***3] not the same. The plain error standard requires that an error impair the reliability of the judgment of conviction to a greater degree than the Strickland prejudice standard. Villarreal's ineffective assistance of counsel claim, nonetheless, fails under the separate, fact-specific Strickland analysis. Thus, we affirm the court of appeals' judgment, albeit on different grounds.
+ I. Facts and Procedural History
+ [*P3]  Henrietta Villarreal broke into the apartment of another woman and struck her, bit off a chunk of her ear, and stabbed her repeatedly. After being convicted of attempted first degree murder and first degree assault, among other charges, Villarreal appealed. She asserted, among other contentions on direct appeal, that the trial court had committed plain error by incorrectly instructing the jury on attempted first degree murder and first degree assault. People v. Villarreal, 131 P.3d 1119, 1124 (Colo. App. 2005) (Villarreal I). The court of appeals determined that any error did not constitute plain error and therefore affirmed.
+ [*P4]  Villarreal filed a Crim. P. 35(c) postconviction motion asserting ineffective assistance of counsel because her counsel failed to object to these instructions.  [***4] After a hearing on the matter, the trial court determined that the erroneous instructions did not prejudice the defense. It therefore denied the motion.
+ [*P5]  Villarreal appealed and the court of appeals affirmed. People v. Villarreal, 231 P.3d 29, 36 (Colo. App. 2009) (Villarreal II). The court of appeals held that the prejudice component of a plain error analysis is essentially identical to the prejudice component of an ineffective assistance of counsel analysis under Strickland. Villarreal II, 231 P.3d at 34. It therefore held that Villarreal's claim failed as a matter of law because it was defeated by the determination on direct appeal under plain error analysis that no prejudice occurred. Id. The court of appeals also reasoned that Villarreal's postconviction claims were derivative of her claims on direct appeal because they alleged the same instructional errors recast under the constitutional theory of ineffective assistance of counsel. Id. at 33.
+ II. Application
+ [*P6]  In this case, the trial court conducted a full evidentiary hearing on Villarreal's claim of ineffective assistance of counsel. The trial court found that Villarreal failed to establish either prong of the Strickland test. We  [***5] agree.
+ [*P7]  The record amply supports the trial court's determination that counsel's representation was not deficient nor was Villarreal prejudiced in any way. Therefore, Villarreal's claim for post-conviction relief fails. Because the trial court properly conducted a separate factual analysis under the Strickland standard, we affirm the court of appeals' denial of Villarreal's request for post-trial relief, albeit on different grounds.
+ III. Conclusion
+ [*P8]  For the reasons stated in Hagos, ¶¶ 16-24, we conclude that a determination that instructional error did not constitute plain error does not control a determination of prejudice under Strickland, because the plain error and Strickland standards are not the same. The plain error standard requires that an error impair the reliability of the judgment of conviction to a greater degree than the Strickland prejudice standard. We also necessarily conclude that Villarreal's postconviction claims do not merely reassert precisely the same contentions of error as her direct appeal because review under each standard is conducted differently.
+ [*P9]  Nonetheless, the trial court conducted a separate Strickland analysis and determined that counsel's representation  [***6] was not deficient nor was Villarreal prejudiced in any  [**127]  way. The record supports these findings. Therefore, we affirm the judgment of the court of appeals.
+JUSTICE EID concurs in the judgment, and JUSTICE COATS joins in the concurrence.
+Concur by: EID  
+Concur
+
+
+
+
+JUSTICE EID, concurring in the judgment.
+ [*P10]  For reasons stated in my concurrence in the judgment in Hagos v. People, No. 10SC424, 2012 CO 64, I concur in the judgment in this case as well.
+I am authorized to state JUSTICE COATS joins in this concurrence.
+
+ 
+
+End of Document

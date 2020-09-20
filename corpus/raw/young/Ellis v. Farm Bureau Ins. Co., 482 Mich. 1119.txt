@@ -1,0 +1,49 @@
+
+  CautionAs of: September 19, 2020 9:19 PM Z
+Ellis v. Farm Bureau Ins. Co.
+Supreme Court of Michigan
+December 19, 2008, Decided
+SC: 136069
+
+Reporter
+482 Mich. 1119 *; 760 N.W.2d 212 **; 2008 Mich. LEXIS 2541 ***
+ RENEE ELLIS, Plaintiff-Appellee, v FARM BUREAU INSURANCE COMPANY, Defendant-Appellant.  
+Prior History:  [***1] COA: 275240. Wayne CC: 05-508314-CK.
+Ellis v. Farm Bureau Ins. Co., 482 Mich. 889, 752 N.W.2d 476, 2008 Mich. LEXIS 1431 (2008)  
+Judges: YOUNG, J. (concurring). MARKMAN, J. (concurring). CAVANAGH, J. (dissenting). WEAVER, J. (dissenting). KELLY, J. (dissenting).  
+Opinion
+
+
+
+
+ [*1119]   [**212]  On December 3, 2008, the Court heard oral argument on the application for leave to appeal the February 12, 2008 judgment of the Court of Appeals. On order of the Court, the application is again considered. MCR 7.302(G)(1). In lieu of granting leave to appeal, we REVERSE the judgment of the Court of Appeals and we REMAND this case to the Wayne Circuit Court for entry of judgment in favor of the defendant. Contracts are enforced according to their unambiguous terms. Rory v Continental Ins Co, 473 Mich 457, 468; 703 N.W.2d 23 (2005). The defendant is not liable, under the terms of the insurance policy, because, under the facts of this case, the insured premises were vacant or unoccupied for more than 60 consecutive days before the damage occurred. Smith v Lumbermen's Mutual Ins Co, 101 Mich App 78; 300 N.W.2thed 457 (1980), did not involve a vacancy of 60 days or more or policy language, such as that here, that limits coverage when the insured premises are vacant or unoccupied for more than 60 consecutive days.
+Concur by: YOUNG; MARKMAN  
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+I concur in the  [***2] order reversing the judgment of the Court of Appeals and write solely to respond to the disturbing dissenting statement of Justice Kelly. This is a simple case that illustrates why judicial philosophy matters.
+The insurance contract at issue disclaimed coverage for losses related to the insured home if it was "vacant and unoccupied beyond a period of 60 consecutive days." I wager that not one in a thousand native speakers of English would have difficulty in understanding this simple and straightforward contractual term. Notwithstanding, the premise of Justice  [*1120]  Kelly's dissent is that these contractual terms are ambiguous because they are not defined in the insurance contract. 1  Only in a "judicial world" would two commonplace terms like "vacant" and "unoccupied" be deemed ambiguous, and only those who share Justice Kelly's philosophy of contract construction would make contracts containing those terms essentially unenforceable.
+Unfortunately, I believe that Justice Kelly's view of contract construction in this case foreshadows the future. I predict that we will see again the ascendency of a Michigan jurisprudence in which no contract will be enforced according to its plain meaning and the meaning given to such commonplace terms will be derived entirely from the imaginations of judges who share Justice Kelly's judicial philosophy.
+MARKMAN, J. (concurring).
+I concur in the decision to reverse the judgment of the Court of Appeals. I respond separately only to address Justice [**213]  Kelly's dissent. That dissent contends that our reliance on Rory v Continental Ins Co, 473 Mich 457; 703 N.W.2d 23 (2005), is "sadly misplaced" because defendant admits that the insurance policy at issue here does not define the word "vacant" or "unoccupied," and, thus, "did not rely on Rory in its most recent brief." To begin with, defendant did rely on Rory in its brief in support of its application for leave to appeal, 2  and defendant very likely did not rely on Rory in its "most recent brief," i.e., its supplemental brief, only because this Court specifically directed the parties to "not submit mere restatements of their application papers"  [***4] in their supplemental briefs. 482 Mich 1018 (2008) (emphasis added). Further, although defendant acknowledges that the dispositive terms of the policy are not defined in the policy, contrary to the dissent's suggestion, this by no means constitutes a concession that these terms are "ambiguous." "As this Court has repeatedly stated, the fact that a contract does not define a relevant term does not render the contract ambiguous." Terrien v Zwit, 467 Mich 56, 76; 648 N.W.2d 602 (2002). "Rather, if a term is not defined in a contract, we will interpret such term in accordance with its 'commonly used meaning.'" Id. at 76-77, quoting Frankenmuth Mutual Ins Co v Masters, 460 Mich 105, 114; 595 N.W.2d 832 (1999). Finally, contrary to the dissent's intimation, a "term is not rendered ambiguous merely because resort to a dictionary reveals more than one definition." Lash v Traverse City, 479 Mich 180, 189; 735 N.W.2d 628 n 12 (2007). 3  "If that were the  [*1121]  test for determining whether a term is ambiguous, then virtually all contracts would be rife with ambiguity and, therefore, subject to what the dissent in 'words mean whatever I say they mean' fashion describes as 'judicial interpretation.'" Terrien, supra at 76.  [***5] For these reasons, I fully share Justice Young's concerns about Justice Kelly's understanding of contract interpretation.
+Dissent by: CAVANAGH; WEAVER; KELLY  
+Dissent
+
+
+
+
+CAVANAGH,  [***6] J. (dissenting).
+I respectfully dissent from the majority's order reversing the Court of Appeals judgment and concur with Justice Kelly's dissent.
+Further, I note that if plaintiff had pleaded the issue of estoppel in her complaint, I would support granting plaintiff relief on that basis. At the time the insurance policy was issued, defendant's agent knew that no one was living in the house and that plaintiff intended to conduct extensive renovations before leasing it to a tenant. This Court has long held that "an insurance company is estopped from asserting a forfeiture for a condition of the premises existing at the time of the fire, [**214]  which existed to the knowledge of the company at the making of the contract . . . ." Gordon v St Paul Fire & Marine Ins Co, 197 Mich 226, 234; 163 N.W. 956 (1917), relying on Aurora Fire & Marine Ins Co v Kranich, 36 Mich 289 (1877). See also Johnson v American Fidelity Fire Ins Co, 351 Mich 515, 521-522; 88 N.W.2d 913 (1958). Gordon and Kranich are factually and legally similar to this case, and would govern here if plaintiff had pleaded estoppel.
+WEAVER, J. (dissenting).
+I dissent and would deny leave to appeal because I am not persuaded that the Court of Appeals judgment in this  [***7] matter should be peremptorily reversed.
+KELLY, J. (dissenting).
+I dissent from the Court's order peremptorily reversing the judgment of the Court of Appeals. The Court's reliance on Rory v Continental Ins Co 4  for the proposition that contracts are enforced according to their terms if the terms are unambiguous is sadly misplaced. In this case, the insurance policy admittedly did not define the terms "vacant" or "unoccupied." Both caselaw and the fact that numerous common definitions of the terms exist suggest that the terms are ambiguous. 5  Accordingly, they are subject to judicial interpretation, and [*1122]  Rory is inapplicable. 6  It [**215]  is noteworthy that defendant did not rely on Rory in its most recent brief, likely because it admitted that the policy did not define the dispositive terms.
+I believe that the Court of Appeals properly held that  [***10] plaintiff's property was not vacant or unoccupied within the meaning of the terms  [*1123]  of the parties' insurance policy. I would leave its decision intact and deny defendant's application for leave to appeal.
+
+ 
+
+End of Document

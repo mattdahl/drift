@@ -1,0 +1,60 @@
+
+No Shepard’s  Signal™As of: September 19, 2020 9:20 PM Z
+THIRMAN v. D & T CEMENT, INC.
+Court of Appeals of Michigan
+June 30, 1998, Decided 
+No. 199621
+
+Reporter
+1998 Mich. App. LEXIS 1827 *; 1998 WL 1991266
+ MARCEL THIRMAN and MAGDALENA THIRMAN, Plaintiffs-Appellants, v D & T CEMENT, INC., Defendant-Appellee.  
+Notice:   [*1]  IN ACCORDANCE WITH THE MICHIGAN COURT OF APPEALS RULES, UNPUBLISHED OPINIONS ARE NOT PRECEDENTIALLY BINDING UNDER THE RULES OF STARE DECISIS.  
+  
+Prior History: Oakland Circuit Court. LC No. 95-504141-NO.  
+  
+Disposition: Reversed and remanded for further proceedings consistent with this opinion.  
+  
+Judges: Before: Cavanagh, P.J, and White and Young, Jr., JJ. Robert P. Young, Jr., J., dissenting.    
+Opinion
+
+
+
+
+PER CURIAM.
+Plaintiffs appeal as of right from an order granting summary disposition to defendant. We reverse and remand for further proceedings in accordance with this opinion.
+Plaintiff Marcel Thirman (plaintiff) slipped and fell on a patch of ice in the parking lot of an office building. Defendant had a maintenance contract with the owner of the parking lot, co-defendant Burton-Share, Inc., to provide snow removal services. Burton-Share sought summary disposition and D & T joined in the motion. The circuit court granted the motion concluding that reasonable measures to diminish the chance of injury due to ice were taken. 1 
+ [*2]  Plaintiffs argue on appeal that whether defendant took reasonable measures within a reasonable period of time to diminish the hazard of injury to plaintiff was a question of fact for the jury and not subject to summary disposition. This Court reviews summary disposition decisions de novo.  Pinckney Community Schools v Continental Casualty Co, 213 Mich App 521, 525; 540 NW2d 748 (1995). A motion for summary disposition under MCR 2.116(C)(10) tests the factual support for a claim.  Anderson v Wiegand, 223 Mich App 549, 553; 567 NW2d 452 (1997). The court must consider the pleadings, affidavits, depositions, and other documentary evidence available to it in the light most favorable to the nonmoving party and grant summary disposition only if there is no genuine issue regarding any material fact and the moving party is entitled to judgment as a matter of law. Id. All inferences are to be made in favor of the nonmoving party. Id.
+Defendant argues on appeal that its liability, if any, arises solely from its contractual agreement with the owner of the parking lot, and that its only duty of care was that of ordinary care in [*3]  performing the contract, which, it asserts, it discharged. We disagree.
+Having undertaken a contractual obligation to remove snow and ice from the premises, defendant owed a common-law duty to exercise ordinary care in doing so.  Osman v Summer Green Lawn Care, Inc, 209 Mich App 703; 532 NW2d 186 (1997). In Osman, id. at 707, this Court held that the defendant, who had contractually undertaken the task of snow plowing, had the duty "to perform with ordinary care the things agreed to be done," and that those forseeably injured by negligence in the performance of the contractual undertaking were owed a duty of care. Id. at 707-708.
+Ordinary care is defined as "the care a reasonably careful person would use under the circumstances." SJI2d 10.03. In similar situations, the general standard of care has been described as the duty to take reasonable measures within a reasonable time after an accumulation of ice and snow to diminish the hazard of injury to an invitee.  Orel v UniRak Sales Co., 454 Mich 564, 567; 563 NW2d 241 (1997). The reasonableness of a defendant's actions in diminishing the hazard is considered the [*4]  specific standard of care, and is a question for the jury.  Lundy v Groty, 141 Mich App 757, 760-761; 367 NW2d 448 (1985), provided there are genuine issues of material fact.
+Co-defendant Burton Share sought summary disposition asserting that, as a matter of law, it discharged the duty to take reasonable measures within a reasonable time where there were only a few small patches of ice remaining in the parking lot after D & T Cement applied 1200 pounds of salt to the area on the morning in question. D & T Cement joined in the motion. Plaintiffs responded that the question whether defendants took reasonable measures within a reasonable time was for the jury.
+At argument, plaintiff's counsel argued that D & T's owner conceded at deposition that rock salt was not effective at certain temperatures and could melt the snow or ice and then refreeze, and also acknowledged that there probably were other products available that would have the tendency not to refreeze. Plaintiffs' counsel continued:
+The proofs at trial will demonstrate, in fact, that this rock salt that was used is not good at this temperature. It was unreasonable to use it in these conditions.  [*5]  It was ineffective. It was basically like putting nothing down at all. In fact, it could have made the conditions worse because it would melt the snow that would remain in the lot and cause it to return and freeze as ice. In fact, the defendant admitted that he knew that that could happen at certain temperatures.
+Therefore, while there is no doubt that they took steps to alleviate the condition, the questions for the jury becomes whether the steps they took were reasonable or not. And I think that that's not an issue of law for the Court.
+* * *
+THE COURT: Well, let me ask you. What should they do?
+[Plaintiff's counsel]: I think they should use material that is effective in these sub-zero temperatures. The rock salt, in and of itself, by their own admission, is not effective at this temperature.
+THE COURT: What type of material would they use?
+[Plaintiff's counsel]: There's astinchloride (phonetic) for instance, Your Honor. It would be good. At a significantly lower temperature, it would not refreeze. There are other materials that are available and I think that when we get the defendant on the stand at trial, that will be admitted to. That we will bring [*6]  in packaging from these materials that say right on them that they are not good at these temperatures.
+The defendant admitted that he knew that it wasn't and that there was probably other material around that was effective. I think also that there's been a slight misleading and I've attached some testimony from my own client in this case demonstrating it wasn't one small patch of ice. There were many patches of ice throughout this parking lot. . . .
+The circuit court granted summary disposition finding that "salting the parking lot was a reasonable effort to diminish the chance of injury due to ice." In granting the motion, the court effectively determined that the efforts were reasonable as a matter of law. We conclude, however, that there was a genuine issue of material fact whether salting with rock salt constituted reasonable measures in the sub-zero temperatures extant at the time.
+Plaintiff argued that the evidence would show that the temperature was between fourteen and twenty degrees below zero on the day of the incident (this was apparently undisputed), that defendant knew that the salt used to cover the parking lot may not be effective at below freezing temperatures, [*7]  that the packaging so stated, and that other measures were available. 2  [*8]  Giving the benefit of reasonable doubt to plaintiff as the nonmoving party, reasonable minds could differ as to whether defendant's actions where reasonable under the circumstances. 3  The trial court improperly granted summary disposition to defendant.
+Reversed and remanded for further proceedings consistent with this opinion. We do not retain jurisdiction.
+/s/ Helene N. White
+/s/ Mark J. Cavanagh 
+Dissent by: Robert P. Young, Jr.    
+Dissent
+
+
+
+
+YOUNG, Jr., J. (dissenting).
+I conclude that plaintiffs have failed to create a genuine issue of material fact concerning whether defendant breached its duty to exercise ordinary care in removing snow and ice from the parking lot. Accordingly, I respectfully dissent from the majority's reversal of the trial court's decision granting summary disposition in favor of defendant.
+I agree with the majority that the question whether a defendant acted reasonably generally is reserved for the jury.  Lundy v Groty, 141 Mich App 757, 760; [*9]  367 NW2d 448 (1985). However, it is for the court to determine whether sufficient evidence has been presented to establish a prima facie case requiring submission to the jury. See Cabana v City of Hart, 327 Mich 287, 305; 42 NW2d 97 (1950). While Cabana involved a motion for a directed verdict, the standards regarding the sufficiency of proof are essentially the same in the context of summary disposition. See Skinner v Square D Co, 445 Mich 153, 165 n 9; 516 NW2d 475 (1994).
+Here, the record establishes that defendant applied rock salt to the parking lot approximately 2 1/2 hours before plaintiff's fall and that the temperature on the day of the incident was between - 14 and - 20 [degrees] F. While plaintiffs offered evidence that defendant knew that rock salt is not effective at "certain temperatures," and that other measures were "probably" available, the record evidence simply was not sufficient to allow a reasonable jury to conclude that defendant failed to act reasonably under the circumstances of this case. Cf.  Ziginow v Redford Jaycees, 133 Mich App 259, 263-264; 349 NW2d 153 (1983). [*10]  Specifically, plaintiffs offered no evidence to show exactly what alternative measures were available, let alone that those measures would have been more effective than rock salt under the circumstances.
+The majority, for its part, fails to hold plaintiffs to their burden under the court rules when it asserts that, "if the court had been inclined to grant the motion on that basis, plaintiffs should have been afforded an opportunity to produce the documentation referred to at argument -- the packaging materials and evidence regarding alternate materials." However, plaintiffs never suggested that discovery was incomplete. Faced with a defense motion brought under MCR 2.116(C)(10), plaintiffs were required to set forth specific facts by way of documentary evidence, not counsel representations, showing that there was a genuine issue for trial. MCR 2.116(G)(4); Quinto v Cross & Peters Co, 451 Mich 358, 362-363; 547 NW2d 314 (1996). Because plaintiffs failed to do so, summary disposition was proper even though the trial court did not rely on this reasoning in granting defendant's motion. See D'Ambrosio v McCready, 225 Mich App 90, 96 n 3;  [*11]  570 NW2d 797 (1997). I would affirm the trial court's decision.
+/s/ Robert P. Young, Jr.  
+
+ 
+
+End of Document

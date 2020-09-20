@@ -1,0 +1,36 @@
+
+  PositiveAs of: September 19, 2020 9:19 PM Z
+First Nat'l Bank v. Dep't of Treasury
+Supreme Court of Michigan
+December 2, 2009, Decided
+SC: 137527
+
+Reporter
+485 Mich. 980 *; 774 N.W.2d 912 **; 2009 Mich. LEXIS 2788 ***
+ FIRST NATIONAL BANK OF CHICAGO, as Trustee for BANKBOSTON HOME EQUITY LOAN TRUST 1998-1, Plaintiff-Appellee, v DEPARTMENT OF TREASURY and DEPARTMENT OF NATURAL RESOURCES, Defendants-Appellants.  
+Prior History:  [***1] COA: 272431. Ct of Claims: 03-000057-MT.
+First Nat'l Bank  v. Dep't of Treasury, 280 Mich. App. 571, 760 N.W.2d 775, 2008 Mich. App. LEXIS 1772 (2008)  
+Judges: Marilyn Kelly, Chief Justice. Michael F. Cavanagh, Elizabeth A. Weaver, Maura D. Corrigan, Robert P. Young, Jr., Stephen J. Markman, Diane M. Hathaway, Justices. CORRIGAN, J. (concurring). YOUNG, J. (concurring). MARKMAN, J., joins the statement of CORRIGAN, J. CORRIGAN and MARKMAN, JJ., join the statement of YOUNG, J.  
+Opinion
+
+
+
+
+  [*980]   [**912]  Order
+On order of the Court, the application for leave to appeal having been granted and the briefs and oral arguments of the parties having been considered by the Court, we hereby REVERSE the September 9, 2008 judgment of the Court of Appeals. For the reasons stated in the Court of Appeals dissenting opinion, we find that BankBoston received constitutionally sufficient notice. We REMAND this case to the Court of Claims for consideration of the issues raised by the plaintiff but not addressed by that court during its initial consideration of this case.
+Concur by: Maura D. Corrigan; Robert P. Young, Jr.  
+Concur
+
+
+
+
+CORRIGAN, J. (concurring).
+I concur in the order reversing the judgment of the Court of Appeals and remanding to the Court of Claims for consideration of plaintiff's remaining issues. I also concur with Justice Young that any additional inquiry  [***2] regarding the quality of notice given to plaintiff's assignor is unnecessary. I write separately to underscore my agreement with the well-reasoned analysis of the Court of Appeals [*981]  dissenting opinion concerning why plaintiff lacks standing to assert BankBoston's right to notice. A  [**913]  thorough review of the stipulated facts and exhibits fails to show how the mortgage assignment from BankBoston to plaintiff, which occurred after the certificate of forfeiture had already been recorded, left BankBoston with any residual property interest. See MCL 211.78i(6). Moreover, "it is well settled that the right to notice is personal and cannot be challenged by anyone other than the person entitled to notice." In re AMB, 248 Mich App 144, 176; 640 N.W.2d 262 (2001). Therefore, plaintiff's status as the trustee for a separate legal entity, BankBoston Home Equity Loan Trust 1998-1, does not magically fulfill the statutory and constitutional prerequisites for plaintiff to file suit on behalf of a party that previously transferred its entire interest. See MCL 600.2041; Lee v Macomb Co Bd of Comm'rs, 464 Mich 726, 740; 629 N.W.2d 900 (2001). Accordingly, I agree with the Court of Appeals dissent that "there is no evidence that the single,  [***3] isolated mortgage assignment imbued plaintiff with any continuing association with BankBoston, endowed it with any derivative entitlement to know BankBoston's affairs, or enabled it to raise BankBoston's legal claims, if any still existed." First Nat'l Bank of Chicago v Dep't of Treasury, 280 Mich App 571, 593; 760 N.W.2d 775 (2008).
+MARKMAN, J., joins the statement of CORRIGAN, J.
+YOUNG, J. (concurring).
+I concur in the order reversing the judgment of the Court of Appeals and remanding the case to the Court of Claims for consideration of plaintiff's remaining issues. I would further note that the constructive notice provided by recording a certificate of forfeiture pursuant to MCL 211.78g(2) provides constitutionally adequate notice for those property interests that are unknown and not of record at the time the property is forfeited to the county treasurer. See Mullane v Central Hanover Bank & Trust Co, 339 U.S. 306, 317; 70 S. Ct. 652; 94 L. Ed. 865 (1950); Mennonite Bd of Missions v Adams, 462 U.S. 791, 798; 103 S. Ct. 2706; 77 L. Ed. 2d 180 (1983). Moreover, this particular method of notice "is not substantially less likely to bring home notice than other of the feasible and customary substitutes," Mullane, 339 U.S. at 315, and is given in addition to other methods  [***4] of constructive notice required by law. MCL 211.78i(3)(d) and (5). Because plaintiff has received constitutionally adequate notice, I believe that any further inquiry into the quality of notice given to plaintiff's assignor is wholly unnecessary.
+YOUNG and MARKMAN, JJ., join the statement of CORRIGAN, J.
+
+ 
+
+End of Document

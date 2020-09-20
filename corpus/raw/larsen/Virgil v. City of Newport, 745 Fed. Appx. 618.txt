@@ -1,0 +1,38 @@
+
+  NeutralAs of: September 19, 2020 8:23 PM Z
+Virgil v. City of Newport
+United States Court of Appeals for the Sixth Circuit
+December 19, 2018, Filed
+File Name: 18a0628n.06
+Case No. 18-5129
+
+Reporter
+745 Fed. Appx. 618 *; 2018 U.S. App. LEXIS 35542 **; 2018 FED App. 0628N (6th Cir.); 2018 WL 6659861
+ WILLIAM R. VIRGIL, Plaintiff-Appellee, v. CITY OF NEWPORT, et al, Defendants-Appellants.  
+Notice: NOT RECOMMENDED FOR FULL-TEXT PUBLICATION. SIXTH CIRCUIT RULE 28 LIMITS CITATION TO SPECIFIC SITUATIONS. PLEASE SEE RULE 28 BEFORE CITING IN A PROCEEDING IN A COURT IN THE SIXTH CIRCUIT. IF CITED, A COPY MUST BE SERVED ON OTHER PARTIES AND THE COURT. THIS NOTICE IS TO BE PROMINENTLY DISPLAYED IF THIS DECISION IS REPRODUCED.
+  
+Prior History:  [**1] ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF KENTUCKY.
+Virgil v. City of Newport, 2018 U.S. Dist. LEXIS 3708 (E.D. Ky., Jan. 9, 2018)  
+Counsel: For WILLIAM R. VIRGIL (#101090), Plaintiff - Appellee: Elliot Slosar, Vincenzo Field, Elizabeth C. Wang, Loevy&Loevy, Chicago, IL. 
+For MARK BRANDT, NORM WAGNER, PAT MOORE, HOWARD NIEMEIER, ROBERT BRADFORD, TOM FROMME, RICK SEARS, SARAH DESENTZ, Defendants - Appellants: Jeffrey C. Mando, Adams, Stepner, Woltermann&Dusing, Covington, KY.  
+Judges: BEFORE: MERRITT, COOK, and LARSEN, Circuit Judges. LARSEN, Circuit Judge, concurring in the judgment.  
+Opinion by: COOK  
+Opinion
+
+
+
+
+ [*619]  COOK, Circuit Judge. Twenty-eight years after a jury convicted William Virgil of rape and murder, newly discovered DNA evidence won Virgil a new trial. The government represented Virgil's case to a grand jury that ultimately refused to indict him. Virgil then sued thirteen individual police officers for violating his constitutional right to a fair trial by, among other things, deliberately withholding exculpatory evidence during Virgil's original prosecution. Asserting qualified immunity, the individual police officers moved to dismiss. The district court found the officers ineligible for qualified immunity because clearly established law at that time required [**2]  them to disclose such evidence. The officers appeal.
+Our review of the record, the applicable law, and the parties' briefs convinces us that the district court's opinion comprehensively sets forth the governing law — United States v. Moldowan, 578 F.3d 351 (6th Cir. 2009) — and the correct analysis. None of the officers' arguments to the contrary undercuts our confidence in the district court's decision. Thus, rather than duplicate the district court's careful work with our own opinion, we affirm on the reasoning of Part II(B)(1)(ii) of its January 9, 2018 order denying the Newport Police Officers' motion to dismiss Count One on qualified-immunity grounds.
+Concur by: LARSEN  
+Concur
+
+
+
+
+LARSEN, Circuit Judge, concurring in the judgment. In Moldowan v. City of Warren, this court held that it was clearly established in August 1990 that police officers had a duty to disclose evidence to the prosecutor when its "exculpatory value" was "apparent."1  578 F.3d 351, 388 (6th Cir. 2009). The question in this case is whether Moldowan's rule was also clearly established two years earlier, in September 1988. In D'Ambrosio v. Marino, this court held that the Moldowan standard is "the functional equivalent of a requirement that the officer act in bad faith." 747 F.3d 378, 390 (6th Cir. 2014) (quotations omitted). On that understanding of the Moldowan [**3]  test, I concur in the court's judgment that defendants are not entitled to qualified immunity.
+Virgil has alleged that defendants deliberately concealed exculpatory evidence that was material to his case. He alleges, for example, that the officers tried to frame him; that they coerced an inmate to testify falsely that Virgil had confessed to the murder; and that they then deliberately suppressed exculpatory evidence regarding alternative suspects. Such conduct, if proved, would surely amount to bad faith or its functional equivalent; and there can be little question that it was well established before September 1988 that police officers could not deliberately conceal material, exculpatory evidence. See, e.g., Haley v. City of Boston, 657 F.3d 39, 48-51 (1st Cir. 2011) (explaining that "in 1972, it was not clearly established that Brady's no-fault disclosure obligation applied to police officers as opposed to prosecutors," but holding that it was clearly established then that "[d]eliberate concealment of material evidence by the police,  [*620]  designed to grease the skids for false testimony and encourage wrongful conviction, unarguably implicates a defendant's due process rights."); Porter v. White, 483 F.3d 1294, 1306 (11th Cir. 2007) ("[T]he law was clearly established as of 1987 and 1988 that a police [**4]  officer had a duty not to intentionally withhold exculpatory evidence from the prosecution."); Jones v. City of Chicago, 856 F.2d 985, 995 (7th Cir. 1988) ("[A]ttempts to circumvent the rule of [Brady] by retaining records in clandestine files deliberately concealed from prosecutors and defense counsel cannot be tolerated." (emphasis added)). Therefore, I concur in the judgment.
+
+ 
+
+End of Document

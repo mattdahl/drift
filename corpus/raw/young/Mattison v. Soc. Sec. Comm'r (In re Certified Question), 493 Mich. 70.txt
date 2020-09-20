@@ -1,0 +1,281 @@
+
+  NeutralAs of: September 19, 2020 9:19 PM Z
+Mattison v. Soc. Sec. Comm'r (In re Certified Question)
+Supreme Court of Michigan
+November 15, 2012, Argued; December 21, 2012, Decided; December 21, 2012, Filed
+No. 144385
+
+Reporter
+493 Mich. 70 *; 825 N.W.2d 566 **; 2012 Mich. LEXIS 2222 ***; Unemployment Ins. Rep. (CCH) P15,101C; 2012 WL 6861601
+ In re CERTIFIED QUESTION FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF MICHIGAN; PAMELA MATTISON, on behalf of M.M. and M.M., Plaintiff, v SOCIAL SECURITY COMMISSIONER, Defendant.  
+Prior History: Mattison v. Comm'r of Soc. Sec. (In re Certified Question), 822 N.W.2d 221, 2012 Mich. LEXIS 1901 (Mich., 2012)  
+Judges:  [***1] Chief Justice: Robert P. Young, Jr. Justices: Michael F. Cavanagh, Marilyn Kelly, Stephen J. Markman, Diane M. Hathaway, Mary Beth Kelly, Brian K. Zahra. MARILYN KELLY, J. concurring. YOUNG, C.J. dissenting.  
+Opinion by: Marilyn Kelly  
+Opinion
+
+
+
+
+ [*72]   [**567]  BEFORE THE ENTIRE BENCH
+Marilyn Kelly, J.
+Plaintiff, Pamela Mattison, gave birth to twins who were conceived by artificial insemination after their father, Jeffery Mattison, had died. She sought social security survivors' benefits for the children based on Jeffery's earnings. The Social Security Administration denied her application, and an administrative law judge affirmed that decision. Plaintiff then filed an action in the United States District Court for the Western District of Michigan challenging the decision. That court has asked us to rule on the determinative issue, which is whether the children can inherit from Jeffery under  [*73]  Michigan intestacy law. Only if they can inherit would they be entitled to social security survivors' benefits.
+The district court certified the question to this Court in accordance with MCR 7.305(B) in these words:
+Whether M.M. and M.M. [plaintiff's twins], conceived after the death of Jeffery Mattison via artificial insemination using his  [***2] sperm, can inherit from Jeffery Mattison as his children under Michigan intestacy law.
+Having heard oral argument, we grant the district court's request to answer the question. We hold that, under Michigan intestacy law, plaintiff's children cannot inherit from Jeffery. We return the matter to the district court for further proceedings as that court deems appropriate.
+I. FACTUAL BACKGROUND AND PROCEDURAL HISTORY
+Plaintiff and Jeffery Mattison were married in 1995. In 1997, plaintiff became pregnant with the aid of artificial insemination and gave birth to a daughter. Plaintiff and Jeffery wanted more children but were unable to conceive naturally because of Jeffery's medical conditions, which included lupus, diabetes, high blood pressure, and kidney failure.
+Because chemotherapy treatment for lupus would damage Jeffery's sperm, he interrupted his chemotherapy treatment and deposited his semen into a sperm bank, where it was frozen and stored. Soon after the birth of his daughter, Jeffery executed a general durable power of attorney that appointed plaintiff as his attorney-in-fact. Included among the powers given to her was the authority to "take any and all action necessary pertaining  [***3] to any sperm or embryos [Jeffery] may have stored including their implantation or termination." In October 2000, plaintiff and Jeffery began an in vitro fertilization program in which plaintiff received  [*74]  daily hormone injections. These were necessary to allow her eggs to be harvested.
+Jeffery died unexpectedly on January 18, 2001, in Michigan. Plaintiff continued the in vitro fertilization program after his death and underwent egg retrieval on January 28, 2001. Those eggs were inseminated with Jeffery's sperm and transplanted into plaintiff on January 30, 2001. As a result of the transplantation process, plaintiff gave birth to twins on October 8, 2001.
+On October 23, 2001, plaintiff filed an application for social security survivors' benefits based on Jeffery's earnings records on behalf of her twins. The Social Security Administration denied the application and later denied reconsideration. Plaintiff then requested a hearing on the matter. The presiding administrative law judge decided that plaintiff's twins were not entitled to social security survivors' benefits because they could not inherit from Jeffery under Michigan intestacy law. The Social Security Administration Appeals Council  [***4] denied plaintiff's request for review of the administrative law judge's decision.
+ [**568]  In August 2005, plaintiff filed suit in the United States District Court for the Western District of Michigan, challenging the denial of benefits. The parties stipulated that the determinative issue is whether plaintiff's twins can inherit from Jeffery under Michigan intestacy law as his children. The district court entered an order approving a magistrate's recommendation to ask this Court to resolve the question. For reasons unknown, the question was not filed in this Court until nearly five years later.
+We granted oral argument on whether to answer the question certified to us.1 
+  [*75]  II. ANALYSIS 
+A. LEGAL BACKGROUND
+The Social Security Act authorizes disbursement of survivors' benefits for children who were dependent on a deceased worker before his or her death.2  As the United States Supreme Court has noted, the purpose of providing survivors' benefits is to protect children from a loss of support resulting from the death of a parent.3  However, not all children  [***5] of a deceased parent are eligible for these benefits. To be eligible, an applicant must demonstrate that he or she (1) is the "child" of the deceased wage earner4  and (2) was dependent on that person at the time of that person's death.5 
+Whether an applicant is the child of a deceased wage earner for purposes of the Social Security Act is governed by 42 USC 416(h)(2)(A), which provides:
+In determining whether an applicant is the child or parent of a fully or currently insured individual for purposes of this subchapter [42 USC 401 through 434], the Commissioner of Social Security shall apply such law as would be applied in determining the devolution of intestate personal property by the courts of the State in which such insured individual is domiciled at the time such applicant files application or, if such insured individual is dead, by the courts of the State in which he was domiciled at the time of his death . . . . [Emphasis added.]
+Thus, because Jeffery was domiciled in Michigan when he died, the issue to be resolved is whether our  [***6] state intestacy law permits the twins to inherit from Jeffery.
+ [*76]  The United States Supreme Court recently spoke on this subject in the case of Astrue v Capato.6  The respondent's husband had died 18 months before she gave birth to twins conceived through in vitro fertilization using the decedent's frozen sperm. The respondent applied for social security survivors' benefits on their behalf. When the Social Security Administration denied her application, she brought an action in the courts to review the decision.
+The trial court found that the respondent's deceased husband was domiciled in Florida at his death. Under Florida law, children conceived after a parent's death cannot inherit from that parent through intestate succession and thus cannot receive social security survivors' benefits as children of that parent. The United  [**569]  States Court of Appeals for the Third Circuit reversed that decision. It applied the Social Security Act and opined that the undisputed biological children of an insured and his widow qualify for survivors' benefits without regard to state intestacy law.7  But the United States Supreme Court reversed  [***7] the judgment of the Third Circuit. It held that the question whether posthumously conceived children qualify for social security survivors' benefits must be determined under state intestacy law.8 
+Michigan law has long established that the rights to intestate inheritance vest at the time of a decedent's death.9  They are governed by statutory provisions  [*77]  found in article II, part 1 of the Estates and Protected Individuals Code (EPIC).10 
+Several EPIC provisions bear on whether plaintiff's twins  [***8] can inherit from Jeffery. The first, MCL 700.2101(1), provides that "[a]ny part of a decedent's estate not effectively disposed of by will passes by intestate succession to the decedent's heirs as prescribed in this act . . . ." Next, MCL 700.2103 provides that "[a]ny part of the intestate estate that does not pass to the decedent's surviving spouse . . . passes . . . to [certain] . . . individuals who survive the decedent[.]" MCL 700.1107(j) defines "survive" as meaning that "an individual neither predeceases an event, including the death of another individual, nor is considered to predecease an event under [MCL 700.2104 or MCL 700.2702]."11 
+Likewise, MCL 700.2106(3)(b) defines "surviving descendant" as "a descendant who neither predeceased the decedent nor is considered to have predeceased the decedent under  [***9] [MCL 700.2104]." MCL 700.2104 states, "An individual who fails to survive the decedent by 120 hours is considered to have predeceased the decedent for purposes of . . . intestate succession, and the decedent's heirs are determined accordingly." Hence, an individual must be alive when the decedent dies and live more than 120 hours afterward to inherit from the decedent's estate under the laws of intestate succession.
+ [*78]  Also relevant is MCL 700.2108 which states, "An individual in gestation at a particular time is treated as living at that time if the individual lives 120 hours or more after birth." Finally, MCL 700.2114(1)(a) provides, in pertinent part:
+If a child is born or conceived during a marriage, both spouses are presumed to be the natural parents of the child for purposes of intestate succession. A child conceived by a married woman with the consent of her husband following utilization of assisted reproductive  [**570]  technology is considered as their child for purposes of intestate succession.
+On the basis of these provisions, there are two groups of people relevant to this case that may acquire intestate inheritance rights: (1) descendants alive at the moment of the decedent's death who  [***10] live more than 120 hours immediately following the decedent's death and (2) descendants in gestation at the time of the decedent's death who live 120 hours after birth.
+B. APPLICATION
+Considering these statutes, plaintiff's twins cannot inherit from Jeffery by intestate succession. The record shows that plaintiff's eggs were not inseminated with Jeffery's sperm and implanted until January 30, 2001, which was 12 days after Jeffery died. Because plaintiff's twins were not in gestation at Jeffery's death, no inheritance rights vested in them at that time pursuant to MCL 700.2108. Moreover, because the twins were not living at the time of his death, they had no inheritance rights as heirs pursuant to MCL 700.2104.
+Nor does MCL 700.2114(1)(a) allow the twins to inherit from Jeffery. That statute indicates that, for  [*79]  purposes of intestate succession, a child is presumed to be the natural issue of both spouses if born or conceived during the marriage. It includes in that presumption children conceived by a married woman with the consent of her husband following the use of assisted reproductive technology. Applying that provision here, the twins were neither conceived nor born during plaintiff  [***11] and Jeffery's marriage because "[m]arriage is a status that legally terminates . . . upon the death of a spouse . . . ."12  Accordingly, the twins are not Jeffery's children for purposes of the state laws of intestate succession and, therefore, they cannot inherit from him.13 
+In sum, nothing in EPIC or in other relevant statutory provisions contemplates intestate succession rights for plaintiff's twins. Because they were conceived and born after Jeffery's death, they did not survive him as his heirs in the eyes of the law. Therefore, we answer the certified question in the negative.
+III. CONCLUSION
+We hold that under Michigan intestacy law, plaintiff's twins, who were conceived after the death of Jeffery Mattison through artificial insemination using his sperm, cannot inherit from Jeffery as his children. We answer the certified question in the negative and return the case to the district court for such further proceedings as that court deems appropriate.
+Marilyn Kelly
+Stephen J. Markman
+Diane M. Hathaway
+Mary Beth Kelly
+Brian  [***12] K. Zahra
+Concur by: MARILYN KELLY  
+Concur
+
+
+
+
+ [*80]  Marilyn Kelly, J. (concurring).
+I write separately to express my view that although the Court's decision in this matter is accurate and required by the law, it is lamentable.
+It is undisputed that the twins are Jeffery Mattison's biological children in that his sperm were used to inseminate plaintiff's eggs. Yet Michigan intestacy law prevents these children from inheriting from their father and, as a consequence, from receiving social security survivors' benefits. This is because our Legislature has not made provision for children conceived  [**571]  by assisted reproductive technology after a parent's death to inherit from the parent by intestate succession. This situation will likely reoccur.
+It is not known whether the Legislature has ever considered the problem presented here. If it had, it would have been confronted with the fact that gestation by assisted reproductive technology can occur long after the death of one parent. If the estate of the deceased parent had to remain open while the widow or widower contemplated the use of assisted reproductive technology, timely probating of the estate could be frustrated.1 
+Standing in contrast to that consideration  [***13] is the fact that one goal of the Estates and Protected Individuals Code (EPIC)2  is "[t]o discover and make effective a decedent's intent in distribution of the decedent's property."3  Two facts in this case relate to this goal: (1) the twins are undisputedly Jeffery's children and (2) Jeffery executed a power of attorney appointing plaintiff as his attorney-in-fact with the power to "take any and all action necessary pertaining to any sperm or embryos  [*81]  [he] may have stored including their implantation or termination." Jeffery intended that any children conceived by in vitro fertilization using his sperm be entitled to the same rights as naturally conceived children, without regard to when they were conceived.
+It is not the role of this Court to fashion a legal remedy allowing after-conceived children to inherit from a deceased parent by intestate succession. But the Legislature is capable of providing for it. For instance, the Legislature could provide for a limited period after a person's death during which his or her spouse could arrange for a child to be conceived by assisted reproductive technology. It could provide that a child conceived within  [***14] that period would be entitled to inherit from the deceased parent by intestate succession. Alternatively, the Legislature could mandate that the conception occur within a reasonable time after a spouse's death in order for the child to be eligible to inherit.4 
+Some state legislatures have already grappled with the issue, while others have not, as summarized by this chart that also identifies the source of the law in each state:5 
+  [*82]  Table 1: Approaches to Posthumously Conceived Children for Probate Purposes by Jurisdiction
+Source6 
+Includes
+Excludes
+Unclear
+Jurisdiction
+1946 MPC
+
+
+4
+Indiana, Maryland, Ohio,
+
+
+
+
+Pennsylvania
+
+
+
+
+
+1969 UPC
+
+
+3
+Maine, Nebraska, Tennessee
+
+
+
+
+
+1988 USCACA
+
+1
+
+Virginia
+
+
+
+
+
+1990 UPC
+
+
+8
+Alaska, Arizona, Hawaii,
+
+
+
+
+Michigan, Montana,
+
+
+
+
+Vermont, West Virginia,
+
+
+
+
+Wisconsin
+
+
+
+
+
+2000 UPA
+
+
+7
+Alabama, Delaware, New
+
+
+
+
+Mexico, Texas, Utah,
+
+
+
+
+Washington, Wyoming
+
+
+
+
+
+2008 UPC
+2
+
+
+Colorado, North Dakota
+
+
+
+
+
+Other statute
+4
+6
+12
+Includes: California, Florida,
+
+
+
+
+Iowa, Louisiana Excludes:
+
+
+
+
+Georgia, Idaho, Minnesota,
+
+
+
+
+South Carolina, South
+
+
+
+
+Dakota, New York
+
+
+
+
+Unclear: Connecticut,
+
+
+
+
+District of Columbia, Illinois,
+
+
+
+
+Kansas, Missouri, Oklahoma,
+
+
+
+
+Kentucky, North Carolina,
+
+
+
+
+Oregon, Rhode Island,
+
+
+
+
+Mississippi, Nevada
+
+
+
+
+
+Caselaw
+2
+2
+
+Includes: Massachusetts
+
+
+
+
+(Woodward);7  New Jersey
+
+
+
+
+(Kolacy)8 
+
+
+
+
+Excludes: Arkansas
+
+
+
+
+(Finley);9  New Hampshire
+
+
+
+
+(Khabbaz)10 
+Total
+8
+9
+34
+
+ [**572]  It  [***16] is incumbent on the Legislature to keep our laws abreast of our times. This is especially true given the [*83]  "growing and complex area of nontraditional family life" and the increasing prevalence of assisted reproductive technology.11 
+For these reasons, I urge our Legislature to specifically address the issue presented in this case in the near future.
+Marilyn Kelly
+Michael F. Cavanagh
+Dissent by: Robert P. Young, Jr.  
+Dissent
+
+
+
+
+Young, C.J. (dissenting).
+While I agree with the majority's analysis of our state's intestacy laws, I respectfully dissent and would decline to answer the certified question. I do so for two reasons.
+First, I continue to believe that this Court lacks the constitutional authority to issue advisory opinions1  other than as described in article 3, § 8 of Michigan's 1963 Constitution.2  My position regarding the  [**573]  Court's constitutional authority did not prevail, and I accept that the Court has determined otherwise.3  However, my constitutional reservation counsels that this Court  [*84]  should accept and answer certified questions from the federal courts sparingly and only when the  [***17] Michigan legal issue is a debatable one and pivotal to the federal case that prompted the request for the certified question. It is this prudential concern that I now address.
+I concede that the question whether the children at issue are "heirs" of their deceased father under Michigan intestacy law is determinative to the federal case.4  Under federal law, the children are entitled to social security survivors' benefits if the children can take as heirs from their father under Michigan intestacy law, MCL 700.2101 et seq.5  The children's entitlement to take as heirs is provided by MCL 700.2103, under which it must be shown that the children are both their father's descendants6  and that they survived their father.7  However, as the majority opinion conclusively establishes, the question whether the children may be considered to have been alive at the time of their father's death is not debatable under our intestacy laws—a point plaintiff's counsel conceded at oral argument.  [*85]  The only way that the children may be deemed to have survived their father is if they were "in gestation" at the time of their father's death.8  Thus, the only way plaintiff could prevail is if this Court failed to give the word "gestation" its plain and ordinary meaning. Indeed, plaintiff's counsel urged that these children could be deemed  [***19] "in gestation" by construing gestation as a "process" that included hormone therapy administered to the mother before the father's death as well as in vitro fertilization and embryo transfer that occurred after the father's death. This, of course, is no more than a call for construction by eisegesis and would require an entirely apocryphal interpretation of a common term: gestation.
+I believe that no serious debate regarding the plain language of the relevant laws  [**574]  exists and that no reasonable construction of our laws would permit the children to take as heirs of their deceased father under our intestacy provisions.9  Indeed, both the Social Security  [*86]  Administration and the administrative law judge who reviewed the case applied the common meaning of gestation and denied survivor's benefits to the children because, as the Social Security Administration phrased it, the children "were not in gestation at the time of Mr. Mattison['s] death." That being the case, the federal court should have been  [***21] easily able to determine for itself the very answer to its certified question that the majority has provided. As such, this would appear to be the textbook example of the kind of certified question that this Court ought to have exercised its discretion and declined to answer.
+For these reasons, I respectfully dissent and would decline to answer the certified question.
+Robert P. Young, Jr.
+
+ 
+
+End of Document

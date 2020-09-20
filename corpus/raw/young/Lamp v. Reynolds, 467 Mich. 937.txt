@@ -1,0 +1,38 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+Lamp v. Reynolds
+Supreme Court of Michigan
+January 8, 2003, Decided 
+SC: 121049 
+
+Reporter
+467 Mich. 937 *; 654 N.W.2d 916 **; 2003 Mich. LEXIS 4 ***
+ SCOTT LAMP and MICHELLE LAMP, Plaintiffs-Appellees, v FRED REYNOLDS and LINDA REYNOLDS d/b/a BAJA ACRES, M.C., Defendants-Appellants.  
+Prior History:  [***1]  COA: 223346. Tuscola CC: 97-015696-NO.  
+ Lamp v. Reynolds, 249 Mich. App. 591, 645 N.W.2d 311, 2002 Mich. App. LEXIS 123 (2002).  
+Disposition: Leave to appeal denied.  
+  
+Judges: Young, Jr., J., dissents. Taylor, J., joins in the statement of Young, Jr., J.    
+Opinion
+
+
+
+
+ [*937]   [**916]  On order of the Court, the application for leave to appeal from the February 5, 2002 decision of the Court of Appeals is considered, and it is DENIED because we are not persuaded that the questions presented should be reviewed by this Court.  
+Dissent by: Young, Jr.    
+Dissent
+
+
+
+
+ Young, Jr., J., dissents and states as follows:
+I would remand this matter to the trial court for application of the correct legal standard for determining comparative fault.
+Plaintiff was injured during a race on defendants' motocross racetrack when he steered his bike off the racetrack and  [**917]  struck a tree stump that was concealed by tall weeds. The trial court found that defendants' failure to remove the tree stump constituted wilful and wanton misconduct. The trial court determined, as a matter of law, that the defense of comparative negligence was unavailable in a claim based on wilful and wanton misconduct; however, the trial court noted that, had the defense been available, the court would have reduced plaintiff's damages award by 25 percent to reflect his comparative negligence in leaving the [***2]  racetrack. The Court of Appeals clarified that under our statutory scheme, comparative fault is relevant irrespective of whether the defendant's conduct was wilful and wanton. The panel nevertheless affirmed the trial court's judgment on the ground that defendants had failed to prove that plaintiff's conduct was causally related to his damages.
+I fully agree with the Court of Appeals' analysis of the relevant statutes and with its conclusion that the trial court erred to the extent that it determined that comparative fault could not be assessed against plaintiff's damages award because defendants' conduct was wilful and wanton. As the panel correctly held, Michigan's comparative fault statutes, particularly  [*938]  MCL 600.2957, 600.2959, and 600.6304, require allocation of liability among all persons--including the plaintiff--whose conduct was a proximate cause of the plaintiff's damages, regardless of whether the defendant's own conduct constituted wilful and wanton misconduct.
+Nevertheless, I would vacate that portion of the Court of Appeals' opinion in which the panel applied the statutory framework to the [***3]  facts of the case. The trial court found, as a matter of fact, that plaintiff was 25 percent at fault in causing the accident. An appellate court is not to substitute its own judgment for that of the trial court unless it finds that the trial court's factual findings are clearly erroneous. See MCR 2.613(C); Morris v Clawson Tank Co, 459 Mich. 256, 275, 587 N.W.2d 253 (1998). Rather than applying the appropriate, deferential standard of review to the trial court's factual findings, the Court of Appeals panel actually undertook a de novo review of the evidence and determined that plaintiff's conduct was neither a cause in fact nor a proximate cause of his injuries. 
+ As a matter of administrative control, this Court must take notice and act when the Court of Appeals so obviously improperly functions as a trier of fact. Accordingly, I dissent from the order denying leave to appeal, and I would instead remand this matter to the trial court for application of the appropriate statutory standard. 
+Taylor, J., joins in the statement of Young, Jr., J.  
+
+ 
+
+End of Document

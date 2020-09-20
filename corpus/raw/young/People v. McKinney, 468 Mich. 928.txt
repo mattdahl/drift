@@ -1,0 +1,50 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+People v. McKinney
+Supreme Court of Michigan
+June 27, 2003, Decided 
+SC: 122001 
+
+Reporter
+468 Mich. 928 *; 663 N.W.2d 469 **; 2003 Mich. LEXIS 1302 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellee, v ANTOINE MARIO McKINNEY, Defendant-Appellant.  
+Subsequent History: Reconsideration denied by People v. McKinney, 668 N.W.2d 906, 2003 Mich. LEXIS 2085 (Mich., 2003)
+On remand at PEOPLE v. MCKINNEY, 2004 Mich. App. LEXIS 2159 (Mich. Ct. App., Aug. 17, 2004)  
+Prior History:  [***1]  COA: 228530. Wayne CC: 99-010892.  
+People v. McKinney, 251 Mich. App. 205, 650 N.W.2d 353, 2002 Mich. App. LEXIS 674 (2002)  
+Disposition: Vacated and remanded.  
+  
+Judges: Corrigan, C.J., dissents. Weaver, J., joins in the dissent of Corrigan, C.J., and would deny leave to appeal. Young, Jr., J., joins in the dissent of Corrigan, C.J.    
+Opinion
+
+
+
+
+ [*928]   [**469]  By order of April 22, 2003, this Court directed the prosecutor to answer the delayed application for leave to appeal from the May 3, 2002 decision of the Court of Appeals. The prosecutor having responded, the delayed application is considered again, and pursuant to MCR 7.302(F)(1), in lieu of granting leave to appeal, we VACATE the judgment of the Court of Appeals and REMAND this case to the Court of Appeals, which shall, while retaining jurisdiction, remand this case to the Wayne Circuit Court for further fact finding regarding the issue whether defendant's statements should have been suppressed as the product of an illegal arrest.
+We do not retain jurisdiction.  
+Dissent by: Corrigan; Young  
+Dissent
+
+
+
+
+Corrigan, C.J., dissents and states as follows:
+I would deny leave to appeal in this case. The Court of Appeals majority properly declined to reach an issue that defendant did not raise. In the trial court and the Court of Appeals, defendant  [*929]  did not preserve the issues whether there was [***2]  an illegal arrest and whether his statements were inadmissible as "fruit of the poisonous tree." The dissenting judge in the Court of Appeals injected those issues and contended that reversal was required because the challenged statements were the fruit of an illegal arrest. A majority of this Court has now chosen to similarly inject an issue that defendant did not raise below. The majority fails to explain its disregard of well-settled preservation principles.
+Defendant's failure to preserve this issue is beyond contention. In the trial court, defendant moved to suppress his statements on an entirely different ground, i.e., the delay between his arrest and the arraignment, rather than on the ground that his arrest was lacking in probable cause. Defendant's written motion advanced no argument regarding the legality of his arrest. At the hearing on the motion, defense counsel orally suggested that the arrest was illegal, but his motion did not mention that issue. Moreover, he did not present one whit of testimony to prove that the arrest was lacking in probable cause. In my judgment, counsel's isolated remark during a hearing on a different issue was not adequate to preserve the [***3]  present claim. A party may not simply announce a position and leave it to the court to search for authority or develop arguments on the party's behalf.  Goolsby v Detroit, 419 Mich. 651, 655 n 1, 358 N.W.2d 856 (1984). Counsel had a duty to support the claim with a factual basis at  [**470]  the hearing. I would not excuse this procedural default.
+In addition, defendant did not timely advance an argument regarding the legality of his arrest in the Court of Appeals. The dissenting judge injected that issue, and defendant then raised the issue for the first time in a motion for rehearing. A party generally may not interpose issues for the first time in a motion for rehearing. See 5 CJS, Appeal and Error, § 684, p 95:
+Ordinarily, a rehearing may not be granted for the purpose of affording an opportunity to present new questions or issues, and, as a general rule, a rehearing cannot be had because of matters or questions different from those urged at the original hearing by the party seeking the rehearing. So, points which have been waived on the hearing, either expressly or by implication, will not be considered on a petition for rehearing.
+While departure from this general [***4]  rule may be appropriate in exceptional circumstances, id. at 95-96, defendant and the majority have failed to identify any such circumstances here.
+The reasons against granting a rehearing in such cases apply with particular force where the matters suggested are such as might have been raised on the original hearing in the appellate court, or where they should have been urged in the trial court before the appeal was taken. [Id. at 96.]
+ [*930]  Here, defendant plainly could have raised the issue of illegal arrest in the trial court or perhaps in his brief on appeal in the Court of Appeals. By rewarding defendant's untimely assertion of this issue, the majority ignores these fundamental principles of appellate law.
+In our system of trial and appeal, the trial is to be the main event, not the road show tryout for the Broadway show of the appeal.  Wainwright v Sykes, 433 U.S. 72, 53 L. Ed. 2d 594, 97 S. Ct. 2497 (1977). By giving defendant another chance to develop issues not asserted the first time, the Court has made the appeal the main event.
+An unpreserved constitutional error may be reviewed if the defendant meets the plain-error standard set forth in [***5]   People v Carines, 460 Mich. 750, 763, 597 N.W.2d 130 (1999). Defendant here has not met his burden of showing that a plain error occurred and that it affected his substantial rights. Id. Defendant received Miranda 1  warnings before every statement he made to the police. Defendant's statements were sufficiently an act of free will to purge any taint that may have existed, even assuming the arrest was illegal.  
+Even if a plain error occurred, defendant has not established prejudice as required by Carines, because he has not demonstrated that any error affected the outcome of the lower-court proceedings. Even without defendant's inculpatory statements, the evidence was sufficient to support his conviction. Accordingly, defendant has not satisfied the Carines plain-error standard.
+Weaver, J., joins in the dissent of Corrigan, C.J., and would deny leave to appeal.
+
+Dissent by: Robert P. Young
+In the recent history of this Court, we have attempted to instill constancy and clarity in our criminal jurisprudence by declining to engage in posthoc and inconsistent error correction and by requiring issue preservation as a prerequisite to obtaining relief. See, e.g.,  People v Carines, 460 Mich. 750, 764-765, 597 N.W.2d 130 (1999) (citation omitted) ("Requiring a  [**471]  contemporaneous objection provides the trial court 'an opportunity to correct the error, which could thereby obviate the necessity of further legal proceedings and would be by far the best time to address a defendant's constitutional and nonconstitutional rights.'") 
+In this case, we are granting relief on an issue that was unpreserved in both the trial court and the Court of Appeals. Granting relief in this manner serves as a disincentive to the observation of our more recent practice of requiring issue preservation. The majority's decision today undermines the finality of judgments.  
+
+ 
+
+End of Document

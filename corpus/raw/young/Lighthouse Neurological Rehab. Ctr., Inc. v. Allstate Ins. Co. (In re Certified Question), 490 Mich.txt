@@ -1,0 +1,51 @@
+
+  NeutralAs of: September 19, 2020 9:19 PM Z
+Lighthouse Neurological Rehab. Ctr., Inc. v. Allstate Ins. Co. (In re Certified Question)
+Supreme Court of Michigan
+December 2, 2011, Decided
+SC: 143287
+
+Reporter
+490 Mich. 922 *; 805 N.W.2d 449 **; 2011 Mich. LEXIS 2113 ***
+ IN RE CERTIFIED QUESTION FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF MICHIGAN;LIGHTHOUSE NEUROLOGICAL REHABILITATION CENTER, INC. and HURLEY MEDICAL CENTER, Plaintiffs, v ALLSTATE INSURANCE COMPANY, Defendant.  
+Subsequent History: Summary judgment granted by, Summary judgment denied by Lighthouse Neurological Rehab. Ctr., Inc. v. Allstate Ins. Co., 2012 U.S. Dist. LEXIS 30330 ( E.D. Mich., Mar. 7, 2012)  
+Prior History:  [***1] US Dist Court: 10-10154-BC.
+  
+Judges: Robert P. Young, Jr., Chief Justice. Michael F. Cavanagh, Marilyn Kelly, Stephen J. Markman, Diane M. Hathaway, Mary Beth Kelly, Brian K. Zahra, Justices. YOUNG, C.J. (concurring). MARKMAN, J. (dissenting).  
+Opinion
+
+
+
+
+  [*922]   [**449]  Order
+On order of the Court, the motion for leave to file brief amicus curiae is GRANTED. The questions certified by the United States District Court for the Eastern District of Michigan are considered, and the Court respectfully declines the request to answer the certified questions.
+Concur by: Robert P. Young, Jr.  
+Concur
+
+
+
+
+Young, C.J. (concurring).
+I decline to answer the questions certified by the United States District Court for the Eastern District of Michigan because I believe that Michigan Court of Appeals' caselaw1  has correctly construed MCL 500.3105(4) to require that an injured person subjectively [*923]  intend the injury, not merely the act, in order for an insurer to be relieved of its obligation to pay personal protection insurance benefits. MCL 500.3105(4) states:
+ [**450]  Bodily injury is accidental as to a person claiming personal protection insurance benefits unless suffered intentionally by the injured person or caused intentionally by the claimant. Even though a person knows  [***2] that bodily injury is substantially certain to be caused by his act or omission, he does not cause or suffer injury intentionally if he acts or refrains from acting for the purpose of averting injury to property or to any person including himself.
+The first sentence of the statutory provision clearly indicates that bodily injury is accidental "unless suffered intentionally by the injured person...." It is the injury that must be intentional, as the first sentence of the statute simply does not contemplate the injury-causing act or omission. The second sentence of the statutory provision is not an exception to the broad proclamation contained in the first sentence, but merely describes an injury that continues to be "accidental" under the No-Fault Act. Where a "person knows" that bodily injury is "substantially certain" to be caused by his actions, but he acts "for the purpose of averting injury  [***3] to property or to any person," the resulting injury is not intentional.2 
+I see no basis to conclude that an injury is suffered intentionally,  [***4] and that personal protection insurance benefits may be denied, where a person engages in an intentional act where injury is substantially certain to occur. Because I believe that Michigan Court of Appeals' caselaw accurately interprets the statutory provision, I respectfully decline to answer the certified questions.
+Finally, I wish to respond to the dissenting Justice's suggestion that the decision from the federal district court judge construing this statute "will effectively become the law of this state." I concede that the [*924]  federal judge has indicated that he might be inclined to ignore our published Court of Appeals precedent. However, contrary to the dissent's assertion, if the federal district court chooses to ignore the accurate interpretation of the statutory provision provided by Michigan Court of Appeals caselaw, such a decision will affect only the parties in that federal case. Until this Court overrules or modifies the relevant Court of Appeals caselaw, all Michigan courts are obligated to follow it. See MCR 7.215(C) and (J)(1).
+This legal fact alone explains why this Court should not expend its limited resources in an attempt to accommodate a federal court judge - even one  [***5] that indicates that he might be unwilling to follow caselaw that is binding on every court in Michigan.
+Dissent by: Stephen J. Markman  
+Dissent
+
+
+
+
+Markman, J. (dissenting).
+In dissenting from this Court's increasingly regular decisions not to certify questions from the federal courts, I can do little except to repeat my concerns as to [**451]  the cost of such decisions for sound constitutional government and the interests of Michigan and its citizens.
+When this Court, as it now does, refuses to answer a question certified to it by a federal court, the following consequences arise: (a) we undermine the interests of the people of this state in having significant questions of Michigan law resolved by courts which are accountable to the people of this state; (b) we erode the sovereign interests of this state in retaining control over the interpretation of its own laws, and transfer such control to a lower court of a different sovereign; (c) we weaken our system of judicial federalism in which even in those cases in which a federal court is authorized to apply state law, such court is obligated to defer to state court interpretations of that law; (d) we place Michigan on an unequal footing with the majority of other states  [***6] of the Union whose highest courts routinely answer certified questions and which employ the certification process as one important means by which to maintain the sovereign institutions and interests of their states; and (e) we fail to demonstrate comity and cooperation with a federal court, which is acting in the circumstances to show respect for the role of the state judiciary in giving authoritative meaning to the laws of its own state.
+The upshot of the majority's decision will be that an undecided, and significant, question of Michigan law will be decided, not by a judicial body established under the Constitution of this state, not by a judicial body accountable to the people of this state, and not by a judicial body comprised of judges selected by the people of this state, but by a federal district court . . . . And when the decision of that district court is finally rendered, it will not be only the litigants in that case who will be affected by our failure to have exercised our responsibility to maintain the integrity of our state institutions, but it will be the "general citizenry of Michigan, which in order to avoid litigation will tend to conform their conduct to what they  [***7] understand as current law [of Michigan], the law of the federal court[.]" In re Certified Question, 472 Mich 1225, 1238; 696 N.W.2d 687 (2005) (Markman, J.,  [*925]  dissenting). Unlike the great number of federal judicial decisions over recent decades that have tended to weaken the role of state judiciaries relative to their federal counterparts, today's weakening of judicial federalism is the result, not of a federal court decision, but of a state court decision. It is an entirely self-inflicted wound. [In re Certified Question, 489 Mich 870; 795 N.W.2d 815 (2011) (Markman, J., dissenting).]
+These concerns are especially pronounced in the instant case in which the federal district court has certified the question, yet in which there is a reasonably clear line of Michigan Court of Appeals precedents. See MCR 7.305(B)(1) (a federal court may certify a question to this Court "that Michigan law may resolve and that is not controlled by Michigan Supreme Court precedent") (emphasis added). Thus, although the concurring justice himself believes that "Michigan Court of Appeals' caselaw has correctly construed" the law in dispute, it now seems reasonably likely that a decision will ultimately emerge from the federal court that by  [***8] the concurring Justice's own lights: (a) is not in accord with the law of this state; (b) yet will effectively become the law of this state; and (c) will effectively become the law of this state, not by any decision of a court charged under the United States Constitution with authoritative jurisdiction over the interpretation of Michigan law, but by a decision of a federal court which has unsuccessfully sought out by its certified question the guidance of the highest court of this state.
+ [**452]  Here, the federal district court is acting in accordance with federal law in not necessarily deferring to Michigan Court of Appeals precedents. See Dale Baker Oldsmobile, Inc v Fiat Motors of North America, 794 F2d 213, 218 (CA 6, 1986) (federal courts are "not bound by a decision of an intermediate state appellate court when [they] are convinced that the highest state court would decide differently"). The federal district court has stated that it "is not obligated to follow Michigan Court of Appeals' interpretation of the statute," but rather must undertake a "considered educated guess as to what conclusion would most likely be reached on the issue by the Michigan Supreme Court," and "it is far from  [***9] clear that the Michigan Supreme Court, if it were to consider the issue, would adopt the Court of Appeals' [precedents]." In my judgment, the district court is acting responsibly, and respectfully toward the judicial system of this state, in attempting to avoid such speculation by certifying the present question. Indeed, it is demonstrating greater respect for the values of judicial federalism than is this Court itself in rejecting such certification.
+Which tribunal is in a better position to decide whether this Court would, in fact, decide the certified question differently than the Court of Appeals—the federal district court or this Court? And which tribunal is in a better position to give meaning to Michigan law—the federal district court or this Court? Because I believe, as does the [*926]  federal district court itself, that the answer to both of these questions is clearly this Court, I would grant the federal court's request to answer the certified question.
+
+ 
+
+End of Document

@@ -1,0 +1,60 @@
+
+  CautionAs of: September 19, 2020 9:20 PM Z
+Ward v. Mich. State Univ.
+Supreme Court of Michigan
+October 23, 2009, Decided
+SC: 138380
+
+Reporter
+485 Mich. 917 *; 773 N.W.2d 666 **; 2009 Mich. LEXIS 2402 ***
+ CARLA WARD and GARY WARD, Plaintiffs-Appellants, v. MICHIGAN STATE UNIVERSITY, Defendant-Appellee.  
+Subsequent History: On reconsideration by Ward v. Mich. State Univ., 2010 Mich. App. LEXIS 5 (Mich. Ct. App., Jan. 7, 2010)  
+Prior History:  [***1] COA: 281087. Ct of Claims: 05-000187-MZ.
+Ward v. Mich. State Univ., 2009 Mich. App. LEXIS 169 (Mich. Ct. App., Jan. 27, 2009)  
+Judges: Marilyn Kelly, Chief Justice. Michael F. Cavanagh, Elizabeth A. Weaver, Maura D. Corrigan, Robert P. Young, Jr., Stephen J. Markman, Diane M. Hathaway, Justices. KELLY, C.J. (concurring). YOUNG, J. (dissenting). MARKMAN, J. (dissenting). CORRIGAN and YOUNG, JJ., join the statement of MARKMAN, J.  
+Opinion
+
+
+
+
+  [**666]   [*917]  Order
+On order of the Court, the application for leave to appeal the January 27, 2009 judgment of the Court of Appeals is considered and, pursuant to MCR 7.302(H)(1), in lieu of granting leave to appeal, we VACATE the judgment of the Court of Appeals and we REMAND this case to that court for reconsideration of the defendant's appeal in light of this Court's order on reconsideration in Chambers v Wayne County Airport Authority, 483 Mich 1081; 765 N.W.2d 890 (2009). In all other respects, leave to appeal is DENIED, because we are not persuaded that the remaining question presented should be reviewed by this Court.
+Concur by: KELLY  
+Concur
+
+
+
+
+KELLY, C.J. (concurring).
+I concur in the order vacating the judgment of the Court of Appeals and remanding the case for reconsideration in light of this Court's order on reconsideration in Chambers v Wayne Co Airport Authority. 1  I write separately to address  [***2] the dissenting justices' claim that the Court, by remanding in light of Chambers, is ignoring Rowland v Washtenaw Co Rd Comm. 2  
+The dissenting justices show that the notice requirements of MCL 691.1406, the public building exception to governmental immunity, are similar to those of the highway exception statute. They conclude that, because the latter provision was at issue in Rowland, Rowland is controlling here. However, the highway exception statute is not involved here. This case involves the building exception to governmental immunity.  [*918]  While the dissenting justices may prefer to extend Rowland's reasoning beyond the facts and law involved in that case to those of this case, the Court is not required to do so. Rowland is not binding here.
+Moreover, the Court of Appeals based its decision in this case on this Court's December 19, 2008, order in Chambers. 3  We vacated that order on June 12, 2009, when addressing the plaintiff's motion for reconsideration. Thus, because the Court of Appeals relied on an order that is no longer controlling, the underpinning of its decision  [***3] has been swept away. Hence, the decision should be reconsidered in light of Chambers.
+Dissent by: YOUNG; MARKMAN  
+Dissent
+
+
+
+
+YOUNG, J. (dissenting).
+Only in the legal order of Chief Justice Kelly's creation would judges treat differently identical notice provisions that address the same topic--governmental immunity--and that appear in the same statute. To understand how disingenuous is Chief Justice Kelly's failure to apply this Court's interpretation of the highway exception to governmental immunity,  [**667]  MCL 691.1404(1), consistent with the nearly identical building exception to governmental immunity, MCL 691.1406, let me quote the two provisions side by side.
+The notice provision at issue in this case, MCL 691.1406, provides, in part:
+As a condition to any recovery for injuries sustained by reason of any dangerous or defective public building, the injured person, within 120 days from the time the injury occurred, shall serve a notice on the responsible governmental agency of the occurrence of the injury and the defect. The notice shall specify the exact location and nature of the defect, the injury sustained and the names of the witnesses known at the  [***4] time by the claimant.
+Rowland v Washtenaw Co Rd Comm, 477 Mich 197; 731 N.W.2d 41 (2007), applied the highway exception notice provision, MCL 691.1404(1), which provides:
+As a condition to any recovery for injuries sustained by reason of any defective highway, the injured person, within 120 days from the time the injury occurred . . . shall serve a notice on the governmental agency of the occurrence of the injury and the defect. The notice shall specify the exact location and nature of the defect, the injury sustained and the names of the witnesses known at the time by the claimant.
+The Legislature enacted both provisions as part of the same statute, 1964 PA 70, and they use nearly identical operative language. 4  Indeed, the only difference in the operative language of the two immunity provisions is that the word "responsible" modifies "governmental agency" in the public building exception to governmental immunity. This comparison corroborates Justice Markman's claim that the provisions are "nearly identically worded" and unmasks as false Chief Justice Kelly's  [*919]  claim that a difference in the provisions themselves distinguishes this Court's interpretation of the plain language of the notice requirement  [***5] in Rowland from the nearly identical notice requirement applicable to the instant case.
+In Rowland, we held that the plain language of a statute controls its interpretation and that, therefore, a requirement to provide written notice within 120 days as "a condition to any recovery" involving a highway defect must be enforced. Rowland, 477 Mich at 201. Here, the public building exception requires the identical 120-day written notice to the governmental agency. There is no question in this case that no notice was "served" on the defendant within 120 days of the injury.
+None but the naive should be deceived that there is any reason to avoid applying in this case the plain language of the statute or Rowland's analysis of the nearly identical sibling governmental immunity provision. Chief Justice Kelly's idea that nearly identical provisions in the same statute should receive different constructions because they concern different aspects of governmental immunity would be laughable were it not so destructive to the development  [***6] of the predictable rule of law. The plain truth is that Chief Justice Kelly and her majority dislike the limitation that the Legislature has placed on lawsuits against governmental entities but refuse to say so openly. She is thus forced into a dodge that cannot sustain scrutiny. If her argument were a real one, Chief Justice Kelly would explain what textual difference in these two immunity provisions justifies a different construction and thus result. She does not because she cannot.
+ [**668]  MARKMAN, J. (dissenting).
+On March 12, 2004, a hockey puck struck plaintiff in the eye at a college hockey game at Michigan State University's Munn Ice Arena. She claims that a section of the protective plexiglas around the rink was missing, and if it had not been missing she would not have been injured. Plaintiff brought suit against Michigan State University under the public building exception of the governmental tort liability act (GTLA), MCL 691.1406. Defendant moved for summary disposition based on governmental immunity and lack of statutory notice. The trial court denied defendant's motion for summary disposition and defendant's motion for reconsideration. The Court of Appeals reversed, concluding  [***7] that plaintiff had not satisfied the statutory notice provision.
+The notice provision of MCL 691.1406 states in relevant part:
+As a condition to any recovery for injuries sustained by reason of any dangerous or defective public building, the injured person, within 120 days from the time the injury occurred, shall serve a notice on the responsible governmental agency of the occurrence of the injury and the defect. The notice shall specify the exact location and nature of the defect, the injury sustained and the names of the witnesses known at the time by the claimant.
+The notice may be served upon any individual, either personally, or by certified mail, return receipt requested, who may lawfully be served with civil process directed against the responsible  [*920]  governmental agency, anything to the contrary in the charter of any municipal corporation notwithstanding.
+Interpreting the notice requirements of the highway exception statute, MCL 691.1404(1), which are nearly identically worded to those of the public building exception statute, MCL 691.1406, this Court stated that "the plain language of this statute should be enforced as written." Rowland v Washtenaw Co Rd Comm, 477 Mich 197, 200; 731 N.W.2d 41 (2007).  [***8] Thus, when a statute requires notice within 120 days, it means 120 days. And when a statute requires notice to be served on an individual who may be lawfully served with civil process, it means that actual notice must be served on someone within the governmental agency who has the authority to accept service.
+Chief Justice Kelly contends that, because the highway exception and the public building exception statutes are different provisions, the nearly identical wording of their notice requirements should be interpreted differently. However, both provisions: (a) require notice "within 120 days from the time the injury occurred"; (b) require that the injured person "shall serve a notice upon the [responsible] governmental agency of the occurrence of the injury and the defect"; and (c) require that such notice be served upon an individual "who may lawfully be served with civil process." That these separate provisions can be found on different pages of the Michigan Code is hardly a basis for failing to treat the interpretation of one as dispositive of the interpretation of the other. Chief Justice Kelly's basis for differentiating between these provisions is simply incompatible with a rational  [***9] judicial process.
+In the instant case, more than nine months after the hockey game in which plaintiff was injured, plaintiff's counsel, in a December 30, 2004, letter addressed to "MSU Munn Ice Arena," alerted the "Arena" that his "office represents Carla Ward in the matter of personal injuries she sustained as a result of an automobile accident on the above date." (Emphasis added.) Contrary to the requirements of the public building exception of the GTLA, this letter failed to specify: (a) "the exact location"; (b) the "nature of the defect"; (c)  [**669]  "the injury sustained"; and (d) any "names of witnesses known." MCL 691.1406. Further, the letter was not "served upon any individual . . . who may lawfully be served with civil process" as required by MCL 691.1406. Moreover, even assuming the letter provided sufficient notice to defendant, it arrived more than five months after the statutory 120-day period had lapsed.
+By remanding to the Court of Appeals for reconsideration, this Court continues to chip away at clearly stated statutory notice requirements. See, e.g., Beasley v Michigan, 483 Mich. 1025, 765 N.W.2d 608 (2009); Chambers v Wayne Co Airport Auth, 483 Mich 1081, 1081-1082; 765 N.W.2d 890 (2009). While it appears  [***10] that the judicial winds may have changed on statutory notice requirements, Rowland remains as Michigan law on this issue. Because the Court of Appeals applied the clear language of MCL 691.1406 in determining that defendant is entitled to summary disposition, I would deny leave to appeal.
+CORRIGAN and YOUNG, JJ., join the statement of MARKMAN, J.
+
+ 
+
+End of Document

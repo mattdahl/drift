@@ -1,0 +1,41 @@
+
+  NeutralAs of: September 19, 2020 7:48 PM Z
+Revels v. Sanders
+United States Court of Appeals for the Eighth Circuit
+June 5, 2008, Decided
+No. 06-3052
+
+Reporter
+531 F.3d 724 *; 2008 U.S. App. LEXIS 28034 **
+ Frederick Lee Revels, Appellant v. Mary Sanders, Appellee  
+Prior History:  [**1] Appeal from U.S. District Court for the Western District of Missouri - Kansas City. (4:05-cv-01140-NKL).
+Revels v. Sanders, 519 F.3d 734, 2008 U.S. App. LEXIS 5070 (8th Cir. Mo., 2008)  
+Counsel: For Frederick Lee Revels, Petitioner - Appellant: Elizabeth Unger Carlyle, Columbus, MS. 
+Frederick Lee Revels, Petitioner - Appellant, Pro se, Kansas City, KS. 
+For Mary Sanders, Respondent - Appellee: Stephen David Hawke, Assistant Attorney General, ATTORNEY GENERAL'S OFFICE, Jefferson City, MO.  
+Judges: COLLOTON, Circuit Judge, with whom LOKEN, Chief Judge, WOLLMAN and GRUENDER, Circuit Judges, join, dissenting from denial of rehearing en banc.  
+Opinion
+
+
+
+
+  [*724]  ORDER
+The petition for rehearing en banc is denied. The petition for rehearing by the panel is also denied. Judge Duane Benton took no part in the consideration or decision of this matter.
+Dissent by: COLLOTON  
+Dissent
+
+
+
+
+COLLOTON, Circuit Judge, with whom LOKEN, Chief Judge, WOLLMAN and GRUENDER, Circuit Judges, join, dissenting from denial of rehearing en banc.
+I would grant rehearing to consider the panel's conclusion that Frederick Revels, an insanity acquittee who killed his grandmother, sister, and nephew with a pipe wrench in 1988, should be granted an unconditional release from state custody. See Revels v. Sanders, 519 F.3d 734 (8th Cir. 2008). The panel held that the Missouri  [**2] Court of Appeals unreasonably applied Foucha v. Louisiana, 504 U.S. 71, 112 S. Ct. 1780, 118 L. Ed. 2d 437 (1992), when it stated a requirement that "'a person seeking unconditional release must show that he is not likely to suffer from a mental disease or defect in the reasonable future,'" 519 F.3d at 738 (quoting State v. Revels, No. WD64433, slip op. at 3 (Mo. Ct. App. Aug. 16, 2005)), as opposed to a rule that the person must show only that he is presently free from mental disease or defect. Id. at 742-43. The panel thus declared unreasonable the unanimous decision of the Supreme Court of Missouri that the Missouri statutes regarding unconditional release of an insanity acquittee, Mo. Rev. Stat. §§ 552.040.7(6), 552.040.9, are consistent with the holding of Foucha, and particularly Justice O'Connor's controlling concurrence. See State v. Revels, 13 S.W.3d 293, 296 (Mo. 2000) (citing Foucha, 504 U.S. at 86-90 (O'Connor, J., concurring in part and in judgment)). 1  
+ [*725]  The panel's conclusion that the Missouri statutes are unconstitutional, standing alone, may well present a question of exceptional importance sufficient to justify en banc consideration. But the more compelling reason for rehearing in this case is that the state court decisions denying Revels unconditional release do not even hinge on a requirement that he demonstrate no likelihood of future mental disease or defect. The state courts ruled that Revels failed to show that he does not presently suffer from a mental disease or defect. The Jackson County Circuit Court found that Revels "has a mental disease which is in remission." State v. Revels, No. CR88-3050, slip op. at 6 (Mo. Cir. Ct. Aug. 30, 2004) (emphasis added).  [**4] The Missouri Court of Appeals held that "the record supports the trial court's . . . finding[ ] that Revels did not prove by clear and convincing evidence that . . . he does not presently have a mental disease or defect." Revels, No. WD64433, slip op. at 4 (emphasis added). The matter of future mental disease or defect was unnecessary to the state court decisions.
+The panel did not dispute that a reasonable application of Foucha permits a State to deny unconditional release based on a finding of present mental disease or defect, together with a finding of dangerousness, even if the acquittee presently shows no symptoms of the mental disease. See United States v. Weed, 389 F.3d 1060, 1073 (10th Cir. 2004); United States v. Murdoch, 98 F.3d 472, 476 (9th Cir. 1996); State v. Huss, 666 N.W.2d 152, 160 (Iowa 2003); see also State v. Nash, 972 S.W.2d 479, 483 (Mo. Ct. App. 1998) (ordering release of acquittee, but emphasizing that "this is not a case where the mental disease or defect was in remission or was currently asymptomatic"). Nonetheless, the panel ruled that it was compelled to disregard the state court's finding of present mental disease or defect, because an administrative panel  [**5] of this court granted Revels a certificate of appealability on a different question. Revels, 519 F.3d at 743. The certificate asked whether the Missouri Court of Appeals unreasonably applied Foucha by concluding that Revels must also show he was not likely to have a mental disease or defect in the future, id. at 739, and the panel held that the state court's finding of present mental disease was thus not before this court. Id. at 743.
+This novel interpretation of the effect of a certificate of appealability warrants further review. To be sure, we have held that a habeas petitioner may not seek relief in the court of appeals based on an issue that is not encompassed within a certificate of appealability. Carter v. Hopkins, 151 F.3d 872, 874 (8th Cir. 1998); Ramsey v. Bowersox, 149 F.3d 749, 759-60 (8th Cir. 1998). These decisions enforce the statutory limitation on when "an appeal may . . . be taken" in a habeas corpus proceeding. 28 U.S.C. § 2253(c). But we have never held that, if for some reason a certificate of appealability is granted to consider the soundness of a state court's dicta or alternative holding, then this court must blind itself to the fact that the state court also  [**6] justified its decision on an independent ground that is consistent with the Constitution and decisions of the Supreme Court. To give that effect to a certificate  [*726]  of appealability conflicts with the statutory command that an application for a writ of habeas corpus "shall not be granted" unless the state court's adjudication resulted in "a decision" that is contrary to, or involves an unreasonable application of, clearly established federal law, or that is based on an unreasonable determination of the facts. 28 U.S.C. § 2254(d). 2  
+In his response to the petition for rehearing, Revels does not defend the panel's rationale. Revels argues instead that he should be granted unconditional release because the Missouri courts did not find that he is dangerous. On the question of dangerousness, the state circuit court found that "[t]he evidence requires that defendant  [**7] not be released because he has not shown he is not likely to be dangerous." Revels, No. CR88-3050, slip op. at 5. The state court of appeals held that the record supports the trial court's finding that Revels "remains potentially dangerous to himself and others due to his drug and alcohol dependence and prior abuse of drugs and alcohol." Revels, No. WD64433, slip op. at 4. The court of appeals further observed that Revels "exhibited aggressive behavior while confined (verbally lashing out at a department case manager and using profanity)." Id. The panel did not question the State's contention that Revels is dangerous. If alleged lack of dangerousness is the only potential ground on which to order the unconditional release of a triple killer who was acquitted based on mental disease or defect, then the decision of the state courts on dangerousness should be considered directly by this court before such a significant writ of habeas corpus is granted.
+For these reasons, I respectfully dissent from the order denying the petition for rehearing en banc.
+June 05, 2008
+
+ 
+
+End of Document

@@ -1,0 +1,347 @@
+
+  CautionAs of: September 19, 2020 9:08 PM Z
+State v. Kirby
+Supreme Court of Minnesota
+July 26, 2017, Filed
+A15-0117
+
+Reporter
+899 N.W.2d 485 *; 2017 Minn. LEXIS 435 **; 2017 WL 3161079
+ State of Minnesota, Respondent, vs. Michael William Kirby, Appellant.  
+Prior History:  [**1] Court of Appeals.
+State v. Kirby, 2016 Minn. App. Unpub. LEXIS 681 (Minn. Ct. App., July 18, 2016)  
+Disposition: Sentence vacated; remanded.
+  
+Syllabus
+
+
+
+
+The amelioration doctrine requires the resentencing of a person whose conviction was not yet final on the effective date of section 18(b) of the Drug Sentencing Reform Act.
+Counsel: Lori Swanson, Attorney General, Michael Everson, Assistant Attorney General, Saint Paul, Minnesota; and Daniel A. McIntosh, Steele County Attorney, Owatonna, Minnesota, for respondent. 
+Cathryn Middlebrook, Chief Appellate Public Defender, Steven P. Russett, Assistant Public Defender, Saint Paul, Minnesota, for appellant. 
+Robert Small, Executive Director, Minnesota County Attorneys Association, Saint Paul, Minnesota; and Phillip D. Prokopowicz, Assistant Dakota County Attorney, Hastings, Minnesota, for amicus curiae Minnesota County Attorneys Association.  
+Judges: Lillehaug, J. Dissenting, Anderson, J., Gildea, C.J., Stras, J.  
+Opinion
+
+
+
+
+ [*487]  LILLEHAUG, Justice.
+Appellant Michael William Kirby was sentenced to 161 months in prison for first-degree possession of methamphetamine, Minn. Stat. § 152.021, subd. 2(a)(1) (2014). While his case was on appeal, the Drug Sentencing Reform Act (DSRA) took effect. See Act of May 22, 2016, ch. 160, 2016 Minn. Laws 576. The DSRA reduced the presumptive sentencing range under the Minnesota Sentencing Guidelines drug [**2]  offender sentencing grid for Kirby's crime. Kirby asks that he be resentenced under the sentencing grid as amended by the DSRA. Because we conclude that such resentencing is required, we vacate Kirby's sentence and remand to the district court.
+ FACTS
+On November 22, 2013, a Steele County Deputy arrested Kirby for possession of 70.525 grams of methamphetamine and 217.55 grams of marijuana. He was charged with first-degree possession of methamphetamine and fifth-degree possession of marijuana. A jury found him guilty of both counts.
+The case proceeded to sentencing. Kirby had a criminal history score of seven. Under the sentencing grid in effect at the time of Kirby's offense, the presumptive sentencing range was 138 to 192 months. See Minn. Sent. Guidelines 4.A (2013).1  On October 22, 2014, the district court sentenced Kirby to 161 months in prison for first-degree possession of methamphetamine.
+Kirby appealed his case. While his appeal was pending, the Legislature passed, and the Governor signed, the DSRA, which reduced the presumptive sentencing range for Kirby's offense from 138 to 192 months to 110 to 153 months. See Act of May 22, 2016, ch. 160, § 18, 2016 Minn. Laws 576, 590-91; Minn. Sent. Guidelines 4.C [**3]  (2016). The DSRA was the product of input by diverse constituent groups within the criminal justice system, including county attorneys and criminal defense attorneys. The DSRA distinguishes between low-level, non-violent drug offenders and high-level, dangerous drug dealers by reducing sentences for the former class of offenders. See generally Act of May 22, 2016, ch. 160, 2016 Minn. Laws at 576-92. In turn, these reduced sentences are expected to reduce prison populations and prison costs, the savings from which will be used to fund a "Community Justice Reinvestment Account." Id. § 14, 2016 Minn. Laws at 588. Those funds are available to:
+[l]ocal units of government and nonprofit organizations . . . for grants to establish or operate chemical dependency and mental health treatment programs, programs that improve supervision, including pretrial and precharge supervision, and programs to reduce recidivism of controlled substances offenders on probation or supervised release or participating in drug courts or to fund local participation in drug court initiatives.
+Id., subd. 2.
+As relevant here, the DSRA changed the controlled-substance laws in several  [*488]  ways. First, the DSRA reduced the presumptive sentencing [**4]  ranges for first-degree controlled-substance crimes. Id. § 18, 2016 Minn. Laws at 590-91. That section became "effective the day following final enactment," which occurred when the governor signed the act on May 22, 2016. Id. Second, the DSRA increased the weight thresholds necessary for first-, second-, and third-degree possession of methamphetamine. Id. §§ 3-5, 2016 Minn. Laws at 577-82. Those sections became "effective August 1, 2016, and appl[y] to crimes committed on or after that date." Id. Third, the DSRA added aggravating factors that could be used to increase the degree of an offense for selling or possessing methamphetamine. Id. §§ 2-5, 2016 Minn. Laws at 576-83. Those sections became "effective August 1, 2016, and appl[y] to crimes committed on or after that date." Id. Finally, the DSRA created a new category of aggravated first-degree controlled-substance crimes. Id. § 3, subd. 2b, 2016 Minn. Laws at 577-79. That change became "effective August 1, 2016, and applies to crimes committed on or after that date." Id.
+Kirby appealed, challenging evidentiary rulings and the sufficiency of the evidence. On July 18, 2016, the court of appeals affirmed Kirby's convictions. State v. Kirby, No. A15-0117, 2016 Minn. App. Unpub. LEXIS 681, 2016 WL 3884245 (Minn. App. filed July 18, 2016). Due to the timing of the appeal and the effective date of [**5]  the DSRA, the court of appeals was not able to consider the issue before us. We granted Kirby's petition for review on the issue we now decide: whether he is entitled to be resentenced under the sentencing grid as amended by the DSRA.
+ ANALYSIS 
+I. 
+A.
+At the outset, it is important to understand what this case is not about: retroactivity. A change in law is considered to be retroactive when it applies to cases in which final judgment has already been entered. See Welch v. United States,     U.S.    ,    , 136 S. Ct. 1257, 1264, 194 L. Ed. 2d 387 (2016) (discussing the applicability of retroactivity to "'cases which have become final'" (quoting Teague v. Lane, 489 U.S. 288, 310, 109 S. Ct. 1060, 103 L. Ed. 2d 334 (1989))).
+Instead, this case is about amelioration. The amelioration doctrine applies to cases that are not yet final when the change in law takes effect. See State v. Coolidge, 282 N.W.2d 511, 514-15 (Minn. 1979) (discussing the applicability of an amended statute "as long as no final judgment has been reached"). A creature of common law, the doctrine is of long standing. See, e.g., Commonwealth v. Wyman, 66 Mass. (12 Cush.) 237, 239, 12 Cush. 237 (Mass. 1853) (citing Calder v. Bull, 3 U.S. 386, 1 L. Ed. 648, 3 Dall. 386 (1798)) (holding that "an act plainly mitigating the punishment of an offence" applied to cases that were not yet final); People v. Hayes, 140 N.Y. 484, 35 N.E. 951, 952-53, 9 N.Y. Cr. 24 (N.Y. 1894) (holding that the mitigating law applied "to offenses committed before its passage" where "a criminal case . . . is not yet final").2 
+ [*489]  The question is whether the amelioration doctrine applies to Kirby, whose conviction was not yet final when the DSRA took effect. Although we have not used the phrase "amelioration doctrine" previously, four of our prior cases have followed and analyzed the doctrine. See Edstrom v. State, 326 N.W.2d 10 (Minn. 1982); Ani v. State, 288 N.W.2d 719 (Minn. 1980); State v. Hamilton, 289 N.W.2d 470 (Minn. 1979); Coolidge, 282 N.W.2d 511. Coolidge and Edstrom are particularly relevant to the question before us.
+In Coolidge, the defendant was convicted of criminal sexual conduct and sentenced to 10 years in prison. Coolidge, 282 N.W.2d at 512. Before final judgment was entered, the Legislature repealed and replaced the statute under which Coolidge was convicted, reducing the maximum sentence for his conduct from 10 years to 1 year. Id. at 512-14; see also Act of May 19, 1977, ch. 130, §§ 4, 10, 1977 Minn. Laws 220, 221-23. The act stated that the changes became effective "the day after final enactment," but it did not say whether the changes applied to offenses committed before the effective date. Act of May 19, 1977, ch. 130, § 11, 1977 Minn. Laws at 223. We stated:
+Under common law, the well-settled principle is that where criminal law in effect is repealed, absent a savings clause, all prosecutions are barred where not reduced to a final judgment. It is also true that a statute mitigating punishment is applied to acts [**7]  committed before its effective date, as long as no final judgment has been reached. The rationale for such a rule is that the legislature has manifested its belief that the prior punishment is too severe and a lighter sentence is sufficient. Nothing would be accomplished by imposing a harsher punishment, in light of the legislative pronouncement, other than vengeance.
+Coolidge, 282 N.W.2d at 514-15 (footnote and citations omitted).
+Applying these principles, we noted that "the law under which defendant was convicted was amended in part and repealed after the defendant's illicit acts were committed but before a final judgment had been reached." Id. at 515. We then concluded, "in light of the common law and the weight of greater logic, defendant should have been sentenced under the present law, which provides a maximum prison term of 1 year." Id. We ordered that the sentence be reduced accordingly. Id.
+In Coolidge, the Legislature was silent on whether the statutory change should be given ameliorative effect. Edstrom, by contrast, demonstrates the Legislature's ability to state its intent to abrogate the amelioration doctrine. In Edstrom, the defendant was convicted of aggravated rape and sentenced to 30 years in prison. 326 N.W.2d at 10. Before [**8]  final judgment was entered,  [*490]  the Legislature enacted a new criminal sexual conduct statute that covered Edstrom's conduct but carried only a 20-year prison sentence. See id.; see also Act of June 5, 1975, ch. 374, § 3, 1975 Minn. Laws 1243, 1245-46. The new statute, however, included a clause captioned, "Applicability to Past and Present Prosecutions," which stated, in relevant part, that "crimes committed prior to the effective date of this act are not affected by its provisions." Act of June 5, 1975, ch. 374, § 12, 1975 Minn. Laws at 1251. Edstrom's conduct occurred in March 1975, while the statute did not take effect until August of that year. See Edstrom, 326 N.W.2d at 10.
+In considering the effect of the statutory clause, we stated, "In Coolidge, we ruled that a statute mitigating punishment is to be applied to acts committed before its effective date, as long as no final judgment has been reached, at least absent a contrary statement of intent by the legislature." Id. We then determined that, in the act at issue in Edstrom, the Legislature had "clearly indicated its intent" that the amendments not apply to crimes committed prior to the effective date of the act. Id. Thus, we concluded that Edstrom was not entitled to the benefit of the [**9]  new statute, which set a lower sentence for the crime that Edstrom had committed. Id.
+Reading Coolidge and Edstrom together, our rule of law is clear. An amended statute applies to crimes committed before its effective date if: (1) there is no statement by the Legislature that clearly establishes the Legislature's intent to abrogate the amelioration doctrine; (2) the amendment mitigates punishment; and (3) final judgment has not been entered as of the date the amendment takes effect.
+B.
+We now consider Kirby's case. Our precedent requires that he be resentenced under the DSRA-amended sentencing grid only if: (1) the Legislature made no statement that clearly establishes the Legislature's intent to abrogate the amelioration doctrine; (2) the amendment mitigated punishment; and (3) final judgment had not been entered as of the date the amendment took effect. The parties agree that the third requirement is satisfied, but dispute the first two requirements. We consider each in turn.
+1.
+The State acknowledges that the amelioration doctrine establishes a presumption in Minnesota that an amendment mitigating punishment applies to non-final cases. But the State argues that the presumption is "overcome [**10]  by contrary legislative intent" in this case. Kirby argues that there is no such clear indication of the Legislature's intent to abrogate the amelioration doctrine.
+The effective-date provision for DSRA § 18 states, "This section is effective the day following final enactment." Act of May 22, 2016, ch. 160, § 18, 2016 Minn. Laws at 591. This effective-date provision is almost identical to the language in the act that we interpreted in Coolidge. Compare Act of May 19, 1977, ch. 130, § 11, 1977 Minn. Laws at 223 (stating that the act is "effective the day after final enactment"), with Act of May 22, 2016, ch. 160, § 18, 2016 Minn. Laws at 591 (stating that DSRA § 18 is "effective the day following final enactment"). We determined that the act containing this language did not abrogate the common-law amelioration doctrine. Coolidge, 282 N.W.2d at 514-15.
+The Legislature has instructed us that, "when a court of last resort has construed the language of a law, the legislature in subsequent laws on the same subject matter intends the same construction to be placed upon such language." Minn. Stat. § 645.17(4)  [*491]  (2016). Thus, when the Legislature enacted language in DSRA § 18 mirroring the language of the act that we interpreted in Coolidge, we may assume that the Legislature intended the DSRA to carry the same meaning as the act at issue in Coolidge [**11] .
+Moreover, the Legislature knows how to expressly abrogate the amelioration doctrine, as it did in the act at issue in Edstrom, 326 N.W.2d at 10. There is no language in DSRA § 18 that resembles the language at issue in Edstrom. See Act of June 5, 1975, ch. 374, § 12, 1975 Minn. Laws at 1251 (titled "Applicability to Past and Present Prosecutions," and stating, "Except for section 8 of this act, crimes committed prior to the effective date of this act are not affected by its provisions"). Here, the Legislature has not "clearly indicated its intent," like it did in the act before us in Edstrom, to abrogate the amelioration doctrine. Edstrom, 326 N.W.2d at 10.
+To the contrary (and perhaps most importantly), the Legislature expressly stated in other sections of the DSRA that those sections only "appl[y] to crimes committed on or after" the effective date. See Act of May 22, 2016, ch. 160, §§ 1-10, 15-17, 2016 Minn. Laws at 576-85, 588-90. The absence of such language from DSRA § 18 is telling; it signals that the Legislature did not intend to abrogate the amelioration doctrine. See Rohmiller v. Hart, 811 N.W.2d 585, 590-91 (Minn. 2012) (stating that the court cannot add to a statute words that were intentionally or inadvertently left out by the Legislature); Van Asperen v. Darling Olds, Inc., 254 Minn. 62, 93 N.W.2d 690, 698 (Minn. 1958) (stating that the court construes a law as a whole and interprets each section in light of the surrounding sections).
+The State nevertheless [**12]  argues that the Legislature did, indeed, abrogate the amelioration doctrine in DSRA § 18. It lists five reasons in support of its view.3  First, the State argues that Coolidge-Edstrom is limited to legislation that reduces the statutory maximum sentence that may be imposed, and does not, therefore, apply to the presumptive sentences in the Guidelines. It is true that all four of our amelioration doctrine cases involved sentences that predated the Guidelines. But analysis of how the sentencing grids in the Guidelines are amended by the Legislature and applied by sentencing judges shows that the same reasoning that controlled in Coolidge and Edstrom applies to the sentencing grids as well.
+The operative language from Edstrom is that the amelioration doctrine applies to "a statute mitigating punishment." Edstrom, 326 N.W.2d at 10. The DSRA amended criminal drug-possession statutes and specific corresponding portions of the drug-offender sentencing grid. See generally Act of May 22, 2016, ch. 160, 2016 Minn. Laws at 576-92. And changes to sentencing grids must be approved (by vote or by failure to vote) by the Legislature. See Minn. Stat. § 244.09, subd. 11 (2016) ("Any modification which amends the Sentencing Guidelines grid . . . shall [**13]  be submitted to the legislature . . . ."). The sentencing grid constitutes the "statutory maximum" sentence a court can impose absent additional facts found by a jury. State v. Shattuck, 704 N.W.2d 131, 137, 141-42 (Minn. 2005). Accordingly, the amelioration doctrine applies to legislation amending the sentencing grids with the  [*492]  same force as to laws amending criminal statutes.
+Second, the State argues that the effective date of DSRA § 18 is different from the other sections of the DSRA because the Legislature was merely instructing the Minnesota Sentencing Guidelines Commission, rather than itself amending a statute. We do not consider this a meaningful distinction. After the DSRA was passed by the Legislature and signed by the Governor, all that was left for the Commission to do was the ministerial task of revising the Guidelines as instructed.4 
+Third, the State argues that the DSRA's legislative history includes a statement of intent to abrogate the amelioration doctrine. But legislative history is relevant only if the statute is ambiguous. State v. McKown, 475 N.W.2d 63, 66 (Minn. 1991). Here, the plain language of DSRA § 18 is unambiguous in light of Coolidge. Moreover, other provisions of the DSRA provide a stark contrast to DSRA § 18 in the way they deal with the amelioration doctrine. And in all four of our [**14]  cases applying the amelioration doctrine, we have looked solely at the text of the law—not legislative history—to determine whether there was a contrary statement of intent by the Legislature. See Edstrom, 326 N.W.2d at 10; Ani, 288 N.W.2d at 720; Hamilton, 289 N.W.2d at 474-75; Coolidge, 282 N.W.2d at 514-15.
+But even if we were to consider the legislative history cited by the State, we cannot locate any statement showing a clear intent to abrogate the amelioration doctrine. Specifically, the State points to the Judiciary Committee's closing comments on the DSRA, during which the bill's author, Senator Ron Latz, stated: "There's stuff I wanted that's not in here. I wanted retroactivity—the opportunity for current incarcerated persons to be able to petition, to bring a motion to the district court to get resentenced under any new guidelines that take effect . . . . I didn't get [that]." Hearing on S.F. 3481, Sen. Judiciary Comm., 89th Minn. Leg., Apr. 8, 2016 (video) (statement of Sen. Latz), at 4:33:00-4:33:30.5 
+We read this statement to refer to retroactivity, not amelioration. The comment about "current incarcerated persons" seems to refer to offenders finally adjudged and serving their prison sentences. This statement comes nowhere close to showing that the Legislature "clearly [**15]  indicated its intent" to abrogate the amelioration doctrine. See Edstrom, 326 N.W.2d at 10.
+Fourth, the State and the dissent argue that the Guidelines themselves—specifically Guidelines 3.G and the introduction to Guidelines 2—constitute a statement of intent by the Legislature to abrogate the doctrine. But these portions of the Guidelines—unlike the DSRA amendments to the drug offender sentencing grid—were adopted by the Sentencing Commission, not by the Legislature. Compare Minn. Stat. § 244.09, subd. 5 (2016) ("The Commission shall promulgate Sentencing Guidelines for the district court."), with id., subd. 11 (stating that the Commission is required to obtain the Legislature's approval only for modifications which amend the "Sentencing Guidelines grid"). In contrast, the Commission is required to obtain the Legislature's approval to modify the "Sentencing Guidelines grid, including severity levels and criminal history scores, or  [*493]  which would result in the reduction of any sentence or in the early release of any inmate." Id., subd. 11. We have never ruled—and decline to rule today—that the amelioration doctrine may be abrogated by Commission statements not ratified by the Legislature.
+In any event, neither portion of the Guidelines abrogates [**16]  the amelioration doctrine. The rules of statutory interpretation and construction apply to the Guidelines. State v. Campbell, 814 N.W.2d 1, 4 (Minn. 2012). Thus, we read them as a whole and interpret each section in light of the surrounding sections. Van Asperen, 93 N.W.2d at 698.
+Guidelines 3.G discusses how to apply "Policy Modifications" to the Guidelines:
+1. Policy Modifications. Modifications to the Minnesota Sentencing Guidelines and associated commentary apply to offenders whose date of offense is on or after the specified modification effective date.
+2. Clarifications of Existing Policy. Modifications to Commentary relating to existing Guidelines policy apply to offenders sentenced on or after the specified effective date.
+Minn. Sent. Guidelines 3.G.
+Reading the Guidelines as a whole, the phrase "Policy Modifications" plainly refers to modifications to Guidelines 1 through 3, not to Guidelines 4, the sentencing grids. Sentencing "policy" is covered in Guidelines 1 through 3. For example, Comment 2.B.115 to Guidelines 2.B.1 discusses "[a]ll of the policies under section 2.B.1, and corresponding commentary." Minn. Sent. Guidelines 2.B.1 cmt. 2.B.115. Those policies explain, among other things, how to account for extended-jurisdiction juvenile convictions, multiple sentences [**17]  based on a single course of conduct, prior felony convictions that resulted in misdemeanor sentences, and stays of imposition. See generally Minn. Sent. Guidelines 2.B.1. Similarly, Guidelines 2.C.3.e mentions the "presumptive sentencing consecutive policy (see section 2.F.1, Presumptive Consecutive Sentences)." Minn. Sent. Guidelines 2.C.3.e. In turn, Guidelines 2.F provides the policy for an offender who is convicted of "multiple current offenses" or has a "prior felony sentence that has not yet expired or been discharged" at the time of sentencing. Minn. Sent. Guidelines 2.F. Further, Guidelines 3, aptly titled "Related Policies," addresses stayed sentences, calculation of jail credit, certified juveniles, presentence examinations for sex offenders, military veterans, and modifications. See generally Minn. Sent. Guidelines 3. Finally, even when a sentencing grid mentions "policy," it plainly refers to Guidelines 1 through 3, not the sentencing grid itself. Minn. Sent. Guidelines 4.A n.1 ("See section 2.E, for policies regarding those sentences controlled by law.").
+Throughout the Guidelines, the term "policy" is never used in reference to the sentencing grids. The most reasonable interpretation of Guidelines 3.G [**18] , then, is that it applies to Guidelines 1 through 3, not the sentencing grids in Guidelines 4. Thus, Guidelines 3.G does not abrogate the amelioration doctrine as to the presumptive sentences in the grid.
+The State and dissent also point to the introduction to Guidelines 2 as a statement of intent to abrogate the amelioration doctrine. This introduction states: "The presumptive sentence . . . is determined by the Sentencing Guidelines in effect on the date of the conviction offense . . . ." Minn. Sent. Guidelines 2. We do not read this language to abrogate the amelioration doctrine; we read it to ensure that the Guidelines abide by the federal and state Ex Post Facto Clauses. See U.S. Const. art. I, § 10; Minn. Const. art. I, § 11. A  [*494]  sentencing judge violates the Ex Post Facto Clause if the judge sentences a defendant under a law that "change[d] the punishment, and inflicts a greater punishment, than the law annexed to the crime, when committed." Calder, 3 U.S. at 390; see also Peugh v. United States, 569 U.S. 530, 551, 133 S. Ct. 2072, 2088, 186 L. Ed. 2d 84 (2013) (applying Calder v. Bull to hold that a sentencing judge violates the Ex Post Facto Clause if the judge sentences a defendant under guidelines with a higher sentencing range than the guidelines in effect at the time of the offense).
+Moreover, nothing in the history of the introduction to Guidelines 2 shows that the Commission intended to abrogate [**19]  the amelioration doctrine. The relevant language was added in 2012 as part of the Commission's Guidelines Revision Project. See Minnesota Sentencing Guidelines Commission, Guidelines Revision Project: Adopted Modifications 16 (Apr. 2012). The purpose of the Project was to make the Guidelines "easier to read, use, and understand." Id. at 3. The Commission emphasized that its revision "was primarily stylistic . . . rather than substantively rewriting the Guidelines." Id. Certainly, adding an express, ongoing abrogation of the amelioration doctrine would have been substantive. Making such a substantive change does not seem to have been the Commission's intent during the Revision Project.
+Fifth, the State argues that two statutes other than the DSRA, and the legislative history of a third statute, contain statements of intent by the Legislature to abrogate the amelioration doctrine generally. We consider each possibility in turn.
+The first statute relied upon by the State is a general savings clause, Minn. Stat. § 645.21 (2016), which states, "No law shall be construed to be retroactive unless clearly and manifestly so intended by the legislature." But this statute applies to retroactivity, not the amelioration doctrine. [**20]  See State v. Morrissey, 271 Minn. 123, 135 N.W.2d 57, 60 (Minn. 1965).
+The second statute, Minn. Stat. § 645.35 (2016), is another general savings clause. That statute states, in relevant part, "The repeal of any law shall not affect any right accrued, any duty imposed, any penalty incurred, or any proceeding commenced, under or by virtue of the law repealed." Id. In support of its argument that this statute establishes the Legislature's intent to abrogate the amelioration doctrine, the State cites State v. Smith, 62 Minn. 540, 64 N.W. 1022, 1022 (Minn. 1895), in which the defendant was convicted under a statute that was later repealed and replaced with a statute that changed the classification of the defendant's crime from a misdemeanor to a felony. The defendant argued that he could not be prosecuted under the new statute for ex post facto reasons, and that he could not be prosecuted under the old statute because it had been repealed. Id. at 1022. We disagreed with the defendant's second contention, concluding that the State was not required to abate its prosecution under the repealed statute. Id. at 1023.
+In other words, as we recognized in Smith, section 645.35 abrogates the "abatement doctrine," not the amelioration doctrine. The abatement doctrine is a common law presumption that the Legislature's repeal of a criminal statute requires the State to halt its [**21]  prosecutions under the repealed statute.6  See, e.g., Commonwealth v. Kimball, 38 Mass. 373, 374, 21 Pick. 373 (1838) (determining  [*495]  that the statute under which the defendant was convicted "has been repealed without any saving provision . . . so that no judgment can now be rendered"). Savings clauses like section 645.35 close a loophole that would otherwise exist due to the interplay between the abatement doctrine and the Ex Post Facto Clause. See La Porte v. State, 14 Ariz. 530, 132 P. 563, 564-65 (Ariz. 1913) (explaining that, in the absence of Arizona's savings clause, which mirrors Minn. Stat. § 645.35, repealing a criminal statute would "effect many legislative pardons").7 
+Finally, the State argues that the Legislature's enactment and repeal of retroactivity provisions in Minn. Stat. § 244.09, subd. 11, reveals a legislative intent to abrogate the amelioration doctrine. In 1983, the Legislature amended section 244.09, subdivision 11, to state, "Any modification of the guidelines that causes a duration change shall be retroactive for all inmates serving sentences imposed pursuant to the Minnesota sentencing guidelines if the durational change reduces the appropriate term of imprisonment." Act of June 6, 1983, ch. 274, § 10, 1983 Minn. Laws 1171, 1177. The next year, the Legislature repealed this clause and enacted a new subdivision, 11a, providing a process by which a prisoner could petition for retroactive application [**22]  of lesser sentencing guidelines. Act of April 26, 1984, ch. 589, §§ 4-5, 1984 Minn. Laws 1235, 1236-37. The Legislature then repealed subdivision 11a in 1997. Act of May 30, 1997, ch. 239, art. 3, § 25, 1997 Minn. Laws 2742, 2786.
+The State argues that the Legislature's decision to repeal the retroactivity provision demonstrates the Legislature's intent to abrogate the amelioration doctrine. This argument fails. The plain language of both the 1983 clause and subdivision 11a applied to retroactivity, not the amelioration doctrine. Moreover, at best, the repeal of the retroactivity provision leaves the statute neutral as to the amelioration doctrine, meaning that the presumption that the amelioration doctrine applies remains intact.
+In sum, the Legislature made no statement that clearly establishes its intent to abrogate the amelioration doctrine with respect to DSRA § 18.
+2.
+Finally, we consider whether either DSRA § 18, or the DSRA as a whole, mitigate punishment. This is the other disputed element of the amelioration doctrine.
+The State and the dissent argue that DSRA § 18, and the DSRA as a whole, do not mitigate punishment. The dissent points out that DSRA § 18(b) increased the presumptive sentences from those proposed by the Commission, which [**23]  the Legislature rejected in DSRA § 18(a). See Act of May 22, 2016, ch. 160, § 18, 2016 Minn. Laws at 590-91. The dissent's theory is that DSRA §§ 18(a)-(b) actually increased the presumptive sentences from those decreased by the Commission's proposals. But this is a false dichotomy. The correct comparison is whether the Legislature reduced the presumptive sentences from those in the sentencing grid under which Kirby was sentenced. This comparison fits each of our four prior amelioration doctrine cases, which looked at the specific provision affecting the criminal defendant. Edstrom, 326 N.W.2d at 10; Ani, 288 N.W.2d at 720; Hamilton, 289 N.W.2d at 474-75; Coolidge, 282 N.W.2d at 514-15. Here, DSRA § 18(b) reduced Kirby's presumptive  [*496]  sentencing range from 138 to 192 months to 110 to 153 months. The amendment plainly mitigates punishment.
+Moreover, the DSRA as a whole generally mitigates punishment. To be sure, the DSRA created a new crime, "aggravated controlled substance crime in the first degree," and it added new aggravating factors that could be used by prosecutors to argue for increased sentences for some controlled substance offenses. Act of May 22, 2016, ch. 160, §§ 2-3, 2016 Minn. Laws at 576-79. But the thrust of the DSRA is mitigation. The Legislature contemplated that reduced sentences for the majority of drug offenders would reduce prison populations and costs, producing savings [**24]  for programs that help drug addicts and low-level offenders. Id. § 14, 2016 Minn. Laws at 588. Overall, the DSRA mitigates punishment, and it especially does so for offenders such as Kirby.
+In conclusion, Kirby meets the three requirements of the amelioration doctrine. First, no statement by the Legislature clearly demonstrates an intent to abrogate the doctrine. Second, the DSRA mitigates punishment. Third, Kirby has not had final judgment entered in his case. Accordingly, Kirby must be resentenced under the DSRA-amended sentencing grid.
+The conclusion that we reach today is required by a common-law rule more than 160 years old, as adopted by our own precedent that is almost 40 years old. Sentencing policy is for the Legislature and the Commission to make. See Minn. Stat. § 609.095(a) (2016); Reynolds v. State, 888 N.W.2d 125, 132 (Minn. 2016); State v. Meyers, 869 N.W.2d 893, 896 (Minn. 2015). Our judicial role is to interpret and apply the sentencing law, including the sentencing grids established and amended by the Legislature. Had the Legislature given us a clear signal that DSRA § 18(b) did not apply to defendants with non-final convictions, we would have followed that signal. Because it did not, we apply our long-established rule of law.
+ CONCLUSION
+For the foregoing reasons, we vacate Kirby's sentence and remand to the district court for [**25]  resentencing consistent with this opinion.
+Sentence vacated; remanded.
+Dissent by: ANDERSON; GILDEA; STRAS  
+Dissent
+
+
+
+
+ANDERSON, Justice (dissenting).
+I respectfully dissent because the court misapplies the so-called "amelioration doctrine" in its interpretation of section 18 of the Minnesota Drug Sentencing Reform Act (DSRA). Act of May 22, 2016, ch. 160, § 18, 2016 Minn. Laws 576, 590-91. As a threshold matter, I question whether a legislative act that directs the Minnesota Sentencing Guidelines Commission to increase the presumptive sentences listed in a proposed Guidelines grid even implicates the amelioration doctrine. But even assuming that section 18 implicates the amelioration doctrine, I would conclude that the plain and unambiguous language of Minn. Sent. Guidelines 2 creates a presumption that the amelioration doctrine does not apply to a change in the presumptive sentences listed in a Guidelines grid. Accordingly, I would affirm appellant's sentence.
+I.
+In 2013, appellant Michael William Kirby was charged with first-degree possession of a controlled substance, Minn. Stat. § 152.021, subd. 2(a)(1) (2014). Kirby was subsequently convicted of the charged offense, and on October 22, 2014, the district court imposed a 161-month presumptive sentence. Kirby appealed in [**26]  January 2015.
+ [*497]  In December 2015, the Minnesota Sentencing Guidelines Commission held a public hearing on proposed modifications to drug sentencing. The proposed modifications gave "prosecutors the tools to seek greater sentences against drug dealers," while giving "the courts tools to send drug users who are truly chemically dependent" to treatment. Minnesota Sentencing Guidelines Commission, Report to the Legislature, at 3 (Jan. 15, 2016). The proposed modifications also included a separate Guidelines grid for controlled substance cases, which in part divided the offenses of first-degree sale of a controlled substance and first-degree possession of a controlled substance into different rows labeled D9 and D8. Id. at 80. The proposed grid1  for controlled substance offenses read in relevant part:
+ CRIMINAL HISTORY SCORE
+SEVERITY LEVEL OF
+
+
+
+CONVICTION OFFENSE
+0
+1
+2
+(Example offenses listed in italics)
+
+
+
+Manufacture Any Amount of
+D10
+86
+98
+110
+Methamphetamine
+
+74-103
+84-117
+94-132
+Controlled Substance Crime,
+D9
+65
+75
+85
+1st Degree Sale
+
+56-78
+64-90
+73-102
+Controlled Substance Crime,
+D8
+48
+58
+68
+1st Degree Possession
+
+41-57
+50-69
+58-81
+Controlled Substance Crime,
+D7
+36
+42
+48
+2nd Degree
+
+
+
+
+
+SEVERITY LEVEL OF
+
+
+
+
+CONVICTION OFFENSE [**27] 
+3
+4
+5
+6 or
+(Example offenses listed in italics)
+
+
+
+more
+Manufacture Any Amount of
+D10
+122
+134
+146
+158
+Methamphetamine
+
+104-146
+114-160
+125-175
+135-189
+Controlled Substance Crime,
+D9
+95
+105
+115
+125
+1st Degree Sale
+
+81-114
+90-126
+98-138
+107-150
+Controlled Substance Crime,
+D8
+78
+88
+98
+108
+1st Degree Possession
+
+67-93
+75-105
+84-117
+92-129
+Controlled Substance Crime,
+D7
+54
+60
+66
+72
+2nd Degree
+
+46-64
+51-72
+57-79
+62-86
+Id. Because the proposed grid reduced some of the presumptive sentences, Minn. Stat. § 244.09, subd. 11 (2016) required the Commission to submit the grid to the Legislature.
+The Legislature rejected the Commission's attempt to separate the offenses of first-degree sale and first-degree possession and directed the Commission to "renumber[] D9 as D8." Act of May 22, 2016, ch. 160, § 18(b)(1), 2016 Minn. Laws at 591. This renumbering shifted first-degree possession of a controlled substance into the same row as first-degree sale of a controlled substance. The resulting grid reads in relevant part:
+ CRIMINAL HISTORY SCORE
+SEVERITY LEVEL OF
+
+
+
+CONVICTION OFFENSE
+0
+1
+2
+(Example offenses listed in italics)
+
+
+
+Aggravated Controlled
+D9
+86
+98
+110
+Substance, 1st Degree
+
+74-103
+84-117
+94-132
+Manufacture of Any Amt. Meth
+
+
+
+
+Controlled Substance Crime,
+D8
+65
+75
+85
+1st Degree
+
+56-78
+64-90
+73-102
+Controlled Substance Crime,
+D7
+48
+58
+68
+2nd Degree
+
+
+
+58-81 [**28] 
+
+SEVERITY LEVEL OF
+
+
+
+
+CONVICTION OFFENSE
+3
+4
+5
+6 or
+(Example offenses listed in italics)
+
+
+
+more
+Aggravated Controlled
+D9
+122
+134
+146
+158
+Substance, 1st Degree
+
+104-146
+114-160
+125-175
+135-189
+Manufacture of Any Amt. Meth
+
+
+
+
+
+Controlled Substance Crime,
+D8
+95
+105
+115
+125
+1st Degree
+
+81-114
+90-126
+98-138
+107-150
+Controlled Substance Crime,
+D7
+78
+88
+98
+108
+2nd Degree
+
+67-93
+75-105
+84-117
+92-129
+Minn. Sent. Guidelines 4.C. As the resulting  [*498]  grid illustrates, the Legislature's directive in section 18(b)(1) of the DSRA increased the presumptive sentencing range proposed by the Commission for first-degree possession of a controlled substance from 92 to 129 months to 107 to 150 months for a person with a criminal history score of 6 or more.2  In fact, all of the directives in section 18(b) increased the presumptive sentences for possession offenses proposed by the Commission.3  As for the effective date of section 18, the Legislature provided: "This section is effective the day following final enactment." Final enactment occurred on May 22, 2016, when the governor signed the bill.
+Two months later, on July 18, 2016, the court of appeals affirmed Kirby's conviction for first-degree possession of a controlled substance. We granted review on the issue of whether Kirby should be resentenced under the current Guidelines drug offender grid, which reflects the instructions in section 18(b) of the DSRA.
+Citing State v. Coolidge, 282 N.W.2d 511, 514-15 (Minn. 1979), Kirby argues, and the court asserts, that when the Legislature  [*499]  has manifested its belief that the prior punishment is too severe, a defendant whose judgment of conviction has not yet become final is presumptively entitled to the lighter sentence. The court calls this presumption the amelioration doctrine.4  Both Kirby and the court acknowledge that the amelioration doctrine does not apply when the Legislature has clearly indicated its intent that the statutory amendment applies only to crimes committed after the amendment's effective date. See Edstrom v. State, 326 N.W.2d 10, 10 (Minn. 1982).
+II.
+In considering whether the Legislature has clearly indicated an intent that section 18 of the DSRA applies only to crimes committed after the amendment's effective date, the court focuses on the effective-date provision of section 18, which reads: "This section is effective the day following final enactment." Because [**31]  this language does not contain the statement that "crimes committed prior to the effective date of this act are not affected by its provisions," which was included in the act at issue in Edstrom, the court concludes that the Legislature has not clearly indicated an intent that section 18 of the DSRA applies only to crimes committed after the amendment's effective date. In my view, the court's focus is too narrow.
+All four cases cited by the court in which we have applied the amelioration doctrine involved a defendant convicted of an offense that predated the Minnesota Sentencing Guidelines. See Edstrom v. State, 326 N.W.2d 10 (Minn. 1982) (discussing an offense committed in 1975); Ani v. State, 288 N.W.2d 719 (Minn. 1980) (same); State v. Hamilton, 289 N.W.2d 470 (Minn. 1979); State v. Coolidge, 282 N.W.2d 511 (Minn. 1979); see also Minn. Sent. Guidelines 2 ("The presumptive sentence for any offender convicted of a felony committed on or after May 1, 1980, is determined by the Sentencing Guidelines in effect on the date of the conviction offense . . . ."). Thus, in these four cases, our court was not presented with the opportunity to determine whether the amelioration doctrine applies to a sentence governed by the Minnesota Sentencing Guidelines. We are squarely presented with that novel issue today.
+Unlike the acts at issue in Coolidge and Edstrom, which amended the statutory maximum [**32]  listed in a criminal statute, section 18(b) of the DSRA directs the Minnesota Sentencing Guidelines Commission to perform certain tasks. See Act of May 22, 2016, ch. 160, § 18(b), 2016 Minn. Laws at 591. The effective date of those directives was plainly May 23, 2016, the day following the enactment of section 18. Id. Among those directives was a command that the Commission increase the presumptive sentencing range in the proposed sentencing grid from 92 to 129 months to 107 to 150 months for the offense of first-degree possession of a controlled substance committed by a person with a criminal history score of 6 or more. See id. § 18(b)(1), 2016 Minn. Laws at 591. In my view, the effective date of the Legislature's directives to the Commission is not dispositive. I therefore also consider the language of Minn. Sent. Guidelines 2, which sets forth the process for determining a defendant's presumptive sentence.
+ [*500]  When the language of a Sentencing Guidelines provision is plain and unambiguous, it is presumed to manifest the Legislature's intent, and we must give it effect. State v. Campbell, 814 N.W.2d 1, 4 (Minn. 2012). Further, "we 'follow the Minnesota Sentencing Guidelines unless [an] applicable provision is contrary to statute.'" Rushton v. State, 889 N.W.2d 561, 564 (Minn. 2017) (alteration in original) (quoting State v. Jones, 848 N.W.2d 528, 537 (Minn. 2014)). Only if it is impossible to harmonize the Guidelines with [**33]  a statute does the statute control. Id. Here, Minn. Sent. Guidelines 2 is not contrary to statute, and it is not impossible to harmonize Minn. Sent. Guidelines 2 with the DSRA.
+Section 2 of the Minnesota Sentencing Guidelines states that "[t]he presumptive sentence . . . is determined by the Sentencing Guidelines in effect on the date of the conviction offense . . . ."5  This language plainly and unambiguously states that the presumptive sentence is determined by the sentencing Guidelines in effect on the date of the offense-in this case, November 22, 2013, the date on which Kirby was arrested for possessing controlled substances.6  Minnesota Sentencing Guidelines 2 abrogates the ameliorative effect of modifications made to the Sentencing Guidelines, which is, in effect, a clear statement that the amelioration doctrine does not apply to punishment imposed solely under the Sentencing Guidelines. To be clear, I do not believe that a Sentencing Guidelines provision can alter the amelioration doctrine in the face of an unambiguous statement from the Legislature or with respect to statutory maximum or minimum penalties, like those present in the Coolidge and Edstrom cases.7 
+Thus, although section 18 of the DSRA is silent [**34]  on whether the Minnesota Sentencing Guidelines apply to crimes committed on or after its effective date, Act of May 22, 2016, ch. 160, § 18, 2016 Minn. Laws at 590-91, the Guidelines are not. Because our court harmonizes the Guidelines with a statute unless an applicable Guidelines provision is contrary to statute, here we must read the Guidelines and the DSRA together because they are not in conflict. Accordingly, under the plain language of Minn. Sent. Guidelines 2, the presumptive sentence for Kirby should be determined by the Sentencing Guidelines grid in effect when he committed his offense in 2013.
+ [*501]  For the foregoing reasons, I respectfully dissent.
+GILDEA, Chief Justice (dissenting).
+I join in the dissent of Justice Anderson.
+STRAS, Justice (dissenting).
+I join in the dissent of Justice Anderson.
+
+ 
+
+End of Document

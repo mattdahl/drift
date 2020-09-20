@@ -1,0 +1,182 @@
+
+  CautionAs of: September 19, 2020 9:19 PM Z
+People v. Borgne
+Supreme Court of Michigan
+July 1, 2009, Filed
+No. 134967
+
+Reporter
+483 Mich. 178 *; 768 N.W.2d 290 **; 2009 Mich. LEXIS 1395 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellant, v MICHAEL J. BORGNE, Defendant-Appellee.  
+Subsequent History: On rehearing at, Reaffirmed People v. Borgne, 771 N.W.2d 745; 2009 Mich. LEXIS 1966 (Mich., Sept. 11, 2009)  
+Prior History: People v. Borgne, 2007 Mich. App. LEXIS 1906 (Mich. Ct. App., Aug. 9, 2007)  
+Disposition:  [***1] Reversed.
+  
+Judges: Chief Justice: Marilyn Kelly. Justices: Michael F. Cavanagh, Elizabeth A. Weaver, Maura D. Corrigan, Robert P. Young, Jr., Stephen J. Markman, Diane M. Hathaway. KELLY, C.J. (concurring). YOUNG, J. (concurring).  
+Opinion by: Michael F. Cavanagh  
+Opinion
+
+
+
+
+ [**292]   [*180]  BEFORE THE ENTIRE BENCH
+CAVANAGH, J.
+In this case we must decide whether defendant Michael Borgne's constitutional rights under Doyle v Ohio, 426 U.S. 610; 96 S Ct 2240; 49 L Ed 2d 91 [*181]  (1976), were violated, and, if they were, what effect that has on his convictions. 1  We hold that defendant's rights under Doyle were violated when the trial court erroneously allowed the prosecution to use defendant's post-arrest, post-Miranda 2  silence against him. However, we also hold that the error did not amount to plain error affecting defendant's substantial rights; therefore, the Court of Appeals judgment is reversed and defendant's convictions are affirmed.
+I. FACTS AND PROCEDURE
+On the evening of December 14, 2004, the complaining witness, Caroline Kessler, was fueling her car at a gas station in Detroit. She went into the convenience store at the station, and when she returned to finish pumping the gas, a man approached her from behind. The man put his arm around her and told her to give him her purse. When Kessler turned around, she saw a man with a gun pointed at her. The man grabbed her purse and ran away.
+Kessler testified at trial that she got a good look at her assailant. She said he was wearing a blue jacket with red stripes and white lettering on the back. She also noticed that, under the jacket, he was wearing a black hooded sweatshirt, with the hood on his head. He was wearing blue jeans. She said he was Caucasian, clean shaven, young, of medium build, and only a few inches taller than her (she is 5' 2").
+ [*182]  As the man ran away, Kessler followed him, while yelling out that he had robbed her. But after crossing the street, she stopped and turned back to the gas station. Before she started  [***3] back, however, she noticed a man chasing the assailant as a result of her cries for help. When she got back to the gas station she asked the attendant to call the police and then called her brother. Her brother, along with a friend, responded almost immediately because he lived nearby. Eventually, Kessler, her brother, and the friend went out looking for the assailant. They found the man who had chased the assailant waiting outside an abandoned commercial building. When the police arrived, Kessler described the man who robbed her. The police officers then entered the building and emerged with defendant in handcuffs. Defendant was wearing blue jeans and a blue and red jacket, with a black hooded sweatshirt underneath. Upon seeing defendant, Kessler immediately identified him as the man who robbed her.
+ [**293]  Kessler also testified that about two weeks later she was in a minor automobile accident several blocks away from the site of the robbery. While Kessler was stopped to exchange information with the other driver, a blue minivan drove past. Kessler was outside her car talking to the person whose car she had hit when the blue minivan stopped next to her and its driver yelled out his open window,  [***4] "I'm the motherfucker what robbed you, ha, ha, ha. " Kessler immediately recognized the driver as defendant. She immediately told the other motorist that it was defendant who had just yelled at her. The other driver corroborated Kessler's spontaneous reaction to the event.
+Defendant was charged with armed robbery, MCL 750.529, and possessing a firearm while committing a felony, MCL 750.227b. The first trial ended in a mistrial because the jurors had improperly discussed the case.  [*183]  At the second trial, the prosecution presented defendant's red and blue coat and black hooded sweatshirt as evidence in its case-in-chief. The prosecution also produced Kessler's direct testimony in which she identified defendant as the man who robbed her, the man whom the police had taken from the abandoned building, and the man who had yelled at her from the blue minivan.
+In his defense, defendant testified that on the night in question he was simply waiting for a taxi across the street from the gas station. While waiting, he heard gunshots from across the street and fled into the alleyway, and then into the abandoned building. Once in the building, he said he heard shots being fired into the building. He  [***5] claimed to have waited there until the police arrived. When the police arrived, they arrested him, took him out of the building, and led him to a police car. He testified that on the way to the police car he tried to tell the police the shooting story, but they put him in the backseat of the police car.
+It is uncontested that defendant was then taken to the police precinct, where police officers administered Miranda warnings and attempted to interrogate him. However, defendant invoked his right to silence and asked for an attorney. Thereafter, defendant made no statements about the case until trial.
+At trial, the prosecution made broad use of defendant's post-Miranda silence during both its cross-examination of defendant and its closing argument to impeach the defendant's exculpatory testimony. Defendant never objected to this use of his pretrial silence. Defendant was convicted as charged of armed robbery and possessing a firearm during the commission of a felony.
+Defendant appealed, and the Court of Appeals reversed his convictions in a split decision. People v [*184]  Borgne, 2007 Mich. App. LEXIS 1906, unpublished opinion per curiam of the Court of Appeals, issued August 9, 2007 (Docket No. 269572). The majority held  [***6] that the prosecution's use of defendant's post-Miranda silence violated his constitutional due process rights under Doyle and that the error constituted plain error, which required a new trial. The dissent would have affirmed the convictions on the ground that defendant's post-Miranda silence was admissible under an exception to Doyle. This Court granted leave to appeal to decide whether defendant's constitutional rights under Doyle had been violated and, if they had, whether reversal was warranted.
+II. STANDARD OF REVIEW
+Defendant claims that his constitutional due process rights under the Fourteenth Amendment were violated. Constitutional questions are reviewed de novo. Sidun v Wayne Co Treasurer, 481  [**294]  Mich 503, 508; 751 NW2d 453 (2008). Defendant concedes, however, that his claim of error was not preserved at trial. This Court reviews the effect of an unpreserved constitutional error for plain error. People v McNally, 470 Mich 1, 5; 679 NW2d 301 (2004).
+III. ANALYSIS
+A. THE GENERAL RULE OF DOYLE v OHIO
+The first question in this case is whether a Doyle violation occurred. Doyle dealt with a criminal defendant's Fifth Amendment right under the United States Constitution against compelled  [***7] self-incrimination, which has been made applicable to the states through the Due Process Clause of the Fourteenth Amendment. 3   [*185]  Specifically, Doyle analyzed a defendant's post-arrest silence during a custodial interrogation following Miranda warnings. In Doyle, the defendants were caught taking part in an illicit narcotics sale. Doyle, 426 U.S. at 611-612. Once the police interceded, both defendants were given Miranda warnings. Id. at 612. At trial, the defendants argued that they had been framed by a police informant pretending to be a seller, who tricked them into trying to buy the narcotics from him. Id. at 612-613. The defendants had never mentioned this exculpatory story before trial. Id. at 613-614. The prosecution used this pretrial silence to undercut the defendants' claims of innocence as follows:
+Q. [The Prosecutor] [I]f that is all you had to do with this and you are innocent, when [the officer] arrived on the scene why didn't you tell him? [I]n any event you didn't bother to tell [the police] anything about this?
+A. [Defendant] No, Sir.
+* * *
+Q. . . . You are innocent?
+A. I am innocent. Yes Sir.
+Q.  [***8] That's why you told the police . . . when they arrived . . . about your innocence?
+A. I didn't tell them about my innocence. No.
+Q. You said nothing at all about how you had been set up?
+* * *
+Q. As a matter of fact, if I recall your testimony correctly, you said instead of protesting your innocence, as you do today, you said in response to a question of [defense counsel],--"I don't know what you are talking about."
+A. I believe what I said,--"What's this all about?" If I remember, that's the only thing I said. . . . I was questioning,  [*186]  you know, what it was about. That's what I didn't know. I knew that I was trying to buy [drugs], which was wrong, but I didn't know what was going on. I didn't know that [the complaining witness] was trying to frame me, or what-have-you.
+Q. All right,--But you didn't protest your innocence at that time?
+A. Not until I knew what was going on. [Id. at 614, 614 n 5.]
+The prosecutor in Doyle also referred to the defendants' silence in his closing argument. Id. at 614 n 5. The defendants objected to each of these references. Id. at 614, 614 n 5. Those objections were overruled, and the defendants were convicted of various drug charges. Id.
+ [**295]  The  [***9] United States Supreme Court reversed the defendants' convictions and summarized its decision as follows:
+The question . . . is whether a state prosecutor may seek to impeach a defendant's exculpatory story, told for the first time at trial, by cross-examining the defendant about his failure to have told the story after receiving Miranda warnings at the time of his arrest. We conclude that use of the defendant's post-arrest silence in this manner violates due process, and therefore reverse the convictions of both petitioners. [Doyle, 426 U.S. at 611.] 4 
+The Doyle Court reasoned that "it would be fundamentally unfair and a deprivation of due process to allow the arrested person's silence to be used to impeach an explanation subsequently offered at trial." Id. at 618. Further,
+it does not comport with due process to permit the prosecution during the trial to call attention to his silence at the  [*187]  time of arrest and to insist that because he did not speak about the facts of the case at that time, as he was told he need not do, an unfavorable inference might be drawn as to the truth of his trial testimony. [Id. at 619 (citation and quotation marks omitted).]
+And, relying on its earlier decision  [***10] in United States v Hale, 422 U.S. 171; 95 S Ct 2133; 45 L Ed 2d 99 (1975), the Doyle Court noted that "every post-arrest silence is insolubly ambiguous . . . . " Doyle, 426 U.S. at 617. It is unclear whether it is merely evidence of the defendant's legitimate invocation of his right against compelled self-incrimination or evidence that he is fabricating his defense theory at trial. Therefore, "[a]fter an arrested person is formally advised by an officer of the law that he has a right to remain silent, the unfairness occurs when the prosecution, in the presence of the jury, is allowed to undertake impeachment on the basis of what may be the exercise of that right." Id. at 619 n 10. This Court has long approved of these principles, and we were somewhat prescient in our pre-Doyle acceptance of them in People v Bobo, 390 Mich 355, 359-361; 212 NW2d 190 (1973).
+Since Doyle, the United States  [***11] Supreme Court has articulated exactly when the general rule from that case applies. It has held that Doyle's rule does not apply--i.e., a defendant's silence may be used to impeach his exculpatory testimony--if the silence occurred either (1) before arrest or (2) after arrest and before Miranda warnings were given. See Fletcher v Weir, 455 U.S. 603, 605-607; 102 S Ct 1309; 71 L Ed 2d 490 (1982); Jenkins v Anderson, 447 U.S. 231, 239-240; 100 S Ct 2124; 65 L Ed 2d 86 (1980). This is because, under the United States Constitution, use of a defendant's silence only deprives a defendant of due process when the government has given the defendant a reason to believe both that he has a right to remain silent and that his  [*188]  invocation of that right will not be used against him, which typically only occurs post-arrest and post-Miranda. See Fletcher, 455 U.S. at 605-607. This Court has also adopted this structure: "'Doyle bars the use against a criminal defendant of silence maintained after receipt of governmental assurances.'" People v Cole, 411 Mich 483, 488; 307 NW2d 687 (1981), quoting  [**296]  Anderson v Charles, 447 U.S. 404, 408; 100 S Ct 2180; 65 L Ed 2d 222 (1980).
+In the present case, we must evaluate  [***12] whether Doyle's general rule applies to the silence that the prosecutor used against defendant. The prosecutor referred to defendant's silence both during his cross-examination of defendant and in his closing argument. Defendant's silence was referred to in cross-examination as follows:
+Q. [The Prosecutor] And then you had the opportunity to sit down with Sargent [sic] Dunbeck here when you were under arrest?
+A. [Defendant] Yes.
+Q. That was at the precinct, correct? 5 
+A. Yes.
+Q. Okay. You never told Sargent [sic] Dunbeck any of this [shooting story], did you?
+A. I believe I may have said I was being shot at.
+Q. You were advised of your constitutional rights, correct?
+A. Yes, sir.
+Q. No question that you were under arrest and you didn't have to give a statement?
+A. Yes, sir.
+ [*189]  Q. You could have a lawyer there if you wanted to?
+A. Yes, sir.
+Q. You had the opportunity to give your version of the event?
+A. Yes, sir.
+Q. You could stop answering questions at any time?
+A. Yes, sir.
+Q. That was no surprise to you?
+A. Yes, sir.
+Q. She was polite to you, she wasn't beating you over the head with a phone book or anything like that?
+A. No.
+Q. No problems with Sargent [sic] Dunbeck?
+A. No.
+Q. But you never made a statement  [***13] did you?
+A. No, I did not want to make a statement without an attorney present.
+Q. Okay. If you were arrested and knew you were being arrested for armed robbery, somebody was accusing you of robbing them at gunpoint.
+A. I was going to wait for an attorney to help me address the matter.
+Q. You never gave a statement after the fact though, did you?
+A. No, I did not. I was advised not to.
+Q. This is the first time you're giving a statement?
+A. Yes, sir.
+Q. First time anyone has heard this version of events from you?
+A. Yes, sir.
+Q. Were you concerned about finding the person that was shooting at you that night?
+ [*190]  A. Yes, I was.
+* * *
+Q. And then when you had the chance to sit down with Sargent [sic] Dunbeck you didn't say anything that [sic]?
+A. I wanted a lawyer present for any statement given.
+Q. You never gave a statement ever in this case?
+ [**297]  A. No, I did not. After that I had retained a lawyer and was advised not to give a statement.
+Q. Well, you didn't retain a lawyer until after the preliminary examination in this case, right?
+A. Yes, sir.
+Q. So when you were arrested that night [in] the early morning hours of now December 15, 2004 you didn't have a specific lawyer in mind, did you?
+A. No.
+Q. And it wasn't  [***14] like you were in the process of consulting with the attorney, correct?
+A. No, I wasn't.
+Q. And then about two weeks later or so you go to the preliminary examination you still haven't retained an attorney.
+A. I had a State appointed attorney.
+Q. Correct. And you never gave a statement at that point with the State appointed attorney did you?
+A. Never had a chance to.
+Q. You didn't do it in court, did you?
+A. Never had a chance to. I was never allowed to talk while I was in the courtroom. The lawyer advised me not to. That's when we fired the lawyer and retained Johnathan [sic] Jones.
+Q. And up until today you still have given [sic] a statement in this case, not until the 11th hour of the trial, correct?
+ [*191]  A. No, sir.
+Q. This is basically the end of the trial right here.
+A. Yes, sir. I wanted everyone to hear my side.
+The prosecutor then used this line of questioning in closing argument as follows:
+Mr. Borgne out that night [sic] and he sits down with Sargent [sic] Dunbeck in the police station, you're under arrest for Armed Robbery, someone's saying you robbed 'em. What's your side of the story? Well, nothing. Let me think about it. A year goes by there's no statement ever given. If somebody was trying  [***15] to kill Mr. Borgne he never mentions it. No concern over who's trying to kill him. There's no statement at all. Is that going to make sense, ladies and gentlemen? It defies logic.
+Forget whether he robbed somebody. If someone's trying to kill you and the police were there and had you in custody, you might want to at least mention it. You might want to say I'm gonna put it down and sign my name and here, for all eternity I said it. Somebody tried to kill me. Nothing like that. Nothing like that until today, a year and a day later. It defies logic. It doesn't make any sense.
+We conclude that Doyle's general rule applies to this line of questioning and this closing argument. The prosecutor's own questions establish that the silence to which he was referring occurred (1) after defendant was arrested, (2) after defendant had been read the Miranda warnings, and (3) after defendant chose to remain silent. Moreover, it is clear that the prosecutor was emphasizing the negative implications of defendant's post-arrest, post-Miranda silence. 6  Thus, Doyle's general rule applied,  [*192]  and it should have  [**298]  proscribed the prosecutor's  [***16] use of defendant's silence in this case.
+The only way the prosecutor's use of defendant's silence would be allowed is if an exception to Doyle applied.
+B. THE IMPEACHMENT EXCEPTION TO DOYLE v OHIO
+The Doyle Court noted a single exception to its general rule:
+[P]ost-arrest silence [can] be used by the prosecution to contradict a defendant who testifies to an exculpatory version of events and claims to have told the police the same version upon arrest. In that situation the fact of earlier silence would not be used to impeach the exculpatory story, but rather to challenge the defendant's testimony as to his behavior following arrest. [426 U.S. at 619 n 11.]
+This exception can aptly be described as the impeachment exception.
+This exception  [***17] did not apply in Doyle because the defendants in that case never claimed to have told the authorities their exculpatory story before trial. The exception only applies when a defendant falsely testifies that he already told his exculpatory story to the authorities. At that point, the exception allows the prosecutor to impeach that averment with proof that the defendant actually remained silent before trial.
+The impeachment exception only applies to allow use of a defendant's silence that would otherwise be prohibited by Doyle's general rule. 7  Intuitively, in order for the impeachment exception to apply to allow use of otherwise  [*193]  Doyle-prohibited silence, the door must be opened by a defendant's testimony regarding his post-arrest, post-Miranda conduct. Thus, a prosecutor may not use a defendant's testimony regarding his actions before Doyle applied as a means to open the door to impeach the defendant with his post-Doyle silence. Doyle's general rule and its impeachment exception apply to silence occurring after a defendant has been arrested and given Miranda warnings. Accordingly, if the prosecution wants to use the impeachment exception, its use must be based on defendant's testimony  [***18] regarding his post-arrest, post-Miranda actions.
+In this case, the prosecutor argues that the exception applies because defendant "opened the door" to impeachment in the following portion of his direct-examination testimony:
+Q. [Defense counsel] When you came out of the building with the two officers did anyone make any comments or gestures toward you?
+A. [Defendant] Yes, sir.
+Q. And who was that?
+A. Caroline Kessler [the victim].
+Q. Okay.
+A. She made a comment that I--she said "that's the man, that's the man that robbed me."
+Q. Did anyone else speak that you remember?
+A. The officer asked me where the purse was and where the gun was. I didn't have any idea what he was talking about. I tried to describe the shooting to him and he put me in the back seat of the police car.
+ [**299]  We conclude that the exception was not triggered by this exchange because defendant  [***19] never testified that he  [*194]  made post-Miranda attempts to explain his story. Defendant's only testimony regarding an attempt to explain his story was related to his pre-Miranda conduct (when he was being escorted to the police car). If the prosecutor had wanted to impeach defendant regarding this pre-Miranda silence, Doyle would have presented no prohibition. But, for whatever reason, the prosecutor chose not to so impeach defendant. Instead, the prosecutor repeatedly asked defendant why he did not explain his side of the story after being taken to the precinct and after being given Miranda warnings. The prosecutor also repeatedly made defendant admit that he remained silent during that time. Finally, the prosecutor used this silence in his closing argument to bolster the contention that defendant's exculpatory story was not credible. None of these uses of defendant's post-arrest, post-Miranda silence is supported by defendant's testimony regarding his post-arrest, post-Miranda actions. In sum, the defendant did not open the door to the impeachment exception with his fleeting reference to his failed attempt to tell his story before Doyle was even applicable.
+To counter this conclusion,  [***20] the prosecution relies on People v Allen, 201 Mich App 98; 505 NW2d 869 (1993). In Allen, the Court stated:
+[D]efendant did not claim to have told the police the same version of his exculpatory story upon arrest. Rather, his claim on redirect examination was that the trial was his first opportunity to tell his version of the events. We believe that this case falls within the exception permitting impeachment of a defendant's version of his postarrest behavior. Although defendant's testimony would not have permitted the prosecutor to argue that his postarrest silence was inconsistent with his claim of innocence, it did permit the prosecutor to attempt to discredit defendant's testimony by showing that defendant did have an opportunity  [*195]  before the trial to tell his side of the story. Having raised the issue of his opportunity to explain his version of the events, he opened the door to a full and not just a selective development of that subject. [Id. at 103 (citations and quotation marks omitted).]
+Thus, Allen extended Doyle's impeachment exception to include not only instances when a defendant is allegedly lying about his post-arrest behavior, but when a defendant is falsely asserting that  [***21] the trial presented his first opportunity to tell his side of the case.
+We do not reach the merits of this extension because the prosecution would not benefit from it in this case. Defendant was arrested in the abandoned building and immediately escorted to a police car. At trial, during direct examination, defendant testified that he unsuccessfully tried to tell his side of the story as he was being escorted to the police car. It was not until he reached the police station that he was given Miranda warnings and was interrogated. At that point he invoked his right to silence and, after obtaining counsel, decided to remain silent until trial. Even under Allen's extension of the exception, the prosecution would be incorrect in arguing that defendant opened the door to the impeachment exception by claiming to have tried to tell his story to the arresting officers because there was no door to open at that point--Doyle was not even applicable at that time. Indeed, defendant had only been arrested; he had not been given Miranda warnings. Under United States Supreme Court precedent, the prosecutor was free to impeach defendant on his silence  [**300]  before Doyle applied, and could have asked why defendant  [***22] did not tell his side of the story after being put into the police car. See footnote 7 of this opinion. But all the prosecutor's impeachment tactics here related to defendant's silence after he was brought to the precinct and given Miranda warnings.
+ [*196]  Accordingly, we hold that the impeachment exception did not apply in this case, and, as noted, the general rule in Doyle was violated by the prosecution's use of defendant's post-arrest, post-Miranda silence.
+C. PLAIN ERROR AFFECTING SUBSTANTIAL RIGHTS
+Recognizing that the prosecution's use of defendant's silence constituted error under Doyle, we must now decide whether that error merits reversing defendant's conviction. Both parties agree that this case involves an unpreserved claim of constitutional error. This Court determines whether this type of error warrants reversal under the plain-error standard of review articulated in People v Grant, 445 Mich 535, 547-553; 520 NW2d 123 (1994), and People v Carines, 460 Mich 750, 765-766; 597 NW2d 130 (1999). 8  
+There are four steps to determining whether an unpreserved claim of error warrants reversal under plain-error review. Carines, 460 Mich at 763. First, there must have been an error. Id. Second, the error must be plain, meaning clear or obvious. Id. Third, the error must have affected substantial rights. Id. This "generally requires a showing of prejudice, i.e., that the error affected the outcome of the lower court proceedings." 9  Id. The defendant bears the burden of establishing  [*197]  prejudice. Id. Fourth, the error must have "resulted in the conviction of an actually innocent defendant" or "seriously affected the fairness, integrity or public reputation of judicial proceedings . . . . " Id. (quotation marks and brackets omitted).
+In this case, as noted, a Doyle violation occurred, which equates to a legal error. Therefore, the first plain-error element is met. The second plain-error element is also met because this Doyle violation was clear and obvious. Indeed, absent an exception, a prosecutor is not permitted  [***25] to use a defendant's post-arrest,  [**301]  post-Miranda silence against him. In this case, the prosecutor clearly and obviously used the defendant's post-arrest, post-Miranda silence against him. This error was plain.
+The third plain-error element, however, is not met in this case because defendant cannot prove that the error affected his substantial rights by causing him prejudice. We acknowledge that it is difficult for an appellate court to know what effect the prosecutor's use of defendant's post-Miranda silence might have had on the jury. Nonetheless, we hold that defendant has not shown that the error is prejudicial, considering (1) the extent of the prosecutor's comments, (2) the extent to which the prosecution attempted to tie defendant's silence to his  [*198]  guilt, and (3) the relative strength of the other evidence against defendant. 10  In contrast to Shafier, in which we apply these same factors, the Doyle error in this case does not support a finding of prejudice.
+First, in this case, the prosecutor's references to defendant's post-arrest, post-Miranda silence, while numerous, were not pervasive. The prosecutor only referred to defendant's silence under the mistaken  [***27] believe that defendant had raised the subject in his fleeting mention of having tried to tell his exculpatory story while being escorted to the police car. The prosecutor also referred to defendant's silence in closing argument, but it, again, was only an attempt to impeach defendant's exculpatory story. In comparison, in Shafier, the prosecutor was the first party to broach defendant's silence, bringing it up in the opening statement, and it played a major role throughout the prosecution's case-in-chief.
+The second element also shows that a less prejudicial Doyle error occurred in this case than that in Shafier. Again, the prosecutor in this case used the defendant's  [*199]  silence to argue that defendant's exculpatory story should not be believed. This use of silence did not obviate the prosecutor's need to independently prove that defendant committed the crime. And the prosecutor here presented compelling, largely consistent, untainted evidence to prove this defendant's guilt. In contrast, the evidence in Shafier consisted entirely of a credibility contest between the defendant and his accuser; although the accuser's sisters also testified on her behalf, their testimony contained numerous  [***28] inconsistencies. Thus, the prosecution in that case, in addition to using the defendant's silence to impeach his claim of innocence, argued that the defendant was guilty because he did not verbally protest in the face of accusations of heinous crimes. 11  In  [**302]  contrast, the prosecution in this case did not overtly tie defendant's post-arrest, post-Miranda silence to its argument that defendant was guilty of the charged crime.
+Finally, in evaluating the third element, we note that the compelling, untainted evidence against defendant shows how strong the prosecution's case was. First, the testimony of Kessler (the victim) is substantial in its probity regarding defendant's guilt. It is uncontested  [***29] that she looked right at her assailant from an arm's length distance when he robbed her. She then chased him in the direction of where defendant was later found. She described what her assailant was wearing,  [*200]  which generally matched defendant's clothing when he was arrested shortly thereafter. We acknowledge that Kessler's description of her assailant did not perfectly match defendant's appearance when he was arrested. 12  Yet, much of her general description of her assailant did match defendant, a Caucasian with brown hair who was wearing a blue jacket with red stripes, a hooded sweatshirt underneath the jacket, and blue jeans. Further, Kessler made numerous identifications of defendant as her assailant. She unequivocally identified defendant as her assailant as he was being escorted from the abandoned building. 13  Kessler was also able to identify defendant as her assailant when he drove past her and yelled a self-incriminating obscenity at her. 14  Here, again, Kessler made an unequivocal identification that the driver was both her assailant and defendant. This was corroborated by a bystander with whom Kessler was talking at the time. Finally, Kessler made two unequivocal in-court  [***30] identifications of defendant as her assailant.
+We also note the uniquely incriminating aspect of the blue van driver's statement to the victim. This is the equivalent of an open confession to the crime. And, with  [***31]  [*201]  two witnesses corroborating it, we accept as true that someone drove by the victim and shouted the obscene confession. It strains reason to contemplate who, other than the actual assailant, would have done such an act. This makes the victim's unwavering identifications of defendant as both the driver and her assailant more credible.
+Finally, the circumstances leading to defendant's apprehension are also highly incriminating. Shortly after the robbery, defendant was found crouching in the corner of an abandoned building that was only a few blocks from the crime scene. The  [**303]  building is located in the direction that the assailant fled from the crime scene. Moreover, after being robbed, Kessler cried for help and a bystander attempted to follow the assailant. The bystander was later found waiting outside the abandoned building where defendant was found. 15  
+Each of these pieces of evidence is untainted and independent from the Doyle violation in this case. And, in the aggregate, they stand in stark contrast to the sometimes inconsistent evidence that was presented against the defendant in Shafier. There, the only evidence against the defendant was the testimony of his adopted daughters, who were shown to be children caught in a parental dispute. Moreover, the daughters' allegations were somewhat incongruous. Thus, in comparison to the case against the defendant in Shafier, the strength of the evidence against this defendant is substantial.
+In sum, after analyzing these three factors, we conclude that defendant has not met his burden of proving  [*202]  prejudice under Carines. 16  Without proof of prejudice, analysis of the plain-error element is irrelevant; therefore, defendant is not entitled to appellate relief under Carines. 17  
+ [**304]   [*203]  It is, nevertheless, important to make clear that the prosecutor's violation of Doyle in this case is not taken lightly. Doyle violations are constitutional violations, and prosecutors commit an offense against the constitution and its principles by misdeeds such as those seen in this case. Had it not been for the wealth of incriminating evidence against defendant (which begs the question of why a prosecutor would even risk a Doyle violation), the prosecutor's trial victory would not be affirmed. To be clear, the prosecutor has not won this appeal; rather, the defendant has lost it because he has not proven that the Doyle violation entitles him to a new trial under the plain-error doctrine.
+IV. CONCLUSION
+We agree with the Court of Appeals holding that a Doyle violation occurred in this case. But the defendant's convictions are affirmed, and the Court of Appeals is reversed on that issue, because defendant did not show plain error affecting his substantial rights under Carines.
+Reversed.
+Michael F. Cavanagh
+Marilyn Kelly
+Elizabeth A. Weaver
+Maura D. Corrigan
+Stephen J. Markman
+Diane M. Hathaway
+Concur by: Marilyn Kelly; Robert P. Young, Jr.  
+Concur
+
+
+
+
+KELLY, C.J. (concurring).
+I  [***36] concur in the majority opinion. However, I continue to believe that this Court should not have extended the plain-error doctrine to the kind of unpreserved constitutional error present in this case. As I stated in my dissent in People v Carines, I believe that, when there is unpreserved constitutional error, a defendant's conviction should be affirmed only "'if the reviewing court is satisfied that the error is harmless beyond a reasonable doubt.'" 1  
+ [*204]  It appears that, under the Carines plain-error standard, there is never error requiring reversal when there is a "wealth of incriminating evidence." 2  Under those circumstances, the judicial system essentially exempts criminal defendants from the constitutional right to due process of law.
+In the interest of preserving the integrity of the judicial system, we should re-elevate due process to its proper place. The present blatant and repeated abrogation of people's constitutional rights threatens the foundation of the court system.
+I recognize that Carines remains the law in Michigan  [***37] and cannot be ignored, but I believe the Court should reexamine it at the earliest possible moment.
+Marilyn Kelly
+YOUNG, J. (concurring).
+I concur in the result and analysis of the majority opinion. I write separately because I will not join footnotes 8 and 17, in which Justice Cavanagh "dissents" from the Carines 1  plain-error analysis in his own opinion. Justice Cavanagh is entitled to such views, but his opposition to this Court's precedent and preservation of his view are better placed in a concurring statement.
+Robert P. Young, Jr.
+
+ 
+
+End of Document

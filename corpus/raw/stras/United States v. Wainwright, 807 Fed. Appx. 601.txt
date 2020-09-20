@@ -1,0 +1,41 @@
+
+  NeutralAs of: September 19, 2020 9:08 PM Z
+United States v. Wainwright
+United States Court of Appeals for the Eighth Circuit
+February 10, 2020, Submitted; June 4, 2020, Filed
+No. 19-1488
+
+Reporter
+807 Fed. Appx. 601 *; 2020 U.S. App. LEXIS 17535 **; 2020 WL 2988724
+ United States of America, Plaintiff - Appellee, v. Laron J. Wainwright, Defendant - Appellant.  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Subsequent History: Rehearing denied by, Rehearing denied by, En banc United States v. Wainwright, 2020 U.S. App. LEXIS 22286 (8th Cir. Mo., July 16, 2020)  
+Prior History:  [**1] Appeal from United States District Court for the Western District of Missouri - Kansas City.
+  
+Counsel: For United States of America, Plaintiff - Appellee: Stefan C. Hughes, John Benton Hurst, Assistant United States Attorney, Matthew A. Moeder, Special Assistant U.S. Attorney, U.S. Attorney's Office, Kansas City, MO. 
+For Laron J. Wainwright, Defendant - Appellant: Rebecca L. Kurz, Travis D. Poindexter, Assistant Federal Public Defender, Federal Public Defender's Office, Kansas City, MO. 
+Laron J. Wainwright, Defendant - Appellant, Pro se, Leavenworth, KS.  
+Judges: Before SMITH, Chief Judge, COLLOTON and STRAS, Circuit Judges. STRAS, Circuit Judge, concurring in the judgment.  
+Opinion
+
+
+
+
+ [*601]  PER CURIAM.
+A jury convicted Laron Wainwright of unlawful possession of a firearm as a previously convicted felon. See 18 U.S.C. §§ 922(g)(1) and 924(e)(1). The district court1  determined that he was subject to an enhanced sentence under the Armed Career Criminal Act, 18 U.S.C. § 924(e)(1), based on three prior convictions for a serious drug offense in Missouri. Under § 924(e), the statutory minimum punishment is fifteen years' imprisonment and the maximum is life imprisonment; without the enhancement, the maximum punishment for a violation of § 922(g)(1) is ten years' imprisonment. 18 U.S.C. § 924(a)(2). The court calculated an [**2]  advisory guideline range of 235 to 293 months' imprisonment, and sentenced Wainwright to a term of 240 months in prison.
+The enhanced penalty under §924(e) applies when a defendant has "three previous convictions . . . for . . . a serious drug offense . . . committed on occasions different from one another." 18 U.S.C. § 924(e)(1). Judicial records show that Wainwright was convicted on two counts of  [*602]  sale of a controlled substance in Missouri based on transactions that occurred on April 20, 2006, and April 24, 2006, respectively. He sustained a third conviction for sale of a controlled substance, based on a transaction that took place on February 19, 2007. The district court found that these three offenses were serious drug offenses that were committed on different occasions—two were separated by four days, and the third came ten months later—and sentenced Wainwright accordingly. R. Doc. 104, at 10; R. Doc. 91, at 6.
+Wainwright argues that the district court violated his right to a jury trial under the Sixth Amendment by finding at sentencing that his three prior offenses were committed on occasions different from one another. This court has held that whether prior offenses were committed on different occasions is among the recidivism-related [**3]  facts that may be determined by a district court at sentencing. United States v. Evans, 738 F.3d 935, 936-37 (8th Cir. 2014) (per curiam). Wainwright's contention is thus foreclosed by circuit precedent. United States v. Jones, 934 F.3d 842, 843 (8th Cir. 2019) (per curiam); United States v. Wyatt, 853 F.3d 454, 458-59 (8th Cir. 2017); United States v. Harris, 794 F.3d 885, 887 (8th Cir. 2015); accord United States v. Longoria, 874 F.3d 1278, 1283 (11th Cir. 2017) (per curiam); United States v. Blair, 734 F.3d 218, 226-28 (3d Cir. 2013); United States v. Elliott, 703 F.3d 378, 382-83 (7th Cir. 2012); United States v. Thomas, 572 F.3d 945, 952 n.4, 387 U.S. App. D.C. 300 (D.C. Cir. 2009); United States v. White, 465 F.3d 250, 254 (5th Cir. 2006) (per curiam); United States v. Michel, 446 F.3d 1122, 1133 (10th Cir. 2006); United States v. Thompson, 421 F.3d 278, 285-86 (4th Cir. 2005); United States v. Burgin, 388 F.3d 177, 186 (6th Cir. 2004); United States v. Santiago, 268 F.3d 151, 156-57 (2d Cir. 2001).
+The judgment of the district court is affirmed.
+Concur by: STRAS  
+Concur
+
+
+
+
+STRAS, Circuit Judge, concurring in the judgment.
+Circuit precedent requires me to concur in the court's judgment. United States v. Evans, 738 F.3d 935, 936-37 (8th Cir. 2014) (per curiam); see Mader v. United States, 654 F.3d 794, 800 (8th Cir. 2011) (en banc) (explaining that we are bound by a prior panel decision). But I cannot join the court's opinion, which suggests that our precedent is correct. As I have explained before, allowing judges, rather than juries, to find these facts runs afoul of fundamental Sixth Amendment principles and what the Supreme Court has said about them. See United States v. Perry, 908 F.3d 1126, 1134 (8th Cir. 2018) (Stras, J., concurring). No matter how many other courts have misstepped along the way, my view remains unchanged.
+
+ 
+
+End of Document

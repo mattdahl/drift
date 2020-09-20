@@ -1,0 +1,40 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+People v. Wilson
+Supreme Court of Michigan
+September 26, 2003, Decided 
+SC: 120252 
+
+Reporter
+469 Mich. 905 *; 668 N.W.2d 901 **; 2003 Mich. LEXIS 2067 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellee, v PRENTIS W. WILSON, Defendant-Appellant.  
+Subsequent History: Application denied by People v. Wilson, 2006 Mich. LEXIS 459 (Mich., Mar. 27, 2006)  
+Prior History:  [***1]  COA: 220559. Wayne CC: 98-011135.  
+People v. Wilson, 649 N.W.2d 72, 2002 Mich. LEXIS 1209 (Mich., 2002)  
+Disposition: Application for leave to appeal was denied.  
+  
+Judges: Cavanagh and Taylor, JJ., join in the dissent of Young, J.    
+Opinion
+
+
+
+
+ [**901]   [*906]  By order of July 2, 2002, the application for leave to appeal was held in abeyance pending the decision in People v Katt,466 Mich. 889; 649 N.W.2d 72; 2002 Mich. LEXIS 1212 (Docket No. 120515). On order of the Court, the opinion having been issued on May 30, 2003, 468 Mich. 272; 662 N.W.2d 12 (2003), the application is again considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court. 
+Cavanagh and Taylor, JJ., join in the dissent of Young, J.  
+Dissent by: Young  
+Dissent
+
+
+
+
+Young, J. dissents, and states as follows:
+I would grant the petitioner's request for leave to appeal. As I stated in dissent in People v Katt, 1  the prohibition against the admission of hearsay evidence is necessary to "maintain the integrity of witness testimony." 2  And this prohibition is utterly eroded when-as in this case-testimony inadmissible under the enumerated exceptions to the hearsay rule is admitted under the catch-all exception to the prohibition against hearsay. 3  The Katt majority chose to define the catch-all provision broadly. Thus, when hearsay is admitted [***2]  under this sweepingly defined exception, a defendant is unable to call into question  [**902]  the "credibility, memory, perception, and narration" of those witness against him. 4  
+As I suggested in my Katt dissent, 5  it appears that otherwise inadmissible hearsay will be admitted without serious consideration of the principles that undergird the Rules of Evidence. Here, the prosecutor argued at length that "mother's [sic] don't call and make police reports on their sons saying that he's going to kill us if we don't give him money." 6  The trial court was apparently persuaded to admit the hearsay evidence based on this logic and a vague assessment of "all the circumstances in this case." 7  The court explained:
+I'm going to admit [the testimony] . . . . As I said, we make the record.  [***3]  That's all I can do. In fact, as far as I'm concerned, this is an exception to the Hearsay Rule, and it is probative of some issue that is up to be proved by the Prosecutor. So, I'll just have to let-I think under the circumstances, it is admissible. 8  
+This, in essence, was the circuit court's analysis of the statement's "equivalent guarantees" under then-MRE 804(b)(6). 9  
+ [***4]   The Katt majority was confident that the "equivalent guarantees of trustworthiness" analysis would prevent the catch-all exception from eviscerating the rules of evidence. But the cavalier analysis of this very issue by the trial court more than amply demonstrates my fear that the "equivalent guarantees" threshold is likely to be a meaningless test. While Katt was released after this defendant was convicted, the majority has now declined to show how the fifteen "general guidelines" it borrowed from the Federal Rules of Evidence Manual in Katt, 10  or any other guidelines for the catch-all exception, 11  justify the admission of hearsay testimony in this case. If this trial court's analysis under the catch-all exception now passes muster with the Katt majority, the fears I expressed in my Katt dissent are fully realized. 
+ [***5]  I deeply regret that the majority has now passed on the opportunity to explain how trial courts should admit hearsay testimony under the catch-all exceptions without trampling on the procedural and substantive rights of criminal defendants. I think that there is no basis in this record to substantiate the admission of the hearsay in this case and believe that this Court ought to explain why the admission of hearsay in this case was harmless.  
+
+ 
+
+End of Document

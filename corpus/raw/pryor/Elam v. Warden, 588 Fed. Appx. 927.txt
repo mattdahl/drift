@@ -1,0 +1,70 @@
+
+  NeutralAs of: September 19, 2020 11:22 PM Z
+Elam v. Warden
+United States Court of Appeals for the Eleventh Circuit
+October 17, 2014, Decided
+No. 13-12702 Non-Argument Calendar
+
+Reporter
+588 Fed. Appx. 927 *; 2014 U.S. App. LEXIS 20216 **
+ JOHN K. ELAM, Petitioner-Appellant, versus WARDEN, FCC COLEMAN-MEDIUM, Respondent-Appellee.  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Subsequent History: US Supreme Court certiorari denied by Elam v. Pastrana, 2015 U.S. LEXIS 5711 (U.S., Oct. 5, 2015)  
+Prior History:  [**1] Appeal from the United States District Court for the Middle District of Florida. D.C. Docket No. 5:10-cv-00339-JDW-PRL.
+  
+Disposition: AFFIRMED.
+  
+Counsel: John K. Elam, Petitioner - Appellant, Pro se, Coleman, FL. 
+For Fcc Coleman - Medium Warden, Respondent - Appellee: Linda Julin McNamara, Robert E. O'Neill, U.S. Attorney's Office, Tampa, FL; Roberta Josephina Bodnar, U.S. Attorney's Office, Orlando, FL.  
+Judges: Before HULL, WILLIAM PRYOR and ANDERSON, Circuit Judges. WILLIAM PRYOR, Circuit Judge, concurring.  
+Opinion
+
+
+
+
+ [*928]  PER CURIAM:
+John Elam, proceeding pro se, filed a 28 U.S.C. § 2241 petition for a writ of habeas corpus challenging his 322-month total sentence for three convictions related to a 1996 armed robbery. The district court dismissed Elam's § 2241 petition for lack of subject matter jurisdiction.
+Elam appeals. After review of the record and consideration of the parties' briefs on appeal, we affirm.
+ I. FACTUAL & PROCEDURAL BACKGROUND  
+A. Convictions and Sentences in 1998
+In October 1996, Elam robbed several victims at a drug store at gunpoint. In 1997, Elam was indicted on: (1) one count of robbery, in violation of 18 U.S.C. § 1951(a) ("Count 1"); (2) one count of using a firearm during and in relation to a crime of violence, in violation of 18 U.S.C. § 924(c) ("Count 2"); and (3) one [**2]  count of being a felon in possession of a firearm, in violation of 18 U.S.C. § 922(g)(1) ("Count 3"). In 1998, a jury found Elam guilty of all three counts.
+The maximum statutory penalties for Elam's three convictions were (1) 20 years' imprisonment for Count 1, (2) a mandatory term of 5 years' imprisonment for Count 2, and (3) life imprisonment for Count 3. Relevant to this appeal, the maximum statutory penalty for Count 3 increased from 10 years' imprisonment to life imprisonment because the sentencing court found that Elam had four prior state felony convictions that qualified him as an armed career criminal under the Armed Career Criminal Act, 18 U.S.C. § 924(e) ("ACCA"). See 18 U.S.C. § 924(a)(2), (e).
+Specifically, Elam's presentence investigation report ("PSI") cataloged his extensive prior criminal activity, which yielded a criminal history category of VI. Elam's prior criminal activity included these Florida state court convictions: (1) two separate 1983 burglary convictions, in violation of Fla. Stat. § 810.02(3); (2) one 1989 conviction for the sale, purchase, or delivery of a controlled substance on or near school property, in violation of Fla. Stat. § 893.13(1)(c); and (3) one 1994 conviction for possession with intent to sell, purchase, manufacture, or deliver cocaine, in violation [**3]  of Fla. Stat. § 893.13(2)(b).1  The PSI noted that these four prior felony convictions were predicate offenses that qualified Elam as a career offender under U.S.S.G. § 4B1.1 and an armed career criminal under the ACCA and U.S.S.G. § 4B1.4.
+The applicable offense level under the career offender guideline was 32. The applicable offense level under the armed career criminal guideline was 34. Applying the higher applicable offense level, the PSI determined that Elam's offense level was 34.
+Based on his criminal history category of VI and an offense level of 34, Elam's mandatory guidelines range was 262 to 327 months' imprisonment.2 
+Elam, through counsel, objected to the PSI in several ways—both in writing and at his sentencing hearing. But, none of his objections related [**4]  to his four prior  [*929]  state felony convictions or his classification as an armed career criminal.
+On May 29, 1998, the district court sentenced Elam to a total sentence of 322 months' imprisonment, near the high-end of the guidelines range. This sentence was comprised of 240 months on Count 1; 262 months on Count 3, to run concurrently with the sentence on Count 1; and 60 months on Count 2, to run consecutively to the sentences on Counts 1 and 3.
+ B. Direct Appeal in 1998
+Elam appealed, arguing that the district court erred (1) by denying Elam's motion to suppress; (2) by denying his motion to sever Count 3 (i.e., being a felon in possession of a firearm); and (3) by admitting certain police testimony. This Court affirmed Elam's convictions and sentences on August 17, 1999.
+ C. First § 2255 Motion in 2000
+In November 2000, Elam filed an original 28 U.S.C. § 2255 motion to vacate, set aside, or correct sentence, in which he argued only that he received ineffective assistance of counsel in ways unrelated to his sentence. On August 7, 2002, the district court denied Elam's § 2255 motion. Elam did not appeal.
+ D. Instant § 2241 Petition in 2010
+On July 26, 2010, Elam filed his first § 2241 habeas petition for a writ of habeas corpus. This [**5]  petition is presently before this Court.
+In his § 2241 petition, Elam argues that he is "actually, factually, and legally innocent of being an armed career offender" because he does not have the required felonies to qualify for the statutory ACCA sentencing enhancement in 18 U.S.C. § 924(a)(e). Elam acknowledges that he cannot raise these claims in a successive § 2255 motion because (1) he previously filed a § 2255 motion and (2) he does not meet the statutory requirements for filing a second or successive § 2255 motion. See 28 U.S.C. § 2255.
+Notwithstanding the statutory bar to filing a second § 2255 motion, Elam argues that the savings clause in § 2255(e) permits him to raise his claims in a § 2241 petition. Specifically, Elam argues that pursuing a remedy under § 2255 at this juncture would be "inadequate or ineffective" within the meaning of § 2255(e)'s savings clause because (1) he "is only allowed to file one original § 2255 motion" and (2) "a successive § 2255 motion does not meet the requirements of [the] issue [in his § 2241 petition] because he is arguing a statutory change in the law," rather than a constitutional change in law.
+In his § 2241 petition, Elam argues that his two separate 1983 state burglary convictions were not violent felonies under the ACCA because (1) no violence occurred, nobody [**6]  was armed, and nobody was present; (2) he pled guilty to entering the curtilage of a dwelling, rather than the dwelling itself; and (3) the Florida statute under which he pled guilty defined burglary more broadly than generic burglary is defined.
+Elam also argues that his 1994 state drug conviction was not a qualifying ACCA predicate offense. In particular, Elam argues that the Florida statute under which he pled guilty covers simple possession; and, therefore, it is unclear whether he committed simple possession or possession with intent to sell.3  He also argues that  [*930]  this Florida statute of conviction was ambiguous.
+On May 8, 2013, the district court determined that the savings clause of § 2255(e) did not permit Elam to raise his claims in a § 2241 petition. Therefore, the district court concluded that it lacked subject matter jurisdiction to entertain Elam's § 2241 petition and, thus, dismissed Elam's petition.
+Elam now appeals. [**7] 4 
+ II. DISCUSSION
+A federal prisoner who wishes to file a second or successive § 2255 motion must move this Court for an order authorizing the district court to consider such a motion. See 28 U.S.C. § 2255(h) (cross-referencing 28 U.S.C. § 2244). We may grant such authorization only if the proposed motion contains claims premised on either (1) "newly discovered evidence that, if proven and viewed in light of the evidence as a whole, would be sufficient to establish by clear and convincing evidence that no reasonable factfinder would have found the movant guilty of the offense," or (2) "a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable." Id. Elam acknowledges that his present claims do not satisfy the statutory requirements for filing a second or successive § 2255 motion.
+Nevertheless, Elam attempts to attack the imposition of his sentence through a § 2241 habeas petition. He can do so, however, only if the "savings clause" of § 2255(e) opens the portal to relief under § 2241. And, § 2255(e) opens the portal to § 2241 only if "the remedy by [a § 2255] motion is inadequate or ineffective to test the [**8]  legality of [Elam's] detention."5  28 U.S.C. § 2255(e); Bryant v. Warden, FCC Coleman-Medium, 738 F.3d 1253, 1262 (11th Cir. 2013).
+The savings clause in § 2255(e) is a jurisdictional provision. Williams v. Warden, Fed. Bureau of Prisons, 713 F.3d 1332, 1339-40 (11th Cir. 2013), cert. denied, 135 S. Ct. 52, 190 L. Ed. 2d 29, 2014 U.S. LEXIS 5103, 2014 WL 1392365 (Oct. 6, 2014). Thus, before the district court has subject matter jurisdiction to review a § 2241 petition, the petitioner must show that the savings clause is satisfied. See id. A hopeful § 2241 petitioner may not argue the merits of his claim until he has "open[ed] the portal" to a § 2241 proceeding by demonstrating that the savings clause applies to his claim. See Wofford v. Scott, 177 F.3d 1236, 1244 n.3 (11th Cir. 1999); see also Williams, 713 F.3d at 1339-40.
+Here, based on our binding precedent, Elam has not satisfied any of the requirements to access § 2241 through the savings clause portal in § 2255(e). See Bryant v. Warden, FCC Coleman-Medium, 738 F.3d 1253, 1274 (11th Cir. 2013); Williams v. Warden, Fed. Bureau of Prisons, 713 F.3d 1332, 1343 (11th Cir. 2013); Wofford v. Scott, 177 F.3d 1236, 1244 (11th Cir. 1999).
+ [*931]  The district court correctly determined that it lacked subject matter jurisdiction to review Elam's § 2241 petition on the merits. See Williams, 713 F.3d at 1339-40.6 
+ III. CONCLUSION
+For the reasons stated above, we affirm the district court's dismissal of Elam's § 2241 petition for lack of subject matter jurisdiction under 28 U.S.C. § 2255(e).7 
+AFFIRMED.
+Concur by: WILLIAM PRYOR  
+Concur
+
+
+
+
+WILLIAM PRYOR, Circuit Judge, concurring:
+I concur that we must dismiss this petition for a writ of habeas corpus. See United States v. Hogan, 986 F.2d 1364, 1369 (11th Cir. 1993) ("[I]t is the firmly established rule of this Circuit that each succeeding panel is bound by the holding of the first panel to address an issue of law, unless and until that holding is overruled en banc, or by the Supreme Court."). But for the reasons explained in my concurrence in Samak v. Warden, FCC Coleman-Medium, 766 F.3d 1271, 1275-95 (11th Cir. 2014) (Pryor, J., concurring), our decision in Bryant v. Warden, FCC Coleman-Medium, 738 F.3d 1253 (11th Cir. 2013), is wrong.
+
+ 
+
+End of Document

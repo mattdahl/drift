@@ -1,0 +1,57 @@
+
+  PositiveAs of: September 19, 2020 9:15 PM Z
+Byers v. Astrue
+United States Court of Appeals for the Tenth Circuit
+December 27, 2012, Filed
+No. 12-6095
+
+Reporter
+506 Fed. Appx. 788 *; 2012 U.S. App. LEXIS 26437 **; 2012 WL 6700377
+ WILLIAM C. BYERS, Plaintiff—Appellant, v. MICHAEL J. ASTRUE, Commissioner of the Social Security Administration, Defendant—Appellee.  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Prior History:  [**1] (D.C. No. 5:10-CV-01190-HE). (W.D. Okla.).
+Byers v. Astrue, 2012 U.S. Dist. LEXIS 17482 (W.D. Okla., Feb. 10, 2012)  
+Counsel: For WILLIAM C. BYERS, Plaintiff - Appellant: Gayle L. Troutman, Troutman & Troutman, PC, Tulsa, OK. 
+For MICHAEL J. ASTRUE, Defendant - Appellee: Earnie A. Joe, Social Security Administration, Office of the General Counsel, Dallas, TX.  
+Judges: Before LUCERO, TYMKOVICH, and HOLMES, Circuit Judges. Tymkovich, J., dissenting.  
+Opinion by: Carlos F. Lucero  
+Opinion
+
+
+
+
+  [*789]  ORDER AND JUDGMENT* 
+William C. Byers appeals from a district court order upholding the Commissioner's denial of his applications for disability-insurance benefits ("DIB") and supplemental-security-income payments ("SSIP"). Exercising jurisdiction under 28 U.S.C. § 1291 and 42 U.S.C. § 405(g), we reverse  [**2] and remand for further proceedings.
+ I
+In 2008, Byers applied for DIB and SSIP. After his claims were denied by the state Disability Determination Service, an administrative law judge ("ALJ") conducted a hearing on Byers' claims. At the hearing, Byers testified that he had a ninth-grade education, that his primary vocation had been as a self-employed residential painter, and that he could no longer do that type of work because of vision problems. He also recounted that he suffered from a broken heel, arthritis, an umbilical hernia, "early stages of emphysema," and depression.
+A vocational expert ("VE") testified that although Byers had certain skills that could be transferred to light work, the jobs base was eroded for individuals with Byers' limitations. But the VE identified [*790]  three light, unskilled jobs in the national economy not excluded by these limitations: ticket seller, electronics worker, and storage-facility rental clerk.
+Six months after the hearing, when Byers was five months and eighteen days short of his 55th birthday, the ALJ issued his decision, finding that Byers was not disabled. The ALJ concluded that Byers maintained the residual functional capacity ("RFC") to perform  [**3] light work, so long as it did not involve the limitations considered by the VE at the hearing. With this RFC, the ALJ ruled that Byers could not return to his past relevant work as a painter. However, the ALJ consulted the Medical-Vocational Guidelines ("the Grids") to determine whether Byers could adjust to other work. Relying on the VE's testimony, the ALJ found that Byers "is capable of making a successful adjustment to other work that exists in significant numbers in the national economy"—ticket seller, electronics worker, or storage-facility rental clerk.
+A magistrate judge recommended that the ALJ's decision be affirmed. The district court adopted the recommendation and affirmed the ALJ's decision, prompting this appeal.
+ II
+"We review the Commissioner's decision to determine whether the ALJ's factual findings are supported by substantial evidence in the record and whether the correct legal standards were applied." Keyes-Zachary v. Astrue, 695 F.3d 1156, 1161 (10th Cir. 2012) (quotation omitted). "Because the ALJ found that [Byers'] impairments prevented him from performing his past relevant work, this case reached the fifth step of the sequential process for determining disability,  [**4] at which point the Commissioner had the burden of showing [that Byers] could perform other work that exists in the national economy." Daniels v. Apfel, 154 F.3d 1129, 1132 (10th Cir. 1998).
+Byers argues that the ALJ failed to consider whether his chronological age placed him on the borderline of advanced age. A claimant qualifies under the agency's regulations as a "[p]erson of advanced age" if he or she is "age 55 or older." 20 C.F.R. § 404.1563(e) (DIB); § 416.963(e) (SSIP). But for "age[s] 50-54," a claimant qualifies only as a "[p]erson closely approaching advanced age." § 404.1563(d); § 416.963(d). The different age categories have distinct consequences. In particular, the agency views "advanced age . . . [as] significantly affect[ing] a person's ability to adjust to other work." § 404.1563(e); § 416.963(e). But the agency considers "closely approaching advanced age" as only potentially affecting the ability to adjust to other work. § 404.1563(d); § 416.963(d).
+To determine which age category applies, the agency focuses on the claimant's age when he or she "last met the insured status requirement before the date of adjudication." SSR 83-10, 1983 SSR LEXIS 30, at *20, 1983 WL 31251, at *8; see also Daniels, 154 F.3d at 1132  [**5] & n.4. The Commissioner does not dispute that Byers' age on the date of the ALJ's decision is the relevant date. At that time, Byers had not yet reached advanced age (55 or older); he was five months and eighteen days shy of age 55. Although Byers was chronologically in the closely-approaching-advanced-age category, the agency has announced that it will
+not apply the age categories mechanically in a borderline situation. If [the claimant is] within a few days to a few months of reaching an older age category, and using the older age category would result in a determination or decision that [the claimant is] disabled, [the agency] will consider whether to use the [*791]  older age category after evaluating the overall impact of all the factors of [the] case.
+20 C.F.R. § 404.1563(b); § 416.963(b). The agency provides "[n]o fixed guidelines as to when a borderline situation exists . . . since such guidelines would themselves reflect a mechanical approach." SSR 83-10, 1983 SSR LEXIS 30, at *20, 1983 WL 31251, at *8.
+Byers asserts that he would qualify as presumptively disabled under the Grids if placed in the advanced-age category. The Commissioner does not dispute that assertion. Instead, the Commissioner urges that we declare  [**6] Byers' age too far away from age 55 to constitute a borderline situation.
+In Cox v. Apfel, No. 98-7039, 1998 U.S. App. LEXIS 31318, 1998 WL 864118, at *4 (10th Cir. Dec. 14, 1998) (unpublished), we concluded that "six months [from] the next age category" presents a borderline situation that must be addressed by the ALJ. However, in Lambert v. Chater, 96 F.3d 469, 470 (10th Cir. 1996), we held in a published decision that a claimant who was "seven months short of the next [age] category" did "not fall within a borderline situation preventing application of the grids." We are unaware of any circuit court decision, other than Cox, finding a borderline situation when the claimant is beyond four months from the next highest age category. See, e.g, Byes v. Astrue, 687 F.3d 913, 918 (8th Cir. 2012) (collecting cases).
+Nevertheless, we need not decide in this case whether a five-and-a-half month gap qualifies as borderline. Based on the record before us, it is unclear whether the ALJ was even aware of the potential borderline situation in this case. The ALJ cited the regulations that include the borderline rules, "20 CFR 404.1563 and 416.963," and he found that Byers was "closely approaching advanced age." But he based  [**7] that finding on Byers' age of "52 years old . . . on the alleged disability onset date." As noted above, the appropriate date for analyzing a borderline situation, and for determining the overall applicability of the Grids, is the last day of the claimant's insured status before the adjudication date. See SSR 83-10, 1983 SSR LEXIS 30, 1983 WL 31251, at *8; Daniels, 154 F.3d at 1132 & n.4. The parties agree that the correct date for Byers is the date of the ALJ's decision, when Byers was five-and-a-half months short of 55 years old.
+The ALJ was aware that Byers' insured status continued even beyond the date of the decision. But the decision does not "address[] the issue of whether [Byers] fell within the borderline or whether he should be considered in the next age bracket." Daniels, 154 F.3d at 1133-34 n.5. The only language in the decision that appears to reach that issue applies the wrong age. Thus, a remand is in order because we cannot tell whether the ALJ would have reached the same result by considering that Byers was five-and-a-half months short of advanced age. 1 
+ III
+The judgment of the district court is REVERSED, and the case is REMANDED  [*792] with instructions to remand to the Commissioner for additional proceedings consistent with this order and judgment.
+Entered for the Court
+Carlos F. Lucero
+Circuit Judge
+Dissent by: Tymkovich  
+Dissent
+
+
+
+
+Tymkovich, J., dissenting.
+I dissent because I am persuaded the ALJ did not err in denying benefits. I agree in substantial part with the analysis of the magistrate judge in his report and recommendation and the district court in its order. In my view, the nearly six-month time frame to the claimant's fifty-fifth birthday is not a "few" months  [**9] as contemplated by the borderline age regulations. 20 C.F.R. § 404.1563(b).
+
+ 
+
+End of Document

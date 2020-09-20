@@ -1,0 +1,35 @@
+
+  CautionAs of: September 19, 2020 7:47 PM Z
+Johnson v. United States
+United States Court of Appeals for the Eighth Circuit
+May 23, 2013, Submitted; July 12, 2013, Filed
+No. 12-3744
+
+Reporter
+720 F.3d 720 *; 2013 U.S. App. LEXIS 14105 **; 2013 WL 3481221
+ Kamil Hakeem Johnson, Petitioner v. United States of America, Respondent  
+Prior History:  [**1] Appeal from United States District Court for the District of Minnesota - Minneapolis.
+United States v. Crenshaw, 359 F.3d 977, 2004 U.S. App. LEXIS 3963 (8th Cir. Minn., Mar. 2, 2004)  
+Counsel: Kamil Hakeem Johnson, Petitioner, Pro se, Coleman, FL. 
+For United States of America, Respondent: James Lackner, U.S. ATTORNEY'S OFFICE, Saint Paul, MN; Jeffrey S. Paulsen, Assistant U.S. Attorney, U.S. ATTORNEY'S OFFICE, Minneapolis, MN.  
+Judges: Before SMITH, ARNOLD, and COLLOTON, Circuit Judges. COLLOTON, Circuit Judge, dissenting.  
+Opinion
+
+
+
+
+ [*720]  PER CURIAM.
+Kamil Hakeem Johnson seeks authorization to file a successive 28 U.S.C. § 2255 motion, asserting that Miller v. Alabama, 132 S. Ct. 2455, 2460, 183 L. Ed. 2d 407 (2012), which held that a sentencing scheme that requires a sentence of life imprisonment without parole for certain crimes committed by defendants who were under the age of 18 violates the Eighth Amendment, announced a new rule that applies retroactively, see 28 U.S.C. § 2255(h)(2). We conclude that Mr. Johnson has made a prima facie showing, see 28 U.S.C. §§ 2255(h), 2244(b)(3)(C), that his motion contains "a new rule of constitutional law, made retroactive to cases on collateral review by the Supreme Court, that was previously unavailable," 28 U.S.C. § 2255(h)(2), and we therefore grant him authorization to file a successive § 2255  [**2] motion.
+In granting authorization we join most other circuits in adopting the proposition that a prima facie showing in this context is "simply a sufficient showing of possible merit to warrant a fuller exploration by the district court," see Bennett v. United States, 119 F.3d 468, 469 (7th Cir. 1997). See Case v. Hatch, 731 F.3d. 1015  , 2013 U.S. App. LEXIS 7742, 13 WL 1501521, at *1, 10-12 (10th Cir. April 12, 2013); Goldblum v. Klem, 510 F.3d 204, 219 (3rd Cir. 2007); In re Williams, 330 F.3d 277, 281 (4th Cir. 2003); In re Holladay, 331 F.3d 1169, 1173-74 (11th Cir. 2003); Bell v. United States, 296 F.3d 127, 128 (2d Cir. 2002); Reyes-Requena v. United States, 243 F.3d 893, 898-99 (5th Cir. 2001); Thompson v. Calderon, 151 F.3d 918, 925 (9th Cir. 1998); Rodriguez v. Superintendent, Bay State Corr. Ctr., 139 F.3d 270, 273 (1st Cir. 1998), abrogated on other grounds by Bousley v. United States, 523 U.S. 614, 118 S. Ct. 1604, 140 L. Ed. 2d 828 (1998). We emphasize that the "district  [*721]  court must not defer" to our "preliminary determination" in granting the authorization, Case, 2013 U.S. App. LEXIS 7742, 13 WL 1501521, *11, as our "grant is... tentative in the following sense: the district court must dismiss the motion that we have allowed the applicant to file, without  [**3] reaching the merits of the motion, if the court finds that the movant has not satisfied the requirements for the filing of such a motion," Bennett, 119 F.3d at 469-70 (citing 28 U.S.C. § 2244(b)(4)). The government here has conceded that Miller is retroactive and that Mr. Johnson may be entitled to relief under that case, and we therefore conclude that there is a sufficient showing here to warrant the district court's further exploration of the matter.
+Dissent by: COLLOTON  
+Dissent
+
+
+
+
+COLLOTON, Circuit Judge, dissenting.
+Like the Eleventh Circuit in In re Morgan, 713 F.3d 1365 (11th Cir.), reh'g denied, 717 F.3d 1186, 2013 U.S. App. LEXIS 11756, 13 WL 2476318 (11th Cir. June 10, 2013), I would deny the motion for authorization to file a second or successive motion under 28 U.S.C. § 2255, because the movant has not made a prima facie showing that Miller v. Alabama, 132 S. Ct. 2455, 183 L. Ed. 2d 407 (2012), announced a new rule of constitutional law that has been "made retroactive to cases on collateral review by the Supreme Court." 28 U.S.C. § 2255(h)(2). A new rule is not "made retroactive" unless the Supreme Court holds it to be retroactive. Tyler v. Cain, 533 U.S. 656, 663, 121 S. Ct. 2478, 150 L. Ed. 2d 632 (2001). Although movant Kamil Hakeem Johnson and the government suggest reasons why reasonable  [**4] jurists could believe that the Court in the future might conclude that Miller announced a "substantive" rule, and therefore should apply retroactively, see Schriro v. Summerlin, 542 U.S. 348, 351, 352 n.4, 124 S. Ct. 2519, 159 L. Ed. 2d 442 (2004), the motion for authorization has merit only if the Court's holdings to date "necessarily dictate retroactivity of the new rule." Tyler, 533 U.S. at 663 n.5, 666. As the government acknowledges in its response to the pending motion, "[t]o date, the new rules the Court has treated as substantive have categorically prohibited a particular outcome for a particular class of defendants, regardless of the procedure employed." Gov't Resp. at 12. Miller does not fit within that class of new rules; it creates the possibility of a different result through individualized sentencing, Miller, 132 S. Ct. at 2460, but it does not prohibit an outcome of life imprisonment for a juvenile like Johnson, who shot a .38 caliber pistol in the direction of gang members at a gas station and killed a four-year-old girl returning home from a day at a neighborhood festival. See id. at 2469 ("[W]e do not foreclose a sentencer's ability to make that judgment in homicide cases"); see also United States v. Crenshaw, 359 F.3d 977, 981-83 (8th Cir. 2004)  [**5] (recounting the evidence against Johnson). To rule that Miller announced a "substantive" rule would require an extension of the Supreme Court's holdings, and the motion for authorization should therefore be denied.
+
+ 
+
+End of Document

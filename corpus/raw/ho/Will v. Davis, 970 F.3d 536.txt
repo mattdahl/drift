@@ -1,0 +1,379 @@
+
+  NeutralAs of: September 19, 2020 8:15 PM Z
+Will v. Davis
+United States Court of Appeals for the Fifth Circuit
+August 5, 2020, Filed
+No. 17-20604 No. 17-70022
+
+Reporter
+2020 U.S. App. LEXIS 24777 *; 970 F.3d 536
+ IN RE: ROBERT GENE WILL, II, Movant, CONSOLIDATED WITH ROBERT GENE WILL, II, Petitioner—Appellant, versus LORIE DAVIS, DIRECTOR, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, CORRECTIONAL INSTITUTIONS DIVISION, Respondent—Appellee.  
+Prior History:  [*1] Appeal from the United States District Court, for the Southern District of Texas. USDC No. 4:15-CV-3474.
+Ex parte Will, 2006 Tex. Crim. App. Unpub. LEXIS 511 (Tex. Crim. App., Mar. 29, 2006)  
+Counsel: For In re: Robert Gene Will, II, Movant: Samy Kamal Khalil, Esq., Gerger Khalil Hennessy & McFarlane, Houston, TX; Jason Charles Ewart, Karen Christine Hogan Otto, Arnold & Porter Kaye Scholer, L.L.P., Washington, DC; Chad Flores, Esq., Beck Redden, L.L.P., Houston, TX.  
+Judges: Before Owen, Chief Judge, and Willett and Ho, Circuit Judges.  
+Opinion
+
+
+
+
+Per Curiam:
+Robert Gene Will filed a second-in-time habeas petition raising Brady and actual innocence claims. The district court concluded that Will's petition was successive and transferred it to this court. Will appeals the district court's transfer order and alternatively asks this court for authorization to file a successive habeas application. We affirm the district court's transfer order and grant the motion for authorization. Will's arguments may not prevail, but he should be allowed to make them.
+I
+Robert Gene Will was convicted and sentenced to death for the capital murder of Deputy Barrett Hill. Will has consistently maintained his innocence and asserted that Michael Rosario, the man who fled from the police with Will the morning of the murder, committed [*2]  the heinous crime. Will sought state appellate and state habeas remedies but received no relief.1  Then Will filed his first federal habeas petition, asserting ineffective assistance of counsel and actual innocence. In 2010, the district court denied habeas relief but stayed the ineffective assistance of state habeas counsel claim, which remains pending.
+After the denial of Will's first federal habeas petition, the Harris County District Attorney's Office provided information to the defense that it had not turned over previously. This new information includes a Harris County Sheriff's Department document (the Hit Document) revealing that after Hill's murder Rosario was placed in administrative separation because he "made contact . . . to visit w[ith] David Cruz," apparently "soliciting [Cruz] to make [a] hit on [Will]." A related document revealed that Cruz was placed in administrative separation "due to [a] possible . . . hit." There is also a report (the Schifani Report) in which Deputy Patricia Schifani documented that Rosario told her he was "part of the reason" Deputy Hill was murdered.
+Will's trial attorneys signed affidavits stating that neither the Hit [*3]  Document nor Schifani Report had been disclosed to them. Before trial, the prosecutor had agreed to disclose "[a]ll exculpatory evidence pursuant to Brady v. Maryland,"2  and Will's counsel had subpoenaed all inmate records concerning Rosario. Will's habeas counsel also obtained a subpoena for Rosario's prison records during his first federal habeas proceedings. But, despite the trial attorneys' diligence, neither the Hit Document nor the Schifani Report were disclosed. An attorney at the DA's Office acknowledged that if she had known about the Hit Document and the Schifani Report, Brady and the DA Office's open file policy would have obligated her to disclose the documents to Will's trial counsel.
+Based on this newly discovered evidence—again, disclosed by the DA's office only after Will's first federal habeas petition was denied—Will filed a third state habeas petition claiming that the prosecution unconstitutionally suppressed evidence under Brady and that he was actually innocent. The Texas Court of Criminal Appeals denied habeas relief. Will then filed a second-in-time federal habeas petition in district court seeking relief based on the State's alleged Brady violation.
+The State [*4]  filed a motion for summary judgment, asserting that the district court lacked jurisdiction to consider a successive habeas action under the Anti-Terrorism and Effective Death Penalty Act (AEDPA). The district court granted the State's motion and transferred the second federal habeas petition to this court. Will appeals the transfer order. Alternatively, he submitted a motion for authorization to file a second federal habeas petition. The clerk's office has consolidated the two cases.3 
+II
+We first consider whether the district court properly transferred Will's habeas petition to this court. The dispositive issue is whether Will's petition is "second or successive" under 28 U.S.C. § 2244.4  If it is successive, the district court's transfer order was proper because only a court of appeals can authorize Will's habeas petition.5  If it is not successive, the district court erred in transferring Will's habeas petition to this court.
+At the time the district court issued its transfer order, neither the Supreme Court nor the Fifth Circuit had yet decided section 2244's application to Brady claims. Since then, however, we have definitively spoken on the matter and determined that Brady claims raised in [*5]  second-in-time habeas petitions are successive regardless of whether the petitioner knew about the alleged suppression when he filed his first habeas petition.6  So even though Will did not know of the State's alleged Brady violation at the time he filed his first habeas petition, it is still subject to AEDPA's statutory requirements for filing a successive petition,7  and the district court did not err in transferring Will's habeas petition to this court.
+III
+Given that this petition is "second or successive," we next consider Will's alternative request for permission to file a successive habeas petition. Under 28 U.S.C. § 2244(b)(3)(C), "[t]he court of appeals may authorize the filing of a second or successive application only if it determines that the application makes a prima facie showing that the application satisfies the requirements" of § 2244(b). To receive authorization to file a successive habeas petition with the district court, Will must make a prima facie showing that: (1) his Brady claim was not presented in a prior application; (2) the factual predicate for the Brady claim "could not have been discovered previously through the exercise of due diligence"; and (3) he can establish by "clear and [*6]  convincing evidence that, but for [the Brady] error, no reasonable factfinder would have found" him guilty.8 
+A prima facie showing is "simply a sufficient showing of possible merit to warrant a fuller exploration by the district court."9  "If in light of the documents submitted with the application it appears reasonably likely that the application satisfies the stringent requirement for the filing of a second or successive petition, we shall grant the application."10  At this stage, this court does not rule on the ultimate merits; it simply determines if this "second or successive" habeas application deserves fuller review by the district court.11  Will has made the requisite prima facie showing, so his motion for authorization is granted.
+The State does not dispute that Will has "not presented" this claim in a prior federal habeas petition. However, it asserts that Will's counsel did not exercise due diligence and that the Brady claim fails to demonstrate actual innocence. We disagree with the State on both points.
+A
+Will made a prima facie showing that the factual predicate for his Brady claim could not have been previously discovered through due diligence.12  While a "successive [*7]  petitioner urging a Brady claim may not rely solely upon the ultimate merits of the Brady claim in order to demonstrate due diligence under § 2244(b)(2)(B),"13  if "[t]he trial record contains no evidence which would have put a reasonable attorney on notice," then trial counsel exercised due diligence.14  On the other hand, "where the petitioner was noticed pretrial of the existence of the factual predicate and of [its] ultimate potential exculpatory relevance," due diligence is not exercised.15 
+Section 2244(b)(2)(B)'s due-diligence requirement "is measured objectively, not by the subjective diligence of the petitioner."16  As such, Will is required to show that the withheld records objectively could not have been discovered through the exercise of due diligence.17  The distinction between a subjective and objective inquiry was squarely addressed in Johnson v. Dretke. There, the State argued that Johnson could not satisfy the due-diligence prong because Johnson did not demonstrate that he exercised due diligence, and he never explained how he ultimately discovered the previously unavailable documents.18  We rejected that argument, holding that "the plain text of § 2244(b)(2)(B) suggests that due diligence is measured against an objective standard, [*8]  as opposed to the subjective diligence of the particular petitioner of record."19  In applying this objective standard, we concluded that Johnson could not satisfy his burden because the record included evidence that would have put a reasonable person on notice that missing documents existed.20  Johnson therefore could not explain why (or that) the evidence could not have been discovered sooner, and, thus, the due-diligence requirement was not satisfied.21 
+Such is not the case here. Objectively, Will has demonstrated that the withheld records could not have been discovered through due diligence. Here, the prosecutor "pledge[d] to [the] Court" that she would produce all Brady materials prior to trial; Deputy Strickland, who prepared the Hit Document, appeared in court after refusing to comply with a subpoena duces tecum and stated that he did not have any documents pertaining to Will's case; Will's habeas counsel had subpoenaed all inmate records concerning Rosario; an attorney in the DA's Office acknowledged that, between Brady and the DA's open file policy,22  the State would have been obligated to disclose the withheld documents prior to trial; and Will had no exigent reason to know that [*9]  the Hit Document or Schifani Report existed. Accordingly, there was no reason for Will or his counsel to suspect that documents were being withheld or to do more than they did to uncover the withheld evidence.23 
+Trial counsel need not assume the prosecution may be withholding information in order to exercise diligence. The Supreme Court has stated that its "decisions lend no support to the notion that defendants must scavenge for hints of undisclosed Brady material when the prosecution represents that all such material has been disclosed,"24  and trial counsel should be able to reasonably rely on a prosecutor's open file policy.25  While this Supreme Court precedent was not interpreting AEDPA, its due-diligence analysis demonstrates that trial counsel may rely, absent notice to the contrary, on representations by the prosecutor, as Will's counsel reasonably did here.
+While this court does not rule on the ultimate merits of the due-diligence inquiry at this stage,26  the facts show that Will made a "sufficient showing of possible merit to warrant a fuller exploration by the district court."27 
+B
+Will has also made a prima facie showing, by clear and convincing evidence, [*10]  that no reasonable factfinder would find him guilty.28  As a reminder, a prima facie showing is "simply a sufficient showing of possible merit to warrant a fuller exploration."29  In other words, "[i]f we determine that it appears 'reasonably likely' that . . . the application meets the 'stringent requirement' for the filing of a successive petition, then we must grant the filing."30  But any such grant is "tentative."31  Even after we authorize a petitioner to file a successive petition, the district court must conduct its own "thorough review" to determine whether the requirements of §2244(b)(2) have been satisfied, and it must dismiss the motion, without reaching the merits, if it determines that the petitioner has not met his burden.32  In this way, the district court serves as a "second gate through which the petitioner must pass before the merits of his or her motion are heard."33 
+As for our review, we consider both the new evidence and the existing evidence in assessing the likely impact of the Brady material on reasonable jurors.34  The third prong of § 2244(b) is a demanding standard described as "a strict form of innocence, roughly equivalent to the Supreme Court's definition of 'innocence' or 'manifest [*11]  miscarriage of justice' in Sawyer v. Whitley."35  However, to grant a motion for authorization to file a successive habeas petition, we need not determine that Will is factually innocent; we only consider whether there is possible merit to his claim that, if the withheld evidence had been provided, no reasonable juror would have found Will guilty of shooting Deputy Hill.36  Again, we objectively review the evidence as a whole to determine whether it's reasonably likely that the withheld evidence would have changed the outcome.
+It would be impossible to recreate the entire trial in a single opinion, but the below chart outlines the key pieces of evidence37  :
+Evidence Supporting Guilt
+Evidence Supporting Reasonable Doubt
+At the scene of a reported
+
+robbery, Deputy Hill chased
+Deputy Kelly lost sight
+Will while Deputy Kelly
+of Rosario before Deputy Hill
+chased Rosario in opposite
+was shot.
+directions.
+
+
+Deputy Kelly testified
+When Deputy Kelly lost
+that his original report stating
+sight of Rosario, Rosario was
+that Rosario ran "east
+running east, in the
+along the bayou" was based on
+opposite direction of Deputy Hill.
+an "incorrect belief."
+
+Deputy Kelly reported
+
+that he had "the tall one," [*12] 
+
+meaning Will, "in custody,"
+
+suggesting Will was
+----
+
+
+handcuffed or otherwise
+
+under Deputy Kelly's
+
+control.
+Shortly after Deputy Kelly
+
+lost sight of Rosario, Deputy
+----
+Kelly heard between 5 and 7 gunshots. 38 
+
+After the last shot
+
+was fired, Deputy Kelly saw
+----
+"somebody" running from
+
+the direction where Deputy
+
+Hill was shot toward a
+
+parking lot. When Deputy Kelly
+
+got to the parking lot,
+
+a woman (Cassandra Simmons)
+
+told Deputy Kelly that a man
+
+stole her car at gun point.
+Simmons' testimony did not
+
+include the statement "I
+
+just shot a policeman"
+Simmons testified
+until thirteen months after she
+that a man she identified as Will
+gave her first statement
+opened her car door,
+to officers, even though Ms.
+ordered her to get out, said "I just
+Simmons knew, at the time
+shot police," and put a gun to her neck.
+she gave her first
+
+statement, that the theft
+
+of her car was related to an
+
+investigation into the
+
+death of a police officer.
+When Will was ultimately
+There was no evidence
+pulled over in Simmons' car,
+that Will was holding the gun
+the murder weapon was also
+at the time Deputy Hill was shot.
+found in the vehicle.
+Will was shot in the left
+
+hand by the same gun that
+
+shot Deputy Hill, and the
+
+examiner testified that the
+
+residue was "almost [*13]  certainly"
+
+from the gunshot
+Gunshot residue was
+wound to the hand.
+found on Will's left hand and on
+
+the left-hand glove
+If Will shot himself
+that was found in Simmons' car.
+in the left hand, he probably
+
+would have been holding
+
+the gun in his right hand, but
+
+the gun residue tests
+
+were inconclusive as to Will's
+
+right hand and the right glove.
+
+State Forensic evidence
+
+shows that Hill was shot in
+
+the back of the head,
+
+and the medical examiner
+
+testified that the wounds
+
+would similarly be consistent
+
+with an officer handcuffing
+
+a person and another
+
+person approaching
+
+the officer from the left side and
+The medical examiner
+shooting the officer in the head.
+testified that the wound to
+
+Deputy Hill's left hand
+
+would be consistent with an
+State Forensic evidence
+individual "laying on the ground
+shows that all of the gunshot
+getting ready to be
+wounds to Deputy Hill were
+
+long-range, meaning the
+handcuffed, taking a moment,
+
+pulling a gun out and
+gun was more than 2 feet
+shooting upward."
+away from Deputy Hill with
+
+each shot.
+
+The medical examiner could
+
+not say how Deputy Hill
+
+was standing at the time
+
+he was shot, what position
+
+the shooter was when he
+
+fired the weapon, or how
+
+many shots were fired.
+Handcuffs were found on
+
+the ground near Deputy
+Deputy [*14]  Dalrymple,
+Hill's body; the handcuff
+who photographed the scene,
+key was in his pocket; and
+could not recall
+spare handcuff key was
+if the handcuffs were opened or
+found by on Deputy Hill's boot
+closed when he arrived at the scene.
+laces.
+
+
+There was only a single
+
+droplet of Will's blood found
+Will's blood was found
+on the toe of Deputy Hill's boot,
+on Deputy Hill's right boot.
+and the blood could
+
+have come from Will
+
+being shot in the hand.
+
+Deputy Hill's blood
+
+was not found on Will.
+
+Officers did not notice an
+
+unusual smell on Will when
+Officers testified that
+they pulled him over.
+Will's clothes had "large white
+
+spots . . . that
+
+appeared like maybe bleached or
+
+something," Will told
+Will's blood was still extractable
+officers his eyes were burning
+and testable from his
+and "that it might be
+clothing.
+a chemical he had in the car"
+
+causing the burning,
+The light-colored spots on
+and Simmons testified she had
+Will's clothing were not
+bleach in the back of
+tested for any chemicals.
+the car Will stole.
+
+
+Witness who saw Rosario
+
+later that same day
+
+described him as "[n]ervous,
+
+in a hurry, rushing to
+
+leave." Rosario told
+
+this witness "[n]ot to say
+----
+
+
+anything to the cops
+
+about him because they could
+
+trace it back to what
+
+him and Robert [Will] [*15]  have
+
+done."
+
+Witnesses testified to
+
+seeing Rosario the day of the
+----
+robbery and described
+
+him seeming "nervous and
+
+edgy" and shadow boxing alone outside.
+Actual blood stains were
+
+not detected on Rosario's
+
+clothing; any "traces of blood"
+Rosario's shirt had stains
+could have been caused
+consistent with traces of
+by packaging Rosario's
+blood."
+clothes in the same bag as
+
+clothing that did have blood on it.
+
+
+A fellow inmate testified
+
+that Rosario told him that
+----
+Rosario "had no choice but
+
+to shoot the cop. It was
+
+just instinct and he ran."
+Certainly, the record is not devoid of evidence supporting Will's conviction, but it reflects anything but a slam dunk. Even before the Hit Document and the Schifani Report came to light, the district court noted that there are "disturbing uncertainties," a "total absence of eyewitness testimony or strongly probative forensic evidence," and "considerable evidence supporting Will's innocence."39  The district court's analysis of the evidence does not bind this court, but it demonstrates that the old evidence establishing Will's guilt is assailable.
+Now the new evidence. First, there's the Hit Document, which reveals that Rosario [*16]  was placed in administrative separation for soliciting another to "make a hit" on Will. The timing of the document is important. It suggests that Rosario attempted to have Will, the only other witness to Deputy Hill's murder, killed prior to trial—before Will could testify against him. Though this evidence is not immune from attack, it does provide convincing evidence that Rosario—not Will—had testimony to bury.
+Second, we have the Schifani Report. In this report, Deputy Schifani recounts that, while moving inmates between cells, Rosario observed a "mourning" badge cover Deputy Schifani was wearing in honor of Deputy Hill. As Deputy Schifani describes it, Rosario "pointed at [her] badge cover and sarcastically asked [her], 'Do you know why you are wearing that?'" When Deputy Schifani responded in the affirmative, Rosario continued, "I am part of the reason you are wearing it. Do you know who I am?" Again, Deputy Schifani responded in the affirmative. Rosario then stuck his arm out and instructed Deputy Schifani to look at his armband, pointing to the cautionary text that read "*PROTECTION*." The report goes on to recount Rosario's "swagger[]" as she moved him to his separation cell [*17]  and that he "appeared to take pleasure in his notoriety." As with the Hit Document, this evidence is not a "smoking gun," but it also does not evince the distant bystander to Deputy Hill's murder that the State described throughout trial. To the contrary, Rosario is confessing to an active role in the murder of Deputy Hill, undermining the State's theory of the case and further bolstering Will's unrelenting protestations that he was not the shooter. Clear and convincing evidence by any account.
+The dissent would have us reach a different conclusion because neither piece of evidence is a "smoking gun" of Will's innocence.40  But, as we've explained, the controlling standard is not whether the newly discovered evidence proves innocence beyond all doubt. The standard is one of reasonable doubt—whether Will has made a prima facie showing, by clear and convincing evidence, that no reasonable factfinder would find him guilty. As the district court stressed, there is "considerable evidence supporting Will's innocence," including "the total absence of eyewitness testimony or strongly probative forensic evidence."41  There were "disturbing uncertainties" of Will's culpability even before the introduction [*18]  of the withheld evidence.42  Now, with the new evidence in hand, the uncertainties are even more disturbing.
+Based on the probative value of the previously withheld evidence, Will has made a sufficient showing to proceed to a fuller review.43  He's demonstrated it is reasonably likely that, after hearing the new evidence alongside the old evidence, every reasonable juror would have some level of reasonable doubt.44  We express no view on whether Will should ultimately prevail on the merits or whether he is actually innocent.45  We hold only that Will has made a prima facie showing that his Brady claim deserves fuller consideration. He may be right. He may be wrong. But he should be heard.
+* * *
+Because Will made a prima facie showing that his Brady claim was not previously presented, that the evidence could not have been discovered through due diligence, and that his claim has merit, we grant Will's motion to file a successive habeas petition.
+IV
+For the foregoing reasons, we AFFIRM the district court's transfer order and GRANT the motion for authorization to file a successive habeas petition.
+Dissent by: James C. Ho  
+Dissent
+
+
+
+
+James C. Ho, Circuit Judge, dissenting:
+Federal courts cannot interfere [*19]  with state criminal convictions, including capital convictions, except under the limited circumstances recognized by Congress and the Supreme Court. Our review is limited, not because Congress and the Supreme Court disrespect constitutional rights, but because they respect "the principles of comity, finality, and federalism." Panetti v. Quarterman, 551 U.S. 930, 945, 127 S. Ct. 2842, 168 L. Ed. 2d 662 (2007) (cleaned up). Comity and federalism, because we honor the sovereign prerogative of state judiciaries to enforce criminal law and constitutional rights—and finality, because a system of endless appeals is antithetical to the rule of law.
+"Federal habeas review of state convictions . . . intrudes on state sovereignty to a degree matched by few exercises of federal judicial authority." Harrington v. Richter, 562 U.S. 86, 103, 131 S. Ct. 770, 178 L. Ed. 2d 624 (2011). It "frustrates both the States' sovereign power to punish offenders and their good-faith attempts to honor constitutional rights." Id. So Congress enacted the Antiterrorism and Effective Death Penalty Act of 1996 to reaffirm "that state courts are the principal forum for asserting constitutional challenges to state convictions"—and that "habeas corpus is a 'guard against extreme malfunctions in the state criminal justice systems,' not a substitute for ordinary error correction through [*20]  appeal." Id. at 102-03 (quoting Jackson v. Virginia, 443 U.S. 307, 332 n.5, 99 S. Ct. 2781, 61 L. Ed. 2d 560 (1979) (Stevens, J., concurring in the judgment)).
+Our reticence to interfere should be particularly acute where, as here, the defendant has been convicted, and the conviction has been repeatedly affirmed, first on direct appeal, and then again and again in multiple rounds of habeas petitions and appeals, in both state and federal court. When all that process has been afforded, when dozens of state and federal judges have reviewed and approved the conviction and sentence, it is long past time for closure—for the victims, for the defendant, and for the legal system.
+Federal law reflects this sentiment by forbidding federal courts of appeals from authorizing successive federal habeas petitions, except under extremely narrow circumstances. Among other requirements, there must be "clear and convincing evidence," after taking any new facts "in light of the evidence as a whole," that "but for constitutional error, no reasonable factfinder would have found the applicant guilty of the underlying offense." 28 U.S.C. § 2244(b)(2)(B)(ii) (emphasis added).
+So we have no choice but to deny authorization to proceed on a successive habeas petition unless "no reasonable juror would have voted to convict." In re Raby, 925 F.3d 749, 758 (5th Cir. 2019). Not surprisingly, [*21]  we have described the standard as a "strict form of innocence." Johnson v. Dretke, 442 F.3d 901, 911 (5th Cir. 2006) (cleaned up).
+This case comes nowhere close to meeting that rigorous standard. Far from meeting a "strict form of innocence," the evidence of guilt is compelling—and certainly sufficient for a reasonable juror to convict:
+• Will confessed to shooting Hill just moments after it happened. Shortly after the shooting, he pointed a gun at an innocent bystander, Cassandra Simmons, and ordered her out of her car, claiming that he had "just shot a police officer" and needed her car to flee. (Will denies that he ever confessed to Simmons. But he has offered no credible theory as to what would have motivated Simmons to lie.)
+• Not long after the carjacking occurred, Will was caught in Simmons's stolen car, in possession of a loaded gun.
+• Subsequent testing confirms that the loaded gun in Will's possession at the time of his arrest was indeed the gun used to kill officer Hill.
+• The physical evidence indicated that Will tried to conceal that he had fired the gun. According to the trial record, his clothing was covered with bleach, and he complained to the arresting officer that he had gotten bleach in his eyes. (Simmons later testified [*22]  she had a bottle in bleach in her trunk at the time Will carjacked her. At the time of arrest, that bottle of bleach was found in the passenger seat.)
+• Despite Will's efforts to conceal his acts, his hands tested positive for gunshot residue. (No one has offered an innocent explanation for why Will would have taken the time to cover himself in bleach.)
+• The medical examiner testified that the physical evidence supported the conclusion that Will shot Hill while in custody.
+Yet Will claims that no reasonable juror would have voted to convict him, despite all of these facts? I find that unfathomable.1 
+What's more, Will's own experts admitted that the physical evidence implicated Will as the shooter. According to an affidavit from Will's trial counsel, Will's blood spatter expert told counsel: "[Y]ou do not want to call me as a witness in this case . . . My conclusions are that the physical evidence is consistent with your client shooting the deputy."2 
+In response, Will cites two documents that the prosecution failed to disclose until after his first federal habeas petition. But neither document comes close to making it irrational for any juror [*23]  to convict—particularly against the mountain of trial evidence highlighted above.
+First is the report from another officer, Patricia Schifani. According to that report, Rosario bragged that he was "part of the reason" Hill was killed. But Rosario's "part[ial]" role in the events is entirely consistent with the State's theory of the case at trial: Officers found Will and Rosario running from a crime scene. Hill pursued Will, while Kelly pursued Rosario. So there is no question that Rosario played a "part"—and tellingly, only a "part"—in the events that led to Hill's murder.
+Second is a jail report ordering that Rosario be keep separate from another inmate, Daniel Cruz. That report contained the following notation: "soliciting $ to make hit on co-def Robt. Will." But notably, the report did not explain why Rosario might have wanted to kill Will. In particular, the report offered nothing that would connect any motive to kill Will with the murder of Hill—as opposed to any other dispute those two felons might have had with one another.
+To its credit, the majority is careful to note that this is not a ruling on the merits, but only an authorization of a successive federal habeas petition. But [*24]  the result should be the same. Because under AEDPA, a "court of appeals may authorize the filing of a second or successive application only if it determines that the application makes a prima facie showing that the application satisfies the requirements of this subsection." 28 U.S.C. § 2244(b)(3)(C) (emphasis added). To authorize this successive petition, then, the majority must conclude that Will has stated a prima facie case.
+But the majority admits that neither the Schifani report nor the Cruz separation order constitutes "smoking gun" evidence of innocence. That should be fatal to Will's request for authorization to file a successive petition. Because there is no doubt that the evidence presented at trial was more than sufficient to permit a reasonable juror to convict—and neither the Schifani report nor the Cruz separation order alters that conclusion. Accordingly, we may not permit this successive habeas petition to proceed, consistent with Congress's instructions. See, e.g., In re Swearingen, 935 F.3d 415, 420 (5th Cir. 2019) (denying authorization to file a successive habeas corpus petition, noting that "it is not sufficient under § 2244(b) merely to show that evidence 'muddies the waters'") (quoting In re Raby, 925 F.3d at 759).
+* * *
+It is often said that "death is different." True enough. [*25]  But under AEDPA, the same rules apply. I respectfully dissent.3 
+
+ 
+
+End of Document

@@ -1,0 +1,45 @@
+
+  NeutralAs of: September 19, 2020 9:08 PM Z
+McGehee v. Neb. Dep't of Corr. Servs.
+United States Court of Appeals for the Eighth Circuit
+June 16, 2020, Submitted; August 6, 2020, Filed
+No. 19-1770
+
+Reporter
+2020 U.S. App. LEXIS 24782 *; 968 F.3d 899
+ Jason Farrell McGehee; Stacey Eugene Johnson; Bruce Earl Ward; Terrick Terrell Nooner; Don William Davis, Plaintiffs - Appellees v. Nebraska Department of Correctional Services, Defendant - Appellant, State of Alabama; State of Arkansas; State of Georgia; State of Indiana; State of Louisiana; State of Idaho; State of Oklahoma; State of South Carolina; State of Texas; State of Utah; State of Missouri, Amici on Behalf of Appellant(s)  
+Prior History:  [*1] Appeal from United States District Court for the District of Nebraska - Lincoln.
+McGehee v. Neb. Dep't of Corr. Servs., 2019 U.S. Dist. LEXIS 42501 (D. Neb., Mar. 15, 2019)  
+Counsel: For Jason Farrell McGehee, Stacey Eugene Johnson, Bruce Earl Ward, Terrick Terrell Nooner, Don William Davis, Plaintiff - Appellees: Quinn Robert Eaton, HUSCH & BLACKWELL, Omaha, NE; Marnie Jensen, HUSCH & BLACKWELL, Lincoln, NE. 
+Jason Farrell McGehee, Plaintiff - Appellee, Pro se, Grady, AR. 
+Stacey Eugene Johnson, Plaintiff - Appellee, Pro se, Grady, AR. 
+Bruce Earl Ward, Plaintiff - Appellee, Pro se, Grady, AR. 
+Terrick Terrell Nooner, Plaintiff - Appellee, Pro se, Grady, AR. 
+Don William Davis, Plaintiff - Appellee, Pro se, Grady, AR. 
+For Nebraska Department of Correctional Services, Defendant - Appellant: Ryan Post, Assistant Attorney General, ATTORNEY GENERAL'S OFFICE, Lincoln, NE. 
+For State of Alabama, State of Arkansas, Amicus on Behalf of Appellant(s): Gregory Michael Goodwin, Assistant Attorney General, Dean John Sauer, ATTORNEY GENERAL'S OFFICE, Jefferson City, MO. 
+For State of Georgia, State of Indiana, State of Louisiana, State of Idaho, State of Oklahoma, State of South Carolina, State of Texas, State of Utah, State of Missouri, Amicus on Behalf of Appellant(s): Dean John Sauer, ATTORNEY GENERAL'S OFFICE, [*2]  Jefferson City, MO.  
+Judges: Before KELLY, ERICKSON, and STRAS, Circuit Judges. STRAS, Circuit Judge, concurring.  
+Opinion by: ERICKSON  
+Opinion
+
+
+
+
+ERICKSON, Circuit Judge.
+Appellees are Arkansas prisoners who are or were on death row for capital murder convictions. They commenced a lawsuit in the Eastern District of Arkansas alleging, among other claims, that Arkansas's method of execution violated the Eighth Amendment.1  In order to obtain support for their claim, they sought information about the existence of known and available alternatives that would significantly reduce a substantial risk of severe pain. As part of their efforts to obtain the necessary information, they served subpoenas on several state correctional departments, including one on the Nebraska Department of Correctional Services ("NDCS"). NDCS objected, asserting the subpoena violated Nebraska's right to sovereign immunity under the Eleventh Amendment. The district court,2  relying on In re Missouri Dep't of Nat. Res. ("Missouri DNR"), 105 F.3d 434 (8th Cir. 1997), determined that the Eleventh Amendment did not categorically bar appellees' subpoena. It also found that NDCS had failed to demonstrate the modified subpoena requests infringed on the autonomy of the State of Nebraska.
+On appeal, NDCS renews its assertion [*3]  that the Eleventh Amendment categorically bars Article III jurisdiction over a third-party subpoena served on an unconsenting state. NDCS submitted a letter pursuant to Rule 28(j) of the Federal Rules of Appellate Procedure one day before the scheduled argument contending the case has become moot in light of the district court's decision rejecting appellees' Eighth Amendment claims in the underlying Arkansas case.3 
+"A court faced with more than one jurisdictional issue may decide these jurisdictional questions in any order." In re AFY, 734 F.3d 810, 816 (8th Cir. 2013). A court may decide to bypass a "murky" issue to reach a question that disposes of the case. See In re Athens/Alpha Gas Corp., 715 F.3d 230, 235 (8th Cir. 2013) (concluding it is permissible to bypass a rule of statutory jurisdiction to reach a preclusion question that disposes of a case); see also Steel Co. v. Citizens for a Better Env't, 523 U.S. 83, 100, 118 S. Ct. 1003, 140 L. Ed. 2d 210 (1998) (noting that while "hypothetical jurisdiction" has never been approved, it must be acknowledged that some cases "have diluted the absolute purity of the rule that Article III jurisdiction is always an antecedent question"). Because the district court properly determined that Missouri DNR disposes of the sovereign immunity issue, we decline to address the "murky" issue of mootness.
+In Missouri DNR this Court stated: "There is simply no authority for the position that the Eleventh Amendment shields government entities from discovery in [*4]  federal court." 105 F.3d at 436. Subsequently, in Alltel Commc'ns, LLC v. DeJordy, this Court distinguished Missouri DNR and declined to predict how the Supreme Court might decide a case involving "disruptive third-party subpoenas that would clearly be barred in a State's own courts." 675 F.3d 1100, 1104-05 (8th Cir. 2012). Although Missouri DNR involved a petition for a writ of mandamus, we find the breadth of the Court's decision controlling and applicable in this de novo review context as well. Because we are bound by the prior panel decision, we affirm the district court's decision.
+Concur by: STRAS  
+Concur
+
+
+
+
+STRAS, Circuit Judge, concurring.
+I have doubts whether, under basic sovereign-immunity principles, a state may be haled into federal court solely for the purpose of answering a third-party subpoena. See Alltel Commc'ns, LLC v. DeJordy, 675 F.3d 1100, 1105-06 (8th Cir. 2012) (prohibiting this practice under the common-law doctrine of tribal immunity); see also Crowe & Dunlevy, P.C. v. Stidham, 640 F.3d 1140, 1154 (10th Cir. 2011) ("The scope of tribal immunity, however, is more limited [than state sovereign immunity]."). But because we approved of this practice in a nearly identical case, In re Mo. Dep't of Nat. Res., 105 F.3d 434, 436 (8th Cir. 1997), I reluctantly join the court's opinion.
+
+ 
+
+End of Document

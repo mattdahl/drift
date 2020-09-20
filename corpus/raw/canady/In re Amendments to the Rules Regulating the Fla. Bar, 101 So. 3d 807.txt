@@ -1,0 +1,622 @@
+
+  NeutralAs of: September 19, 2020 7:25 PM Z
+In re Amendments to the Rules Regulating the Fla. Bar
+Supreme Court of Florida
+April 12, 2012, Decided
+No. SC10-1967
+
+Reporter
+101 So. 3d 807 *; 2012 Fla. LEXIS 696 **; 37 Fla. L. Weekly S 275
+ IN RE: AMENDMENTS TO THE RULES REGULATING THE FLORIDA BAR (BIANNUAL REPORT).  
+Notice: THE FILING OF A MOTION FOR REHEARING SHALL NOT ALTER THE EFFECTIVE DATE OF THESE AMENDMENTS.
+  
+Subsequent History: Rehearing denied by In re Amendments to the Rules Regulating the Fla. Bar Biannual Report, 2012 Fla. LEXIS 2497 (Fla., Nov. 16, 2012)
+Later proceeding at In re COVID-19 Emergency Measures Relating to the Rules Regulating the Fla. Bar, 2020 Fla. LEXIS 507 (Fla., Mar. 20, 2020)  
+Prior History:  [**1] Original Proceeding — The Florida Bar Rules Committee.
+The Florida Bar re Revisions to Simplified Forms, Pursuant to Rule 10-2.1(a) of the Rules Regulating the Florida Bar, 773 So. 2d 1062, 1998 Fla. LEXIS 1682 (Fla., Sept. 10, 1998)  
+Counsel: John G. Harkness, Jr., Executive Director, Elizabeth Clark Tarbert, Ethics Counsel, Ralph Artigliere, Floyd Benjamin Faglie, and Lori S. Holcomb, The Florida Bar, Tallahassee, Florida, and Andrew B. Sasso of Sasso and Bodolay, P.A., Clearwater, Florida, for Petitioner. 
+Timothy P. Chinaris, Montgomery, Alabama; Henry G. Gyden and Dale Swope of Swope, Rodante, P.A., Tampa, Florida; Responding with Comments.  
+Judges: LEWIS, POLSTON, LABARGA, and PERRY, JJ., concur. CANADY, C.J., concurs in part and dissents in part with an opinion. PARIENTE, J., concurs in part and dissents in part with an opinion. QUINCE, J., concurs in part and dissents in part with an opinion, in which PARIENTE, J., concurs.  
+Opinion
+
+
+
+
+ [*807]  PER CURIAM.
+This matter is before the Court on the petition of The Florida Bar proposing amendments to the Rules Regulating the Florida Bar (Bar Rules).1  See R. Regulating Fla. Bar 1-12.1. We have jurisdiction. See art. V, § 15, Fla. Const.
+The Bar's petition proposes both new Bar rules and amendments to existing rules. The proposals were approved by the Board of Governors, and formal notice of the proposed amendments was published in The Florida Bar News. The notice directed interested parties to file their comments directly with the Court. The Court received two comments.
+The Bar proposes amendments to the following Rules Regulating the Florida Bar: 1-3.3 (Official Bar Name and Address); 1-3.5 (Retirement); 1-3.6 (Delinquent Members); 1-3.7 (Reinstatement to Membership); 1-3.10 (Appearance by Non-Florida Lawyer in a Florida Court); 1-8.4 (Clients' Security Fund); 1-12.1 (Amendment to Rules; Authority; Notice; Procedures; Comments); 3-5.1 (Generally); 3-5.2 (Emergency Suspension and Interim Probation); 3-6.1 (Generally); 3-7.7 (Procedures Before Supreme Court of Florida); 3-7.9 (Consent Judgment); 3-7.10 (Reinstatement and Readmission Procedures); 3-7.13 (Incapacity Not Related to Misconduct); 4-1.5 (Fees and Costs for Legal Services); 4-5.5 (Unlicensed Practice of Law; Multijurisdictional Practice of Law);  [**3] 4-8.3 (Reporting Professional Misconduct); 5-1.2 (Trust Accounting Records and Procedures); 6-3.2 (Certification Committees); 6-3.6 (Recertification); 6-3.11 (Fees); 10-2.1 (Generally); 14-1.2 (Jurisdiction); 14-6.1 (Binding Nature; Enforcement; and Effect of Failure to Pay Award); 20-2.1 (Generally); 20-4.1 (Generally); and 20-5.1 (Generally). It also proposes four new rules: 1-3.12 (Provision of Legal Services Following Determination of Major Disaster); 3-7.12 (Disciplinary Revocation from The Florida Bar); 6-3.8 (Board Certified Judicial Fellow);2  10-2.2 (Form Completion by a Nonlawyer). After  [*808] considering the  Bar's petition, the comments on the proposals, and the issues discussed at oral argument, we adopt the Bar's amendments as proposed with the following exceptions.
+First, the Bar proposes amendments to rule 1-3.5  [**4] (Retirement) to specifically authorize permanent retirement from the Bar. It also recommends related amendments to rule 1-3.7 (Reinstatement to Membership), which would provide that members who have permanently retired are not eligible to seek reinstatement under the rule, but may seek readmission through application to the Florida Board of Bar Examiners. While we adopt these amendments to the extent they allow members to seek permanent retirement, we have modified the Bar's proposal to make clear that any member granted permanent retirement is thereafter ineligible to seek reinstatement or readmission to the Bar.
+Next, the Bar proposes new rule 1-3.12 (Provision of Legal Services Following Determination of Major Disaster). This rule would allow lawyers from other jurisdictions to practice in Florida on a limited basis following a natural disaster. Because we have concerns about how this rule would apply, we decline to adopt it. We also do not adopt proposed amendments to rule 4-5.5 (Unlicensed Practice of Law; Multijurisdictional Practice of Law), which would provide that lawyers authorized to practice law in another United States jurisdiction may provide legal services in Florida  [**5] in accordance with rule 1-3.12. However, we adopt technical revisions to rule 4-5.5 as proposed.
+Additionally, we have modified the Bar's proposed amendments to rule 1-12.1 (Amendment to Rules; Authority; Notice; Procedures; Comments) to reflect that notices of proposed Board action, notices of the Bar's intent to file a petition to amend Bar rules, and notices of final action of the Supreme Court shall be published in an edition of The Florida Bar News and on the Bar's website.
+With respect to rule 4-1.5 (Fees and Costs for Legal Services), the Bar proposes new subdivision (f)(4)(E) and related commentary addressing subrogation and lien resolution services in contingent fee cases. This subdivision would provide that a lawyer in a personal injury or wrongful death case charging a contingent fee must include in the fee contract information about the scope of the lawyer's representation relating to subrogation and lien resolution services; the rule would also provide that some medical lien and subrogation claims may be referred to another attorney for resolution with the client's informed consent. The Court received one comment addressed to this proposal. After considering the concerns  [**6] raised in the comment and the discussion at oral argument, we decline to adopt new subdivision (f)(4)(E). Indeed, we take this opportunity to clarify that lawyers representing a client in a personal injury, wrongful death, or other such case charging a contingent fee should, as part of the representation, also represent the client in resolving medical liens and subrogation claims related to the underlying case. Other technical corrections to rule 4-1.5 are adopted as proposed.
+The Bar proposes a number of changes to rule 5-1.2 (Trust Accounting Records and Procedures). The most controversial of its proposals is new subdivision (d) (Signing Trust Account Checks), which would require that a lawyer sign every trust account check with his or her actual signature, and would prohibit lawyers from using a signature stamp or signing a trust account check in blank. Both the Bar and the Court received comments addressed to this proposal. In general, the comments  [*809]  assert that the proposed rule imposes a significant and disproportionate burden on lawyers who practice solo or in very small firms. We believe the commentors have raised some legitimate concerns. Accordingly, we decline to adopt subdivision (d)  [**7] at this time, and instead refer the matter back to the Bar for additional study. In particular, the Bar should revise its proposal so as to accommodate the issues raised by solo practitioners and lawyers in small firms. The other amendments to rule 5-1.2 are adopted as proposed. The Bar's proposed new subdivision (e) (Electronic Wire Transfer) will be labeled subdivision (d); the subsequent subdivisions in the rule are relettered accordingly.
+We decline to adopt proposed new rule 6-3.8 (Board Certified Judicial Fellow) which would create a new designation—"Board Certified Judicial Fellow"—for board certified lawyers appointed or elected to serve in a judicial office. We also do not adopt the related amendments to rule 6-3.11 (Fees), which would have created a "Judicial Fellow Annual Fee" applicable to Board Certified Judicial Fellows.
+Finally, the Bar proposes new rule 10-2.2 (Rules Governing the Investigation and Prosecution of the Unlicensed Practice of Law; Form Completion by a Nonlawyer) to clarify and define the unlicensed practice of law when a nonlawyer is engaged in assisting self-represented litigants to complete legal forms. Although we adopt this rule, we have modified the  [**8] Bar's proposal to eliminate language that would allow a nonlawyer to sell legal forms and kits.
+Accordingly, the Court adopts the amendments to the Rules Regulating the Florida Bar as set forth in the appendix to this opinion. New language is indicated by underscoring; deletions are indicated by struck-through type. The comments are offered for explanation and guidance only and are not adopted as an official part of the rules. The amendments shall become effective on July 1, 2012, at 12:01 a.m.
+It is so ordered.
+LEWIS, POLSTON, LABARGA, and PERRY, JJ., concur.
+CANADY, C.J., concurs in part and dissents in part with an opinion.
+PARIENTE, J., concurs in part and dissents in part with an opinion.
+QUINCE, J., concurs in part and dissents in part with an opinion, in which PARIENTE, J., concurs.
+ [*811contd]  
+[EDITOR'S NOTE: The page numbers of this document may appear to be out of sequence; however, this pagination accurately reflects the pagination of the original published document.]
+ Appendix
+RULE 1-3.3. OFFICIAL BAR NAME AND 
+ADDRESSCONTACT INFORMATION
+(a) Designation. Each member of The Florida Bar shall designate an official bar name, mailing address, 
+and business telephone number, and business e-mail address, if the member has one. 
+If the address given is not the physical location or street address of the principal place of employment, then such information shall also be given. If  [**9] the physical location or street address is not the principal place of employment, the member must also provide an address for the principal place of employment.
+(b) Changes. Each member shall promptly notify the executive director of any changes in any information required by this rule. The official bar name of each member of The Florida Bar shall be used in the course of the member's practice of law. 
+A change in official bar name may be made only upon request to and approval ofMembers may change their official bar name by sending a request to the Supreme Court of Florida. The court must approve all official bar name changes.
+ RULE 1-3.5. RETIREMENT
+Any member of The Florida Bar may retire from The Florida Bar upon petition or other written request to, and approval of, the executive director. A retired member shall not practice law in this state except upon petition for reinstatement to, and approval of, the executive director; the payment of all membership fees, costs, or other amounts owed to The Florida Bar; and the completion of all outstanding continuing legal education or basic skills course requirements. A member who seeks and is approved to permanently retire shall not be eligible  [**10] for reinstatement or readmission. A retired member shall be entitled to receive such other privileges as the board of governors may authorize.
+A retired member shall remain subject to disciplinary action for acts committed before the effective date of retirement. Acts committed after retirement may be considered in evaluating the member's fitness to resume the practice of law in Florida as elsewhere stated in these Rules Regulating The Florida Bar.
+If the executive director is in doubt as to disposition of a petition, the executive director may refer the petition to the board of governors for its action. Action of the executive director or board of governors denying a petition for retirement or reinstatement 
+hereunderfrom retirement may be reviewed upon petition to the Supreme Court of Florida.
+ RULE 1-3.6. DELINQUENT MEMBERS
+Any person now or hereafter licensed to practice law in Florida shall be deemed a delinquent member if the member:
+(a) — (c) [No Change]
+(d) fails to make restitution imposed in diversion cases or disciplinary proceedings within the time specified in the order in  [*812]  such cases or proceedings, 
+unless the time is extended by the board of governors for good cause shown;
+(e)  [**11] [No Change]
+(f) fails to pay an award entered in fee arbitration proceedings conducted under the authority stated elsewhere in these rules and 30 days or more have elapsed since the date on which the award became final, 
+unless such time is extended by the board of governors for good cause shown.
+Delinquent members shall not engage in the practice of law in Florida nor be entitled to any privileges and benefits accorded to members of The Florida Bar in good standing.
+ RULE 1-3.7. REINSTATEMENT TO MEMBERSHIP  
+(a) — (d) [No Change]
+(e) Members Who Have Permanently Retired. Members who have permanently retired shall not be reinstated under this rule.
+(
+ef) Members Delinquent 60 Days or Less. Reinstatement from membership fees delinquency accomplished within 60 days from the date of delinquency shall be deemed to relate back to the date before the delinquency. Any member reinstated within the 60-day period shall not be subject to disciplinary sanction for practicing law in Florida during that time.
+(
+fg) Inactive Members. Inactive members may be reinstated to membership in good standing by petition filed with the executive director, in the form and as provided in (b) above, except:
+(1) — (3)  [**12] [No Change]
+ RULE 1-3.10. APPEARANCE BY NON-FLORIDA LAWYER IN A FLORIDA COURT  
+(a) — (c) [No Change]  
+Comment
+Subdivision (a)(2) defines and prohibits the general practice before Florida courts by non-Florida lawyers. For purposes of this rule, an "appearance" means the initial or first appearance by that non-Florida lawyer in a case pending in a Florida court, and includes appearing in person or by telephone in court or filing a pleading, motion or other document with the court. A non-Florida lawyer making an appearance in a Florida court is required to comply with rule 2.510 of the Florida Rules of Judicial Administration.
+This rule does not prohibit a non-Florida lawyer from participating in more than 3 cases during any 365-day period; instead, it prohibits a non-Florida lawyer from making an initial or first appearance in more than 3 cases during any 365-day period.
+Example: The following example illustrates the application of this rule to a non-Florida lawyer's appearances. Assume for this example that a lawyer licensed to practice in Georgia only has been admitted pro hac vice pursuant to Fla. R. Jud. Admin. 2.510 in 3 separate Florida cases on the following dates: January 10, 2008; February  [**13] 3, 2008; and February 20, 2008.
+(1) In this example, the lawyer would be prohibited from seeking to appear pro hac vice under Fla. R. Jud. Admin. 2.510 in another separate representation until the expiration of the 365-day period from his or her oldest of the 3 appearances (i.e., until January 10, 2009).
+(2) In this example, the lawyer would be permitted under this rule to seek to appear pro hac vice in a new case on January 10, 2009 even if the 3 cases in which he or she made an appearance are still active.
+(3) In this example, the lawyer could seek to appear pro hac vice in yet another new case on February 3, 2009. The fact  [*813]  that the lawyer's cases in which he or she appeared on January 10, 2008, February 3, 2008, February 20, 2008, and January 1, 2009 are still active would not prohibit that lawyer from seeking to appear in the new case on February 3, 2009, because, as of that date, the lawyer would have only made an initial appearance in 2 prior cases within that preceding 365-day period (i.e., on February 20, 2008 and January 1, 2009). Thus, under this rule, a non-Florida lawyer could have pending more than 3 cases for which he or she has appeared at any given time, as the restriction  [**14] on general practice relates to the making of an initial appearance within a 365-day period and not to whether any such case is still active following the expiration of 365 days.
+(4) Similarly, in the above example, if the non-Florida lawyer's 3 cases are all resolved by April 1, 2008, that lawyer would still be prohibited from seeking to make a new appearance until the expiration of the oldest of the 3 prior appearances (i.e., until January 10, 2009).
+The purpose of this comment is to explain what constitutes an "appearance" under this rule and how to calculate the number of appearances in any 365-day period. This comment and the rule itself do not require a Florida court to grant any specific request to appear under Fla. R. Jud. Admin. 2.510 if the non-Florida lawyer meets the requirements of subdivision (a)(2). In all such cases, the decision of whether a non-Florida lawyer may appear in a case under Fla. R. Jud. Admin. 2.510 is within the discretion of the court.
+This rule is not applicable to appearances in federal courts sitting in Florida, as appearances before each of those courts are regulated by the rules applicable to those courts. Further, an appearance in a federal court sitting  [**15] in Florida does not constitute an "appearance" as contemplated by subdivision (a)(2), because subdivision (a)(2) applies only to appearances before Florida state courts.
+ RULE 1-8.4. CLIENTS' SECURITY FUND
+The board of governors may provide monetary relief to persons who suffer reimbursable losses as a result of misappropriation, embezzlement, or other wrongful taking or conversion 
+by a member of The Florida Bar of money or other property 
+that comes into the member's possession or control, all in accordance with chapter 7.
+ RULE 1-12.1. AMENDMENT TO RULES; AUTHORITY; NOTICE; PROCEDURES; COMMENTS  
+(a) — (c) [No Change]
+(d) Notice of Proposed Board Action. Notice of the proposed action of the board on a proposed amendment shall be given in an edition of The Florida Bar News and on The Florida Bar website that is published prior to the meeting of the board at which the board action is taken. The notice shall identify the rule(s) to be amended and shall state in general terms the nature of the proposed amendments.
+ (e) — (f) [No Change]
+(g) Notice of Intent to File Petition. Notice of intent to file a petition to amend these Rules Regulating The Florida Bar shall be published in The Florida Bar News  [**16] and on The Florida Bar website at least 30 days before the filing of the petition. The notice shall set forth the text of the proposed amendments, state the date the petition will be filed, and state that any comments or objections must be filed within 30 days of filing the petition. A copy of all comments or objections shall be served on the executive director of The Florida Bar and any persons who may have made an appearance in the matter.
+ [*814]  (h) Action by the Supreme Court of Florida. The court shall review all proposed amendments filed under this rule and such amendments shall not become effective until an order is issued approving them. Final action of the court shall be reported in The Florida Bar News and on The Florida Bar website.
+ (i) [No Change]  
+RULE 3-5.1. GENERALLY
+A judgment entered, finding a member of The Florida Bar guilty of misconduct, shall include one or more of the following disciplinary measures:
+ (a) — (b) [No Change]
+(c) Probation. The respondent may be placed on probation for a stated period of time of not less than 6 months nor more than 
+35 years or for an indefinite period determined by conditions stated in the order. The judgment shall state the conditions of the  [**17] probation, which may include but are not limited to the following:
+(1) completion of a practice and professionalism enhancement program as provided elsewhere in these rules;
+(2) supervision of all or part of the respondent's work by a member of The Florida Bar;
+(3) the making of reports to a designated agency;
+(4) the satisfactory completion of a course of study or a paper on legal ethics approved by the Supreme Court of Florida;
+(5) such supervision over fees and trust accounts as the court may direct; or
+(6) restrictions on the ability to advertise legal services, either in type of advertisement or a general prohibition for a stated period of time, in cases in which rules regulating advertising have been violated or the legal representation in which the misconduct occurred was obtained by advertising.
+The respondent will reimburse the bar for the costs of supervision. Upon failure of a respondent to comply with the conditions of the probation or a finding of probable cause as to conduct of the respondent committed during the period of probation, the respondent may be punished for contempt on petition by The Florida Bar, as provided elsewhere in these Rules Regulating The Florida Bar. An  [**18] order of the court imposing sanctions for contempt under this rule may also terminate the probation previously imposed.
+ (d) — (f) [No Change]
+(g) Disciplinary Revocation. A disciplinary revocation is tantamount to a disbarment. A respondent may petition for disciplinary revocation in lieu of defending against allegations of disciplinary violations. If accepted by the Supreme Court of Florida, a disciplinary revocation terminates the respondent's status as a member of the bar. A former bar member whose disciplinary revocation has been accepted may only be admitted again upon full compliance with the rules and regulations governing admission to the bar. Like disbarment, disciplinary revocation terminates the respondent's license and privilege to practice law and requires readmission to practice under the Rules of the Supreme Court Relating to Admissions to the Bar. No application for readmission may be tendered until the later of 5 years after the date of the order of the Supreme Court of Florida granting the petition for disciplinary revocation, or such other period of time in excess of 5 years contained in said order.
+(gh) Notice to Clients. Upon service on the respondent of an order  [**19] of disbarment, disbarment on consent, disciplinary revocation, suspension, emergency suspension,  [*815]  emergency probation, or placement on the inactive list for incapacity not related to misconduct, the respondent shall, unless this requirement is waived or modified in the court's order, forthwith furnish a copy of the order to:
+(1) all of the respondent's clients with matters pending in the respondent's practice;
+(2) all opposing counsel or co-counsel in the matters listed in (1), above; and
+(3) all courts, tribunals, or adjudicative agencies before which the respondent is counsel of record.
+Within 30 days after service of the order the respondent shall furnish bar counsel with a sworn affidavit listing the names and addresses of all persons and entities that have been furnished copies of the order.
+(
+hi) Forfeiture of Fees. An order of the Supreme Court of Florida or a report of minor misconduct adjudicating a respondent guilty of entering into, charging, or collecting a fee prohibited by the Rules Regulating The Florida Bar may order the respondent to forfeit the fee or any part thereof. In the case of a clearly excessive fee, the excessive amount of the fee may be ordered returned to the  [**20] client, and a fee otherwise prohibited by the Rules Regulating The Florida Bar may be ordered forfeited to The Florida Bar Clients' Security Fund and disbursed in accordance with its rules and regulations.
+(
+ij) Restitution. In addition to any of the foregoing disciplinary sanctions and any disciplinary sanctions authorized elsewhere in these rules, the respondent may be ordered or agree to pay restitution to a complainant or other person if the disciplinary order finds that the respondent has received a clearly excessive, illegal, or prohibited fee or that the respondent has converted trust funds or property. In such instances the amount of restitution shall be specifically set forth in the disciplinary order or agreement and shall not exceed the amount by which a fee is clearly excessive, in the case of a prohibited or illegal fee shall not exceed the amount of such fee, or in the case of conversion shall not exceed the amount of the conversion established in disciplinary proceedings. The disciplinary order or agreement shall also state to whom restitution shall be made and the date by which it shall be completed. Failure to comply with the order or agreement shall not preclude further  [**21] proceedings under these rules.
+
+(j) Disbarment on Consent. 
+A respondent may surrender membership in The Florida Bar in lieu of defending against allegations of disciplinary violations by agreeing to disbarment on consent. Disbarment on consent shall have the same effect as and shall be governed by the same rules as provided for disbarment elsewhere in these Rules Regulating The Florida Bar.
+
+Matters involving disbarment on consent shall be processed in the same manner as conditional guilty pleas for consent judgments as provided elsewhere in these Rules Regulating The Florida Bar.
+ RULE 3-5.2. EMERGENCY SUSPENSION AND INTERIM PROBATION OR INTERIM PLACEMENT ON THE INACTIVE LIST FOR INCAPACITY NOT RELATED TO MISCONDUCT  
+(a) Petition for Emergency Suspension.
+(1) Great Public Harm. On petition of The Florida Bar, authorized by its president, president-elect, or executive director, supported by 1 or more affidavits demonstrating facts personally known to the affiants that, if unrebutted, would [*816]  establish clearly and convincingly that an attorney appears to be causing great public harm, the Supreme Court of Florida may issue an order suspending said attorney on an emergency basis.
+(2) Discipline by  [**22] Foreign Jurisdiction. On petition of The Florida Bar, authorized by its president, president-elect, or executive director, supported by a certified copy of an order of a foreign disciplinary jurisdiction suspending or disbarring an attorney from the practice of law, the Supreme Court of Florida may issue an order suspending the attorney on an emergency basis. See subdivision (l) of rule 3-7.2.
+A petition for emergency suspension shall also constitute a formal complaint. The respondent shall have 20 days after docketing by the Supreme Court of Florida of its order granting the bar's petition for emergency suspension in which to file an answer and any affirmative defenses to the bar's petition.
+(b) Petition for Interim Probation or Interim Placement on the Inactive List for Incapacity Not Related to Misconduct. On petition of The Florida Bar, authorized by its president, president-elect, or executive director, supported by 1 or more affidavits demonstrating facts personally known to the affiants that, if unrebutted, would establish clearly and convincingly that conditions or restrictions on 
+ana
+attorneylawyer's privilege to practice law in Florida are necessary for protection of the public,  [**23] the Supreme Court of Florida may issue an order placing said 
+attorneylawyer on interim probation, the conditions of which shall be as provided in rule 3-5.1(c); or placing the lawyer on the inactive list for incapacity not related to misconduct as provided in rule 3-7.13. This petition shall also constitute the formal complaint. The respondent shall have 20 days after docketing by the Supreme Court of Florida of its order granting the bar's petition for interim probation in which to file an answer and any affirmative defenses to the bar's petition.
+ (c) - (d) [No Change]
+
+(e) Filing of Formal Complaints. 
+The Florida Bar shall file a formal complaint within 60 days of the emergency order, without the necessity of a finding of probable cause by either a grievance committee or the board of governors.
+(
+fe) Motions for Dissolution. (
+1) The 
+attorneylawyer may move at any time for dissolution or amendment of an emergency order by motion filed with the Supreme Court of Florida, a copy of which will be served on bar counsel. Such motion shall not stay any other proceedings and applicable time limitations in the case and, unless the motion fails to state good cause or is procedurally barred as an  [**24] invalid successive motion, shall immediately be assigned to a referee designated by the chief justice. The filing of such motion shall not stay the operation of an order of emergency suspension or interim probation entered under this rule.
+(f) Appointment of Referee. Upon entry of an order of suspension or interim probation, as provided above, the Supreme Court of Florida shall promptly appoint or direct the appointment of a referee.
+(
+2g) Hearing on Petition to Terminate or Modify Suspension. The referee shall hear 
+sucha motion to terminate or modify a suspension or interim probation imposed under this rule within 7 days of assignment, 
+or a shorter time if practicable, and submit a report and recommendation to the Supreme Court of Florida within 7 days of the date of the hearing, 
+or a shorter time if practicable. The referee shall recommend dissolution or amendment, whichever is appropriate, to the extent [*817]  that bar counsel cannot demonstrate a likelihood of prevailing on the merits on any element of the underlying 
+complaintrule violations.
+(
+3h) Successive Motions Prohibited. Successive motions for dissolution shall be summarily dismissed by the 
+supreme courtSupreme Court of Florida to  [**25] the extent that they raise issues that were or with due diligence could have been raised in a prior motion.
+(
+4i) Review by the Supreme Court of Florida. Upon receipt of the referee's recommended order on the motion for dissolution or amendment, the 
+supreme courtSupreme Court of Florida shall review and act upon the referee's findings and recommendations.
+(
+gj) Hearings on 
+Formal ComplaintsIssues Raised in Petitions for Emergency Suspension or Interim Probation and Sanctions. 
+Upon the filing of a formal complaintOnce the Supreme Court of Florida has granted a petition for emergency suspension or interim probation as set forth in this rule, 
+based on charges supporting an emergency order, the chief justice shall appoint a referee tothe referee appointed by the court shall hear the matter in the same manner as provided in rule 3-7.6, except that the referee shall hear the matter after the lawyer charged shall have answered the charges in the petition for emergency suspension or interim probation or when the time has expired for filing an answer. 
+andThe referee shall issue a final report and recommendation within 90 days of appointment. 
+This time limit shall apply only to trials on complaints  [**26] in connection with which an emergency suspension or interim probation is in effect. If the time limit specified in this subdivision is not met, that portion of an emergency order imposing a suspension or interim probation shall be automatically dissolved, except upon order of the 
+supreme courtSupreme Court of Florida, 
+upon showing of good cause, provided that any other appropriate disciplinary action on the underlying conduct still may be taken.
+(
+hk) Proceedings in the Supreme Court of Florida. Consideration of the referee's report and recommendation shall be expedited in the 
+supreme courtSupreme Court of Florida. If oral argument is granted, the chief justice shall schedule oral argument as soon as practicable.
+(
+il) Waiver of Time Limits. 
+RThe respondent may at any time waive the time requirements set forth in this rule by written request made to and approved by the referee assigned to hear the matter.
+ RULE 3-6.1. GENERALLY
+(a) Authorization and Application. Except as limited in this rule, persons or entities providing legal services may employ suspended 
+attorneyslawyers and former 
+attorneyslawyers who have been disbarred or whose disciplinary resignations or disciplinary revocations  [**27] have been 
+allowedgranted by the Florida Supreme Court [for purposes of this rule such 
+attorneyslawyers and former 
+attorneyslawyers are referred to as "individual(s) subject to this rule"] to perform those services that may ethically be performed by nonlawyers employed by authorized business entities.
+An individual subject to this rule shall be considered as employed by an entity providing legal services if the individual is a salaried or hourly employee, volunteer worker, or an independent contractor providing services to the entity.
+(b) Employment by Former Subordinates Prohibited for a Period of 3 Years. An individual subject to this rule may not, for a period of 3 years from the entry of the order pursuant to which the  [*818]  suspension, disciplinary resignation, disciplinary revocation, or disbarment became effective, or until the individual is reinstated or readmitted to the practice of law, whichever occurs sooner, be employed by or work under the supervision of another 
+attorneylawyer who was supervised by the individual at the time of or subsequent to the acts giving rise to the order.
+ (c) - (e) [No Change]  
+RULE 3-7.7. PROCEDURES BEFORE SUPREME COURT OF FLORIDA
+All reports of a referee  [**28] and all judgments entered in proceedings under these rules shall be subject to review by the Supreme Court of Florida in the following manner:
+ (a) - (b) [No Change]
+(c) Procedure for Review. Review by the Supreme Court of Florida shall be in accordance with the following procedures:
+(1) 
+Time for Review Notice of Intent to Seek Review of Report of Referee. 
+Proceedings for review shall be commencedA party to a bar disciplinary proceeding wishing to seek review of a report of referee shall give notice of such intent within 60 days of the date on which the 
+referee serves a copy of the referee report on the respondent and The Florida Barreferee's report is docketed by the Clerk of the Supreme Court of Florida. Prompt written notice of the board's action, if any, shall be communicated to the respondent. The proceeding shall be commenced by filing with the Supreme Court of Florida 
+a petition fornotice of intent to seek review of a report of referee, specifying those portions of the report of a referee sought to be reviewed. Within 20 days after service of such 
+petitionnotice of intent to seek review, the opposing party may file a cross-
+petitionnotice for review specifying any additional portion  [**29] of the report that said party desires to be reviewed. The filing of such 
+petitionnotice or cross-
+petitionnotice shall be jurisdictional as to a review to be procured as a matter of right, but the court may, in its discretion, consider a late-filed 
+petitionnotice or cross-
+petitionnotice upon a showing of good cause.
+(2) Record on Review. The report and record filed by the referee shall constitute the record on review. If hearings were held at which testimony was heard, but no transcripts thereof were filed in the matter, the party seeking review shall order preparation of all such transcripts, file the original thereof with the court, and serve copies on the opposing party, on or before the time of filing of the initial brief, as provided elsewhere in this rule. The party seeking review shall be responsible for, and pay directly to the court reporter, the cost of preparation of transcripts. Failure to timely file and serve all of such transcripts may be cause for dismissal of the party's petition for review.
+(3) Briefs. The party first seeking review shall file a brief in support of the 
+petition fornotice of intent to seek review within 30 days of the filing of the 
+petitionnotice. The  [**30] opposing party shall file an answer brief within 20 days after the service of the initial brief of the party seeking review, which answer brief shall also support any cross-
+petitionnotice for review. The party originally seeking review may file a reply brief within 
+1020 days after the service of the answer brief. The cross-reply brief, if any, shall be served within 20 days thereafter. Computation of time for filing briefs under this rule shall follow the applicable Florida Rules of  [*819]  Appellate Procedure. The form, length, binding, type, and margin requirements of briefs filed under this rule shall follow the requirements of Fla. R. App. P. 9.210.
+(4) Oral Argument. Request for oral argument may be filed in any case wherein a party files a 
+petition fornotice of intent to seek review is filed, at the time of filing the first brief. If no request 
+is filed, the case will be disposed of without oral argument unless the court orders otherwise.
+(5) Burden. Upon review, the burden shall be upon the party seeking review to demonstrate that a report of a referee sought to be reviewed is erroneous, unlawful, or unjustified.
+(6) Judgment of Supreme Court of Florida.
+(A) Authority. After review, the  [**31] Supreme Court of Florida shall enter an appropriate order or judgment. If no review is sought of a report of a referee entered under the rules and filed in the court, the findings of fact shall be deemed conclusive and the disciplinary measure recommended by the referee shall be the disciplinary measure imposed by the court, unless the court directs the parties to submit briefs or oral argument directed to the suitability of the disciplinary measure recommended by the referee. A referee's report that becomes final when no review has been timely filed shall be reported in an order of the Supreme Court of Florida.
+(B) Form. The judgment of the court shall include, where appropriate, judgment in favor of:
+(i) the party to whom costs are awarded;
+(ii) the person(s) to whom restitution is ordered; or
+(iii) the person(s) to whom a fee is ordered to be forfeited.
+(7) Procedures on Motions to Tax Costs. The court may consider a motion to assess costs if the motion is filed within 10 days of the entry of the court's order or opinion where the referee finds the respondent not guilty at trial and the supreme court, upon review, finds the respondent guilty of at least 1 rule violation and does not  [**32] remand the case to the referee for further proceedings or where the respondent was found guilty at trial and the supreme court, upon review, finds the respondent not guilty of any rule violation. The party from whom costs are sought shall have 10 days from the date the motion was filed in which to serve an objection. Failure to timely file a petition for costs or to timely serve an objection, without good cause, shall be considered a waiver of request or objection to the costs and the court may enter an order without further proceedings. If an objection is timely filed, or the court otherwise directs, the motion shall be remanded to the referee. Upon remand, the referee shall file a supplemental report that shall include a statement of costs incurred and the manner in which the costs should be assessed. Any party may seek review of the supplemental report of referee in the same manner as provided for in this rule for other reports of the referee.
+(d) Precedence of Proceedings. 
+Petitions forNotices of intent to seek review in disciplinary proceedings shall take precedence over all other civil causes in the Supreme Court of Florida.
+ (e) [No Change]
+(f) Florida Rules of Appellate Procedure.  [**33] To the extent necessary to implement this rule and if not inconsistent herewith, the Florida Rules of Appellate [*820]  Procedure shall be applicable to 
+petitions fornotices of intent to seek review in disciplinary proceedings, provided service on The Florida Bar shall be accomplished by service on bar counsel and staff counsel.
+ (g) [No Change]
+(h) Pending Disciplinary Cases. If disbarment or disciplinary revocation is ordered by the court, dismissal without prejudice of other pending cases against the respondent may be ordered in the court's disbarment or disciplinary revocation order.
+ Comment 
+[No Change]  
+RULE 3-7.9. CONSENT JUDGMENT  
+(a) - (d) [No Change]
+(e) Disbarment on Consent. A respondent may surrender membership in The Florida Bar in lieu of defending against allegations of disciplinary violations by agreeing to disbarment on consent. Disbarment on consent shall have the same effect as, and shall be governed by, the same rules provided for disbarment elsewhere in these Rules Regulating The Florida Bar.
+Matters involving disbarment on consent shall be processed in the same manner as set forth in subdivisions (a) through (d) of this rule and elsewhere in these Rules Regulating The Florida Bar,  [**34] except that a respondent may enter into a disbarment on consent without admitting any of the facts or rule violations alleged by the bar. In such event, the disbarment on consent shall set forth a brief recitation of the allegations underlying the disbarment on consent. This option shall only be available for disbarments on consent and not for any other type of consent judgment.
+(
+ef) Effect of Pleas on Certification. In negotiating consent judgments with a respondent or in recommending acceptance, rejection, or offer of a tendered consent judgment, staff counsel and designated reviewer shall consider and express a recommendation on whether the consent judgment shall include revocation of certification if held by the attorney and restrictions to be placed on recertification in such areas. When certification revocation is agreed to in a consent judgment, the revocation and any conditions on recertification will be reported to the legal specialization and education director for recording purposes.
+ RULE 3-7.10. REINSTATEMENT AND READMISSION PROCEDURES
+(a) Reinstatement; Applicability. 
+An attorney who has been suspendedA lawyer who is ineligible to practice due to a court-ordered disciplinary  [**35] suspension of 91 days or more or who has been placed on the inactive list for incapacity not related to misconduct may be reinstated to membership in good standing in The Florida Bar and be eligible to practice again pursuant to this rule. The proceedings under this rule are not applicable to 
+suspension for nonpayment of membership feesany attorney who is not eligible to practice law due to a delinquency as defined in rule 1-3.6 of these rules.
+ (b) - (e) [No Change]
+(f) Determination of Fitness by Referee Hearing. The referee to whom the petition for reinstatement is referred shall conduct the hearing as a trial, in the same manner, to the extent practical, as provided elsewhere in these rules. The matter to decide shall be the fitness of the petitioner to resume the practice of law. In determining the fitness of the petitioner to resume the practice of law, the referee shall consider whether the petitioner has engaged in any disqualifying conduct, the [*821]  character and fitness of the petitioner, and whether the petitioner has been rehabilitated, as further described in this subdivision. All conduct engaged in after the date of admission to The Florida Bar shall be relevant in proceedings  [**36] under this rule.
+(1) Disqualifying Conduct. A record manifesting a deficiency in the honesty, trustworthiness, diligence, or reliability of a petitioner may constitute a basis for denial of reinstatement. The following shall be considered as disqualifying conduct:
+(A) unlawful conduct;
+(B) academic misconduct;
+(C) making or procuring any false or misleading statement or omission of relevant information, including any false or misleading statement or omission on any application requiring a showing of good moral character;
+(D) misconduct in employment;
+(E) acts involving dishonesty, fraud, deceit, or misrepresentation;
+(F) abuse of legal process;
+(G) financial irresponsibility;
+(H) neglect of professional obligations;
+(I) violation of an order of a court;
+(J) evidence of mental or emotional instability;
+(K) evidence of drug or alcohol dependency;
+(L) denial of admission to the bar in another jurisdiction on character and fitness grounds;
+(M) disciplinary action by a lawyer disciplinary agency or other professional disciplinary agency of any jurisdiction; 
+and
+(N) failure of a felony-suspended lawyer to submit proof that the affected lawyer's civil rights have been restored; and
+(O) any other conduct  [**37] that reflects adversely upon the character or fitness of the applicant.
+(2) Determination of Character and Fitness. In addition to other factors in making this determination, the following factors should be considered in assigning weight and significance to prior conduct:
+(A) age at the time of the conduct;
+(B) recency of the conduct;
+(C) reliability of the information concerning the conduct;
+(D) seriousness of the conduct;
+(E) factors underlying the conduct;
+(F) cumulative effect of the conduct or information;
+(G) evidence of rehabilitation;
+(H) positive social contributions since the conduct;
+(I) candor in the discipline and reinstatement processes; and
+(J) materiality of any omissions or misrepresentations.
+(3) Elements of Rehabilitation. Merely showing that an individual is now living as and doing those things that should be done throughout life, although necessary to prove rehabilitation, does not prove that the individual has undertaken a useful and constructive place in society. Any petitioner for reinstatement from discipline for prior misconduct shall be required to produce clear and convincing evidence of such rehabilitation including, but not limited to, the following elements:
+(A) strict  [**38] compliance with the specific conditions of any disciplinary, judicial, administrative, or other order, where applicable;
+(B) unimpeachable character and moral standing in the community;
+ [*822]  (C) good reputation for professional ability, where applicable;
+(D) lack of malice and ill feeling toward those who by duty were compelled to bring about the disciplinary, judicial, administrative, or other proceeding;
+(E) personal assurances, supported by corroborating evidence, of a desire and intention to conduct one's self in an exemplary fashion in the future;
+(F) restitution of funds or property, where applicable; and
+(G) positive action showing rehabilitation by such things as a person's occupation, religion, or community or civic service.
+
+Merely showing that an individual is now living as and doing those things that should be done throughout life, although necessary to prove rehabilitation, does not prove that the individual has undertaken a useful and constructive place in society. The requirement of positive action is appropriate for persons seeking reinstatement to the bar as well as for applicants for admission to the bar because service to one's community is an essential obligation of members  [**39] of the bar.
+ (4) Educational Requirements.
+(A) In the case of a petitioner's ineligibility to practice for a period of 3 years or longer under this rule, the petitioner must demonstrate to the referee that the petitioner is current with changes and developments in the law:
+(i) The petitioner shall have completed at least 10 hours of continuing legal education courses for each year or portion of a year that the petitioner was ineligible to practice.
+(ii) The petitioner may further demonstrate that the petitioner is current with changes and developments in the law by showing that the petitioner worked as a law clerk or paralegal or taught classes on legal issues during the period of ineligibility to practice.
+(B) A petitioner who has been ineligible to practice for 5 years or more shall not be reinstated under this rule until the petitioner has re-taken and passed the Florida portions of the Florida Bar Examination and the Multistate Professional Responsibility Examination (MPRE).
+ (g) - (k) [No Change]  
+(l) Petitions for Reinstatement to Membership in Good Standing.
+(1) [No Change]
+(2) [No Change]
+(3) Contents of Petition. The petition shall be verified by the petitioner and shall be accompanied  [**40] by a written authorization to the District Director of the Internal Revenue Service, authorizing the furnishing of certified copies of the petitioner's tax returns for the past 5 years or since admission to the bar, whichever is greater. The authorization shall be furnished on a separate sheet. The petition shall have attached as an exhibit a true copy of all disciplinary judgments previously entered against the petitioner. It shall also include the petitioner's statement concerning the following:
+(A) name, age, residence, address, and number and relation of dependents of the petitioner;
+(B) the conduct, offense, or misconduct upon which the suspension or incapacity was based, together with the date of such suspension or incapacity;
+ [*823]  (C) the names and addresses of all complaining witnesses in any disciplinary proceedings that resulted in suspension; and the name and address of the referee or judge who heard such disciplinary proceedings or of the trial judge, complaining witnesses, and prosecuting attorney, if suspension was based upon conviction of a felony or misdemeanor involving moral turpitude;
+(D) the nature of the petitioner's occupation in detail since suspension or incapacity,  [**41] with names and addresses of all partners, associates in business, and employers, if any, and dates and duration of all such relations and employments;
+(E) a statement showing the approximate monthly earnings and other income of the petitioner and the sources from which all such earnings and income were derived during said period;
+(F) a statement showing all residences maintained during said period, with names and addresses of landlords, if any;
+(G) a statement showing all financial obligations of the petitioner including but not limited to amounts claimed, unpaid, or owing to 
+tThe Florida Bar Clients' Security Fund or former clients at the date of filing of the petition, together with the names and addresses of all creditors;
+(H) a statement of restitution made for any and all obligations to all former clients and 
+tThe Florida Bar Clients' Security Fund and the source and amount of funds used for this purpose;
+(I) a statement showing dates, general nature, and ultimate disposition of every matter involving the arrest or prosecution of the petitioner during said period for any crime, whether felony or misdemeanor, together with the names and addresses of complaining witnesses, prosecuting  [**42] attorneys, and trial judges;
+(J) a statement as to whether any applications were made during said period for a license requiring proof of good character for its procurement; and, as to each such application, the date and the name and address of the authority to whom it was addressed and the disposition thereof;
+(K) a statement of any procedure or inquiry, during said period, covering the petitioner's standing as a member of any profession or organization, or holder of any license or office, that involved the censure, removal, suspension, revocation of license, or discipline of the petitioner; and, as to each, the dates, facts, and the disposition thereof and the name and address of the authority in possession of the record thereof;
+(L) a statement as to whether any charges of fraud were made or claimed against the petitioner during said period, whether formal or informal, together with the dates and names and addresses of persons making such charges;
+(M) a concise statement of facts claimed to justify reinstatement to The Florida Bar;
+(N) a statement showing the dates, general nature, and final disposition of every civil action wherein the petitioner was either a party plaintiff or defendant,  [**43] together with dates of filing of complaints, titles of courts and causes, and the names and addresses of all parties and of the trial judge or judges, and names and addresses of [*824]  all witnesses who testified in said action or actions; and
+(O) a statement showing what amounts, if any, of the costs assessed against the accused attorney in the prior disciplinary proceedings against the petitioner have been paid by the petitioner and the source and amount of funds used for this purpose.
+(4) [No Change]
+(5) [No Change]
+ (m) - (n) [No Change]  
+RULE 3-7.12. DISCIPLINARY REVOCATION OF ADMISSION TO THE FLORIDA BAR
+If a disciplinary agency is investigating the conduct of a lawyer, or if such an agency has recommended probable cause, then disciplinary proceedings shall be deemed to be pending and a petition for disciplinary revocation may be filed pursuant to this rule. Disciplinary revocation is tantamount to disbarment in that both sanctions terminate the license and privilege to practice law and both require readmission to practice under the Rules of the Supreme Court Relating to Admissions to the Bar. A lawyer may seek disciplinary revocation of admission to The Florida Bar during the progress of disciplinary  [**44] proceedings in the following manner:
+(a) Petition for Disciplinary Revocation. The petition for disciplinary revocation shall be styled "In re ....(respondent's name)....," titled "Petition for Disciplinary Revocation," filed with the Supreme Court of Florida and shall contain a statement of all past and pending disciplinary actions and criminal proceedings against the petitioner. The statement shall describe the charges made or those under investigation for professional misconduct, results of past proceedings, and the status of pending investigations and proceedings. The petition shall state whether it is with or without leave to apply for readmission to the bar. A copy of the petition shall be served upon the executive director of The Florida Bar.
+(b) Judgment. Within 60 days after filing and service of the petition, The Florida Bar shall file with the Supreme Court of Florida its response to the petition either supporting or opposing the petition for disciplinary revocation. The bar's response shall be determined by the bar's board of governors. A copy of the response shall be served upon the petitioner. The Supreme Court of Florida shall consider the petition, any response, and the  [**45] charges against the petitioner. The Supreme Court of Florida may enter judgment granting disciplinary revocation if it has been shown by the petitioner in a proper and competent manner that the public interest will not be adversely affected by the granting of the petition and that such will neither adversely affect the integrity of the courts nor hinder the administration of justice nor the confidence of the public in the legal profession. If otherwise, the petition shall be denied. If the judgment grants the disciplinary revocation, the judgment may require that the disciplinary revocation be subject to appropriate conditions. Such conditions may include, but shall not be limited to, requiring the petitioner to submit to a full audit of all client trust accounts, to execute a financial affidavit attesting to current personal and professional financial circumstances, and to maintain a current mailing address with the bar for a period of 5 years after the disciplinary revocation becomes final or such other time as the court may order.
+(c) Delay of Disciplinary Proceedings. The filing of a petition for disciplinary revocation shall not stay the progress of  [*825]  the disciplinary proceedings  [**46] without the approval of the bar's board of governors.
+(d) Dismissal of Pending Disciplinary Cases. If disciplinary revocation is granted by the Supreme Court of Florida under this rule, such disciplinary revocation shall serve to dismiss all pending disciplinary cases.
+(e) Costs of Pending Disciplinary Cases. The judgment of the court granting disciplinary revocation may impose a judgment for the costs expended by The Florida Bar in all pending disciplinary cases against the respondent. Such costs shall be of the types and amounts authorized elsewhere in these Rules Regulating The Florida Bar.
+ Comment
+The disciplinary revocation rule replaces the former disciplinary resignation rule, but with added safeguards. Disciplinary revocation is allowed for a minimum of 5 years up to permanent disciplinary revocation. The bar's response to all such petitions must be determined by the bar's board of governors. Disciplinary revocation, like the formerly allowed disciplinary resignation, is "tantamount to disbarment." The Florida Bar v. Hale, 762 So.2d 515, 517 (Fla. 2000). Like disbarred lawyers, lawyers whose licenses have been revoked pursuant to disciplinary revocation still remain subject to  [**47] the continuing jurisdiction of the Supreme Court of Florida and must meet all requirements for readmission to bar membership. The Florida Bar v. Ross, 732 So.2d 1037, 1041 (Fla. 1998); The Florida Bar v. Hale, 762 So.2d 515, 517 (Fla. 2000).
+ RULE 3-7.13. INCAPACITY NOT RELATED TO MISCONDUCT  
+(a) [No Change]
+(b) Applicable Rules of Procedure. Proceedings under this rule shall be processed under the Rules of Discipline in the same manner as proceedings involving acts of misconduct, except that emergency or interim proceedings authorized under rule 3-5.2 shall be processed as stated in that rule.
+ (c) - (e) [No Change]  
+RULE 4-1.5. FEES AND COSTS FOR LEGAL SERVICES  
+(a) - (e) [No Change]
+(f) Contingent Fees. As to contingent fees:
+(1) - (3) [No Change]
+(4) A lawyer who enters into an arrangement for, charges, or collects any fee in an action or claim for personal injury or for property damages or for death or loss of services resulting from personal injuries based upon tortious conduct of another, including products liability claims, whereby the compensation is to be dependent or contingent in whole or in part upon the successful prosecution or settlement thereof shall do so only under the following  [**48] requirements:
+(A) [No Change]
+(B) The contract for representation of a client in a matter set forth in subdivision (f)(4) may provide for a contingent fee arrangement as agreed upon by the client and the lawyer, except as limited by the following provisions:
+(i) [No Change]
+(ii) [No Change]
+(iii) Subject to the provisions of 4-1.5(f)(4)(B)(i) and (ii) a lawyer who enters into an arrangement for, charges, or collects any fee in an action or claim for medical liability whereby the compensation is dependent  [*826]  or contingent in whole or in part upon the successful prosecution or settlement thereof shall provide the language of article I, section 26 of the Florida Constitution to the client in writing and shall orally inform the client that:
+a. Unless waived, in any medical liability claim involving a contingency fee, the claimant is entitled to receive no less than 70% of the first $250,000.
+00 of all damages received by the claimant, exclusive of reasonable and customary costs, whether received by judgment, settlement, or otherwise, and regardless of the number of defendants. The claimant is entitled to 90% of all damages in excess of $250,000.
+00, exclusive of reasonable and customary costs and  [**49] regardless of the number of defendants.
+b. If a lawyer chooses not to accept the representation of a client under the terms of article I, section 26 of the Florida Constitution, the lawyer shall advise the client, both orally and in writing of alternative terms, if any, under which the lawyer would accept the representation of the client, as well as the client's right to seek representation by another lawyer willing to accept the representation under the terms of article I, section 26 of the Florida Constitution, or a lawyer willing to accept the representation on a fee basis that is not contingent.
+c. If any client desires to waive any rights under article I, section 26 of the Florida Constitution in order to obtain a lawyer of the client's choice, a client may do so by waiving such rights in writing, under oath, and in the form provided in this rule. The lawyer shall provide each client a copy of the written waiver and shall afford each client a full and complete opportunity to understand the rights being waived as set forth in the waiver. A copy of the waiver, signed by each client and lawyer, shall be given to each client to retain, and the lawyer shall keep a copy in the lawyer's  [**50] file pertaining to the client. The waiver shall be retained by the lawyer with the written fee contract and closing statement under the same conditions and requirements provided in 4-1.5(f)(5).
+ WAIVER OF THE CONSTITUTIONAL RIGHT PROVIDED IN ARTICLE I, SECTION 26 OF THE FLORIDA CONSTITUTION
+[No Change]
+ ACKNOWLEDGMENT BY CLIENT FOR PRESENTATION TO THE COURT
+[No Change]
+(C) - (D) [No Change]
+(5) - (6) [No Change]
+ (g) - (i) [No Change]  
+Comment  
+Bases or rate of fees and costs
+When the lawyer has regularly represented a client, they ordinarily will have evolved an understanding concerning the basis or rate of the fee. The conduct of the lawyer and client in prior relationships is relevant when analyzing the requirements of this rule. In a new client-lawyer relationship, however, an understanding as to the fee should be promptly established. It is not necessary to recite all the factors that underlie the basis of the fee but only those that are directly involved in its computation. It is sufficient, for example, to  [*827]  state the basic rate is an hourly charge or a fixed amount or an estimated amount, or to identify the factors that may be taken into account in finally fixing the fee. Although hourly billing  [**51] or a fixed fee may be the most common bases for computing fees in an area of practice, these may not be the only bases for computing fees. A lawyer should, where appropriate, discuss alternative billing methods with the client. When developments occur during the representation that render an earlier estimate substantially inaccurate, a revised estimate should be provided to the client. A written statement concerning the fee reduces the possibility of misunderstanding. Furnishing the client with a simple memorandum or a copy of the lawyer's customary fee schedule is sufficient if the basis or rate of the fee is set forth.
+General overhead should be accounted for in a lawyer's fee, whether the lawyer charges hourly, flat, or contingent fees. Filing fees, transcription, and the like should be charged to the client at the actual amount paid by the lawyer. A lawyer may agree with the client to charge a reasonable amount for in-house costs or services. In-house costs include items such as copying, faxing, long distance telephone, and computerized research. In-house services include paralegal services, investigative services, accounting services, and courier services. The lawyer should sufficiently  [**52] communicate with the client regarding the costs charged to the client so that the client understands the amount of costs being charged or the method for calculation of those costs. Costs appearing in sufficient detail on closing statements and approved by the parties to the transaction should meet the requirements of this rule.
+Rule 4-1.8(e) should be consulted regarding a lawyer's providing financial assistance to a client in connection with litigation.
+Lawyers should also be mindful of any statutory, constitutional, or other requirements or restrictions on attorneys' fees.
+In order to avoid misunderstandings concerning the nature of legal fees, written documentation is required when any aspect of the fee is nonrefundable. A written contract provides a method to resolve misunderstandings and to protect the lawyer in the event of continued misunderstanding. Rule 4-1.5 (e) does not require the client to sign a written document memorializing the terms of the fee. A letter from the lawyer to the client setting forth the basis or rate of the fee and the intent of the parties in regard to the nonrefundable nature of the fee is sufficient to meet the requirements of this rule.
+All legal fees  [**53] and contracts for legal fees are subject to the requirements of the Rules Regulating The Florida Bar. In particular, the test for reasonableness of legal fees found in rule 4-1.5(b) applies to all types of legal fees and contracts related to them.
+ Terms of payment
+[No Change]
+ Prohibited contingent fees
+[No Change]
+ Contingent fee regulation
+Subdivision (e) is intended to clarify that whether the lawyer's fee contract complies with these rules is a matter between the lawyer and client and an issue for professional disciplinary enforcement. The rules and subdivision (e) are not intended to be used as procedural weapons or defenses by others. Allowing opposing parties to assert noncompliance with these rules as a defense, including whether the fee is fixed or contingent, allows for potential inequity if the opposing party is allowed to escape [*828]  responsibility for their actions solely through application of these rules.
+Rule 4-1.5(f)(4) should not be construed to apply to actions or claims seeking property or other damages arising in the commercial litigation context.
+Rule 4-1.5(f)(4)(B) is intended to apply only to contingent aspects of fee agreements. In the situation where a lawyer and client  [**54] enter a contract for part noncontingent and part contingent attorney's fees, rule 4-1.5(f)(4)(B) should not be construed to apply to and prohibit or limit the noncontingent portion of the fee agreement. An attorney could properly charge and retain the noncontingent portion of the fee even if the matter was not successfully prosecuted or if the noncontingent portion of the fee exceeded the schedule set forth in rule 4-1.5(f)(4)(B). Rule 4-1.5(f)(4)(B) should, however, be construed to apply to any additional contingent portion of such a contract when considered together with earned noncontingent fees. Thus, under such a contract a lawyer may demand or collect only such additional contingent fees as would not cause the total fees to exceed the schedule set forth in rule 4-1.5(f)(4)(B).
+The limitations in rule 4-1.5(f)(4)(B)(i)c. are only to be applied in the case where all the defendants admit liability at the time they file their initial answer and the trial is only on the issue of the amount or extent of the loss or the extent of injury suffered by the client. If the trial involves not only the issue of damages but also such questions as proximate cause, affirmative defenses, seat belt  [**55] defense, or other similar matters, the limitations are not to be applied because of the contingent nature of the case being left for resolution by the trier of fact.
+Rule 4-1.5(f)(4)(B)(ii) provides the limitations set forth in subdivision (f)(4)(B)(i) may be waived by the client upon approval by the appropriate judge. This waiver provision may not be used to authorize a lawyer to charge a client a fee that would exceed rule 4-1.5(a) or (b). It is contemplated that this waiver provision will not be necessary except where the client wants to retain a particular lawyer to represent the client or the case involves complex, difficult, or novel questions of law or fact that would justify a contingent fee greater than the schedule but not a contingent fee that would exceed rule 4-1.5(b).
+Upon a petition by a client, the trial court reviewing the waiver request must grant that request if the trial court finds the client: (a) understands the right to have the limitations in rule 4-1.5(f)(4)(B) applied in the specific matter; and (b) understands and approves the terms of the proposed contract. The consideration by the trial court of the waiver petition is not to be used as an opportunity for  [**56] the court to inquire into the merits or details of the particular action or claim that is the subject of the contract.
+The proceedings before the trial court and the trial court's decision on a waiver request are to be confidential and not subject to discovery by any of the parties to the action or by any other individual or entity except The Florida Bar. However, terms of the contract approved by the trial court may be subject to discovery if the contract (without court approval) was subject to discovery under applicable case law or rules of evidence.
+Rule 4-1.5(f)(4)(B)(iii) is added to acknowledge the provisions of 
+aArticle 1, sSection 26 of the Florida Constitution, and to create an affirmative obligation on the part of an attorney contemplating a contingency fee contract to notify a potential client with a medical liability claim of the limitations provided in that constitutional provision. This addition to the rule  [*829]  is adopted prior to any judicial interpretation of the meaning or scope of the constitutional provision and this rule is not intended to make any substantive interpretation of the meaning or scope of that provision. The rule also provides that a client who wishes to  [**57] waive the rights of the constitutional provision, as those rights may relate to attorney's fees, must do so in the form contained in the rule.
+Rule 4-1.5(f)(6) prohibits a lawyer from charging the contingent fee percentage on the total, future value of a recovery being paid on a structured or periodic basis. This prohibition does not apply if the lawyer's fee is being paid over the same length of time as the schedule of payments to the client.
+Contingent fees are prohibited in criminal and certain domestic relations matters. In domestic relations cases, fees that include a bonus provision or additional fee to be determined at a later time and based on results obtained have been held to be impermissible contingency fees and therefore subject to restitution and disciplinary sanction as elsewhere stated in these Rules Regulating The Florida Bar.
+Fees that provide for a bonus or additional fees and that otherwise are not prohibited under the Rules Regulating The Florida Bar can be effective tools for structuring fees. For example, a fee contract calling for a flat fee and the payment of a bonus based on the amount of property retained or recovered in a general civil action is not prohibited  [**58] by these rules. However, the bonus or additional fee must be stated clearly in amount or formula for calculation of the fee (basis or rate). Courts have held that unilateral bonus fees are unenforceable. The test of reasonableness and other requirements of this rule apply to permissible bonus fees.
+ Division of fee
+[No Change]
+ Disputes over fees
+Since the fee arbitration rule (
+Cchapter 14) has been established by the bar to provide a procedure for resolution of fee disputes, the lawyer should conscientiously consider submitting to it. Where law prescribes a procedure for determining a lawyer's fee, for example, in representation of an executor or administrator, a class, or a person entitled to a reasonable fee as part of the measure of damages, the lawyer entitled to such a fee and a lawyer representing another party concerned with the fee should comply with the prescribed procedure.
+ Referral fees and practices
+[No Change]
+ Credit Plans
+[No Change]
+ RULE 4-5.5. UNLICENSED PRACTICE OF LAW; MULTIJURISDICTIONAL PRACTICE OF LAW  
+(a) - (b) [No Change]
+(c) Authorized Temporary Practice by Lawyer Admitted in Another United States Jurisdiction. A lawyer admitted and authorized to practice law in another  [**59] United States jurisdiction who has been neither disbarred or suspended from practice in any jurisdiction, nor disciplined or held in contempt in Florida by reason of misconduct committed while engaged in the practice of law permitted pursuant to this rule, may provide legal services on a temporary basis in Florida that:
+(1) are undertaken in association with a lawyer who is admitted to practice in Florida and who actively participates in the matter; or
+(2) are in or reasonably related to a pending or potential proceeding before a  [*830]  tribunal in this or another jurisdiction, if the lawyer is authorized by law or order to appear in such proceeding or reasonably expects to be so authorized; or
+(3) are in or reasonably related to a pending or potential arbitration, mediation, or other alternative dispute resolution proceeding in this or another jurisdiction and the services are not services for which the forum requires pro hac vice admission:
+(A) if the services are performed for a client who resides in or has an office in the lawyer's home state, or
+(B) where the services arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice;  [**60] or
+(4) are not within subdivisions (c)(2) or (c)(3), and
+(A) are performed for a client who resides in or has an office in the jurisdiction in which the lawyer is authorized to practice, or
+(B) arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice.
+(d) Authorized Temporary Practice by Lawyer Admitted in a Non-United States Jurisdiction. A lawyer who is admitted only in a non-United States jurisdiction who is a member in good standing of a recognized legal profession in a foreign jurisdiction whose members are admitted to practice as lawyers or counselors at law or the equivalent and are subject to effective regulation and discipline by a duly constituted professional body or a public authority, and who has been neither disbarred or suspended from practice in any jurisdiction nor disciplined or held in contempt in Florida by reason of misconduct committed while engaged in the practice of law permitted pursuant to this rule does not engage in the unlicensed practice of law in Florida when on a temporary basis the lawyer performs services in Florida that:
+(1) are undertaken in association with a lawyer who is admitted  [**61] to practice in Florida and who actively participates in the matter; or
+(2) are in or reasonably related to a pending or potential proceeding before a tribunal held or to be held in a jurisdiction outside the United States if the lawyer is authorized by law or by order of the tribunal to appear in such proceeding or reasonably expects to be so authorized; or
+(3) are in or reasonably related to a pending or potential arbitration, mediation, or other alternative dispute resolution proceeding held or to be held in Florida or another jurisdiction and the services are not services for which the forum requires pro hac vice admission:
+(A) if the services are performed for a client who resides in or has an office in the jurisdiction in which the lawyer is admitted to practice, or
+(B) where the services arise out of or are reasonably related to the lawyer's practice in a jurisdiction in which the lawyer is admitted to practice; or
+(4) are not within subdivisions (d)(2) or (d)(3), and
+(A) are performed for a client who resides or has an office in a jurisdiction in which the lawyer is authorized to practice to the extent of that authorization, or
+(B) arise out of or are reasonably related to a matter  [**62] that has a substantial connection to a jurisdiction in which the lawyer is authorized to practice to the extent of that authorization; or
+ [*831]  (5) are governed primarily by international law or the law of a non-United States jurisdiction in which the lawyer is a member.
+ Comment
+[No Change]
+ RULE 4-8.3. REPORTING PROFESSIONAL MISCONDUCT  
+(a) - (b) [No Change]
+(c) Confidences Preserved. This rule does not require disclosure of information:
+(1) otherwise protected by rule 4-1.6 
+or information;
+(2) gained by a lawyer while serving as a mediator or mediation participant if the information is privileged or confidential under applicable law; or
+(3) gained by a lawyer or judge while participating in an approved lawyers assistance program. 
+Provided further, however, that if a, unless the lawyer's participation in an approved lawyers assistance program is part of a disciplinary sanction this 
+limitation shall not be applicable and, in which case a report about the lawyer who is participating as part of a disciplinary sanction shall be made to the appropriate disciplinary agency.
+ (d) [No Change]  
+Comment
+Self-regulation of the legal profession requires that members of the profession initiate disciplinary investigation  [**63] when they know of a violation of the Rules of Professional Conduct. Lawyers have a similar obligation with respect to judicial misconduct. An apparently isolated violation may indicate a pattern of misconduct that only a disciplinary investigation can uncover. Reporting a violation is especially important where the victim is unlikely to discover the offense.
+A report about misconduct is not required where it would involve violation of rule 4-1.6. However, a lawyer should encourage a client to consent to disclosure where prosecution would not substantially prejudice the client's interests.
+If a lawyer were obliged to report every violation of the rules, the failure to report any violation would itself be a professional offense. Such a requirement existed in many jurisdictions, but proved to be unenforceable. This rule limits the reporting obligation to those offenses that a self-regulating profession must vigorously endeavor to prevent. A measure of judgment is, therefore, required in complying with the provisions of this rule. The term "substantial" refers to the seriousness of the possible offense and not the quantum of evidence of which the lawyer is aware.
+The duty to report professional  [**64] misconduct does not apply to a lawyer retained to represent a lawyer whose professional conduct is in question. Such a situation is governed by the rules applicable to the client-lawyer relationship.
+Generally, Florida statutes provide that information gained through a "mediation communication" is privileged and confidential, including information which discloses professional misconduct occurring outside the mediation. However, professional misconduct occurring during the mediation is not privileged or confidential under Florida statutes.
+Information about a lawyer's or judge's misconduct or fitness may be received by a lawyer in the course of that lawyer's participation in an approved lawyers or judges assistance program. In that circumstance, providing for an exception to the reporting requirements of subdivisions (a) and (b) of this rule encourages lawyers and judges to  [*832]  seek treatment through such a program. Conversely, without such an exception, lawyers and judges may hesitate to seek assistance from these programs, which may then result in additional harm to their professional careers and additional injury to the welfare of clients and the public. These rules do not otherwise address  [**65] the confidentiality of information received by a lawyer or judge participating in an approved lawyers assistance program; such an obligation, however, may be imposed by the rules of the program or other law.
+ RULE 5-1.2. TRUST ACCOUNTING RECORDS AND PROCEDURES
+(a) Applicability. The provisions of these rules apply to all trust funds received or disbursed by members of The Florida Bar in the course of their professional practice of law as members of The Florida Bar except special trust funds received or disbursed by 
+an attorneya lawyer as guardian, personal representative, receiver, or in a similar capacity such as trustee under a specific trust document where the trust funds are maintained in a segregated special trust account and not the general trust account and wherein this special trust position has been created, approved, or sanctioned by law or an order of a court that has authority or duty to issue orders pertaining to maintenance of such special trust account. These rules shall apply to matters wherein a choice of laws analysis indicates that such matters are governed by the laws of Florida.
+As set forth in this rule, "lawyer" denotes a person who is a member of The Florida Bar  [**66] or otherwise authorized to practice in any court of the state of Florida. "Law firm" denotes a lawyer or lawyers in a private firm who handle client trust funds.
+(b) Minimum Trust Accounting Records. 
+The following are the minimum trust accounting records that shall be maintained. These rRecords may be maintained in their original format or stored in digital media as long as the copies include all data contained in the original documents and may be produced when required. The following are the minimum trust accounting records that shall be maintained:
+(1) 
+Aa separate bank or savings and loan association account or accounts in the name of the lawyer or law firm and clearly labeled and designated as a "trust account.";
+(2) 
+Ooriginal or clearly legible copies of deposit slips if the copies include all data on the originals and, in the case of currency or coin, an additional cash receipts book, clearly identifying:(
+A) the date and source of all trust funds received; and(
+B) the client or matter for which the funds were received.;
+(3) 
+Ooriginal canceled checks or clearly legible copies of original canceled checks for all funds disbursed from the trust account, all of which must:
+(A) be numbered  [**67] consecutively, 
+if the copies
+(B) include all endorsements and all other data and tracking information, and
+(C) clearly identify the client or case by number or name in the memo area of the check.;
+(4) 
+Oother documentary support for all disbursements and transfers from the trust account. including records of all electronic transfers from client trust accounts, including:
+(A) the name of the person authorizing the transfer;
+(B) the name of the recipient;
+ [*833]  (C) confirmation from the banking institution confirming the number of the trust account from which money is withdrawn; and
+(D) the date and time the transfer was completed.
+(5) 
+Aa separate cash receipts and disbursements journal, including columns for receipts, disbursements, transfers, and the account balance, and containing at least:
+(A) the identification of the client or matter for which the funds were received, disbursed, or transferred;
+(B) the date on which all trust funds were received, disbursed, or transferred;
+(C) the check number for all disbursements; and
+(D) the reason for which all trust funds were received, disbursed, or transferred.;
+(6) 
+Aa separate file or ledger with an individual card or page for each client or matter, showing  [**68] all individual receipts, disbursements, or transfers and any unexpended balance, and containing:
+(A) the identification of the client or matter for which trust funds were received, disbursed, or transferred;
+(B) the date on which all trust funds were received, disbursed, or transferred;
+(C) the check number for all disbursements; and
+(D) the reason for which all trust funds were received, disbursed, or transferred.; and
+(7) 
+Aall bank or savings and loan association statements for all trust accounts.
+ (c) [No Change]
+(d) Electronic Wire Transfers. Authorized electronic transfers from a lawyer or law firm's trust account shall be limited to:
+(1) money required to be paid to a client or third party on behalf of a client;
+(2) expenses properly incurred on behalf of a client, such as filing fees or payment to third parties for services rendered in connection with the representation; 
+or
+(3) money transferred to the lawyer for fees which are earned in connection with the representation and which are not in dispute; or
+(4) money transferred from one trust account to another trust account.
+(
+de) Record Retention. A lawyer or law firm that receives and disburses client or third-party funds or property shall  [**69] maintain the records required by this chapter for 6 years subsequent to the final conclusion of each representation in which the trust funds or property were received.
+(
+ef) Audits. Any of the following shall be cause for The Florida Bar to order an audit of a trust account:
+(1) failure to file the trust account certificate required by rule 5-1.2(c)(5);
+(2) return of a trust account check for insufficient funds or for uncollected funds, absent bank error;
+(3) filing of a petition for creditor relief on behalf of 
+an attorneya lawyer;
+(4) filing of felony charges against 
+an attorneya lawyer;
+(5) adjudication of insanity or incompetence or hospitalization of 
+the attorneya lawyer under The Florida Mental Health Act;
+(6) filing of a claim against 
+the attorneya lawyer with the Clients' Security Fund;
+(7) when requested by the chair or vice chair of a grievance committee or the board of governors;
+ [*834]  (8) upon court order; or
+(9) upon entry of an order of disbarment, on consent or otherwise.
+(
+fg) Cost of Audit. Audits conducted in any of the circumstances enumerated in this rule shall be at the cost of the 
+attorneylawyer audited only when the audit reveals that the 
+attorneylawyer was not in substantial compliance  [**70] with the trust accounting requirements. It shall be the obligation of any 
+attorneylawyer who is being audited to produce all records and papers concerning property and funds held in trust and to provide such explanations as may be required for the audit. Records of general accounts are not required to be produced except to verify that trust money has not been deposited thereto. If it has been determined that trust money has been deposited into a general account, all of the transactions pertaining to any firm account will be subject to audit.
+(
+gh) Failure to Comply With Subpoena for Trust Accounting Records. Failure of a member to timely produce trust accounting records shall be considered as a matter of contempt and process in the manner provided in subdivision (d) and (f) of rule 3-7.11, Rules Regulating The Florida Bar.
+ RULE 6-3.2. CERTIFICATION COMMITTEES
+(a) Initial Certification Committees. For each certification area approved by the Supreme Court of Florida, a 9-member committee, bearing the name of the area, shall be appointed by the president of The Florida Bar, with the advice and consent of the board of governors. Initial committee appointees shall be eminent attorneys in each  [**71] field, shall be members in good standing of The Florida Bar, shall have been admitted to The Florida Bar no less than 10 years, and must meet such other requirements as may in the future be promulgated by the board of legal specialization and education. Initial committee appointees shall be certified in the applicable area of practice by reason of appointment to that area's certification committee. The committee members shall hold office for 3 years and until their successors are appointed. The committee members shall be appointed to staggered terms of office, and the initial appointees shall serve as follows: 3 members shall serve until June 30 next following their appointment, 3 members shall serve until the second June 30 following their appointment, and 3 members shall serve until the third June 30 following their appointment.
+(b) Subsequent Certification Committees. Subsequent certification committee appointees shall be appointed by the president-elect of The Florida Bar, must be certified in the area at the time of appointment, must be members in good standing of The Florida Bar, and must meet such other requirements as may be promulgated by the board of legal specialization and  [**72] education. Upon the recommendation of the board of legal specialization and education and the approval of The Florida Bar Board of Governors, the composition of a certification committee may be adjusted to no fewer than 5 members or no more than 15 members. Committee members shall be appointed to staggered terms of office.
+ RULE 6-3.6. RECERTIFICATION  
+(a) [No Change]
+(b) Minimum Standards for Proficiency. Each area of certification established under this chapter shall contain requirements and safeguards for the continued proficiency of any certificate holder. The following minimum standards shall apply:
+(1) A satisfactory showing of substantial involvement during the period of  [*835]  certification in the particular area for which certification was granted.
+(2) A satisfactory showing of such continuing legal education in the area for which certification is granted but in no event less than 
+1050 credit hours 
+per yearduring the 5-year period of certification.
+(3) Satisfactory peer review and professional ethics record in accordance with rule 6-3.5(c)(6).
+(4) Any applicant for recertification who is not, at the time of application for recertification, a member in good standing of The Florida Bar or any  [**73] other bar or jurisdiction in which the applicant is admitted, as a result of discipline, disbarment, suspension, or resignation in lieu thereof, shall be denied recertification. The fact of a pending disciplinary complaint or malpractice action against an applicant for recertification shall not be the sole basis to deny recertification.
+(5) The payment of any fees prescribed by the plan.
+ (c) [No Change]  
+RULE 10-2.1. GENERALLY
+Whenever used in these rules the following words or terms shall have the meaning herein set forth unless the use thereof shall clearly indicate a different meaning:
+(a) Unlicensed Practice of Law. The unlicensed practice of law shall mean the practice of law, as prohibited by statute, court rule, and case law of the state of Florida. 
+For purposes of this chapter:
+
+(1) It shall not constitute the unlicensed practice of law for a nonlawyer to engage in limited oral communications to assist a person in the completion of blanks on a legal form approved by the Supreme Court of Florida. Oral communications by nonlawyers are restricted to those communications reasonably necessary to elicit factual information to complete the blanks on the form and inform the person how to file  [**74] the form. Legal forms approved by the Supreme Court of Florida which may be completed as set forth herein shall only include and are limited to forms approved by the Supreme Court of Florida pursuant to rule 10-2.1(a)
+ [formerly rule 10-1.1(b)
+] of the Rules Regulating The Florida Bar, the Family Law Forms contained in the Florida Family Law Rules of Procedure, and the Florida Supreme Court Approved Family Law Forms contained in the Florida Family Law Rules of Procedure.
+
+(A) Except for forms filed by the petitioner in an action for an injunction for protection against domestic or repeat violence, the following language shall appear on any form completed by a nonlawyer and any individuals assisting in the completion of the form shall provide their name, business name, address, and telephone number on the form:
+
+This form was completed with the assistance of:
+
+Name of Individual
+
+Name of Business
+
+Address
+
+Telephone Number
+
+(B) Before a nonlawyer assists a person in the completion of a form, the nonlawyer shall provide the person with a copy of a disclosure which contains the following provisions:
+
+(Name) told me that he/she is a nonlawyer and may not give legal advice, cannot tell me what my rights  [**75] or remedies are, cannot tell me how to testify in court, and cannot represent me in court.
+Rule 10-2.1(b) of the Rules Regulating The Florida Bar
+ defines a paralegal  [*836]  as a person who works under the supervision of a member of The Florida Bar and who performs specifically delegated substantive legal work for which a member of The Florida Bar is responsible. Only persons who meet the definition may call themselves paralegals. (Name) informed me that he/she is not a paralegal as defined by the rule and cannot call himself/herself a paralegal.
+
+(Name) told me that he/she may only type the factual information provided by me in writing into the blanks on the form. (Name) may not help me fill in the form and may not complete the form for me. If using a form approved by the Supreme Court of Florida, (Name) may ask me factual questions to fill in the blanks on the form and may also tell me how to file the form.
+
+    
+I can read English
+
+    
+I cannot read English but this notice was read to me by (Name) in (Language) which I understand.
+
+(C) A copy of the disclosure, signed by both the nonlawyer and the person, shall be given to the person to retain and the nonlawyer shall keep a copy in the person's file.  [**76] The nonlawyer shall also keep copies for at least 6 years of all forms given to the person being assisted. The disclosure does not act as or constitute a waiver, disclaimer, or limitation of liability.
+
+(2) It shall constitute the unlicensed practice of law for a person who does not meet the definition of paralegal or legal assistant as set forth elsewhere in these rules to use the title paralegal, legal assistant, or other similar term in offering to provide or in providing services directly to the public.
+
+(3) It shall constitute the unlicensed practice of law for a lawyer admitted in a state other than Florida to advertise to provide legal services in Florida which the lawyer is not authorized to provide.
+(b) Paralegal or Legal Assistant. A paralegal or legal assistant is a person qualified by education, training, or work experience, who works under the supervision of a member of The Florida Bar and who performs specifically delegated substantive legal work for which a member of The Florida Bar is responsible. A nonlawyer or a group of nonlawyers may not offer legal services directly to the public by employing a lawyer to provide the lawyer supervision required under this rule. It shall  [**77] constitute the unlicensed practice of law for a person who does not meet the definition of paralegal or legal assistant to use the title paralegal, legal assistant, or other similar term in offering to provide or in providing services directly to the public.
+(c) Nonlawyer or Nonattorney. For purposes of this chapter, a nonlawyer or nonattorney is an individual who is not a member of The Florida Bar. This includes, but is not limited to, lawyers admitted in other jurisdictions, law students, law graduates, applicants to The Florida Bar, disbarred lawyers, and lawyers who have resigned from The Florida Bar. A suspended lawyer, while a member of The Florida Bar during the period of suspension as provided elsewhere in these rules, does not have the privilege of practicing law in Florida during the period of suspension. For purposes of this chapter, it shall constitute the unlicensed practice of law for a lawyer admitted in a state other than Florida to advertise to provide legal services in Florida which the lawyer is not authorized to provide.
+  [*837]  (d) - (k) [No Change]
+(l) The Board or Board of Governors. The board or board of governors is the 
+bBoard of 
+gGovernors of The Florida Bar.
+ (m) [No  [**78] Change]
+(n) Executive Committee. The executive committee is the executive committee of the 
+bBoard of 
+gGovernors of The Florida Bar. All acts and discretion required by the board under these rules may be exercised by its executive committee between meetings of the board as may from time to time be authorized by standing policies of the board of governors.
+ RULE 10-2.2. FORM COMPLETION BY A NONLAWYER
+(a) Supreme Court Approved Forms. It shall not constitute the unlicensed practice of law for a nonlawyer to engage in limited oral communication to assist a self-represented person in the completion of blanks on a Supreme Court Approved Form. In assisting in the completion of the form, oral communication by nonlawyers is restricted to those communications reasonably necessary to elicit factual information to complete the blanks on the form and inform the self-represented person how to file the form. The nonlawyer may not give legal advice or give advice on remedies or courses of action. Legal forms approved by the Supreme Court of Florida which may be completed as set forth herein shall only include and are limited to the following forms, and any other legal form whether promulgated or approved  [**79] by the Supreme Court is not a Supreme Court Approved Form for the purposes of this rule:
+(1) forms which have been approved by the Supreme Court of Florida specifically pursuant to the authority of rule 10-2.1(a) [formerly rule 10-1.1(b)] of the Rules Regulating The Florida Bar;
+(2) the Family Law Forms contained in the Florida Family Law Rules of Procedure; and
+(3) the Florida Supreme Court Approved Family Law Forms contained in the Florida Family Law Rules of Procedure.
+ (b) Forms Which Have Not Been Approved by the Supreme Court of Florida.
+(1) It shall not constitute the unlicensed practice of law for a nonlawyer to engage in a secretarial service, typing forms for self-represented persons by copying information given in writing by the self-represented person into the blanks on the form. The nonlawyer must transcribe the information exactly as provided in writing by the self-represented person without addition, deletion, correction, or editorial comment. The nonlawyer may not engage in oral communication with the self-represented person to discuss the form or assist the self-represented person in completing the form.
+(2) It shall constitute the unlicensed practice of law for a nonlawyer  [**80] to give legal advice, to give advice on remedies or courses of action, or to draft a legal document for a particular self-represented person. It also constitutes the unlicensed practice of law for a nonlawyer to offer to provide legal services directly to the public.
+ (c) As to All Legal Forms.
+(1) Except for forms filed by the petitioner in an action for an injunction for protection against domestic or repeat violence, the following language shall appear on any form completed by a nonlawyer and any individuals assisting in the completion of the form shall provide their name, business name, address, and telephone number on the form:
+ [*838]  This form was completed with the assistance of:
+....(Name of Individual)....
+....(Name of Business)....
+....(Address)....
+....(Telephone Number)....
+(2) Before a nonlawyer assists a person in the completion of a form, the nonlawyer shall provide the person with a copy of a disclosure which contains the following provisions:
+....(Name).... told me that he/she is a nonlawyer and may not give legal advice, cannot tell me what my rights or remedies are, cannot tell me how to testify in court, and cannot represent me in court.
+Rule 10-2.1(b) of the Rules Regulating The Florida Bar  [**81] defines a paralegal as a person who works under the supervision of a member of The Florida Bar and who performs specifically delegated substantive legal work for which a member of The Florida Bar is responsible. Only persons who meet the definition may call themselves paralegals. ....(Name).... informed me that he/she is not a paralegal as defined by the rule and cannot call himself/herself a paralegal.
+....(Name).... told me that he/she may only type the factual information provided by me in writing into the blanks on the form. Except for typing, ....(Name).... may not tell me what to put in the form and may not complete the form for me. However, if using a form approved by the Supreme Court of Florida, ....(Name).... may ask me factual questions to fill in the blanks on the form and may also tell me how to file the form.
+.... I can read English
+.... I cannot read English but this notice was read to me by ....(Name).... in ....(Language).... which I understand.
+(3) A copy of the disclosure, signed by both the nonlawyer and the person, shall be given to the person to retain and the nonlawyer shall keep a copy in the person's file. The nonlawyer shall also retain copies for at least 6 years  [**82] of all forms given to the person being assisted. The disclosure does not act as or constitute a waiver, disclaimer, or limitation of liability.
+ RULE. 14-1.2 JURISDICTION
+(a) Fee Arbitration. The program shall have jurisdiction to resolve disputes between members of The Florida Bar or between a member of The Florida Bar and a client or clients over a fee paid, charged, or claimed for legal services rendered by a member of The Florida Bar when the parties to the dispute agree to arbitrate 
+hereunderunder the program either by written contract that complies with the requirements of subdivision (i) of rule 4-1.5 or by a request for arbitration signed by all parties, or as a condition of probation or as a part of a discipline sanction as authorized elsewhere in these Rules Regulating The Florida Bar. Jurisdiction shall be limited to matters in which:
+(1) there is no bona fide disputed issue of fact other than the amount of or entitlement to legal fees; and
+(2) the amount of attorneys' fees in controversy is $100,000 or less; and
+(3) it is estimated by all parties that all the evidence bearing on the disputed issues of fact may be heard in 8 hours or less.
+The program shall not have jurisdiction  [**83] to resolve disputes involving matters in which a court has taken jurisdiction to [*839]  determine and award a reasonable fee to a party or that involve fees charged that constitute a violation of the Rules Regulating The Florida Bar, unless specifically referred to the program by the court or by bar counsel.
+The program shall have authority to decline jurisdiction to resolve any particular dispute by reason of its complexity and protracted hearing characteristics.
+ (b) [No Change]  
+RULE 14-6.1. BINDING NATURE; ENFORCEMENT; AND EFFECT OF FAILURE TO PAY AWARD  
+(a) - (b) [No Change]
+(c) Effect of Failure to Pay Award. Failure of a member of the bar to pay an award within 
+9030 days of the date on which the award became final, without just cause for such failure, shall result in the member being delinquent and not authorized to practice law, as provided elsewhere in these rules defining delinquent members.
+ RULE 20-2.1. GENERALLY
+For purposes of this chapter, the following terms shall have the following meaning:
+ (a) - (c) [No Change]
+(d) Approved Paralegal Program. An approved paralegal program is a program approved by the American Bar Association ("ABA") or a program that is in substantial compliance with  [**84] the ABA guidelines by being an institutional member of the American Association for Paralegal Education (AAfPE) and accredited by a nationally recognized accrediting agency approved by the United States Department of Education.
+ (e) - (j) [No Change]  
+RULE 20-4.1. GENERALLY
+The following shall be filed with The Florida Bar by an individual seeking to be registered as a Florida Registered Paralegal:
+ (a) - (c) [No Change]
+(d) Review by The Florida Bar. Upon receipt of the items set forth in subdivision 20-4.1(a)-(c), The Florida Bar shall review the items for compliance with this chapter. Any incomplete submissions will be returned. If the individual meets all of the requirements of this chapter, the individual shall be added to the roll of Florida Registered Paralegals and a certificate evidencing such registration shall be issued. If there is an open unlicensed practice of law complaint against the individual, the application will be held as pending until the investigation is resolved.
+(e) Annual Renewal; Content and Registration Fee. The registration pursuant to this subdivision shall be annual and consistent with that applicable to an attorney licensed to practice in the state of Florida.  [**85] An annual registration fee shall be set by the board in an amount not more than the annual fees paid by inactive members of The Florida Bar. The renewal shall contain a statement that the individual is primarily performing paralegal work as defined elsewhere in this chapter and a statement that the individual is not ineligible for registration set forth elsewhere in this chapter. A Florida Registered Paralegal who is not primarily performing paralegal work shall not be eligible for renewal of the registration but may reapply for registration. If there is an open unlicensed practice of law complaint against the individual, renewal will be held [*840]  as pending until the investigation is resolved.
+ RULE 20-5.1. GENERALLY
+The following individuals are ineligible for registration as a Florida Registered Paralegal or for renewal of a registration that was previously granted:
+(a) a person who is currently suspended or disbarred or who has resigned in lieu of discipline from the practice of law in any state or jurisdiction;
+(b) a person who has been convicted of a felony in any state or jurisdiction and whose civil rights have not been restored;
+(c) a person who has been found to have engaged in the  [**86] unlicensed (unauthorized) practice of law in any state or jurisdiction within 7 years of the date of application;
+(d) a person whose registration or license to practice has been terminated or revoked for disciplinary reasons by a professional organization, court, disciplinary board, or agency in any jurisdiction;
+(e) a person who is no longer primarily performing paralegal work as defined elsewhere in these rules; 
+or
+(f) a person who fails to comply with prescribed continuing education requirements as set forth elsewhere in this chapter; or
+(g) a person who is providing services directly to the public as permitted by case law and subchapter 10-2 of these rules.
+ [*809contd]  
+[EDITOR'S NOTE: The page numbers of this document may appear to be out of sequence; however, this pagination accurately reflects the pagination of the original published document.]
+Concur by: CANADY (In Part); PARIENTE (In Part); QUINCE (In Part)  
+Dissent by: CANADY (In Part); PARIENTE (In Part); QUINCE (In Part)  
+Dissent
+
+
+
+
+CANADY, C.J., concurring in part and dissenting in part.
+I concur in the majority opinion, except for that portion of the opinion relating to Rule Regulating the Florida Bar 1-12.1. I would approve the amendment to rule 1-12.1 proposed by the Bar to permit notice of the proposed action of the Board of Governors of The Florida Bar on a proposed rule amendment to be given either in The Florida Bar News or  [**87] on The Florida Bar website.
+PARIENTE, J., concurring in part and dissenting in part.
+I agree with the entirety of the majority's opinion with two exceptions that I write to explain. I also discuss the amendments to rule 1-12.1 addressing the publication of Bar rule amendments, which are the subject of Chief Justice Canady's separate dissent. First, I disagree with the majority's rejection of proposed rule 1-3.12, Provision of Legal Services Following Determination of Major Disaster. This rule would apply only to allow temporary pro bono practice in Florida following a major disaster. The rule gives authority to the Florida Supreme Court to determine when an emergency or natural disaster [*810]  has had an impact on the justice system, so this Court makes the threshold determination of whether there is even a need for out-of-state pro bono legal services assistance. As an additional safeguard, the rule provides that the provision of legal services must be undertaken through, and supervised by, a pro bono or legal services program or not-for-profit bar association. Although the majority states it has "concerns" about how the rule would apply, majority op. at 3, it does not articulate those concerns  [**88] or give the Bar an opportunity to address the rule. I would adopt the proposed rule.
+My second point of disagreement is with the majority's rejection of the proposed amendment to rule 5-1.2 (Trust Accounting Records and Procedures) requiring that a lawyer actually sign his or her own trust account checks rather than using a signature stamp or allowing nonlawyer employees to sign checks. The Bar explains that these amendments will help protect the public from costly mistakes and from misappropriation of trust funds caused by careless or improper practices. I certainly understand the concerns raised by solo practitioners, but in my view, the need to protect the public outweighs those concerns. Although we certainly see far too many instances of lawyers stealing from their trust accounts, I believe this additional protection is one that is reasonable and in furtherance of our goal of protecting the public. For that reason, I would adopt the proposed amendment to rule 5-1.2 along with the other amendments to the rule.
+Lastly, I address the Bar's proposed amendment to rule 1-12.1, which this Court rejects. The proposed amendment would apply only to the process by which the Bar amends its  [**89] rules and would allow notice of all of the Bar rule amendments on its website in lieu of publication in The Florida Bar News. The rule amendment adopted by the majority opinion requires publication in both places. Currently, the Bar's petitions to amend rules, along with the full text of amendments, are published on the Court's website at the time the motion to amend is filed, so it does seem that there is no reason for the full text of the proposed amendments to also appear in The Florida Bar News.
+Although I understand the Bar's position that filing rule amendments in The Florida Bar News creates printer deadline problems and cumbersome space requirements, the problem is that members of the Bar would not be on notice that Bar rule amendments are being made. A possible solution to the space requirement could be to allow the Bar to publish an abbreviated notice and summary and then refer interested parties to both the Bar's website and the Court's website. Further, since currently all of the Bar's rules committees are required to publish their proposals in The Florida Bar News as well as on the Bar's website, there would be an inconsistency in how the rule amendments are handled with  [**90] the potential for further confusion. See Fla. R. Jud. Admin. 2.140(b)(2). I encourage the Bar to look at this issue again, in conjunction with procedures for other rule amendments, and consider an alternative proposal that would address the issue of notice but also allow for increased use of the internet.
+Accordingly, for the reasons stated above, I concur in part and dissent in part.
+QUINCE, J., concurring in part and dissenting in part.
+I agree with many of the changes to the rules with the exception of the majority's rejection of proposed new rule 5-1.2(d). This rule would require a lawyer to actually sign his or her trust account checks and not leave that to nonlawyers or have someone [*811]  use a signature stamp. We have seen a number of cases during my tenure on this court where the lawyer has alleged that missing money was taken by an employee, albeit a trusted employee. While such a requirement might be inconvenient in some circumstances, I believe it is a small price to pay for further protection of the public. Therefore, I would require that trust account checks be signed by the lawyer.
+PARIENTE, J., concurs.
+
+ 
+
+End of Document

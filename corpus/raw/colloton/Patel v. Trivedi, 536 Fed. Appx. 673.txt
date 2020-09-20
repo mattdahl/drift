@@ -1,0 +1,43 @@
+
+  NeutralAs of: September 19, 2020 7:47 PM Z
+Patel v. Trivedi
+United States Court of Appeals for the Eighth Circuit
+August 1, 2013, Submitted; October 31, 2013, Filed
+No. 13-1043
+
+Reporter
+536 Fed. Appx. 673 *; 2013 U.S. App. LEXIS 22169 **; 2013 WL 5827771
+ Natverlal Patel; Jaswanti Patel, Plaintiffs - Appellants, v. Vikram Trivedi; New York Life Insurance Company, Defendants - Appellees.  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Subsequent History: Rehearing denied by Patel v. Vikram Trivedi & N.Y. Life Ins. Co., 2013 U.S. App. LEXIS 24080 (8th Cir. Ark., Dec. 3, 2013)
+On remand at, Motion denied by, Without prejudice, Motion denied by, Motion granted by Patel v. New York Life Ins. Co., 2014 U.S. Dist. LEXIS 131701 (W.D. Ark., Sept. 19, 2014)  
+Prior History:  [**1] Appeal from United States District Court for the Western District of Arkansas - Texarkana.
+Patel v. Trivedi, 2012 U.S. Dist. LEXIS 63673 (W.D. Ark., May 7, 2012)  
+Counsel: For Natverlal Patel, Jaswanti Patel, Plaintiffs - Appellants: Robert Steven Tschiemer, ROBERT S. TSCHIEMER, P.A., Mayflower, AR. 
+For Vikram Trivedi, Defendant - Appellee: Matthew K. Brown, Gary D. Jiles, JACK & NELSON., Conway, AR. 
+For New York Life Insurance Company, Defendant - Appellee: Amber Bagley, Michael Stephen Bingham, CROSS & GUNTER, Little Rock, AR.  
+Judges: Before LOKEN, COLLOTON, and KELLY, Circuit Judges. COLLOTON, Circuit Judge, concurring in part and dissenting in part.  
+Opinion
+
+
+
+
+ [*673]  PER CURIAM.
+In this diversity action, Jaswanti Patel and Natverlal Patel (together, the Patels) appeal the district court's orders dismissing their state-law tort and breach-of-contract claims against New York Life Insurance Company (NYLI) and Vikram Trivedi. Upon careful de novo review, see Butler v. Bank of Am., N.A., 690 F.3d 959, 961 (8th Cir. 2012) (de novo review of Fed. R. Civ. P. 12(b)(6) dismissal), we affirm in part, reverse in part, and remand the case to the district court for further proceedings.
+To begin, we agree with the district court that the Patels' tort claims were time-barred, and we decline to consider the  [**2] issues of equitable tolling and equitable estoppel, which they did not raise in the district court. See Ark. Code Ann. §§ 16-56-105 (3-year limitations period for certain tort actions), 16-56-115 (5-year limitations period for actions not otherwise provided for); Illig v. Union Elec. Co., 652 F.3d 971, 976 (8th Cir. 2011) (in addressing motion to dismiss, court may consider exhibits attached to pleadings; court may dismiss claim under Rule 12(b)(6) as barred by statute of limitations if complaint establishes claim is time-barred); Campbell v. Davol, Inc., 620 F.3d 887, 891 (8th Cir. 2010) (issues not raised in trial court cannot be considered by appellate court as basis for reversal). We also agree with the district court that the Patels failed to state a breach-of-contract claim against Trivedi. See Peevy v. State, 9 Ark. App. 347, 659 S.W.2d 957, 958 (Ark. Ct. App. 1983) (agent, by making contract only on behalf of competent disclosed principal, does not thereby become liable for principal's non-performance).
+However, we disagree with the district court that the Patels failed to state a breach-of-contract claim against NYLI. The Patels alleged that Jaswanti Patel had become disabled from car accidents  [**3] and back surgery in 2000 and 2001, and they claimed that NYLI had breached at least two of their life insurance policies by refusing to honor disability-based waiver-of-premium provisions in those policies. We conclude that the Patels' allegations were sufficient to state a facially plausible  [*674]  breach-of-contract claim. An exhibit to the complaint revealed that NYLI had declared it was "rescinding" the waiver-of-premium provisions based on the Patels' failure to disclose arthritis treatments received by Jaswanti Patel in 1999. The allegation that NYLI beached the policy contracts by refusing to honor waiver-of-premium provisions was necessarily an allegation that NYLI wrongfully "rescinded" those provisions. And the facts alleged in cursory fashion raised the plausible theory that failure to disclose prior arthritis treatment in 1999 was not a material misrepresentation warranting rescission of the policies when Ms. Patel was thereafter disabled by car accidents and back surgery. See Ashcroft v. Iqbal, 556 U.S. 662, 678, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) (complaint must contain sufficient factual matter, accepted as true, to state claim to relief that is plausible on its face); Perry v. Baptist Health, 358 Ark. 238, 189 S.W.3d 54, 58 (Ark. 2004)  [**4] (to state claim for breach of contract in Arkansas, plaintiff must allege (1) existence of valid and enforceable contract between plaintiff and defendant; (2) obligation of defendant thereunder; (3) violation of obligation by defendant; and (4) damages resulting from breach); see also Dingxi Longhai Dairy, Ltd. v. Becwood Tech. Grp. L.L.C., 635 F.3d 1106, 1109 (8th Cir. 2011) (per curiam) (court may dismiss complaint only if it is clear that no relief could be granted under any set of facts that could be proven consistent with allegations).
+We therefore reverse the dismissal of the Patels' breach-of-contract claim against NYLI, and we remand the case for further proceedings on that claim. In all other respects, we affirm.
+Concur by: COLLOTON (In Part)  
+Dissent by: COLLOTON (In Part)  
+Dissent
+
+
+
+
+COLLOTON, Circuit Judge, concurring in part and dissenting in part.
+I would affirm the district court's dismissal of the plaintiffs' breach-of-contract claim against New York Life Insurance Company on the ground that the plaintiffs, Natverlal and Jaswanti Patel, have pleaded themselves out of court. E.g., Thomas v. Farley, 31 F.3d 557, 558-59 (7th Cir. 1994). The plaintiffs allege that New York Life breached by refusing to waive premiums  [**5] during Jaswanti Patel's period of disability after the car accident. But by including exhibits showing that New York Life rescinded the policies based on Jaswanti Patel's failure in the policy application to disclose material information concerning her medical history, the Patels have shown that the insurer had a basis under the contract for refusing to waive the premiums. The amended complaint does not dispute that Jaswanti failed to disclose the information identified by New York Life, does not allege (in a "cursory fashion" or otherwise) that Jaswanti's failure to disclose prior arthritis treatment was immaterial, and does not allege that New York Life wrongfully rescinded the contract. As the district court observed, "[t]he Patels allege no facts in their Amended Complaint as to how New York Life's response to their demands was a breach of contract," and failed "to provide any further explanation to the Court as to how their claim for breach of contract may be able to survive despite their failure to allege such facts." R. Doc. 25, at 4 (emphasis added). I would therefore affirm the judgment in its entirety.
+
+ 
+
+End of Document

@@ -1,0 +1,62 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+Esselman v. Garden City Hosp.
+Supreme Court of Michigan
+April 23, 2010, Decided
+SC: 139288
+
+Reporter
+780 N.W.2d 781 *; 2010 Mich. LEXIS 713 **
+ BRUCE ESSELMAN, as Personal Representative of the Estate of David Esselman, Deceased, Plaintiff-Appellee, v GARDEN CITY HOSPITAL, Defendant, and DAVID J. FERTEL, D.O., DAVID FERTEL, D.O., P.L.L.C., and D. FERTEL, D.O., P.C., Defendants-Appellants.  
+Prior History:  [**1] COA: 280723. Wayne CC: 06-609170-NH.
+Esselman v. Garden City Hosp., 284 Mich. App. 209, 772 N.W.2d 438, 2009 Mich. App. LEXIS 1271 (2009)  
+Judges: Marilyn Kelly, Chief Justice. Michael F. Cavanagh, Elizabeth A. Weaver, Maura D. Corrigan, Robert P. Young, Jr., Stephen J. Markman, Diane M. Hathaway, Justices. KELLY, C.J. (concurring). MARKMAN, J. (concurring). YOUNG, J. (dissenting).  
+Opinion
+
+
+
+
+  [*781]  Order
+On order of the Court, the application for leave to appeal the June 4, 2009 judgment  [*782]  of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.
+Concur by: Marilyn Kelly; Stephen J. Markman  
+Concur
+
+
+
+
+KELLY, C.J. (concurring).
+I concur in the Court's order denying defendants' application for leave to appeal. I write separately in response to Justice YOUNG's dissenting statement.
+Justice YOUNG claims that this case represents another instance "where members of the Court's new philosophical majority seem to retreat from its previously stated fidelity to stare decisis." Justice YOUNG has repeated this claim on numerous occasions over the last year with the same string of citations. 1  A review of the cases in the string citation serves to illustrate that the claim is inaccurate. 2  Had other justices been in the majority in some of the decisions complained  [**2] about, they might well have extended existing precedent. But the refusal of those in the majority to extend precedent is quite different from a refusal on their part to apply it to a case on point. This is a distinction that Justice YOUNG would do well to concede.
+Here, plaintiff sent a notice of intent (NOI) as required by MCL 600.2912b to eighteen potential medical malpractice defendants, including doctors, nurses, professional corporations, and the hospital at which plaintiff was treated. Plaintiff's subsequent complaint  [**3] named some of those defendants. After discovery, defendants moved for summary disposition on the ground that plaintiff's NOI was deficient. The trial court denied the motion. The Court of Appeals affirmed the denial. 3  
+Defendants claim that the NOI was deficient because it does not properly state the standard of care applicable to each potential defendant. However, MCL 600.2912b does not require a plaintiff's NOI to explicitly line up particularized standards of care with individual defendants. Rather, as we held in Roberts v Mecosta Co Hosp, 4  an NOI must provide a defendant with notice sufficient to allow it to discern the general nature of the cause of action to be launched against it. 5  
+ [*783]  Plaintiff's NOI satisfied the statutory requirements and Roberts. It named all of the potential defendants. At several points throughout its factual statement, it pointed out why surgery should have been performed well before it was actually performed. It also included a lengthy narrative identifying the potential defendants and alleging what they did or did not do and how their behavior was negligent and breached the standard of care.
+Thus, there is no basis for Justice YOUNG's claim that we failed to apply the requirements of § 2912b and Roberts, let alone that we have abandoned precedent. Perhaps Justice YOUNG would prefer to extend Roberts beyond its reach, but surely we are under no duty to do so in this case or in any other.
+Finally, assuming arguendo  [**5] that plaintiff's NOI was deficient, Justice YOUNG ignores the fact that this case has progressed through the filing of a complaint with affidavits of merit, discovery, and settlement efforts. Therefore, there is no practical value to amending or curing plaintiff's presuit notice, especially in light of our decision in Bush v Shabahang. 6  
+For these reasons, I concur with the Court's order denying defendants' application for leave to appeal.
+MARKMAN, J. (concurring).
+I concur in the order denying defendants' application for leave to appeal. I do so because, while plaintiff's notice of intent (NOI) could have been written in a far better structured manner, it nonetheless satisfies the requirements of the NOI statute, MCL 600.2912b(4), and the standards of Roberts v Mecosta Co Hosp, 470 Mich. 679, 684 N.W.2d 711 (2004).
+MCL 600.2912b(4) sets forth the requirements with which a NOI must comply. The statute requires, inter alia, that the NOI contain the applicable standard of care, the manner in which the standard of care was breached, and the actions that should have been taken to achieve compliance  [**6] with the alleged standard of care. Id. In Roberts, this Court stated that a claimant is required to "make a good-faith effort to aver the specific standard of care that she is claiming to be applicable to each particular professional or facility that is named in the notice." 470 Mich at 692. Roberts specifically explained, however, that "nothing in § 2912b(4) requires that the notice be in any particular format." Id. at 696. Rather, as Roberts recognized, what a NOI must do is "identify, in a readily ascertainable manner, the specific information mandated by § 2912b(4)." 7  Id.
+The NOI at issue here meets the requirements of MCL 600.2912b(4) as explicated by Roberts. The notice's seven-page  [*784]  "factual basis" section provided a detailed narrative that named each defendant and described what each did or did not do. Thereafter, in the "standard of care" section, plaintiff set forth the applicable standards employing similar language as in the "factual basis" section, even in many instances identifying to whom a particular standard applies by referring to the "physicians," "nursing staff," or "anesthesiologist." When viewed in combination with the lengthy factual narrative--which did name the individual defendants and describe what each did or did not do--defendants could, in my judgment, "readily ascertain" which standards of care were applicable to them. Importantly, this is also true of the hospital-defendants because the NOI identified residents and nurses by name, and specified their alleged breaches, so that a corporate entity would know  [**8] which employees and which agents were allegedly negligent.
+In sum, by carefully reading the NOI in its entirety, potential defendants were able to "identify, in a readily ascertainable manner, the specific information mandated by § 2912b(4)." 8  Roberts, 470 Mich at 696. A different, and better, format could have more clearly matched each defendant with their respective standard of care, but this NOI--when viewed in its entirety--sufficiently provided this same information.
+WEAVER, J., would grant leave to appeal.
+Dissent by: Robert P. Young, Jr.  
+Dissent
+
+
+
+
+YOUNG, J. (dissenting).
+I dissent from the majority's denial of leave because the plaintiff's Notice of Intent (NOI) was defective. Accordingly, I would vacate the Court of Appeals majority decision for the reasons stated in Judge SAAD's dissenting opinion and, because current Michigan law so requires, remand this case for further proceedings consistent with Bush v Shabahang. 9  The majority's failure to do so indicates its unwillingness to apply the requirements of the NOI statute and Roberts v Mecosta Co Gen Hosp (After Remand). 10  
+Plaintiff sent an NOI to multiple defendants, including doctors, nurses, professional corporations, and the hospital that treated plaintiff. Although the  [**10] standard of care applicable to some of these defendants is not the same one applicable to others, in responding to the statutory duty to describe the standard of care applicable to the potential defendants, the plaintiff provided a laundry list of thirteen requirements, many of which failed to differentiate between the different standards of care owed by different defendants. Similarly,  [*785]  the plaintiff's articulation of the manner in which the standard of care was breached, and of the actions that should have been taken to comply with the standard of care, failed to differentiate between the defendants. Defendants Garden City Hospital and Dr. David Fertel moved for, inter alia, summary disposition on the basis of this alleged deficiency in the NOI. The trial court denied summary disposition, and the Court of Appeals affirmed, in a divided, published opinion. 11  
+The goal of the NOI enterprise is to give defendants accused of medical malpractice reasonable notice of the nature of the claim and how the plaintiff contends they breached the relevant standard of care. This represents a significant legislative change in the medical malpractice regime, in which practitioners  [**11] previously found out the nature of the claims lodged against them only after a complaint had been filed and during discovery. As such, the NOI procedure should not be diminished as the Court of Appeals has done here with the complicity of this Court. This Court of Appeals decision reintroduces the gamesmanship that the Legislature sought to end by introducing the NOI step in the litigation process.
+As this Court stated in Roberts, the NOI must refer to "the particular standard of practice or care applicable to each of the various defendants." 12  The plaintiff is therefore required "to make good-faith averments that provide details that are responsive to the information sought by the statute and that are as particularized as is consistent with the early notice stage of the proceedings." 13  This Court's decision in Bush v Shabahang controls only the effect of a defective notice of intent and therefore leaves intact the Roberts requirements which describe how to determine whether an NOI is defective.
+Here, the Court of Appeals majority ignored the Roberts requirements, merely stating that the instant NOI provided  [**12] greater detail than the "tautologies" that the Roberts NOI stated. 14  Moreover, the Court of Appeals majority's statement that the plaintiffs need not "line particularized standards up to individual defendants," 15  contradicts the rule of law that this Court articulated in Roberts, requiring plaintiffs to include "the particular standard of practice or care applicable to each of the various defendants." 16  This statement has been made in a published Court of Appeals decision that this Court is allowing to stand, even though it plainly contradicts Roberts. 17  In contrast, Judge SAAD's dissent correctly applied the Roberts standard:
+[W]hile plaintiff set forth a recitation of facts about his hospitalization, he made no effort to provide notice of which standard of care applied to or was breached by each named health professional or facility, a list that includes medical practices and professionals of varying types, training, and specialties. 18 
+ [*786]  Judge SAAD did not have the benefit of this Court's recent decision in Bush v Shabahang, which, as stated, details the effect of a deficient NOI. Under Bush, defendants are not necessarily entitled to summary disposition, as Judge SAAD's dissenting  [**13] opinion would have held. Nevertheless, Judge SAAD applied Roberts correctly to conclude that the plaintiff filed a deficient NOI.
+This denial order is another instance where members of the Court's new philosophical majority seem to retreat from its previously stated fidelity to stare decisis. 19  Since the shift in the Court's philosophical majority in January 2009, the new majority has pointedly sought out precedents only recently decided 20  and has failed to give effect to other recent precedents of this Court. 21  Today, the Court again fails to  [*787]  give effect to a recent precedent of this Court and, in so doing, fails to give meaning to the medical malpractice reforms enacted by our Legislature.
+Consistent with the requirements of the NOI provisions of MCL 600.2912b and this Court's binding precedent in Roberts, I would vacate the Court of Appeals majority opinion for the reasons stated in Judge SAAD's dissent and remand this case to the trial court for further proceedings consistent with Bush.
+CORRIGAN, J., joins the statement of  [**18] YOUNG, J.
+
+ 
+
+End of Document

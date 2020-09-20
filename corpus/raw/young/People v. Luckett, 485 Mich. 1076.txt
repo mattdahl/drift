@@ -1,0 +1,48 @@
+
+  PositiveAs of: September 19, 2020 9:20 PM Z
+People v. Luckett
+Supreme Court of Michigan
+January 29, 2010, Decided
+SC: 139481
+
+Reporter
+485 Mich. 1076 *; 777 N.W.2d 163 **; 2010 Mich. LEXIS 165 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellee, v LOU CLEVELAND LUCKETT, Defendant-Appellant.  
+Prior History:  [***1] COA: 291967. Kent CC: 07-010971-FC.
+  
+Judges: Marilyn Kelly, Chief Justice. Michael F. Cavanagh, Elizabeth A. Weaver, Maura D. Corrigan, Robert P. Young, Jr., Stephen J. Markman, Diane M. Hathaway, Justices. YOUNG, J. (concurring). CORRIGAN, J., joins the statement of YOUNG, J. KELLY, C.J. (dissenting).  
+Opinion
+
+
+
+
+  [*1076]   [**163]  Order
+On order of the Court, the application for leave to appeal the June 18, 2009 order of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.
+Concur by: YOUNG  
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+I concur in the order denying leave to appeal and write separately only to address Chief Justice KELLY's dissenting statement. Contrary to the implication Chief Justice KELLY raises, the activity underlying a juvenile adjudication is criminal in nature because it amounts to a violation of a criminal statute, even though that violation [*1077]  is not resolved in a "criminal proceeding." Accordingly, under the plain language of MCL 777.43, a defendant's criminal activity, including criminal activity undertaken as a juvenile, that occurred within five years of the sentencing offense is properly considered when scoring offense variable (OV) 13 (continuing  [***2] pattern of criminal behavior).
+While a juvenile adjudication is not a "criminal proceeding" 1  and does not result in a criminal conviction, that fact is irrelevant under the plain language of MCL 777.43. 2  OV 13 considers "criminal behavior" and "criminal activity," not criminal convictions. Every instance of "criminal behavior" or "criminal activity" within five years of the sentencing offense may be counted "regardless of whether the offense resulted in a conviction." The focus of OV 13 is on the nature of the act, not the legal disposition of the defendant's culpability.
+Further, the Juvenile Code does not state that juvenile offenses are not criminal in nature. 3  MCL 712A.1(2) merely states that proceedings against juveniles "are not criminal proceedings" and does not alter the legal characterization of the underlying conduct. The family division of the circuit court has jurisdiction over a juvenile who "has violated any . . . law of  [**164]  the state or of the United States," 4  including the provisions of the penal code. Accordingly, the conduct bringing the juvenile under the court's jurisdiction is certainly criminal in nature. The focus of MCL 777.43 [*1078]  is on the nature of the act, not whether the act resulted in a criminal conviction. Accordingly, the sentencing court does not count civil adjudications against the defendant when scoring OV 13, only the underlying criminal conduct.
+I further disagree  [***4] with Chief Justice KELLY's suggestion that the express mention of "juvenile adjudications" in several prior record variables 5  is evidence that such adjudications cannot be considered under OV 13. Prior record variables serve a different purpose than offense variables. Prior record variables consider the defendant's prior criminal activity that has reached a resolution in the court system. Unlike OV 13, the prior record variables do not allow for consideration of conduct that does not result in a charge and ultimate resolution by conviction or juvenile adjudication. 6  Accordingly, the specific mention of juvenile adjudications in relation to certain prior record variables is irrelevant to whether the plain language of MCL 777.43 allows the scoring of the specific conduct at issue here.
+CORRIGAN, J., joins the statement of YOUNG, J.
+Dissent by: KELLY  
+Dissent
+
+
+
+
+KELLY,  [***5] C.J. (dissenting).
+I respectfully dissent from the Court's order denying defendant's application for leave to appeal. Because I question whether the trial court properly scored offense variable (OV) 13, I would grant leave to appeal.
+The victim in this case was walking through his neighborhood when defendant's accomplice restrained him and took his money. The accomplice then pulled out a gun but the victim managed to escape unhurt. Defendant pled guilty to armed robbery in exchange for dismissal of a second habitual offender enhancement and two juvenile charges. 7  The trial court scored 25 points for OV 13. OV 13 is to be scored at 25 points if "[t]he offense was part of a pattern of felonious criminal activity involving 3 or more crimes against a person." 8  All crimes within five years of the sentencing offense "shall be counted regardless of whether the offense resulted in a conviction." 9  
+Under the sentencing guidelines, only prior record variables 3, 10  4, 11  and 5 12  consider juvenile conduct for scoring  [***6] purposes. They assign points [*1079]  where a defendant has "prior high severity juvenile adjudications," "prior low severity juvenile adjudications," or "prior misdemeanor juvenile adjudications." Here, the prosecutor maintained that the scoring of OV 13 could be based on any felonious criminal  [**165]  activity, citing an unpublished Court of Appeals opinion. 13  
+I believe that we should grant leave to appeal to more fully consider the scoring of OV 13. OV 13 covers only "felonious criminal activity" committed within 5 years of the sentencing offense. In this case, the only previous offenses defendant committed are unquestionably juvenile offenses. Under MCL 712A.1(2), juvenile adjudications are not criminal in nature. 14  If the offenses underlying a juvenile adjudication cannot be scored under OV 13, defendant may be entitled to resentencing.
+We should grant leave to appeal to consider whether defendant's juvenile offenses were properly considered under OV 13.
+
+ 
+
+End of Document

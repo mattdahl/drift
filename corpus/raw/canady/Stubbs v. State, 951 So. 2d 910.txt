@@ -1,0 +1,49 @@
+
+  CautionAs of: September 19, 2020 7:27 PM Z
+Stubbs v. State
+Court of Appeal of Florida, Second District
+February 9, 2007, Opinion Filed 
+Case No. 2D05-4864 
+
+Reporter
+951 So. 2d 910 *; 2007 Fla. App. LEXIS 1587 **; 32 Fla. L. Weekly D 431
+ MICHAEL STUBBS, Appellant, v. STATE OF FLORIDA, Appellee.  
+Subsequent History:  [**1]  Released for Publication February 27, 2007.  
+  
+Prior History: Appeal from the Circuit Court for Polk County; Harvey A., Kornstein, Judge.  
+  
+Disposition: Reversed and remanded; conflict certified.  
+  
+Counsel: James Marion Moorman, Public Defender, and Cynthia J. Dodge, Assistant Public Defender, Bartow, for Appellant. 
+Bill McCollum, Attorney General, Tallahassee, and Dale E. Tarpley, Assistant Attorney General, Tampa, for Appellee.    
+Judges: WHATLEY and NORTHCUTT, JJ., Concur. CANADY, J., Concurs specially with opinion.    
+Opinion
+
+
+
+
+ [*910]  PER CURIAM.
+In this appeal, Michael Stubbs challenges the accuracy of the scoresheet prepared when he was first sentenced and subsequently used to determine his sentence at a probation revocation hearing. Because the trial court erred by refusing to permit Stubbs to challenge the inclusion of victim injury and legal constraint points on the scoresheet, we reverse and remand for a new sentencing hearing.
+In 1993, Stubbs pleaded no contest to a charge of grand theft and to two counts of armed robbery. All of the offenses were committed in 1992. On the armed robbery charges, Stubbs was sentenced to ten years' imprisonment with a three-year minimum mandatory followed [**2]  by fifteen years of probation. On the grand theft  [*911]  charge, Stubbs was sentenced to five years of probation. Stubbs did not file a direct appeal. After his release from prison in December 2004, Stubbs violated his probation, which was ultimately revoked.
+Stubbs' original scoresheet reflected a total of 192 points which with a one-cell bump for sentencing after revocation of probation made him eligible for a maximum guidelines sentence of twenty-two years' imprisonment. However, Stubbs' defense counsel argued that seven victim injury points were improperly assessed because the State had failed to prove victim injury. The trial court rejected the argument stating, "I don't believe we need to do that because we are here on a violation of probation and not on the original sentencing." Defense counsel then argued that inclusion of seventeen points for a legal constraint violation was improper because there was no proof Stubbs had been on any type of supervision at the time of the primary offenses (grand theft and armed robbery). That argument was also rejected by the trial court, and Stubbs was sentenced to twenty-two years' imprisonment on the armed robbery charges with credit for time [**3]  served. On the grand theft charge, he was sentenced to five years' imprisonment.
+The trial court erred when it prevented Stubbs from challenging the imposition of the victim injury and legal constraint points at resentencing. "[A] defendant may challenge the inclusion of [sentencing] points at a revocation proceeding even when those points were not challenged at the original sentencing or on direct appeal." Matton v. State, 872 So. 2d 308, 312 (Fla. 2d DCA 2004); see also West v. State, 823 So. 2d 174, 174 (Fla. 2d DCA 2002); Spell v. State, 731 So. 2d 9, 10 (Fla. 2d DCA 1999); Bogan v. State, 725 So. 2d 1216, 1217 (Fla. 2d DCA 1999). This rule applies even where the defendant pleads pursuant to a negotiated plea if he or she did not specifically agree to the inclusion of the points on the scoresheet. See Wright v. State, 707 So. 2d 385, 385 (Fla. 2d DCA 1998).
+Here, there is no indication in the record that Stubbs agreed as part of his negotiated plea to the inclusion of victim injury and legal constraint points. Accordingly, the trial court erred when it refused to permit Stubbs to challenge [**4]  the inclusion of victim injury and legal constraint points at sentencing following revocation of probation.
+If the points on Stubbs' scoresheet for victim injury and legal constraint were removed, the total points would be reduced from 192 to 168. Taking into account the one-cell bump for sentencing after revocation of probation, see Fla. R. Crim. P. 3.701(d)(14), the reduction in points would result in a one-cell reduction with a maximum guidelines sentence of only seventeen years instead of twenty-two years, see Fla. R. Crim. P. 3.988(c). Therefore, the error asserted by Stubbs cannot be considered harmless. See State v. Montague, 682 So. 2d 1085, 1087 n.3 (Fla. 1996). We therefore reverse and remand for further proceedings on the issue of whether the victim injury and legal constraint points were properly scored.
+We recognize, as we did in Spell and Bogan, that this decision is in conflict with the First District Court of Appeal's opinion in Fitzhugh v. State, 698 So. 2d 571, 573 (Fla. 1st DCA 1997), which held that "an appeal from resentencing following violation of probation is not the proper time [**5]  to assert an error in the original scoresheet."
+ [*912]  Reversed and remanded; conflict certified.
+WHATLEY and NORTHCUTT, JJ., Concur.
+CANADY, J., Concurs specially with opinion.  
+Concur by: CANADY  
+Concur
+
+
+
+
+CANADY, Judge, Concurring specially.
+Section 924.06(2), Florida Statutes (2005), provides that "[a]n appeal of an order revoking probation may review only proceedings after the order of probation." (Emphasis added.) The scoresheet at issue here was prepared for Stubbs' original sentencing in 1993. It was necessarily prepared and considered by the trial court prior to the original imposition of sentence. By allowing a probationer such as Stubbs to challenge sentencing points included on the scoresheet used in the proceeding which resulted in the entry of the order of probation, the court has failed to limit its review to "proceedings after the order of probation."
+Without any discussion of section 924.06(2)--which first became effective on May 25, 1959 1 --our cases have adopted a rule that appears to be at odds with the statutory requirements. 
+ [**6]  Were I not bound by this court's decisions in Matton, West, Spell, Bogan, and Wright, I would follow the rule articulated in Fitzhugh, 698 So. 2d at 573, that "an appeal from resentencing following violation of probation is not the proper time to assert an error in the original scoresheet."  
+
+ 
+
+End of Document

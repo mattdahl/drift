@@ -1,0 +1,47 @@
+
+  NeutralAs of: September 19, 2020 9:22 PM Z
+AIG Aviation, Inc. v. Holt Helicopters, Inc.
+Supreme Court of Texas
+January 11, 2008, Opinion Delivered
+No. 06-0484
+
+Reporter
+248 S.W.3d 169 *; 2008 Tex. LEXIS 47 **; 51 Tex. Sup. J. 313
+ AIG AVIATION (TEXAS), INC. AND NATIONAL UNION FIRE INSURANCE COMPANY OF PITTSBURGH, PENNSYLVANIA, PETITIONERS v. HOLT HELICOPTERS, INC., RESPONDENT  
+Subsequent History: Released for Publication April 9, 2008. 
+  
+Prior History:  [**1] ON PETITION FOR REVIEW FROM THE COURT OF APPEALS FOR THE FOURTH DISTRICT OF TEXAS.
+From Uvalde County; 4th district (04-05-00291-CV, 198 SW3d 276, 04-26-06).
+AIG Aviation, Inc. v. Holt Helicopters, Inc., 198 S.W.3d 276, 2006 Tex. App. LEXIS 3342 (Tex. App. San Antonio, 2006)  
+Counsel: For PETITIONER: Mr. Thomas C. Wright, Mr. Richard Russell Hollenbeck, WRIGHT BROWN & COSE, L.L.P., Houston, TX; Mr. Thomas B. Alleman, Mr. Fred Meier, WINSTEAD SECHREST & MINICK, P.C., Dallas, TX. 
+For RESPONDENT: Ms. Beth W. Squires, LAW OFFICE of BETH SQUIRES, Mr. Michael C. Boyle, LANGLEY & BANACK, INC., San Antonio, TX;  Mr. Jon C. Kettles, THE KETTLES LAW FIRM, Dallas, TX. 
+For AMICUS CURIAE: Mr. Charles H. Smith, SMITH & MOORE, L.L.P., Dallas, TX.  
+Opinion
+
+
+
+
+MOTION FOR REHEARING OF PETITION FOR REVIEW DENIED.
+Dissenting opinion by Justice Willett
+Dissent by: Don R. Willett  
+Dissent
+
+
+
+
+ [*169]  JUSTICE WILLETT, dissenting from the denial of the motion for rehearing of the petition.
+This Court has held--recently and repeatedly--that insurance contracts should be enforced according to their express terms:
+• Healthcare insurance contracts--we enforce them as written. 1 
+• Homeowners insurance contracts--we enforce them as written. 2 
+• Commercial general liability insurance contracts--we enforce them as written. 3 
+Not so with aviation insurance contracts. In Puckett v. U. S. Fire Insurance Co., we engrafted a causal-connection requirement into the policy, requiring the insurer to show that the insured's breach actually caused  [*170]  the damage or accident. 4  The Court held that while the policy unequivocally suspended coverage if there was no valid airworthiness certificate, public policy nonetheless trumped the contract's express terms and barred the insurer from denying coverage if the insured's violation of the aircraft-inspection requirement did not contribute to the crash. 5  In short, Puckett granted an unbargained-for expansion of coverage in the face of a bargained-for exclusion from coverage.
+Puckett's judicial rewriting of the parties' contract clashes head-on with our "modest, text-based approach" to interpreting contract language. 6  As we have stressed, Texas courts must stick to what policies say, not what we wish they said. 7  I agree with Chief Justice Pope's spirited dissent in Puckett: "Courts are not in the business of writing insurance contracts. Our duty is to apply unambiguous contracts as they are written." 8  We should either (1) overrule Puckett, (2) distinguish it, 9  or (3) explain forthrightly why we insist on applying a hazy, public policy-based interpretive standard to aviation insurance contracts (an area where public safety concerns should urge hard-and-fast enforcement of safety-related provisions). 10 
+Puckett's nontextual approach is starkly at odds with our insurance decisions generally, and with most American jurisdictions' aviation-insurance decisions specifically. 11  The Court should join the mainstream, not grant aviation contracts their own interpretive jet stream. Because "we should strive for uniformity" in giving effect to unequivocal contract terms, 12  we should not apply one enforcement rule to aviation contracts and a different enforcement rule to all other contracts.
+ [*171]  I would decide the case, and because the Court declines to do so, I respectfully dissent.
+Don R. Willett
+Justice
+OPINION DELIVERED: January 11, 2008
+
+ 
+
+End of Document

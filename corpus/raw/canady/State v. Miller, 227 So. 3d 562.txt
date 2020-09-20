@@ -1,0 +1,56 @@
+
+  PositiveAs of: September 19, 2020 7:26 PM Z
+State v. Miller
+Supreme Court of Florida
+September 28, 2017, Decided
+No. SC16-1170
+
+Reporter
+227 So. 3d 562 *; 2017 Fla. LEXIS 1942 **; 42 Fla. L. Weekly S 831
+ STATE OF FLORIDA, Petitioner, vs. DARYL MILLER, Respondent.  
+Prior History:  [**1] Application for Review of the Decision of the District Court of Appeal — Certified Direct Conflict of Decisions. Third District - Case No. 3D15-628. (Miami-Dade County).
+State v. Miller, 193 So. 3d 1001, 2016 Fla. App. LEXIS 8290 (Fla. Dist. Ct. App. 3d Dist., June 1, 2016)  
+Counsel: Pamela Jo Bondi, Attorney General, Tallahassee, Florida, Richard L. Polin, Bureau Chief, Michael W. Mervine, and Marlon J. Weiss, Assistant Attorneys General, Miami, Florida, for Petitioner. 
+Carlos J. Martinez, Public Defender, John Eddy Morrison, and Shannon Hemmendinger, Assistant Public Defenders, Eleventh Judicial Circuit, Miami, Florida, for Respondent.  
+Judges: QUINCE, J. LABARGA, C.J., and PARIENTE, LEWIS, and LAWSON, JJ., concur. CANADY, J., dissents with an opinion, in which POLSTON, J., concurs.  
+Opinion by: QUINCE  
+Opinion
+
+
+
+
+ [*563]  QUINCE, J.
+This case is before the Court for review of the decision of the Third District Court of Appeal in State v. Miller, 193 So. 3d 1001 (Fla. 3d DCA 2016), which certified conflict with decisions of the Second, Fourth, and Fifth District Courts of Appeal in Carroll v. State, 761 So. 2d 417 (Fla. 2d DCA 2000); Newton v. State, 898 So. 2d 1133 (Fla. 4th DCA 2005); and State v. Bletcher, 763 So. 2d 1277 (Fla. 5th DCA 2000). We have jurisdiction. See art. V, § 3(b)(4), Fla. Const. For the reasons that follow, we approve the Third District's decision below and disapprove the conflict cases to the extent that they are inconsistent with this opinion.
+ I. Background
+On May 21, 2014, Daryl Miller was charged with violating section 322.34(5), Florida Statutes (2017), which provides a third-degree [**2]  felony penalty for "habitual traffic offenders" who drive with a driver license that has been revoked under section 322.264, Florida Statutes (2017). Miller filed a sworn motion to dismiss. In support of his motion, Miller argued that he had never possessed a Florida driver license and therefore could not be convicted pursuant to section 322.34(5), Florida Statutes. The trial court granted Miller's motion and reduced his charges to driving without a valid driver license. The State appealed.
+The Third District affirmed the trial court's order, aligning its decision with the First District's decision in Crain v. State, 79 So. 3d 118, 122 (Fla. 1st DCA 2012). See Miller, 193 So. 3d at 1002. The Third District concluded that possession of a Florida driver license is a prerequisite for a section 322.34(5) offense and certified conflict with the Second, Fourth, and Fifth District Courts of Appeal. Id. at 1002-03. We agree with the Third and First Districts that possession of a driver license is a prerequisite to a conviction pursuant to section 322.34(5).
+ II. Analysis
+The plain language and construction of a statute are reviewed de novo. See Polite v. State, 973 So. 2d 1107, 1111 (Fla. 2007). "When the statute is clear and unambiguous," we use its plain language and avoid rules of statutory construction. Daniels v. Fla. Dep't of Health, 898 So. 2d 61, 64 (Fla. 2005); see also W. Fla. Reg'l Med. Ctr., Inc. v. See, 79 So. 3d 1, 9 (Fla. 2012). We first examine the plain language of the section under review.
+Section 322.34(5), Florida Statutes, provides the [**3]  following:
+Any person whose driver license has been revoked pursuant to s. 322.264 (habitual offender) and who drives any motor vehicle upon the highways of this state while such license is revoked is guilty of a felony of the third degree, punishable as provided in s. 775.082, s. 775.083, or s. 775.084.
+Section 322.264, Florida Statutes, defines a habitual traffic offender as a person who has accumulated a combination of specified offenses.1  The Legislature defined driver  [*564]  license as "a certificate that, subject to all other requirements of law, authorizes an individual to drive." § 322.01(17), Fla. Stat. (2017).
+The plain language of section 322.34(5), Florida Statutes, provides that an offender must have had his or her driver license revoked as a habitual traffic offender in order for the felony penalty to apply. The State cannot revoke a license that never existed. Consequently, a person cannot violate section 322.34(5) without ever having obtained a driver license.
+The State contends that this Court must look to other sections of Chapter 322 to determine the plain meaning of "driver license" in section 322.34(5) because the plain meaning of a word is derived from its context. The State asks us to find "driver license" and "driving privilege" interchangeable, consistent with its practice of charging drivers who have never had a driver license under statutes with "driving privilege" penalties. However, statutory [**5]  construction is inappropriate because section 322.34(5) is not ambiguous.
+Even if section 322.34(5) were ambiguous as the State contends, the canons of statutory construction do not support the State's interpretation. One rule of construction this Court employs is the principle of in pari materia, which provides that statutes with similar subjects should be construed together to synchronize their meaning and give effect to the intent of the Legislature. See Patrick v. Hess, 212 So. 3d 1039, 1042 (Fla. 2017). This Court also endeavors to give meaning to each word of a statute rather than treat any word as "mere surplusage."  [*565]  Heart of Adoptions, Inc. v. J.A., 963 So. 2d 189, 198-99 (Fla. 2007). Where the Legislature enumerates items to the exclusion of others, the canon of construction expressio unius est exclusio alterius encourages the interpretation that the Legislature purposefully excluded items not mentioned. Thayer v. State, 335 So. 2d 815, 817 (Fla. 1976). With these principles in mind, we turn to the statutes.
+A person operating a motor vehicle on the roads of this State must possess a valid license issued by the State of Florida or fall under an exception to licensure. § 322.03(1), Fla. Stat. (2017). One exception includes nonresidents who possess a valid driver license issued by their home states. §§ 322.04(1)(c)-(d), Fla. Stat. (2017). Exceptions also exist for federal government employees operating a government vehicle for [**6]  official business, any person operating a road machine or tractor, and any person operating a golf cart. §§ 322.04(1)(a)-(b), (e), Fla. Stat. (2017).
+Considering these sections in pari materia, the Legislature's use of "driving privilege" refers to all the individuals who may lawfully operate vehicles on Florida's roads, even if they do not possess a Florida driver license. Individuals like Miller, who drive in Florida without ever having obtained a license or having an exemption to licensure, do not have any "driving privilege." We cannot find that both terms mean the same thing because doing so improperly treats the words as "mere surplusage." Heart of Adoptions, 963 So. 2d at 198-99.
+Individuals like Miller are guilty of a second-degree misdemeanor for violation of section 322.03, Florida Statutes. See § 322.39, Fla. Stat. (2017). The Legislature has not articulated enhanced penalties for individuals who accumulate multiple violations of section 322.03. The statute under review, section 322.34(5), Florida Statutes, only provides enhanced penalties for individuals who continue to drive after having had a valid driver license revoked.
+In contrast, the statute criminalizing driving under the influence (DUI) targets any person "driving or in actual physical control of a vehicle" while impaired by alcohol or other substances, including individuals [**7]  who drive without ever having obtained a license and those who drive without having an exemption to licensure. See § 316.193, Fla. Stat. (2017). In addition, section 322.34(6)(a), Florida Statutes, contemplates a felony penalty for any person who has never obtained a license who kills or causes bodily injury to someone while driving. The Legislature could have included individuals who do not have a license or exception to licensure along with license holders in section 322.34(5) as it did in other subsections. See Thayer, 335 So. 2d at 817. It did not do so.
+ III. Conclusion
+Having a driver license that has been revoked under the habitual traffic offender statute, section 322.264, Florida Statutes, is a necessary element of a section 322.34(5) offense. Therefore, defendants who have never possessed a driver license may not be charged under section 322.34(5). We approve the Third District's decision below and disapprove the conflict cases to the extent that they are inconsistent with this opinion.
+It is so ordered.
+LABARGA, C.J., and PARIENTE, LEWIS, and LAWSON, JJ., concur.
+CANADY, J., dissents with an opinion, in which POLSTON, J., concurs.
+Dissent by: CANADY  
+Dissent
+
+
+
+
+CANADY, J., dissenting.
+As part of a plea agreement in a separate case, the State has agreed that even if it were to prevail here and the charged violation of section 322.34(5) were to be reinstated against Miller, it will not [**8]  continue to prosecute Miller for a violation of section 322.34(5) in this case. The question of whether Miller can be convicted of violating section 322.34(5) therefore is now moot. Because the parties are seeking a purely advisory opinion—an opinion that has no bearing on the disposition of this case—I would dismiss this proceeding. "It is the function of a judicial tribunal to decide actual controversies by a judgment which can be carried into effect, and not . . . to declare principles or rules of law which cannot affect the matter in issue." Montgomery v. Dep't of Health & Rehab. Servs., 468 So. 2d 1014, 1016-17 (Fla. 1st DCA 1985).
+Contrary to the State's claims, this case does not fall in the category of cases "capable of repetition yet evading review." Johnson v. State, 60 So. 3d 1045, 1049 (Fla. 2011) (quoting State v. Matthews, 891 So. 2d 479, 484 (Fla. 2004)). The State itself is wholly responsible for rendering this case moot. A party should not be heard to assert that a recurring issue will evade review when that party itself has rendered moot the case presenting the issue for review. Accordingly, I dissent.Go To Supreme Court Brief(s)Go To Supreme Court Brief(s)Go To Supreme Court Brief(s)
+
+ 
+
+End of Document

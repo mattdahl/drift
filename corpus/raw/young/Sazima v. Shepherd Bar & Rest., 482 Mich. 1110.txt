@@ -1,0 +1,62 @@
+
+  WarningAs of: September 19, 2020 9:20 PM Z
+Sazima v. Shepherd Bar & Rest.
+Supreme Court of Michigan
+December 17, 2008, Decided
+SC: 136940
+
+Reporter
+482 Mich. 1110 *; 758 N.W.2d 270 **; 2008 Mich. LEXIS 2524 ***
+ STACY J. SAZIMA, Plaintiff-Appellee, v SHEPHERD BAR & RESTAURANT and AUTO-OWNERS INSURANCE COMPANY, Defendants-Appellants.  
+Subsequent History: On reconsideration by, Vacated by, Application denied by Sazima v. Shepherd Bar & Rest., 762 N.W.2d 924; 2009 Mich. LEXIS 830 (Mich., Apr. 3, 2009)  
+Prior History:  [***1] COA: 281855. WCAC: 06-000269.
+  
+Judges: YOUNG, J. (concurring). CAVANAGH, J. (dissenting). KELLY, J., joins the statement of CAVANAGH, J. WEAVER, J. (dissenting).  
+Opinion
+
+
+
+
+ [*1110]   [**271]  On November 19, 2008, the Court heard oral argument on the application for leave to appeal the June 17, 2008 order of the Court of Appeals. On order of the Court, the application is again considered and, pursuant to MCR 7.302(G)(1), in lieu of granting leave to appeal, we REVERSE the ruling of the Worker's Compensation Appellate Commission (WCAC). The WCAC erred by finding that the plaintiff's injury occurred in the course of her [*1111]  employment. "[T]here is no recovery for an employee who is injured on a public street or other property not owned, leased, or maintained by the employer while traveling to or from a nonemployer parking lot because this injury is not in the course of employment." Simkins v General Motors Corp (After Remand), 453 Mich 703, 723; 556 N.W.2d 839 (1996); see also MCL 418.301(3). The plaintiff's activity did not confer a special benefit on her employer, did not serve a dual purpose, nor did it subject her to excessive risk. The plaintiff was "'master of [her] own movements upon the street and encountered there a risk incident to any  [***2] user of the street.'" Bowman v RL Coolsaet Constr Co (On Remand), 275 Mich App 188, 193; 738 N.W.2d 260 (2007), quoting Dent v Ford Motor Co, 275 Mich 39, 42; 265 N.W. 518 (1936). We agree with Justice Weaver's concurring opinion in Simkins, and overrule Fischer v Lincoln Tool & Die Co, 37 Mich App 198; 194 N.W.2d 476 (1971), which is inconsistent with Simkins.
+Concur by: YOUNG  
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+While I concur with the order reversing the Workers' Compensation Appellate Commission, I write to note that Justice Weaver's dissenting statement is so breathtakingly and profoundly incoherent that it is hard to know how to respond to it.
+Until today, I was not aware that a dissenting justice could purport (much less had the authority) to nullify a holding of a majority of this Court by simple declarative fiat. This order, signed by a majority of justices, overturns a Court of Appeals opinion which is inconsistent with Justice Weaver's published position in Simkins v Gen Motors Corp (After Remand), 453 Mich 703; 556 N.W.2d 839 (1996). Thus, it is hard to understand why Justice Weaver believes that this order is neither "precedential" nor "persuasive."
+Given that it is entirely likely that I will soon be in the philosophical minority on this Court, I will take  [***3] great pleasure citing and relying on Justice Weaver's odd legal doctrine under which the minority view controls.
+Dissent by: CAVANAGH; WEAVER  
+Dissent
+
+
+
+
+CAVANAGH, J. (dissenting).
+I dissent from this Court's order reversing the Workers' Compensation Appellate Commission (WCAC). I believe that the WCAC, and the workers' compensation magistrate, correctly concluded that plaintiff suffered disabling injuries in the course of her employment. I would deny leave to appeal.
+Plaintiff, Stacy Sazima, was employed by defendant, Shepherd Bar & Restaurant. Defendant did not provide employee parking. In fact, defendant directed employees not to park in the public spaces located nearest to its place of business. It expressly informed its employees by written memo that the "[parking] spots out front are for our customers only." "[O]ut front" refers to the restaurant where plaintiff was employed and two adjacent buildings owned by defendant. Following defendant's directive, plaintiff parked in a space down the street from defendant's location. She fell and was injured while walking directly from the parking space to work. The workers' compensation magistrate found that plaintiff suffered disabling injuries in the course of  [***4] her employment, and the WCAC agreed.
+The Worker's Disability Compensation Act (WDCA) provides compensation for employees who are injured in the course of their employment.  [*1112]  MCL 418.301(1). It contains a provision that addresses whether an employee who is injured while going to or coming from work is injured in the course of employment:
+An employee going to or from his or her work, while on the premises where the employee's work is to be performed, and within a reasonable time before and after his or her working hours, is presumed to be in the course of his or her employment. . . . [MCL 418.301(3).]
+In Simkins v Gen Motors Corp (After Remand), 453 Mich 703, 710-711; 556 N.W.2d 839 (1996), this Court stated that it "construes the [WDCA] liberally to grant rather than deny benefits." Simkins also specified the appropriate application of § 301(3):
+Despite the apparent clarity of the statute requiring that the injury occur on the premises where the employee's work is to be performed, this Court has traditionally construed this phrase in a way that would allow recovery under the appropriate circumstances even where  [**272]  the injury occurred on property that was not owned, leased, or maintained by the employer. [Simkins, 453 Mich at 713  [***5] (quotation marks omitted; emphasis added).]
+Ignoring these statements, the majority construes § 301(3) to deny benefits and disallow recovery. To suit this harsh and hasty disposition, the majority also avoids the broader rule of Simkins and selectively quotes a portion of the holding of that case that appears to support its result:
+[W]e hold that there is no recovery for an employee who is injured on a public street or other property not owned, leased, or maintained by the employer while traveling to or from a nonemployer parking lot because this injury is not in the course of employment. [Simkins, 453 Mich at 723.]
+The selected excerpt, standing alone, could appear to mean that there is never a recovery for an employee who is injured on property not owned by the employer while going to or coming from work (unless that property is directly between an employer-owned parking lot and the employee's worksite). Simkins does not stand for this proposition.
+The selected excerpt appears in Simkins at the end of a paragraph that announces the complete holding in that case. That paragraph begins by stating that its holding applies "unless the injury falls into one of the recognized exceptions"  [***6] to the rule of MCL 418.301(3). Simkins, 453 Mich at 723. If an exception applies, "the place of the injury, although not on property owned, leased, or maintained by the employer, is deemed to be on the employer's 'premises' for the purposes of the statute." Id. Of course, if the injury is deemed to have occurred on the employer's  [*1113]  premises, then it occurs within the course of employment and is compensable under the WDCA. If there is no exception, § 301(3) applies to preclude recovery, as the portion selected by the majority indicates.
+Three years after Simkins was decided, a majority of this Court listed some of the recognized exceptions to MCL 418.301(3) in Camburn v Northwest School Dist (After Remand), 459 Mich 471; 592 N.W.2d 46 (1999). Essentially summarizing the holding of Simkins, Camburn states:
+The general rule is that injuries that occur while traveling to or coming from work are not compensable. However, a number of exceptions have been recognized where (1) the employee is on a special mission for the employer, (2) the employer derives a special benefit from the employee's activity at the time of the injury, (3) the employer paid for or furnished the employee transportation as part of the  [***7] contract of employment, (4) the travel comprised a dual purpose combining the employment-required business needs with the personal activity of the employee, (5) the employment subjected the employee to excessive exposure to the common risk . . . . [Camburn, 459 Mich at 478 (quotation marks and citations omitted).] 1 
+The majority acknowledges these exceptions, if only by unexplained rebuttal. I believe that at least two of the exceptions apply.
+ [**273]  I believe that defendant derived a special benefit from plaintiff's activity when, on her way to work, she did not park in the public spaces in front of defendant's place of business. Plaintiff parked down the street because defendant had ordered that "spots out front are for our customers only." The benefit is obvious: convenient customer  [***8] access is good for business. Defendant's owner admitted as much at plaintiff's workers' compensation hearing. He testified that he instructed employees, including plaintiff, not to park in the public spaces in front of his businesses because he may "lose customers if the spots in front of the bar fill up and, therefore, his employees are not to park there." Sazima v Shepherd Bar & Restaurant, 2007 MIWCLR (LRP) LEXIS 239 at *5, 2007 Mich ACO 237, pp 2-3. Defendant, by its own admission, derived a benefit to its business from plaintiff's activities at the time of her injury. Thus, the circumstances of her injury fall within one of the recognized exceptions to MCL 418.301(3).
+I also believe that plaintiff's travel from a more distant parking space "comprised a dual purpose combining the employment-required business needs with the personal activity of the employee." Camburn, 459 Mich at 478 (quotation marks and citations omitted). When she parked in a space  [*1114]  other than the public spaces immediately in front of defendant's buildings, plaintiff's actions were serving the dual purposes of getting herself to work and following her employer's instruction to leave the most convenient parking spaces open for potential customers.  [***9] Although getting to work is a personal activity, acting according to an employer's express directive given for the purpose of generating business meets an employment-required business need.
+Because the circumstances of plaintiff's injury clearly come within at least two of the recognized exceptions to MCL 418.301(3), the portion of Simkins holding quoted by the majority's order does not apply; plaintiff was injured in the course of her employment. I believe that the WCAC properly concluded that plaintiff's injuries were compensable under the WDCA. I would deny leave to appeal.
+Finally, I would certainly not overrule Fischer v Lincoln Tool & Die Co, 37 Mich App 198; 194 N.W.2d 476 (1971), without reasoning or analysis.
+KELLY, J., joins the statement of CAVANAGH, J.
+WEAVER, J. (dissenting).
+I dissent from the order reversing the ruling of the Workers' Compensation Appellate Commission. I would not peremptorily reverse the Court of Appeals order denying leave to appeal which order has no precedential value.
+This case should not be cited as precedent or as being persuasive.
+
+ 
+
+End of Document

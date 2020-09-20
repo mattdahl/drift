@@ -1,0 +1,57 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+Arnold v. Farm Bureau Gen. Ins. Co.
+Supreme Court of Michigan
+July 7, 2009, Decided
+SC: 138689
+
+Reporter
+483 Mich. 1126 *; 767 N.W.2d 438 **; 2009 Mich. LEXIS 1518 ***
+ DEBORAH L. ARNOLD and FREDERICK E. ARNOLD, Plaintiffs-Appellees, v FARM BUREAU GENERAL INSURANCE COMPANY and FARM BUREAU MUTUAL INSURANCE COMPANY, Defendants-Appellants.  
+Prior History:  [***1] COA: 288456. Oakland CC: 2006-075278-CK.
+Arnold v. Farm Bureau Gen. Ins. Co., 765 N.W.2d 336, 2009 Mich. LEXIS 1198 (Mich., 2009)  
+Judges: Marilyn Kelly, Chief Justice. Michael F. Cavanagh, Elizabeth A. Weaver, Maura D. Corrigan, Robert P. Young, Jr., Stephen J. Markman, Diane M. Hathaway, Justices. KELLY, C.J. (concurring). YOUNG, J. (dissenting). CORRIGAN and MARKMAN, JJ., join the statement of YOUNG, J.  
+Opinion
+
+
+
+
+  [**438]   [*1126]  Order
+By order of May 27, 2009, this Court granted immediate consideration and a stay of trial court proceedings. On order of the Court, the application for leave to appeal the March 20, 2009 order of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the questions presented should now be reviewed by this Court. The stay of trial court proceedings, ordered on May 27, 2009, is DISSOLVED.
+Concur by: Marilyn Kelly  
+Concur
+
+
+
+
+KELLY, C.J. (concurring).
+I concur in the order denying defendant's application for leave to file an interlocutory appeal. Plaintiffs presented testimony that defendant's claims specialist specifically told them that they had fully  [**439]  complied with the requirements of their insurance contract. They said she told them that there was nothing more they [*1127]  needed to do to preserve their rights. Such testimony is sufficient to create genuine issues of material  [***2] fact about whether the statements were made and whether plaintiffs reasonably relied on them. Plaintiffs asserted that they relied on the statements by forgoing a suit against the underlying tortfeasors for three years. The insurance policy required plaintiffs to sue the tortfeasors before the expiration of the three-year statutory period.
+If plaintiffs reasonably relied on defendant's statements, defendant may appropriately be equitably estopped from asserting a statute of limitations defense as a basis for denying coverage. Moreover, defendant conceded that no provision in the contract explicitly required plaintiffs personally to sue the tortfeasors. Therefore, viewed in the light most favorable to the plaintiffs, they may have been justified in relying on the claims specialist's alleged statements.
+Equitable estoppel originated "in moral duty and public policy; and its chief purpose is the promotion of common honesty, and the prevention of fraud." 1  The alleged facts raise questions about whether defendant's behavior toward its insured here was honest. Defendant delayed its decision on plaintiffs' claim, telling them that it would settle the claim when plaintiff Deborah Arnold's condition  [***3] "has reached maximum improvement verified by medical records." However, defendant never did settle the claim, and plaintiffs brought suit. As soon as the limitations period expired, defendant moved for summary disposition of the lawsuit based on the statute of limitations defense.
+I agree with the trial court that a jury reasonably could conclude that equitable estoppel should apply here. Therefore, I concur in the order denying leave to appeal.
+Dissent by: Robert P. Young  
+Dissent
+
+
+
+
+YOUNG, J. (dissenting).
+I respectfully dissent from the order denying defendant's application for leave to appeal. I would remand to the Court of Appeals for consideration as on leave granted because defendant raises a meritorious argument that may dispose of this case without the expense of trial.
+On July 25, 2003, plaintiff Deborah Arnold was driving her daughter's car when she was hit by an uninsured motorist. Deborah was insured by defendant Farm Bureau General Insurance Company and gave defendant notice of the accident and requested uninsured motorist benefits on August 18, 2003. 2  In June 2004, plaintiff Frederick Arnold, Deborah's husband, spoke with defendant's  [***4] casualty claims specialist Doris Keefer. At his deposition, Frederick recounted his conversation with Ms. Keefer: "I asked her . . . did I need to pursue anything else, and was there any statute of limitations that I had to be concerned with, and do I need to do anything with this other person at all because she was uninsured? And the answer was no." Defendant sent plaintiffs a letter on November 3, 2004, which stated in pertinent part:
+ [*1128]  This is a follow up to the recent conversation with Mr. Arnold wherein he was inquiring as to whether there is any time limit involved per this claim. I  [**440]  advised him that due to the fact that you have complied with the conditions of this policy to date, the one year limitation regarding initiating legal action would not apply. 3  . . . .
+I have enclosed copies of the portion of your daughter's policy which applies to your claim Part V -- Unisured Motorist Coverage. I ask that you read this portion carefully. The uninsured motorist coverage of Farm Bureau requires that the insured preserve all of Farm Bureau's potential subrogation rights as we deem these rights to be very important and are not willing to waive them. You must also comply with all conditions  [***5] and provisions of this policy.
+As indicated in the letter, and significant to the issue raised by defendant, the policy provided:
+b. Coverage under this endorsement shall be void if:
+* * *
+(3) the insured does not pursue the assets that are not exempt from legal process of all persons or organizations legally responsible for the accident.
+The period of limitations for an action brought by plaintiffs' against  [***6] the uninsured driver expired on July 25, 2006. 4  The policy additionally provided that uninsured motorist "coverage does not apply to . . . any person whose claim against the owner or operator of an uninsured automobile is barred by applicable statutes of limitation."
+Defendant sought summary disposition, arguing that plaintiffs' claim was prohibited by the above policy provisions because plaintiffs did not pursue, and were then barred by the statute of limitations from pursuing, [*1129]  the assets of the uninsured driver. Plaintiffs responded that defendant was equitably estopped from relying on the above provisions because defendant's agent told them that there was nothing more they need do to make a claim for uninsured motorist benefits. The trial court denied defendant's motion, concluding that there was a question of fact whether "it was justifiable for the plaintiffs to rely on the claim's [sic] adjuster's direction that the plaintiffs did not need to do anything more." The Court of Appeals denied defendant's application for leave to appeal.
+I believe that defendant's argument may have merit. This Court has long held that
+it is essential to the application of the principle  [***7] of equitable estoppel that the party claiming to have been influenced by the conduct or declarations of another, to his injury, was himself not only destitute of knowledge of the state of the facts, but was also destitute of any convenient and available means of acquiring such knowledge; and that, where the facts are known to both parties, or both have the same means of ascertaining the truth, there can be no estoppel. 5 
+ [**441]  The declaration  [***8] that plaintiffs claim influenced them was defendant's agent's statement that there was nothing more they need do to make a claim for uninsured motorist benefits. Plaintiffs, however, were not "destitute of any convenient and available means of determining whether they needed to do anything more. Indeed, both parties "ha[d] the same means of ascertaining the truth"--reading the policy--and the plaintiffs received a copy of the policy and were advised by letter dated November 3, 2004, to read it carefully and "comply with all conditions and provisions of this policy" to perfect their claim. The policy unambiguously provides that unless plaintiff "pursue[d] the assets that are not exempt from legal process of all persons or organizations legally responsible for the accident," uninsured motorist coverage would be void.
+Accordingly, I believe that defendant has a strong argument that equitable estoppel does not apply and the coverage was voided by [*1130]  plaintiffs' failure to pursue the assets of the uninsured driver as they had been instructed in writing almost two years before the period of limitations expired for the claim against the uninsured driver. I would remand the case to the Court of  [***9] Appeals for consideration of this issue as on leave granted and, therefore, respectfully dissent.
+CORRIGAN and MARKMAN, JJ., join the statement of YOUNG, J.
+
+ 
+
+End of Document

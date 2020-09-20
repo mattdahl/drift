@@ -1,0 +1,40 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+People v. Javens
+Supreme Court of Michigan
+April 9, 2004, Decided 
+SC: 125216 
+
+Reporter
+469 Mich. 1032 *; 677 N.W.2d 329 **; 2004 Mich. LEXIS 661 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellee, v HARRY JAVENS, Defendant-Appellant.  
+Prior History:  [***1]  COA: 251601. Oakland CC: 03-192073-FC.  
+  
+Disposition: Circuit court order reversed; remanded for further proceedings.  
+  
+Judges: Young, J., concurs Weaver, J., would deny leave to appeal.    
+Opinion
+
+
+
+
+ [*1032]  On order of the Court, the motion for immediate consideration is considered, and it is GRANTED. The application for leave to appeal the October 27, 2003 order of the Court of Appeals is also considered, and, pursuant to MCR 7.302(G)(1), in lieu of granting leave to appeal, we REVERSE the October 10, 2003 order of the Oakland Circuit Court. The texts of 1963 Const, art 1, § 15, MCL 765.5 and 765.6(1), and MCR 6.106(A) and (B), make clear that solicitation to commit murder, MCL 750.157b, is not an offense for which bail may be altogether denied. We REMAND this case to the Oakland Circuit Court for further proceedings. The circuit court remains free to impose whatever conditions it deems appropriate to secure defendant's attendance at all proceedings. The Court expresses no opinion on the terms, conditions, or amount of any bond that may be imposed by the circuit court on remand. In all other  [*1033]  respects, the application for leave to appeal is DENIED.
+We do not retain jurisdiction.
+Weaver, J., would deny [***2]  leave to appeal. 
+Concur by:  [**330]  Young  
+Concur
+
+
+
+
+Young, J., concurs and states as follows:
+While I agree with the majority's decision to reverse the decision of the circuit court and remand for further proceedings, I write separately to note that this case shows why the "absurd results" doctrine is so often a proxy for an alternative and unspoken judicial policy preference.
+The defendant in this case was charged with solicitation to murder. According to art 1, § 15 of the 1963 Constitution, solicitation to murder is not an offense for which bail can be denied. MCL 765.5, 765.6(1) and MCR 6.106(A) and (B) are consistent with the Constitution. While the circuit court seemed to recognize that defendant was legally entitled to bail, it declined to apply the law, finding instead:
+The application of the statute and court rule would result in absurd or unreasonable consequences because it mandates that bond be given for a solicitation to commit murder charge but denied for the less serious offenses that are listed. This Court cannot believe that the Legislature intended that a Defendant who is charged with armed robbery may be denied bond, while a Defendant [***3]  who is charged with soliciting a person to kill someone must receive bond.
+In other words, the court recognized that the applicable statutes and court rules entitled defendant to bail, but concluded that this result was "absurd or unreasonable" because those statutes and court rules allow courts to deny bail for offenses that, in the circuit court's view, are "less serious." The court therefore declined to give effect to binding legal authority simply because it preferred a different rule than that chosen by the Legislature in drafting the applicable statutes and by this Court in drafting the court rules--all of which implement our constitutional rule.
+This is the temptation of the "absurd results" doctrine: it allows a court to engage in "'judicial lawmaking'" while purporting to track an imagined legislative intent. See People v McIntire, 461 Mich. 147, 156; 599 N.W.2d 102 n 2 (1999) (citation omitted). The doctrine itself is "a form of judicial usurpation that runs counter to the bedrock principle of American constitutionalism, i.e., that the lawmaking power is reposed in the people as reflected in the work of the Legislature, and, absent a constitutional violation, the courts [***4]  have no legitimacy in overruling or nullifying the people's representatives." Robinson v Detroit, 462 Mich. 439, 467; 613 N.W.2d 307 (2000). Invocation of the "absurd results" doctrine is therefore often little more than a signal that a court proposes to create the law anew--thereby exceeding the scope of its authority to claim that which has been constitutionally delegated to the Legislature.
+Because the circuit court declined to set bail for defendant in spite of clear contrary legal authority, I concur in the majority's decision to reverse and remand to the circuit court.  
+
+ 
+
+End of Document

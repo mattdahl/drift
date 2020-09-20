@@ -1,0 +1,37 @@
+
+  CautionAs of: September 19, 2020 9:20 PM Z
+Sumner v. GMC
+Supreme Court of Michigan
+December 6, 2000, Decided 
+SC: 116144
+
+Reporter
+463 Mich. 929 *; 619 N.W.2d 537 **; 2000 Mich. LEXIS 2302 ***
+ CONSTANCE M. SUMNER and JAMES R. SUMNER, Plaintiffs-Appellants, v GENERAL MOTORS CORPORATION, Defendant-Appellee.  
+Prior History:  [***1]  COA: 211094. Shiawassee CC: 89-008613-NI.  
+  
+Judges: Young, J., dissents. Corrigan, J., joins in the statement of Young, Jr., J.    
+Opinion
+
+
+
+
+ [*929]   [**537]  On order of the Court, the application for leave to appeal from the December 21, 1999 decision of the Court of Appeals is considered, and pursuant to MCR 7.302(F)(1), in lieu of granting leave to appeal we VACATE the decision of the Court of Appeals and REMAND the case to the Court of Appeals for reconsideration of the trial court's grant of summary disposition. The conflict panel of the Court of Appeals, in Lopez v General Motors Corp, 224 Mich. App. 618, 569 N.W.2d 861 (1997), overruled a rule of law on which the Court relied in Sumner v General Motors Corp, 212 Mich. App. 694, 538 N.W.2d 112 (1995). However, Lopez did not, and could not, reverse the Sumner Court's decision to vacate the jury verdict. On remand, the Court of Appeals shall consider the extent to which the trial court relied on that vacated jury verdict in granting summary disposition, and whether that reliance was  [**538]  proper under the appropriate standard. MCR 2.116(C)(10).
+We do not retain jurisdiction.  
+Dissent by: Young   
+Dissent
+
+
+
+
+Young, J., dissents and states as follows: 
+ [***2]  I would deny the application for leave to appeal. Plaintiff never asked the Court of Appeals to make a determination whether the demonstrative evidence was properly admissible under the test set forth in Lopez v General Motors Corp, 224 Mich. App. 618, 569 N.W.2d 861 (1997) (Lopez II).
+At issue in this case is the admission, over plaintiff's objection, of two videotaped crash tests performed and offered by defendant. The jury issued a verdict of no cause. Plaintiff appealed and the Court of Appeals reversed, holding that the admission of the tapes constituted error requiring reversal. In so doing, the Court of Appeals ruled that results obtained in out-of-court experiments are not admissible unless the conditions of the experiment are significantly similar to those involved in the particular case.
+This so-called "Sumner rule" was followed in a subsequent case, Lopez v General Motors Corp, 219 Mich. App. 89, 555 N.W.2d 875 (1996) (Lopez I), but the Lopez I panel opined that it believed the Sumner case was incorrectly decided and declared a conflict under MCR 7.215(H). A conflict panel was convened in Lopez II and it unanimously overruled Sumner  [***3]  "insofar as it establishes an evidentiary rule concerning the introduction of demonstrative evidence different from that set forth in Smith v Grange Mut Fire Ins Co of Michigan, 234 Mich. 119; 208 N.W. 145 (1926)." [Lopez II, 224 Mich. App. at 621.]
+In response to the Lopez II conflict panel decision, the Sumner defendant sought a rehearing in the Court of Appeals. That motion was denied as untimely. Defendant then moved in the trial court for summary disposition under MCR 2.116(C)(10), which motion was granted. Plaintiff appealed that order, contending that the second Sumner Court of Appeals panel was bound by the first Sumner panel's determination under the law-of-the-case doctrine. The Court of Appeals rejected plaintiff's law-of-the- case argument and affirmed. Significantly, plaintiff never asked the Court of Appeals to determine whether the disputed evidence was admissible under the test set forth in Lopez II.
+Because plaintiff could have, but did not ask the Court of Appeals to determine how the Lopez II test would apply in this case, the Court of Appeals did not answer that question, and properly so in my view. Consequently,  [***4]   [*930]  I do not believe this Court should require the Court of Appeals now to answer this question on remand.
+Corrigan, J., joins in the statement of Young, Jr., J.  
+
+ 
+
+End of Document

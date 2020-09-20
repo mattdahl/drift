@@ -1,0 +1,60 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+People v. Gatski
+Supreme Court of Michigan
+April 8, 2005, Decided 
+SC: 125740 
+
+Reporter
+472 Mich. 887 *; 694 N.W.2d 57 **; 2005 Mich. LEXIS 442 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellee, v FRANK GATSKI, Defendant-Appellant.  
+Prior History:  [***1]  COA: 243581. Ionia CC: 02-012151-AR.
+People v. Gatski, 260 Mich. App. 360, 677 N.W.2d 357, 2004 Mich. App. LEXIS 114 (2004).  
+Judges: WEAVER and MARKMAN, JJ., concur; YOUNG, J., concurs in a separate statement; CORRIGAN, J., joins the statement of YOUNG, J.; TAYLOR, C.J., dissents; and CAVANAGH and KELLY, JJ., concur in the result only of TAYLOR, C.J.    
+Opinion
+
+
+
+
+ [*887]   [**57]  On January 13, 2005, the Court heard oral argument on the application for leave to appeal the January 20, 2004 judgment of the Court of Appeals. On order of the Court, the application for leave to appeal is again considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.
+WEAVER and MARKMAN, JJ., concur; YOUNG, J., concurs in a separate statement; CORRIGAN, J., joins the statement of YOUNG, J.; TAYLOR, C.J.,  [**58]  dissents; and CAVANAGH and KELLY, JJ., concur in the result only of TAYLOR, C.J.  
+Concur by: YOUNG  
+Concur
+
+
+
+
+YOUNG, J., concurs and states as follows:
+I concur in the majority's decision to deny the application for leave to appeal because I believe that defendant was properly prosecuted under MCL 324.73102(1). However, like Chief Justice Taylor, I believe that the Court of Appeals method of construing § 73102--most notably, its invocation [***2]  of the "absurd results" doctrine--was erroneous. See People v McIntire, 461 Mich. 147; 599 N.W.2d 102 (1999). 
+CORRIGAN, J., joins the statement of YOUNG, J.  
+Dissent by: TAYLOR  
+Dissent
+
+
+
+
+TAYLOR, C.J., dissents and states as follows:
+I dissent from this Court's order denying defendant's application for leave to appeal. I would reverse the published opinion of the Court of Appeals because it deviated from well-established rules of statutory construction and misconstrued the recreational trespass statute. MCL 324.73102(1). 
+Defendant was fishing within the clearly defined banks of the Grand River near the Webber Dam in Lyons Township in Ionia County when he was given a citation for violating MCL 324.73102(1). The dam is owned and operated by Consumers Energy, and the dam grating was surrounded by "no trespassing" signs strung on a guide cable across the river. 
+At issue is whether defendant came within an exception to the recreational trespass statute found in § 73102(3). This subsection provides:
+On fenced or posted property or farm property, a fisherman wading or floating a navigable public stream may, without written or oral consent,  [***3]  enter upon property within the clearly defined banks of the stream or, without damaging farm products, walk a route as closely proximate to the clearly defined bank as possible when necessary to avoid a natural or artificial hazard or obstruction, including, but not limited to, a dam, deep hole, or a fence or other exercise of ownership by the riparian owner.
+The question involving statutory interpretation is whether the "when necessary to avoid a natural or artificial hazard or obstruction" language applies only to walking along adjacent land or also to entering on  [*888]  property within the banks. The grating for the dam was within the banks, but there was no indication that defendant needed to go on it to avoid an obstruction. 
+The Court of Appeals stated:
+The focal point in the language of subsection 73102(3) is the use of the disjunctive "or" after the word "stream" in the first part of the provision. It is well-established that the word "or" is often misused in statutes and it gives rise to an ambiguity in the statute because it can be read as meaning either "and" or "or." Generally, "or" is a disjunctive term, but the popular use of the word is frequently inaccurate and this [***4]  misuse has infected statutory enactments. Their literal meanings should be followed if they do not render the statute dubious, but one will be read in place of the other if necessary to put the meaning in proper context.
+We conclude that subsection 73102(3) is not well drafted, and the particular use of the word "or" and placement of commas in the text could lead reasonable minds to differ with respect to whether the provision creates the different types of exceptions that the parties assert. . . .
+ [**59]  * * *
+. . . Defendant's proposed construction would expand this subsection to absurdly create an unlimited right to enter property located within the banks of a river for any reason. Such a proposed construction would not accurately represent the legislative intent behind the statute and would render the latter portion of the subsection nugatory. Thus, we conclude that subsection 73102(3) provides an exception to the general trespass rule to allow a fisherman engaged in recreational activity to enter upon posted property only to avoid a natural or artificial hazard or an obstruction in the water.
+Therefore, unless defendant can prove that it was necessary for him to enter onto the grating [***5]  to avoid a natural or artificial hazard or obstruction, he would not be excused from otherwise violating subsection 1 of MCL 324.73102. [260 Mich. App. 360, 365-368; 677 N.W.2d 357 (2004) (citations omitted).]
+The Court of Appeals analysis is flawed in several respects. First, the Court of Appeals read "or" as if it said "and" because it believed the statute was inartfully drafted. The Court of Appeals stated: "Generally, 'or' is a disjunctive term, but the popular use of the word is frequently inaccurate and this misuse has infected statutory enactments." Id. at 365.
+Given that the statute makes sense when "or" is read in the disjunctive, the Court of Appeals had no ground to read "or" as if it said  [*889]  "and." In reviewing a statute, if its language is clear, we must conclude that the Legislature intended the meaning expressed, and the statute is enforced as written. Turner v Auto Club Ins Ass'n, 448 Mich. 22, 27; 528 N.W.2d 681 (1995). The Court of Appeals also rejected defendant's construction of the statute because it would absurdly create an unlimited right to enter property located within the banks of a river for any reason. Our [***6]  judiciary is not free to engage in judicial legislation or to otherwise save the citizenry from the actions of its duly elected legislators. See, e.g., People v Borchard-Ruhland, 460 Mich. 278; 597 N.W.2d 1 (1999); Perez v Keeler Brass Co, 461 Mich. 602; 608 N.W.2d 45 (2000). This Court has repudiated nontextual modes of interpretation such as the so-called "absurd result" doctrine of avoiding the text of a statute when judges view the result as absurd or unjust. People v McIntire, 461 Mich. 147, 153; 599 N.W.2d 102 (1999). In McIntire we said that such attempts to divine unexpressed and nontextual legislative intent is "'nothing but an invitation to judicial lawmaking.'" Id. at 155 n 2 (citation omitted).
+I believe § 73102(3) is correctly read as follows:
+On fenced or posted property or farm property, a fisherman wading or floating a navigable public stream may, without written or oral consent, [1] enter upon property within the clearly defined banks of the stream or, [2] without damaging farm products, walk a route as closely proximate to the clearly defined bank as possible when necessary to avoid a natural or artificial hazard [***7]  or obstruction, including, but not limited to, a dam, deep hole, or a fence or other exercise of ownership by the riparian owner.
+When the word "or" in § 73102(3) is read in the disjunctive, as it should be, it is apparent that § 73102(3) has two exceptions. The first exception is when a fisherman is between the clearly defined banks of the river below the high-water line, and the second allows a fisherman to go outside the banks of the river to get around  [**60]  an obstacle. Given that defendant was standing within the clearly defined banks of the river, he came within the first exception. Accordingly, he was not in violation of the criminal trespass statute. 
+Both of the exceptions recognized in § 73102(3) are consistent with the rights of fishermen under Michigan law as supported by Collins v Gerhardt, 237 Mich. 38, 48-49; 211 N.W. 115 (1926). The exceptions recognized in § 73102(3) do not afford Michigan fishermen an unlimited right as the Court of Appeals speculated; rather the exceptions allow fishermen to fish the navigable waters of Michigan. Riparian rights are generally subordinate to the rights of the public to take fish. Rushton ex rel. Hoffmaster v. Taggart, 306 Mich. 432, 11 N.W.2d 193 (1943). [***8]  
+The Court of Appeals was concerned that the construction of the statute I have set forth would allow fishermen too many rights because it would create an unlimited right to enter property located within the banks of a river for any reason. This is at best an argument that the Legislature should amend the statute to restrict the rights of fishermen. It is well established that we will not inquire into the wisdom of its  [*890]  legislation. Council of Orgs & Others for Ed About Parochiaid v Governor, 455 Mich. 557, 564; 566 N.W.2d 208 n 7 (1997); Nummer v Dep't of Treasury, 448 Mich. 534, 553; 533 N.W.2d 250 n 22 (1995). Moreover, arguments that a statute is "unwise or results in bad policy should be addressed to the Legislature." People v Kirby, 440 Mich. 485, 493-494; 487 N.W.2d 404 (1992). 
+Thus, I would reverse the judgment of the Court of Appeals because it failed to follow the plain words of the statute and improperly considered absurd results in interpreting the statute. 
+CAVANAGH and KELLY, JJ., concur in the result only of the statement of TAYLOR, C.J.  
+
+ 
+
+End of Document

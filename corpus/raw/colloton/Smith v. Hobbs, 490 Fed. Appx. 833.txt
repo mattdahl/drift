@@ -1,0 +1,41 @@
+
+  NeutralAs of: September 19, 2020 7:48 PM Z
+Smith v. Hobbs
+United States Court of Appeals for the Eighth Circuit
+June 28, 2012, Submitted; October 31, 2012, Filed
+No. 12-2293
+
+Reporter
+490 Fed. Appx. 833 *; 2012 U.S. App. LEXIS 22397 **
+ James Edward Smith, Plaintiff - Appellant v. Ray Hobbs, Director, Arkansas Department of Correction, Defendant - Appellee  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Subsequent History: Later proceeding at, On remand at Smith v. Hobbs, 2012 U.S. Dist. LEXIS 168578 (E.D. Ark., Nov. 27, 2012)  
+Prior History:  [**1] Appeal from United States District Court for the Eastern District of Arkansas - Pine Bluff.
+Smith v. Hobbs, 2012 U.S. Dist. LEXIS 66866 (E.D. Ark., May 14, 2012)  
+Counsel: James Edward Smith, Plaintiff - Appellant, Pro se, Pine Bluff, AR. 
+For Ray Hobbs, Director, Arkansas Department of Correction, Defendant - Appellee: Brad Newman, Assistant Attorney General, ATTORNEY GENERAL'S OFFICE, Little Rock, AR.  
+Judges: Before COLLOTON, BOWMAN, and SHEPHERD, Circuit Judges. COLLOTON, Circuit Judge, dissenting.  
+Opinion
+
+
+
+
+ [*834]  PER CURIAM.
+Arkansas prisoner James Smith appeals following the dismissal of his pro se 42 U.S.C. § 1983 action that was recharacterized as a first 28 U.S.C. § 2254 petition by the district court. Upon our careful review of the record, it is apparent that the district court did not provide Smith with proper notice, warnings, and an opportunity to withdraw his pleadings prior to recharacterizing his action as a first § 2254 petition. See Castro v. United States, 540 U.S. 375, 382-83, 124 S. Ct. 786, 157 L. Ed. 2d 778 (2003) (court that wishes to recharacterize pro se litigant's pleading as first 28 U.S.C. § 2255 motion must (1) notify litigant of court's intent, (2) warn litigant that recharacterization means that subsequent § 2255 motion will be subject to restrictions on "second or successive" motions, and (3)  [**2] give litigant opportunity to withdraw motion or to amend it to include all § 2255 claims); see also Morales v. United States, 304 F.3d 764, 767 (8th Cir. 2002) (reversing and remanding where district court reclassified pro se litigant's pleading as first § 2255 motion without notice, warnings, and opportunity to withdraw).
+Accordingly, we vacate and remand to the district court to provide Smith with Castro notice. The application for a certificate of appealability is denied as unnecessary.
+Dissent by: COLLOTON  
+Dissent
+
+
+
+
+COLLOTON, Circuit Judge, dissenting.
+In Castro v. United States, 540 U.S. 375, 124 S. Ct. 786, 157 L. Ed. 2d 778 (2003), the Supreme Court explained that "[f]ederal courts sometimes will ignore the legal label that a pro se litigant attaches to a motion and recharacterize the motion in order to place it within a different legal category." Id. at 381. One reason for such recharacterization is "to create a better correspondence between the substance of a pro se motion's claim and its underlying legal basis." Id. The district court followed that course here when it directed the clerk to designate James Edward Smith's action as a habeas corpus petition under 28 U.S.C. § 2254, rather than as a civil rights action brought under 42 U.S.C. § 1983,  [**3] as Smith had denominated it. R. Doc. 3. As the magistrate judge later explained, Smith "sought injunctive relief solely concerning the execution of his sentence," and § 1983 "'must yield to the more specific habeas statute, with its attendant procedural and exhaustion  [*835]  requirements, where an inmate seeks injunctive relief challenging the fact of his conviction or the duration of his sentence.'" R. Doc. 50, at 1 (quoting Nelson v. Campbell, 541 U.S. 637, 643, 124 S. Ct. 2117, 158 L. Ed. 2d 924 (2004)). The district court then dismissed Smith's recharacterized habeas petition and denied Smith's application for a certificate of appealability.
+Castro held that when a district court recharacterizes a pro se litigant's motion as a first § 2255 motion, the court must notify the litigant, warn him that any subsequent § 2255 motion will be subject to the restrictions on "second or successive" motions, and provide the litigant with an opportunity to withdraw or amend the motion. 540 U.S. at 383. "If the court fails to do so, the motion cannot be considered to have become a § 2255 motion for purposes of applying to later motions the law's 'second or successive' restrictions." Id. (emphasis added). The Supreme Court thus adopted what  [**4] this court in Morales v. United States, 304 F.3d 764 (8th Cir. 2002), described as "a remedial approach," to wit: "when deciding whether a § 2255 motion is second or successive, a prior miscellaneous motion that the district court reclassified as a § 2255 motion will not be counted as a first § 2255 motion unless the litigant was warned about the consequences of reclassification and gave his informed consent." Id. at 766-67.
+We may assume that Castro's limitation on recharacterization also applies to habeas corpus petitions under § 2254. E.g., Martin v. Overton, 391 F.3d 710, 713 (6th Cir. 2004). That the district court here failed to follow the Castro procedure, however, did not take the motion outside the scope of § 2254. Smith still sought injunctive relief concerning the execution of his sentence—relief that can only be had under § 2254—and the district court thus properly treated the motion as a habeas corpus application. See United States v. Lambros, 404 F.3d 1034, 1036 (8th Cir. 2005); Melton v. United States, 359 F.3d 855, 857 (7th Cir. 2004). The district court's failure to give the "Castro warnings" means that if Smith were to file a second habeas corpus application, then  [**5] it could not be treated as a "second or successive" application for purposes of the restrictions set forth at 28 U.S.C. § 2244(b). But nothing prevented Smith from filing another § 2254 application, and no other remedy is available for the district court's failure to follow the procedure prescribed in Castro. See Williams v. United States, 464 F. App'x 834 (11th Cir. 2012).
+To take an appeal from the denial of a § 2254 petition, the petitioner must have a certificate of appealability. 28 U.S.C. § 2253(c)(1)(A). A certificate may issue only if the applicant has made a substantial showing of the denial of the constitutional right. Id. § 2253(c)(2). The certificate requirement "may not be circumvented through creative pleading," Lambros, 404 F.3d at 1036, such as by labeling the matter as an action brought under § 1983. "A certificate of appealability is required to appeal the denial of any motion that effectively or ultimately seeks habeas corpus or § 2255 relief." Id. (emphasis added). The absence of notice and warnings prescribed by Castro does not relieve Smith of the requirement that he must obtain a certificate to appeal the dismissal of his recharacterized § 2254 petition. Wurzinger v. United States, 306 F. App'x 303, 305 (7th Cir. 2009).  [**6] Smith has not made the requisite showing to satisfy § 2253(c), so the appeal should be dismissed.
+
+ 
+
+End of Document

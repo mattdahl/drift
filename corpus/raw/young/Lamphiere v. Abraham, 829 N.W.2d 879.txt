@@ -1,0 +1,43 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+Lamphiere v. Abraham
+Supreme Court of Michigan
+May 10, 2013, Decided
+SC: 146317-8
+
+Reporter
+829 N.W.2d 879 *; 2013 Mich. LEXIS 695 **; 2013 WL 1943004
+ MICHAEL LAMPHIERE, Plaintiff-Appellee, v AMANDA ABRAHAM, DEBORAH ABRAHAM, LAURYN GEROU, MARIE RITZENHEIN, RENEE RITZENHEIN, MARYANNE RITZENHEIN-STEVENS, and DONALD STEVENS, Defendants, and WILLIAM RITZENHEIN, Defendant-Appellant.  
+Prior History:  [**1] COA: 306354, 306544. Kent CC: 10-000358-NI.
+Lamphiere v. Abraham, 2012 Mich. App. LEXIS 2179 (Mich. Ct. App., Oct. 30, 2012)  
+Judges: Robert P. Young, Jr., Chief Justice. Michael F. Cavanagh, Stephen J. Markman, Mary Beth Kelly, Brian K. Zahra, Bridget M. McCormack, David F. Viviano, Justices. YOUNG, C.J. (concurring). MARKMAN, J. (dissenting).  
+Opinion
+
+
+
+
+  [*879]  Order
+On order of the Court, the application for leave to appeal the October 30, 2012 judgment of the Court of Appeals is considered, and it is DENIED, because we are not persuaded that the question presented should be reviewed by this Court.
+Concur by: Robert P. Young, Jr.  
+Concur
+
+
+
+
+Young, C.J. (concurring).
+I concur in the denial of leave. The circuit court granted summary disposition to defendants because plaintiff's inebriation caused him to fall off a balcony. The Court of Appeals correctly affirmed the circuit court's ruling under MCL 600.2955a(1) that plaintiff's inebriation "was 50% or more the cause of" this fall. However, the Court reversed in part because "medical testimony established at least a question of fact regarding whether a separate and distinct injury arose out of the delay in seeking medical treatment . . . ." Lamphiere v Abraham, unpublished opinion per curiam of the Court of Appeals, issued October 30, 2012 (Docket Nos. 306354 and 306544), p 4., 2012 Mich. App. LEXIS 2179
+ [**2] 
+The Court of Appeals correctly determined that the existence of this separate and distinct injury is a question of fact. I write only to clarify the questions that the Court of Appeals did not answer. To begin with, the Court of Appeals' decision still requires plaintiff to prove that the injury was, in fact, separate and distinct from the injury that plaintiff suffered when he fell off a balcony. Moreover, the Court of Appeals did not deny the relevance of plaintiff's inebriation to the alleged separate and distinct injury arising out of the delay in seeking medical treatment. Indeed, the facts that plaintiff's inebriation caused his original injury and that plaintiff had a history of passing out from severe intoxication suggest that plaintiff's inebriation may have contributed to defendants' failure to recognize the necessity of immediate medical treatment.
+Because the circuit court's review of defendants' intoxication defense only looked to the cause of plaintiff's initial injury, the Court of Appeals' partial reversal of summary disposition simply does not examine the extent to which plaintiff's inebriation caused the alleged separate and distinct injury that arose out of the  [**3] delay in seeking medical treatment.
+Dissent by: Stephen J. Markman  
+Dissent
+
+
+
+
+Markman, J. (dissenting).
+I would grant leave to appeal to address what precisely constitutes the "event" for purposes of MCL 600.2955a(1), when an intoxicated person (plaintiff) has injured himself and caused the very state of affairs leading to the necessity of 'good samaritan conduct' and given rise to the potential liability (of defendants) arising from that conduct. Although the concurring justice is correct that defendants can still argue "that plaintiff's inebriation may have contributed to defendants' failure to recognize  [*880]  the necessity of immediate medical treatment," the Court of Appeals' decision to treat the "event" for purposes of MCL 600.2955a(1) as "the delay in seeking medical treatment" effectively renders irrelevant all the evidence concerning how plaintiff came to be injured by his own intoxication in the first place. Such a restrictive view of the "event" simply seems inconsistent with a statute that affords an absolute defense when a person's intoxication has constituted more than 50 percent of the cause of the "event" that resulted in his injury. At the same time, such an arbitrarily compartmentalized view of  [**4] the "event" substantially dilutes the protections deriving from 'good samaritan status' in our state. Because I believe that this Court should carefully assess the relationship between MCL 600.2955a and the 'good samaritan rule,' so as to enable each to remain vital and relevant parts of the law, I respectfully dissent.
+
+ 
+
+End of Document

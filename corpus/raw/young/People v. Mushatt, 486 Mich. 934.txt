@@ -1,0 +1,43 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+People v. Mushatt
+Supreme Court of Michigan
+May 28, 2010, Decided
+SC: 139413
+
+Reporter
+782 N.W.2d 202 *; 2010 Mich. LEXIS 1071 **; 486 Mich. 934
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellee, v LEDELL MARVIN MUSHATT, Defendant-Appellant.  
+Prior History:  [**1] COA: 283954. Ingham CC: 07-000500-FH.
+People v. Mushatt, 2009 Mich. App. LEXIS 1392 (Mich. Ct. App., June 23, 2009)  
+Judges: Marilyn Kelly, Chief Justice. Michael F. Cavanagh, Elizabeth A. Weaver, Maura D. Corrigan, Robert P. Young, Jr., Stephen J. Markman, Diane M. Hathaway, Justices. CORRIGAN, J. (concurring). YOUNG, J. (concurring). WEAVER, J. (dissenting).  
+Opinion
+
+
+
+
+  [*202]  Order
+On March 10, 2010, the Court heard oral argument on the application for leave to appeal the June 23, 2009 judgment of the Court of Appeals. MCR 7.302(H)(1). In lieu of granting leave to appeal, we REVERSE in part the judgment of the Court of Appeals, we VACATE the sentence of the Ingham Circuit Court, and we REMAND this case to the sentencing court for resentencing. The prosecutor has conceded that the scoring of 5 points for offense variable 3 (bodily injury not requiring medical treatment), MCL 777.33(1)(e), was erroneous under People v McGraw, 484 Mich 120; 771 N.W.2d 655 (2009), and that correction of this error would render the defendant's current sentence in excess of the corrected minimum sentence range. On remand, the "[o]ffense variables must be scored giving consideration to the sentencing offense alone," id. at 133, but the sentencing court may  [*203]  consider the injury to the victim "when deciding what sentence to impose  [**2] within the appropriate guidelines range and whether to depart from the guidelines recommendation." Id. at 129.
+Further, we clarify that the retroactive effect of McGraw is limited to cases pending on appeal when McGraw was decided and in which the scoring issue had been raised and preserved. 1  The appeal in this case was pending when McGraw was decided, and the issue was raised and preserved.
+Concur by: CORRIGAN; YOUNG  
+Concur
+
+
+
+
+CORRIGAN, J. (concurring).
+I concur with the remand order because the prosecutor has conceded that defendant's OV-3 score was erroneous under People v McGraw, 484 Mich 120; 771 NW2d 655 (2009). Nonetheless, I continue to adhere to the views expressed in my dissenting opinion in McGraw, supra at 136.
+YOUNG, J. (concurring).
+I concur with the remand order because the prosecutor conceded that the defendant's OV-3 score was erroneous under People v McGraw. 2  Although McGraw controls the scoring of OV-3, I continue to adhere to the position stated in Justice CORRIGAN's dissent in McGraw, 3  with which I concurred.
+Dissent by: WEAVER  
+Dissent
+
+
+
+
+WEAVER, J. (dissenting).
+This Court  [**3] heard oral argument on whether to grant the application for leave to appeal or take other peremptory action in this case. I would grant leave to consider whether People v McGraw, 484 Mich. 120, 771 N.W.2d 655 (2009), was wrongly decided as per the dissent in that case. I continue to believe that McGraw was wrongly decided in a 4 to 3 decision, and I believe that a remand in this case based on McGraw is a waste of judicial resources.
+
+ 
+
+End of Document

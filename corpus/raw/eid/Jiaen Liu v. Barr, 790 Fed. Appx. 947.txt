@@ -1,0 +1,56 @@
+
+  CitedAs of: September 19, 2020 8:05 PM Z
+Jiaen Liu v. Barr
+United States Court of Appeals for the Tenth Circuit
+November 5, 2019, Filed
+No. 19-9500
+
+Reporter
+790 Fed. Appx. 947 *; 2019 U.S. App. LEXIS 33081 **; 2019 WL 5704502
+ JIAEN LIU, Petitioner, v. WILLIAM P. BARR, United States Attorney General,*  Respondent.  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Prior History:  [**1] (Petition for Review).
+  
+Counsel: For Jiaen Liu, Petitioner: Michael Brown, Law Offices of Michael Brown, P.C., New York, NY. 
+For WILLIAM P. BARR, Acting United States Attorney General, Respondent: Doh/Eoir/Bia, Attn: Certification Unit, Falls Church, VA; Raya Jarawan, U.S. Department of Justice, Washington, DC; Alexander Jacob Lutz, Anthony Cardozo Payne, United States Department of Justice, Office of Immigration Litigation, Washington, DC; Oil Oil, Department of Justice, Civil Division, Washington, DC; Lansing W. Tyler, DHS Immigration and Customs Enforcement, Centennial, CO.  
+Judges: Before EID, KELLY, and CARSON, Circuit Judges. EID, J., Circuit Judge, concurring in part and concurring in the judgment.  
+Opinion by: Paul J. Kelly, Jr.  
+Opinion
+
+
+
+
+  [*947]  ORDER AND JUDGMENT** 
+Jiaen Liu, a native and citizen of China, seeks review of a Board of Immigration  [*948]  Appeals' (BIA's) decision that dismissed his appeal from an Immigration Judge's (IJ's) removal order. Exercising jurisdiction under 8 U.S.C. § 1252, we deny review.
+ Background
+Liu entered the United States unlawfully in September 2016. The Department of Homeland Security detained him and commenced removal proceedings.
+Liu appeared before an IJ, conceded removablility, and sought asylum, withholding of removal, [**2]  and protection under the Convention Against Torture (CAT). He testified he could not return to China because he is a Christian and practices his religion outside the state-sponsored church. He fears police would arrest him, as they did in January 2016, when they broke up an unauthorized worship service at his work dormitory. During that incident, a police officer kicked him, causing him to fall and "scrape" his knee. Admin. R. at 166. Further, police detained him for fifteen days, "frequently" yelled at him for being a "cult follower," and beat him with a baton, id. at 136, but the duration of the beatings was "pretty short," id. at 135, and Liu suffered only "surface" wounds requiring no medical attention, id. at 166. Police released Liu after his mother paid bail. A month later, while Liu was attending a friend's wedding, police went to his home and asked Liu's mother where he was. Liu learned that police were looking for him, so he hid at a relative's house until leaving China in September. He flew to Mexico, walked into the United States, and was detained.
+The IJ denied Liu's application for asylum, withholding of removal, and CAT protection. The IJ found that Liu was not a credible witness and concluded that his application [**3]  nevertheless failed on the merits.
+The BIA affirmed on both grounds. Regarding the merits,1  the BIA held that Liu's mistreatment failed to rise to the level of persecution, and that his fear of persecution if removed to China was not well-founded because his parents and brother have been able to routinely attend an underground Christian church without any harm. Further, the BIA noted that a State Department report indicates there are areas in China where local authorities tolerate unregistered church groups. Thus, the BIA concluded, Liu failed to establish eligibility for asylum. Unable to meet the asylum standard, the BIA additionally concluded Liu could not meet the higher standard for withholding of removal. Finally, the BIA determined that Liu failed to show it was more likely than not he would be tortured if removed to China. Thus, Liu's CAT claim failed too.
+ Discussion  
+I. Standards of Review
+"Where, as here, a single BIA member issues a brief order affirming the IJ's decision, we review the order as the final agency determination and limit our review to the grounds relied upon by the BIA." Htun v. Lynch, 818 F.3d 1111, 1118 (10th Cir. 2016). We consult the IJ's decision only if necessary "to understand the grounds provided by the [**4]  BIA." Id. (internal quotation marks omitted).
+We review the BIA's legal determinations de novo and its factual findings for substantial evidence. Niang v. Gonzales, 422 F.3d 1187, 1196 (10th Cir. 2005). Under  [*949]  the substantial-evidence standard, "[t]he BIA's findings of fact are conclusive unless the record demonstrates that any reasonable adjudicator would be compelled to conclude to the contrary." Id. (internal quotation marks omitted).
+ II. Asylum
+To qualify for asylum, Liu needed to show he suffered past persecution or that he has a well-founded fear of future persecution on account of his race, religion, nationality, membership in a particular social group, or political opinion. See Rodas-Orellana v. Holder, 780 F.3d 982, 986 (10th Cir. 2015). "[A] finding of persecution requires the infliction of suffering or harm . . . in a way regarded as offensive and must entail more than just restrictions or threats to life and liberty." Wiransane v. Ashcroft, 366 F.3d 889, 893 (10th Cir. 2004) (internal quotation marks omitted).
+Liu argues that the mistreatment he endured qualifies as persecution. But his mistreatment was of limited duration, resulted in no serious injuries, required no medical care, and ended when his mother posted bail. While troubling, Liu's mistreatment does not rise to the level of persecution. Compare Witjaksono v. Holder, 573 F.3d 968, 977 (10th Cir. 2009) (no persecution where alien was not seriously [**5]  injured during one "violent episode" and other episode that caused physical injury did "not requir[e] medical attention"); Sidabutar v. Gonzales, 503 F.3d 1116, 1124 (10th Cir. 2007) (no persecution where alien "was beaten repeatedly," claimed to have twice suffered "serious[ ] injur[ies]," was "repeatedly confronted by people who demanded money," and "was struck and his motorcycle was burnt"); Kapcia v. INS, 944 F.2d 702, 704, 708 (10th Cir. 1991) (no persecution where alien was detained twice for two-day periods "during which time he was interrogated and beaten[,] . . . his parents' home was searched, he was assigned poor work tasks and denied bonuses, his locker was broken into many times, and he was conscripted into the . . . army where he was constantly harassed"), with Karki v. Holder, 715 F.3d 792, 804-05 (10th Cir. 2013) (persecution where alien "was rendered semi-unconscious" during a beating and "was the intended target of [a] lethal car bombing"); Hayrapetyan v. Mukasey, 534 F.3d 1330, 1337-38 (10th Cir. 2008) (persecution where alien was jailed on two occasions, "knocked to the ground and kicked . . . on one occasion, and nearly run over by a vehicle on another[,]" "her husband was beaten . . . so severely that he had to be hospitalized for fifteen days[,]" her "daughter was almost abducted[,]" she "received telephone threats at home," and "she was fired from her job"). Consequently, the BIA's determination [**6]  that Liu is ineligible for asylum based on past persecution is supported by substantial evidence and is legally correct.
+Liu could still qualify for asylum, though, by demonstrating a well-founded fear of future persecution. See 8 C.F.R. § 1208.13(b). Fear of future persecution is well-founded if it is "both subjectively genuine and objectively reasonable." Tulengkey v. Gonzales, 425 F.3d 1277, 1281 (10th Cir. 2005).
+Liu testified that he feared returning to China because he wants "to worship God in any [way,] at any time[,] and any places[ ] and wit[h] anyone," without being arrested. Admin. R. at 138. He argues the BIA erred by discounting the reasonableness of his fear based on the fact that his family members have regularly attended an underground church without harm. But this court has expressly noted that the continued presence of an alien's family in the country of removal without harm can be a significant factor in the fear-of-persecution calculus. See, e.g., Zhi Wei Pang v.  [*950]  Holder, 665 F.3d 1226, 1233 (10th Cir. 2012). Moreover, Liu does not address the BIA's additional observation that some local authorities tolerate unregistered church groups. See Admin. R. at 369 (observation in 2015 Religious Freedom Report that Chinese "[o]fficials in many large urban areas . . . allowed services in unregistered places of worship provided they remained small [**7]  in scale and did not disrupt 'social stability'"). We conclude the BIA's determination that Liu is ineligible for asylum based on fear of future persecution is supported by substantial evidence and is legally correct.2 
+ Conclusion
+We deny Liu's petition for judicial review.
+Entered for the Court
+Paul J. Kelly, Jr.
+Circuit Judge
+Concur by: EID  
+Concur
+
+
+
+
+EID, Circuit Judge, concurring in part and concurring in the judgment.
+I agree with the majority that Liu's petition for review should be denied, but I would do so on the alternate ground that Liu's evidence as to past persecution was not "credible." See 8 U.S.C. § 1158(b)(1)(B)(ii). The BIA concluded that Liu's testimony lacked credibility, and there is "relevant evidence [that] a reasonable mind might accept as adequate to support [this] conclusion." Lax v. Astrue, 489 F.3d 1080, 1084 (10th Cir. 2007) (quoting Hackett v. Barnhart, 395 F.3d 1168, 1172 (10th Cir. 2005)) (articulating the "substantial evidence" standard of review). Specifically, in at least two instances, Liu's written statements and oral testimony differed significantly regarding dates pertinent to his alleged persecution. For example, the date he provided in his application for when he went into hiding to avoid Chinese officials was almost six months later than the date he gave in his oral testimony. In addition, Liu's application [**8]  differed drastically from his oral testimony regarding the timeframe of when Chinese officials confronted his mother about his whereabouts. This lack of "consistency between the applicant's . . . written and oral statements" bears on whether the applicant's testimony is credible enough for the applicant to meet his burden of proof. 8 U.S.C. § 1158(b)(1)(B)(iii). Because there is substantial evidence to support the BIA's conclusion that Liu's evidence of past persecution lacked credibility, Liu has failed to establish past persecution. Furthermore, for the reasons stated by the majority, Liu has also failed to establish fear of future persecution. Accordingly, I would deny Liu's petition for review without reaching the question of whether the instances of past persecution were sufficiently egregious to warrant asylum.
+
+ 
+
+End of Document

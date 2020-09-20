@@ -1,0 +1,49 @@
+
+  PositiveAs of: September 19, 2020 7:48 PM Z
+United States v. Musa
+United States Court of Appeals for the Eighth Circuit
+May 16, 2016, Submitted; July 28, 2016, Filed
+No. 15-2078
+
+Reporter
+830 F.3d 786 *; 2016 U.S. App. LEXIS 13716 **; 118 A.F.T.R.2d (RIA) 2016-5247
+ United States of America, Plaintiff - Appellee v. Daniel Nok Musa, Defendant - Appellant  
+Prior History:  [**1] Appeal from United States District Court for the District of Minnesota - St. Paul.
+United States v. Musa, 2013 U.S. Dist. LEXIS 202363 (D. Minn., May 17, 2013)  
+Counsel: For United States of America, Plaintiff - Appellee: Michael L. Cheever, Assistant U.S. Attorney, Timothy Christopher Rank, Assistant U.S. Attorney, U.S. Attorney's Office, District of Minnesota, Minneapolis, MN. 
+Daniel Nok Musa, Defendant - Appellant, Pro se, Philipsburg, PA. 
+For Daniel Nok Musa, Defendant - Appellant: Douglas Olson, Assistant Federal Public Defender, Federal Public Defender's Office, Minneapolis, MN.  
+Judges: Before RILEY, Chief Judge, COLLOTON and KELLY, Circuit Judges. COLLOTON, Circuit Judge, concurring.  
+Opinion by: KELLY  
+Opinion
+
+
+
+
+ [*787]  KELLY, Circuit Judge.
+Daniel Nok Musa pleaded guilty, without a written plea agreement, to 14 counts of failing to pay to the Internal Revenue Service (I.R.S.) the full amount of his employees' tax withholdings, in violation of 26 U.S.C. § 7202. The district court sentenced Musa to 51 months' imprisonment on all 14 counts, to be served concurrently. Musa appeals, challenging the court's application of a four-level leadership enhancement under USSG § 3B1.1(a). Because we find that the district court did not make the required findings for this enhancement, we remand to the district court.
+ I.
+Musa was the owner and president [**2]  of a home health care service. Beginning in the first quarter of 2006 and continuing through September 2009, Musa failed to forward all of the federal income taxes and FICA taxes withheld from his employees' paychecks to the I.R.S. Instead, he spent the money. As the I.R.S. attempted to collect the unpaid taxes, Musa changed the name of his home health care service and placed various properties and businesses in the names of his wife and three children.
+In calculating Musa's advisory sentencing guidelines, the probation office recommended Musa be given a four-level enhancement for his role in the offense. See USSG § 3B1.1. The probation officer recommended the adjustment because:
+Musa controlled and exercised complete decision making authority over the six businesses he created over an extended (11 year) period of time. His conduct involved a degree of authority as he moved from one business to another in order to evade taxes. Further, investigative materials indicate that Musa created false documents to make it appear that at least one business, LLPCA[,] had been run by his daughter.
+Musa objected that this was a one-person offense and that being in control of various entities did not elevate his [**3]  role into that of a leader or organizer. The probation office responded that the four-level role enhancement was warranted because the offense involved criminal activity that was "otherwise extensive," "Musa controlled and exercised complete decision making authority over the six businesses he created" and his "conduct involved a degree of authority as he moved from one business to another in order to evade taxes."
+At the sentencing hearing, the district court overruled Musa's objection, stating:
+ [*788]  I find that regardless of whether there were others involved in this criminal activity, there is the 'or was otherwise extensive' provision, and I think this was clearly extensive, this situation. Mr. Musa had authority over six businesses [over] an 11-year extended period of time. He certainly had authority because he moved from one business to another in order to evade taxes, created false documents.
+The district court then imposed the four-level enhancement.
+ II.
+On appeal, Musa contends the district court erred in imposing a four-level leadership-role enhancement because the court failed to identify any other participant whose activities Musa directed. We review a district court's factual findings [**4]  regarding whether a leadership enhancement is warranted for clear error and its legal conclusions de novo. United States v. Adetiloye, 716 F.3d 1030, 1037 (8th Cir. 2013). It is the government's burden to prove a leadership enhancement applies by a preponderance of the evidence. Id.
+Sentencing Guideline § 3B1.1(a) allows a four-level increase in a defendant's offense level "[i]f the defendant was an organizer or leader of a criminal activity that involved five or more participants or was otherwise extensive." In order for the leadership enhancement to apply, the government must prove two elements. First, the government must prove the defendant organized or led at least one other participant in the criminal activity. USSG § 3B1.1 cmt. n.2; see also United States v. Adejumo, 772 F.3d 513, 532 (8th Cir.2014) (noting that "[w]e have always required evidence that the defendant directed or procured the aid of underlings" (quoting United States v. Irlmeier, 750 F.3d 759, 764 (8th Cir. 2014)). Second, the government must prove the criminal activity involved at least five participants or was "otherwise extensive." USSG § 3B1.1(a); see also United States v. Vasquez-Rubio, 296 F.3d 726, 729 (8th Cir. 2002). "A 'participant' is a person who is criminally responsible for the commission of the offense, but need not have been convicted." USSG § 3B1.1 cmt. n.1; see also Vasquez-Rubio, 296 F.3d at 729. "A person who is not criminally responsible for the commission of the offense (e.g., an undercover law enforcement officer) is not a participant." USSG § 3B1.1 cmt. n.1.
+The government asserts [**5]  the district court implicitly found that Musa's family members were "participants" by adopting the information contained in the Presentence Report (PSR). Although we generally construe the terms "organizer" and "leader" broadly, see United States v. Bolden, 596 F.3d 976, 983 (8th Cir. 2010), in order for a defendant to be an organizer or leader, there must be some evidence that he directed at least one other participant. United States v. Rodriguez-Ramos, 663 F.3d 356, 365 (8th Cir. 2011). Here, the court specifically stated that the enhancement applied "regardless of whether there were others involved in this criminal activity." There was no discussion regarding the necessary elements of the enhancement during the sentencing hearing. The only facts cited by the district court concerned Musa's control over different business entities, not other people. Finally, both the PSR and the government's position on sentencing suggested the enhancement could apply based on Musa's criminal activity simply being "otherwise extensive," without addressing whether Musa directed or organized someone else.
+On this record, we cannot say that the district court made the required finding that Musa organized or led at least one other participant in the criminal scheme to justify the four-level enhancement. Accordingly, we remand [**6]  the case to provide the  [*789]  district court the opportunity to clarify whether Musa organized or led at least one other participant, and to identify what evidence in this record supports that finding.1  If the record fails to support such a finding, the district court should proceed accordingly.
+Concur by: COLLOTON  
+Concur
+
+
+
+
+COLLOTON, Circuit Judge, concurring.
+The district court found that appellant Daniel Musa was an organizer or leader of criminal activity that was "otherwise extensive." See USSG § 3B1.1(a). I concur in the opinion of the court remanding for clarification because it holds only that the district court did not make an adequate finding about whether Musa organized or led another participant in the criminal activity. See id., comment. (n.2). The government argues on appeal that the adjustment was appropriate because the district court adopted facts in the presentence report establishing that Musa's [**7]  wife and children were participants in criminal activity organized or led by Musa. The court's opinion does not address the sufficiency of this evidence; it holds only that the district court did not make the required finding that Musa organized or led another participant. The government also argues that the judgment could be affirmed on the alternative ground that Musa's criminal activity involved at least five criminally responsible participants. The district court made no finding on this issue, and the opinion does not address it. Ante, at 5 n.1. The opinion also does not address whether the record would support an upward departure or variance from the advisory guideline range if Musa did not organize or lead another participant. See 18 U.S.C. § 3553(a)(1); USSG § 3B1.1, comment. (n.2). On these understandings, I concur.
+
+ 
+
+End of Document

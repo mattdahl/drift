@@ -1,0 +1,50 @@
+
+  CitedAs of: September 19, 2020 7:27 PM Z
+Shah v. Bland
+Court of Appeal of Florida, Second District
+January 11, 2008, Opinion Filed
+Case No. 2D06-2457
+
+Reporter
+973 So. 2d 1188 *; 2008 Fla. App. LEXIS 260 **; 33 Fla. L. Weekly D 209
+ DHARMI P. SHAH and SPACE COAST PETROLEUM DISTRIBUTORS, INC., Appellants, v. DENNIS BLAND and NANCY BLAND, Appellees.  
+Subsequent History: Released for Publication March 04, 2008.
+  
+Prior History:  [**1] Appeal from the Circuit Court for Hillsborough County; James M. Barton, II, Judge.
+  
+Counsel: Samuel R. Mandelbaum of Mandelbaum, Fitzsimmons & Hewitt, P.A., Tampa, for Appellants. 
+Gene Odom of Guarnieri, Martinez & Odom, P.A., Brandon; and Michael S. Finch, Gulfport, for Appellees.  
+Judges: ALTENBERND, Judge. DAVIS, J., Concurs. CANADY, J., Concurs specially with opinion.  
+Opinion by: ALTENBERND  
+Opinion
+
+
+
+
+ [*1189]  ALTENBERND, Judge.
+Dharmi P. Shah and Space Coast Petroleum Distributors, Inc., the Defendants, appeal a final judgment in favor of Dennis and Nancy Bland, who are husband and wife. The judgment awarded Mrs. Bland monetary damages for her bodily injuries sustained in an automobile accident. The Defendants argue that they are entitled to a reduction in the damages awarded to Mrs. Bland because, as the owner of the vehicle that her husband was driving, she is vicariously liable for his comparative negligence. The trial court refused to so reduce the judgment. We affirm because this issue was not pleaded or otherwise raised as an issue in this case until after the jury had returned its verdict. As a result of this ruling, we decline to decide whether a reduction in the damages is appropriate under such circumstances.
+On November 22,  [**2] 2001, Mrs. Bland was riding as a passenger in a car driven by her husband. They collided with a car owned by Space Coast Petroleum, which was driven by Dharmi P. Shah. In the accident, Mr. Bland was not seriously injured but Mrs. Bland sustained serious injuries. As a result, they filed a lawsuit against the Defendants.
+In the Blands' complaint, Mrs. Bland is described as a passenger in a car driven by her husband, but there is no allegation that the car is owned by Mrs. Bland. The Defendants answered both the initial complaint and the amended complaint. At no time did the Defendants allege that Mrs. Bland owned the vehicle in which she was a passenger. In the final answer filed by the Defendants, they alleged a seatbelt defense and that the damages were "caused in whole or in part by the negligent acts of third parties." The answer failed to identify those third parties or to suggest that Mr. Bland, who already was a party to the action, was a third party. Finally, the answer alleged comparative negligence stating, "Any injuries that may have been sustained by the Plaintiff were caused in whole or in part by the negligent acts of the Plaintiff." Nothing in the answer suggested that  [**3] one plaintiff could or should be liable for the negligence of the other plaintiff. Most important, there was no suggestion that Mrs. Bland could be vicariously liable for the negligence of her husband under any legal theory. 1  
+ [*1190]  This case was tried twice before a jury reached a verdict. Although the record does not contain a full transcript of the first trial, nothing in the record indicates that the issue of Mrs. Bland's vicarious liability was ever discussed during the first trial. Between the first and second trial, the supreme court issued  [**4] its decision in American Home Assurance Co. v. National Railroad Passenger Corp., 908 So. 2d 459 (Fla. 2005). As discussed later in this opinion, the American Home case held that when a plaintiff engages an independent contractor for an inherently dangerous activity, the negligence of the independent contractor can be applied to reduce a judgment in favor of the plaintiff because the plaintiff is vicariously liable for the contractor performing the inherently dangerous activity. Although not directly controlling, this is the precedent upon which the Defendants now primarily rely. At no time prior to the second trial did the Defendants attempt to amend their answer or otherwise alter their approach to this case as a result of this new precedent.
+During the second trial, Mrs. Bland testified that she owned the vehicle her husband was driving. This information seems to have been provided in the context of establishing facts related to the seatbelt defense. At the conclusion of the evidence, the issue of vicarious liability was not discussed during motions for directed verdict or during the jury instruction conference. It was not mentioned by the lawyers during closing arguments, and there  [**5] were no jury instructions relating to this theory.
+The jury returned its verdict on an interrogatory verdict form. The jury determined that Dharmi P. Shah was seventy percent at fault in the accident and that Mr. Bland was thirty percent at fault. As to Mr. Bland, the jury determined that he had no permanent injuries resulting from this accident and awarded him no damages. However, the jury determined that the negligence of both Mr. Bland and the Defendants was the legal cause of the injuries to Mrs. Bland. They awarded Mrs. Bland total damages of $ 290,000. Although there were thirteen questions on the verdict form, the jury was not asked to determine whether Mrs. Bland owned the vehicle her husband was driving.
+Following the verdict, the Defendants filed a motion to reduce the award to Mrs. Bland on the theory that she was legally responsible for the comparative negligence of Mr. Bland under section 768.81, Florida Statutes (2001). The Defendants relied on American Home and National Railroad Passenger Corp. v. Rountree Transport & Rigging, Inc., 422 F.3d 1275, 1280 (11th Cir. 2005). Neither of these cases involves vicarious liability under the dangerous instrumentality doctrine for  [**6] bodily injuries in an automobile accident.
+In American Home, the supreme court answered a question certified to it by the Eleventh Circuit Court of Appeals as a matter of first impression. That case involved an eighty-two-ton combustion turbine engine that was damaged while it was being transported by a hauler, who was an independent contractor. The hauler was transporting the large engine on a hauler rig pulled by a road tractor. The hauler rig was hit by a train while it was stopped on the tracks at a railroad crossing.  [*1191]  American Home insured the owner of the turbine engine, who had hired the hauler. The supreme court held that the activity of transporting this large engine was inherently dangerous and that the fault of the hauler under section 768.81 could be attributed vicariously to the owner, who had hired the hauler as an independent contractor. Rountree Transport is the same case on remand to the federal court.
+We are not aware of any case that has extended the holding in American Home to apply section 768.81 to allow a reduction in a plaintiff's damages for the plaintiff's vicarious liability as the owner of a dangerous instrumentality. Although we cannot deny the logic in the  [**7] argument presented by the Defendants, we have some doubt that the legislature intended section 768.81 to work in conjunction with the dangerous instrumentality doctrine so as to cause an owner of a family automobile to have his or her damages reduced by the negligence of anyone who is driving the vehicle while the owner is a passenger. 2  Section 768.81(2) does not reference vicarious liability under the dangerous instrumentality doctrine and only reduces damages for the proportion of "fault" that is "chargeable to the claimant." 
+In this case, however, we merely conclude that the Defendants never pleaded or otherwise raised this issue in a manner that would allow the trial court to address the issue for the first time at the end of the case while it was entering its final judgment. This type of issue needs to be raised in a manner that gives the plaintiff an opportunity to consider its impact prior to the entry of judgment. Generally, such an issue needs to be identified in the answer as a defense. See Nash v. Wells Fargo Guard Servs., Inc., 678 So. 2d 1262, 1265 (Fla. 1996) (stating  [**8] defendant waives the defense that a nonparty's negligence contributed to the plaintiff's injuries when it is not included as an affirmative defense in the answer or raised during pretrial conference). A party cannot wait until posttrial motions to raise such an issue. See Republic Nat'l Bank v. Araujo, 697 So. 2d 164, 166 (Fla. 3d DCA 1997). This situation is not comparable to a setoff for a prior settlement that can be resolved by the judge as a matter of law, but it is more similar to the type of setoff that must be pleaded as an affirmative defense. Cf. Felgenhauer v. Bonds, 891 So. 2d 1043, 1045 (Fla. 2d DCA 2004) (comparing contract actions that require setoffs to be pleaded as affirmative defenses to tort actions in which a prior settlement does not need special pleading because it does not affect preparation of plaintiff's case or trial court's rulings).
+The Defendants waited until after the jury verdict to raise the issue of Mrs. Bland's vicarious liability. Because this issue was neither pleaded nor preserved, we affirm the trial court's entry of a final judgment awarding Mrs. Bland $ 290,000 in damages without any reduction for her vicarious liability.
+Affirmed.
+DAVIS,  [**9] J., Concurs.
+CANADY, J., Concurs specially with opinion.
+Concur by: CANADY  
+Concur
+
+
+
+
+CANADY, Judge, Specially concurring
+I concur in the majority's conclusion that the final judgment should be affirmed because the issue of Mrs. Bland's vicarious liability as the owner of the vehicle driven  [*1192]  by her husband was not properly pleaded or preserved by the defendants.
+
+ 
+
+End of Document

@@ -1,0 +1,39 @@
+
+  CautionAs of: September 19, 2020 8:20 PM Z
+United States v. Corsmeier
+United States Court of Appeals for the Sixth Circuit
+August 2, 2011, Filed
+File Name: 11a0534n.06
+No. 11-3506
+
+Reporter
+432 Fed. Appx. 525 *; 2011 U.S. App. LEXIS 15935 **; 2011 FED App. 0534N (6th Cir.)
+ UNITED STATES OF AMERICA, Plaintiff-Appellant. v. STEPHANIE CORSMEIER, Defendant-Appellee.  
+Notice: NOT RECOMMENDED FOR FULL-TEXT PUBLICATION. SIXTH CIRCUIT RULE 28 LIMITS CITATION TO SPECIFIC SITUATIONS. PLEASE SEE RULE 28 BEFORE CITING IN A PROCEEDING IN A COURT IN THE SIXTH CIRCUIT. IF CITED, A COPY MUST BE SERVED ON OTHER PARTIES AND THE COURT. THIS NOTICE IS TO BE PROMINENTLY DISPLAYED IF THIS DECISION IS REPRODUCED.
+  
+Prior History:  [**1] ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF OHIO.
+  
+Counsel: For UNITED STATES OF AMERICA, Plaintiff - Appellant: Benjamin C. Glassman, Assistant U.S. Attorney, U.S. Attorney's Office, Cincinnati, OH. 
+For STEPHANIE CORSMEIER, Defendant - Appellee: Kevin Michael Schad, Federal Public Defender's Office, Cincinnati, OH.  
+Judges: BEFORE: MARTIN, CLAY, and KETHLEDGE, Circuit Judges. KETHLEDGE, Circuit Judge, dissenting.  
+Opinion
+
+
+
+
+ [*525]  PER CURIAM. The government appeals the sentence imposed by the district court upon Defendant's plea of guilty to a single violation of 18 U.S.C. § 1349. In a written plea agreement ("Plea Agreement"), Defendant and the government agreed that "a sentence that includes an 18-month term of imprisonment is the appropriate disposition of this case." The district court accepted the agreement pursuant to Rule 11(c)(1)(C) of the Federal Rules of Criminal Procedure, and after considering the factors set forth in 18 U.S.C. § 3553(a), sentenced Defendant to "a total term of 18 months imprisonment," consisting of three months in prison followed by fifteen months in a halfway house as a condition of supervised release. The government now appeals on the basis that the district  [**2] court breached the Plea Agreement.
+By sentencing Defendant to confinement in a federal prison for three months followed by confinement in a halfway house for the next 15 months, for a total of 18 months of confinement, the district court satisfied its obligation under the Plea Agreement. To the extent the phrase "term of imprisonment" is ambiguous as to the type of confinement that should be imposed, the district court properly resolved this ambiguity in favor of its "independent obligation to exercise its discretion" to fashion an appropriate sentence. Freeman v. United States, 131 S. Ct. 2685, 180 L. Ed. 2d 519 (2011) (plurality) (discussing the district court's "independent obligation to exercise its discretion" to fashion an appropriate sentence); see also 18 U.S.C. §§ 3553, 3582; United States v. Booker, 543 U.S. 220, 125 S. Ct. 738, 160 L. Ed. 2d 621 (2005).
+Accordingly, there being no error to complain of, the district court's judgment is AFFIRMED.
+Dissent by: KETHLEDGE  
+Dissent
+
+
+
+
+KETHLEDGE, Circuit Judge, dissenting. Criminal Procedure Rule 11(c)(1)(C) states that a sentencing recommendation set forth in a plea agreement "binds the court once the court accepts the plea agreement." (Emphasis added.) The district court in this case "accept[ed] the Rule 11(c)(1)(C)  [**3] agreement entered into by the parties[.]" Statement of Reasons at 5. That agreement stated that "a sentence that includes an 18-month term of imprisonment is the appropriate disposition of this case." Plea Agreement ¶ 3. A person  [*526]  subject to a "term of imprisonment" is "committed to the custody of the Bureau of Prisons until the expiration of the term imposed, or until earlier released for satisfactory behavior[.]" 18 U.S.C. § 3621(a). Thus, per the plea agreement here, Corsmeier should have been committed to the custody of the Bureau of Prisons for 18 months. But the district court's judgment provides: "The defendant is hereby committed to the custody of the United States Bureau of Prisons to be imprisoned for a total term of THREE (3) MONTHS." (Emphasis in original.)
+The district court does not have discretion to violate Rule 11(c)(1)(C). See, e.g., Freeman v. United States, 564 U.S.    , 131 S. Ct. 2685, 180 L. Ed. 2d 519 2011 WL 2472797 at *9 (2011) (Sotomayor, J., concurring in the judgment) (the "very purpose of (C) agreements" is to "bind the district court and allow the Government and defendant to determine what sentence he will receive"); United States v. Mandell, 905 F.2d 970, 972 (6th Cir. 1990) ("once the  [**4] district court accepts the plea agreement, it is bound by the bargain"). Here, the district court's judgment violates Rule 11(c)(1)(C) because it commits Corsmeier to the custody of the Bureau of Prisons for three months rather than 18. That she will spend 15 months in a halfway house during her term of supervised release does not change the fact of the violation, because she will not be in the custody of the Bureau of Prisons during that time.
+Corsmeier's sentence is contrary to law. I would vacate the district court's judgment and remand for resentencing consistent with the plea agreement. Thus, I respectfully dissent.
+
+ 
+
+End of Document

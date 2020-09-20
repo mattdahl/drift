@@ -1,0 +1,40 @@
+
+  WarningAs of: September 19, 2020 7:48 PM Z
+Jesinoski v. Countrywide Home Loans, Inc.
+United States Court of Appeals for the Eighth Circuit
+December 11, 2012, Submitted; September 10, 2013, Filed
+No. 12-2202
+
+Reporter
+729 F.3d 1092 *; 2013 U.S. App. LEXIS 18757 **; 2013 WL 4799018
+ Larry D. Jesinoski and Cheryle Jesinoski, individuals, Plaintiffs - Appellants v. Countrywide Home Loans, Inc., subsidiary of Bank of America N.A., doing business as America's Wholesale Lender; BAC Home Loans Servicing, LP, a subsidiary of Bank of America, N.A., a Texas Limited Partnership, formerly known as Countrywide Home Loans Servicing, L.P.; Mortgage Electronic Registration Systems, Inc., a Delaware Corporation; and John and Jane Does 1-10, Defendants - Appellees  
+Subsequent History: Rehearing denied by, Rehearing, en banc, denied by Jesinoski v. Countrywide Home Loans, Inc., 736 F.3d 1134, 2013 U.S. App. LEXIS 23027 (8th Cir. Minn., 2013)
+US Supreme Court certiorari granted by Jesinoski v. Countrywide Home Loans, Inc., 134 S. Ct. 1935, 188 L. Ed. 2d 959, 2014 U.S. LEXIS 3005 (U.S., 2014)
+Reversed by, Remanded by Jesinoski v. Countrywide Home Loans, Inc., 135 S. Ct. 790, 190 L. Ed. 2d 650, 2015 U.S. LEXIS 607 (U.S., 2015)  
+Prior History:  [**1] Appeal from United States District Court for the District of Minnesota — Minneapolis.
+Jesinoski v. Countrywide Home Loans, Inc., 2012 U.S. Dist. LEXIS 54811 (D. Minn., Apr. 19, 2012)  
+Counsel: For Larry D. Jesinoski, Cheryle Jesinoski, individuals, Plaintiffs - Appellants: Michael J. Keogh, KEOGH LAW OFFICE, Saint Paul, MN. 
+For Countrywide Home Loans, Inc., subsidiary of Bank of America N.A., doing business as America's Wholesale Lender, BAC Home Loans Servicing, LP, a subsidiary of Bank of America, N.A., a Texas Limited Partnership, formerly known as Countrywide Home Loans Servicing, L.P., Mortgage Electronic Registration Systems, Inc., a Delaware Corporation, Defendants - Appellees: Andre Timothy McCoy Hanson, Ronn B. Kreps, Sparrowleaf Dilts McGregor, FULBRIGHT & JAWORSKI, Minneapolis, MN; Andrew Brooks Messite, REED & SMITH, New York, NY.  
+Judges: Before LOKEN, MELLOY, and COLLOTON, Circuit Judges. MELLOY, Circuit Judge, concurring in the judgment. COLLOTON, Circuit Judge, concurring.  
+Opinion
+
+
+
+
+ [*1093]  PER CURIAM.
+Mortgagors Larry and Cheryle Jesinoski appeal the district court's grant of judgment on the pleadings to their lenders in a dispute regarding a $611,000 home loan. Three years to the day after consummating the loan, the Jesinoskis mailed notices to the lenders seeking to rescind the loan due to alleged violations  [**2] of the Truth in Lending Act (TILA); the lenders denied the Jesinoskis' requests to rescind. One year and one day after mailing the letters—now more than four years after consummating the loan—the Jesinoskis sued the lenders to rescind the loan. The sole issue on appeal is whether mailing a notice of rescission within three years of consummating a loan is sufficient to "exercise" the right to rescind a loan transaction pursuant to 15 U.S.C. § 1635(a) or, alternatively, whether a party seeking to rescind the transaction is required to file a lawsuit within the three-year statutory period.
+This Court recently weighed in on the circuit split regarding this precise issue and held that a party seeking to rescind a loan transaction must file suit within three years of consummating the loan. Keiran v. Home Capital, Inc., 720 F.3d 721, 726-29 (8th Cir. 2013) (adopting the Tenth Circuit's view in Rosenfield v. HSBC Bank, USA, 681 F.3d 1172 (10th Cir. 2012)); see Hartman v. Smith, 734 F.3d 752, No. 12-1947, 2013 U.S. App. LEXIS 17155, 2013 WL 4407058 at *7-8 (8th Cir. Aug. 19, 2013) (following Keiran). "It is a cardinal rule in our circuit that one panel is bound by the decision of a prior panel." Owsley v. Luebbers, 281 F.3d 687, 690 (8th Cir. 2002).  [**3] Accordingly, we affirm the district court's judgment on the pleadings in favor of the lenders.
+Concur by: MELLOY; COLLOTON  
+Concur
+
+
+
+
+MELLOY, Circuit Judge, concurring in the judgment.
+I concur in the judgment insofar as this Court is bound by decisions of prior panels. See Owsley, 281 F.3d at 690. Were we writing on a clean slate, however, I would hold for the reasons stated in my separate concurrence in Hartman, 2013 U.S. App. LEXIS 17155, 2013 WL 4407058 at *10-12, that sending notice within three years of consummating a loan is sufficient to "exercise" the right to rescind. See 12 C.F.R. § 1026.23(a)(2).
+ [*1094]  COLLOTON, Circuit Judge, concurring.
+I concur in the per curiam opinion based on circuit precedent, but I believe that Keiran v. Home Capital, Inc., 720 F.3d 721 (8th Cir. 2013), was wrongly decided, see id. at 731 (Murphy, J., dissenting); Sherzer v. Homestar Mortg. Servs.., 707 F.3d 255 (3d Cir. 2013), and I would reverse the judgment of the district court if the question presented were open in this circuit.
+
+ 
+
+End of Document

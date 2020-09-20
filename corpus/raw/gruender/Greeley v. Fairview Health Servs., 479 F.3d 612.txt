@@ -1,0 +1,67 @@
+
+  CautionAs of: September 19, 2020 8:13 PM Z
+Greeley v. Fairview Health Servs.
+United States Court of Appeals for the Eighth Circuit
+January 12, 2007, Submitted ; February 22, 2007, Filed 
+No. 06-2854 
+
+Reporter
+479 F.3d 612 *; 2007 U.S. App. LEXIS 3797 **; 40 Employee Benefits Cas. (BNA) 2726
+ Daniel F. Greeley, Plaintiff - Appellee, v. Fairview Health Services; Diane Iorfida, Defendants - Appellants.  
+Prior History:  [**1]  Appeal from the United States District Court for the District of Minnesota.  
+Greeley v. Fairview Health Servs., 2006 U.S. Dist. LEXIS 47019 (D. Minn., June 30, 2006)  
+Counsel: For Daniel F. Greeley, Plaintiff - Appellee: Charles T. Hvass, Jr., HVASS & WEISMAN, Minneapolis, MN. 
+For Fairview Health Services, Diane Iorfida, Defendants - Appellants: Brian T. Benkstein, Paul James Zech, FELHABER & LARSON, Minneapolis, MN.    
+Judges: Before COLLOTON, BRIGHT, and GRUENDER, Circuit Judges. GRUENDER, Circuit Judge, concurring.    
+Opinion by: BRIGHT  
+Opinion
+
+
+
+
+ [*613]  BRIGHT, Circuit Judge.
+The district court granted summary judgment in favor of appellee, Daniel F. Greeley ("Greeley"), on his claims against his former employer, Fairview Health Services ("Fairview"), under ERISA for a faulty summary plan description ("SPD"). Fairview appeals and we reverse.
+The issue in this case arises from a single typographical error. On February 20, 1998, Fairview stated in a memo that pathologists such as Greeley would be eligible for long-term disability benefits until they reached the age of sixty-seven. The accompanying summary of benefits did not contradict this representation. The benefit plan, which was never mailed to employees, however, provided for such benefits only until the age of sixty-five.
+In December 1998,  [**2]  Greeley and his attorney, in preparation for an application for disability benefits, received a copy of Greeley's long-term disability plan. This document stated that disability benefits would be provided until age sixty-five or seventy, or for one to five years, depending on the age of disability. By 1999, Greeley had realized that the plan documents conflicted with the memo, but assumed the memo controlled because it described "enhanced" benefits.
+In 1999, Greeley quit practicing because of a disabling medical condition. In January 2001, he inquired about the maximum benefit period and a human resources employee sent him a memo explaining that benefits expired at age sixty-five. In October 2003, Greeley's attorney sent Fairview a letter requesting assurances that benefits would continue until age sixty-seven, to which Fairview never responded. In October 2004, Fairview informed Greeley that because he had reached the age of sixty-five, his benefits were exhausted. Greeley filed suit in the district court in December 2004, asserting improper denial of benefits and fraud. On cross motions for summary judgment, the district court granted summary judgment for Greeley on his ERISA claim [**3]  and for Fairview on the fraud claim.
+ [*614]  Fairview argues on appeal that the district court erred as a matter of law by concluding that: (1) Greeley's action was not barred by the applicable two-year statute of limitations; (2) the 1998 memo and benefits summary should be construed as a "faulty" SPD; and (3) Greeley was prejudiced by the SPD. Because the district court erred in its determination that Greeley was prejudiced by the memo, we reverse the district court's grant of summary judgment in favor of Greeley. 1 
+The district court correctly stated that in order to recover under a faulty SPD, Greeley must show that he was prejudiced by it. The court concluded that Greeley was prejudiced and explained the prejudice standard it applied as follows:
+It is not clear what showing of prejudice is required under Eighth Circuit law. See  [**4]   Antolik, 383 F. Supp. 2d 1168 at 1177. The Second Circuit requires a plan participant to show that he or she "was likely to have been harmed as a result of a deficient SPD," and allows the employer to rebut this showing "through evidence that the deficient SPD was in effect a harmless error." Burke v. Kodak Ret. Income Plan, 336 F.3d 103, 113 (2d Cir. 2003). The Court adopts this standard and applies it here.
+Greeley v. Fairview Health Servs., No. 04-cv-05023, 2006 U.S. Dist. LEXIS 47019, slip op. at 7 (June 30, 2006). 
+The district court erred by adopting a "likely harm" prejudice standard. In order for an employee to recover from his employer for a faulty SPD, this court requires the employee to show he relied on its terms to his detriment. 2  In Maxa v. John Alden Life Ins. Co., 972 F.2d 980 (8th Cir. 1992), we stated: "'to secure relief on the basis of a faulty summary plan description, the claimant must show some significant reliance on, or possible prejudice flowing from the summary.'" Id. at 984 (quoting Anderson v. Alpha Portland Indus., 836 F.2d 1512, 1520 (8th Cir. 1988)). The appellant, Maxa's estate,  [**5]  argued that it was prejudiced by having to pay substantial unreimbursed expenses. Id. The court stated that Maxa's estate appears to have suffered a loss because Maxa failed to enroll in Medicare, but that alone was insufficient for recovery: Maxa's estate must have shown detrimental reliance. See id.
+Indeed, we recently reversed the decision relied upon by the district court, Antolik v. Saks Inc., 383 F. Supp. 2d 1168 (S.D. Iowa 2005), explaining that there was no actionable misrepresentation by the employer and "no reasonable detrimental reliance by . . . employees who continued to work without confirming exactly what severance benefits were available . . . ." Antolik v. Saks, Inc., 463 F.3d 796, 802 (8th Cir. 2006); see also Anderson, 836 F.2d at 1520 (requiring a showing of detrimental [**6]  reliance). Detrimental reliance means that the plaintiff took action, resulting in some detriment, that he would not have taken had he known that the terms of the plan were otherwise or that he failed, to his detriment, to take action that he would have taken had he known that the terms of the plans were otherwise. Maxa, 972 F.2d at 984 (citing and quoting Monson, 739 F.2d at 1302).
+Therefore, in the instant case, assuming arguendo that the February 1998 memorandum was a faulty SPD, Greeley must show that he took action or failed to take  [*615]  action, that he would not have otherwise, resulting in some detriment. See Maxa, 972 F.2d at 984; cf. Dodson v. Woodmen of the World Life Ins. Soc'y, 109 F.3d 436, 439 (8th Cir. 1997) (finding prejudice because employee would have filed or preserved claim had SPD informed of benefits' expiration deadlines).
+Greeley has failed to make a showing of detrimental reliance. Greeley testified that he had no choice but to go on disability because of the condition of his lungs. The district court specifically stated, "Greeley offered no evidence that he changed his course of action or [**7]  otherwise relied on the faulty SPD." Greeley, No. 04-cv-05023, 2006 U.S. Dist. LEXIS 47019, slip op. at 6. The district court observed the financial harm to Greeley that resulted from the nonpayment of benefits for two years, but we have previously determined that such financial loss, without detrimental reliance, provides an insufficient basis for recovery. See Maxa, 972 F.2d at 984.
+Accordingly, we reverse the district court's grant of summary judgment in favor of Greeley and remand for further proceedings consistent with this opinion.  
+Concur by: GRUENDER  
+Concur
+
+
+
+
+GRUENDER, Circuit Judge, concurring.
+I concur in the court's judgment reversing the district court's grant of summary judgment in favor of Greeley but would reach that result in a different manner. The court assumes without deciding that the February 1998 memorandum was a faulty SPD. Ante 2006 U.S. Dist. LEXIS 47019, at 4. I believe that the February 1998 memorandum was not an SPD as a matter of law under Antolik, a determination which necessarily precedes the reliance or prejudice inquiry. See Antolik, 463 F.3d at 800-01 (noting that the rule requiring that a faulty SPD provision supercede a plan provision where the claimant proves reliance [**8]  or prejudice "does not apply if the conflicting document on which the claimant relies was so thoroughly lacking in the required detail that it cannot be deemed even a faulty SPD."). I would therefore not reach the reliance or prejudice issue upon which the court bases its decision.
+In Antolik, we stated,
+We require that a document substantially comply with ERISA's formal requirements because there should be no accidental or inadvertent SPDs. If a document is to be afforded the legal effects of an SPD, such as conferring benefits when it is at variance with the plan itself, that document should be sufficient to constitute an SPD for filing and qualification purposes.
+Id. at 801 (internal quotations and citations omitted). The formal requirements of an SPD are found in 29 U.S.C. § 1022(b) and 29 C.F.R. § 2520.102-2, 102-3. Id. at 800. The statute requires that an SPD contain the following information:
+. the name and type of administration of the plan;
+. the name and address of the designated agent for service of process, if not the administrator;
+. the name and address [**9]  of the administrator;
+. the plan's requirements respecting eligibility for participation and benefits;
+
+
+. circumstances which may result in disqualification, ineligibility, or denial or loss of benefits;
+
+
+. the source of financing of the plan and the identity of any organization through which benefits are provided;
+
+
+. the date of the end of the plan year and how the plan records are kept; and
+. the procedures for presenting claims for benefits and the remedies for denied claims.
+ [*616]  See 29 U.S.C. § 1022(b) (additional requirements omitted); see also Palmisano v. Allina Health Sys., 190 F.3d 881, 888 (8th Cir. 1999). The regulations further require that an SPD contain the employer identification number assigned by the IRS to the plan sponsor, the plan number assigned by the plan sponsor and a statement of a plan participant's ERISA rights. See 29 C.F.R. § 2520.102-3. 3 
+ [**10]  In holding that a letter that Saks, Incorporated had directed to its employees did not constitute an SPD as a matter of law, the Antolik court noted that the letter lacked any indication that it intended to be an SPD, nor did it explain complex plan provisions regarding termination of a participant's eligibility, available benefits, claims procedures and remedies for claim denials. 463 F.3d at 802. The court found the omission of an ERISA rights statement particularly significant. Id. at 801-02. Here, the February 1998 memorandum and its attachment have the same deficiencies as the letter analyzed in Antolik. In addition, the February 1998 memorandum and its attachment do not identify the type of administration of the plan, the identity of the organization through which the LTD benefits are provided, the date of the end of the plan year and how plan records are kept, and the employer identification number and plan number. See 29 U.S.C. § 1022(b); 29 C.F.R. § 2520.102-3. Since this February 1998 memorandum does not substantially comply with the statutory and regulatory requirements for an [**11]  SPD, it does not constitute an SPD as a matter of law. See Antolik, 463 F.3d at 801-02.
+Because I would hold that the February 1998 memorandum was not a faulty SPD as a matter of law, I would not reach the question addressed today by the court, whether Greeley relied on or was prejudiced by the February 1998 memorandum, because "an ERISA plan cannot be changed by informal amendments, even if employees relied on those amendments." Antolik, 463 F.3d at 801.   
+
+ 
+
+End of Document

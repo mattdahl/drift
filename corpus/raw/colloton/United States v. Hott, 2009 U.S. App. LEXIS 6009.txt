@@ -1,0 +1,43 @@
+
+  NeutralAs of: September 19, 2020 7:48 PM Z
+United States v. Hott
+United States Court of Appeals for the Eighth Circuit
+February 27, 2009, Submitted; March 23, 2009, Filed
+No. 07-1494
+
+Reporter
+2009 U.S. App. LEXIS 6009 *
+ United States of America, Appellee, v. Patrick Donald Hott, Appellant.  
+Notice: PLEASE REFER TO FEDERAL RULES OF APPELLATE PROCEDURE RULE 32.1 GOVERNING THE CITATION TO UNPUBLISHED OPINIONS.
+  
+Prior History:  [*1] On Remand from the United States Supreme Court.
+Hott v. United States, 129 S. Ct. 994, 173 L. Ed. 2d 288, 2009 U.S. LEXIS 619 (U.S., 2009)  
+Counsel: For United States, Plaintiff - Appellee: Erica MacDonald, U.S. ATTORNEY'S OFFICE, District of Minnesota, Minneapolis, MN. 
+For Patrick Donald Hott, Defendant - Appellant: Charles Hawkins, CHARLES L. HAWKINS LAW OFFICES, Minneapolis, MN. 
+Patrick Donald Hott, Defendant - Appellant, Pro se, Pekin, IL.  
+Judges: Before MURPHY, COLLOTON, and SHEPHERD, Circuit Judges. COLLOTON, Circuit Judge, concurring.  
+Opinion
+
+
+
+
+PER CURIAM.
+This case is before us on remand from the Supreme Court vacating the judgment previously entered in this case and directing reconsideration in light of Begay v. United States, 128 S.Ct. 1581, 170 L. Ed. 2d 490 (2008).
+Patrick Donald Hott pled guilty to distribution of, and aiding and abetting the distribution of, in excess of 50 grams of methamphetamine, in violation of 21 U.S.C. § 841(a)(1), (b)(1)(A)(viii), and 18 U.S.C. § 2. The district court classified him as a career offender under U.S.S.G. § 4B1.1, which applies to adult offenders who have been convicted three or more times for a "crime of violence" or "controlled substance offense" as defined in U.S.S.G. § 4B1.2. One of the convictions relied upon for enhanced sentencing was auto theft under Minnesota law.  [*2] On appeal we agreed that these offenses were crimes of violence under our circuit precedent, e.g., United States v. Sun Bear, 307 F.3d 747, 753 (8th Cir. 2002), and affirmed the judgment. Subsequently the Supreme Court decided Begay in which it held that the New Mexico offense of driving under the influence was not a violent felony for purposes of the Armed Career Criminal Act, 18 U.S.C. § 924(e)(1), because the crime as defined did not resemble the example crime in the Act, all of which involved purposeful, violent, and aggressive conduct. 128 S.Ct. at 1584, 1586-87.
+Based on a similar analysis we have more recently concluded that the Minnesota crime of auto theft is not a "crime of violence" within the meaning of U.S.S.G. § 4B1.2(a). United States v. Aleman, 548 F.3d 1158, 1168 (8th Cir. 2008); see also United States v. Thomas, 300 Fed. Appx. 447, 2008 WL 5047114 (8th Cir. 2008) (per curiam), reh'g en banc denied (Feb. 20, 2009) (Missouri crime of auto tampering not "violent felony" under Armed Career Criminal Act). We therefore conclude that Hott cannot be sentenced as a career offender.
+Accordingly, we vacate the judgment and remand to the district court for resentencing.
+Concur by: COLLOTON  
+Concur
+
+
+
+
+COLLOTON,  [*3] Circuit Judge, concurring.
+I agree that whether the appellant's conviction for "auto theft" in Minnesota qualifies as a crime of violence under USSG § 4B1.2 is controlled by United States v. Aleman, 548 F.3d 1158, 1168 (8th Cir. 2008), which in turn followed the panel decision in United States v. Williams, 537 F.3d 969 (8th Cir. 2008). Williams relied on the Supreme Court's decision in Begay v. United States, 128 S. Ct. 1581, 170 L. Ed. 2d 490 (2008), to overrule circuit precedent holding that the Missouri offenses of auto theft and tampering with an automobile by operation were crimes of violence. Williams, 537 F.3d at 971. Aleman applied Williams to auto theft in Minnesota. 548 F.3d at 1168. Williams and Aleman thus dictate that the appellant's conviction for auto theft is not a crime of violence.
+A petition for rehearing en banc in Williams was denied on a vote of five to five, with one judge not participating. See United States v. Williams, 537 F.3d 969, 974 (8th Cir. 2008). The government, seeking a vote of the full court, then petitioned for rehearing en banc in a case that involved only the lesser-included Missouri offense of tampering by operation, and the petition was denied. United States v. Thomas, 300 F. App'x 447 (8th Cir.)  [*4] (per curiam), reh'g en banc denied, id. at 447 & n.* (8th Cir. 2008); cf. United States v. Dabney, 300 F. App'x 432, 432-33 (8th Cir. 2008) (per curiam) (following Williams to conclude that auto theft without consent in Missouri is not a violent felony under the Armed Career Criminal Act).
+Based on this sequence, it might appear that the full court has not been polled on the question whether the Williams decision should stand with respect to the offense of auto theft. This is true with respect to auto theft in Missouri, but auto theft in Minnesota is defined differently than auto theft in Missouri. The distinction between auto theft and tampering by operation in Missouri turns on the permanence of the offender's intent to deprive the owner of possession. See United States v. Johnson, 417 F.3d 990, 997 (8th Cir. 2005), overruled on other grounds by Williams, 537 F.3d 969. In Minnesota, however, an offender commits auto theft by taking or driving a motor vehicle without the consent of the owner, knowing or having reason to know that the owner did not give consent -- without regard to whether the offender's intent is to deprive the owner of possession permanently or temporarily. Minn. Stat. § 609.52, subd. 2(17).  [*5] The elements of auto theft in Minnesota thus encompass conduct that would constitute both auto theft and tampering by operation in Missouri. And if tampering by operation in Missouri does not qualify as a crime of violence, then auto theft in Minnesota will not qualify, because the elements of auto theft in Minnesota do not require an intent to deprive the owner of possession permanently.
+The full court has not been polled on whether to revisit the holding of Williams that auto theft in Missouri is not a crime of violence. 1  Even if the court were to overrule that aspect of Williams, however, such a decision is unlikely to affect whether a conviction for auto theft as defined in Minnesota qualifies as a crime of violence. With these observations, I concur in the judgment.
+
+ 
+
+End of Document

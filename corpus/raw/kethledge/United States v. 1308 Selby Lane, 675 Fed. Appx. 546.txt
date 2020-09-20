@@ -1,0 +1,45 @@
+
+  NeutralAs of: September 19, 2020 8:20 PM Z
+United States v. 1308 Selby Lane
+United States Court of Appeals for the Sixth Circuit
+January 10, 2017, Filed
+File Name: 17a0019n.06
+Case No. 15-6353
+
+Reporter
+675 Fed. Appx. 546 *; 2017 U.S. App. LEXIS 585 **; 2017 FED App. 0019N (6th Cir.); 2017 WL 87021
+ UNITED STATES OF AMERICA, Plaintiff-Appellee, v. 1308 SELBY LANE, KNOXVILLE, TN 37922, REAL PROPERTY, Defendant, KNOX COUNTY, Defendant-Appellant.  
+Notice: NOT RECOMMENDED FOR FULL-TEXT PUBLICATION. SIXTH CIRCUIT RULE 28 LIMITS CITATION TO SPECIFIC SITUATIONS. PLEASE SEE RULE 28 BEFORE CITING IN A PROCEEDING IN A COURT IN THE SIXTH CIRCUIT. IF CITED, A COPY MUST BE SERVED ON OTHER PARTIES AND THE COURT. THIS NOTICE IS TO BE PROMINENTLY DISPLAYED IF THIS DECISION IS REPRODUCED.
+  
+Prior History:  [**1] ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF TENNESSEE.
+United States v. Real Prop. Located at 1308 Selby Lane, 2015 U.S. Dist. LEXIS 50102 (E.D. Tenn., Apr. 16, 2015)  
+Counsel: For UNITED STATES OF AMERICA, Plaintiff - Appellee: Anne-Marie Svolto, Office of the U.S. Attorney, Knoxville, TN. 
+For KNOX COUNTY, Defendant - Appellant: Daniel Allen Sanders, Knox County Law Director's Office, Knoxville, TN.  
+Judges: BEFORE: CLAY, KETHLEDGE, and DONALD, Circuit Judges. KETHLEDGE, Circuit Judge, concurring in the judgment in part and dissenting in part.  
+Opinion by: BERNICE BOUIE DONALD  
+Opinion
+
+
+
+
+ [*546]  BERNICE BOUIE DONALD, Circuit Judge. Knox County, Tennessee ("Knox County") claims that the United States Attorney  [*547]  denied it, as a local taxing authority, due process in a forfeiture proceeding involving real property located at 1308 Selby Lane and 1525 Wembley Hill Road, Knoxville, Tennessee (collectively, the "Defendant Property"). Based on that premise, Knox County filed a motion for relief from judgement and to determine the validity and extent of tax liens it held on the Defendant property. The district court denied the motion finding the forfeiture proceeding was valid. Knox County appeals. Because Knox County did not properly intervene in the district court case, it was never a proper party to the lawsuit, [**2]  and so this Court lacks subject matter jurisdiction over this proceeding. Thus we DISMISS Knox County's appeal.
+I.
+The United States initiated an in rem civil forfeiture action on October 1, 2010 against the Defendant Property. On September 27, 2012, the district court entered an ex parte Agreed Consent Order and Entry of Forfeiture (the "Ex Parte Consent Order") purporting to forfeit the Defendant Property to the United States. On October 24, 2014 the United States informed Knox County that the Defendant Property was scheduled to be sold. On November 6, 2014, Knox County and the United States filed a Joint Motion for Agreed Order Holding Proceeds of Sale in Escrow (the "Joint Motion") until the validity and extent of Knox County's tax lien could be formally resolved. On December 12, 2014, Knox County filed a separate Motion for Relief from Judgment and to Determine the Validity and Extent of Tax Lien. On April 16, 2016, the district court issued a Memorandum and Opinion denying Knox County's motion. On May 13, 2015, Knox County filed a Motion to Alter or Amend Judgment. On October 29, 2015, the district court denied this motion as well. Knox County filed the instant appeal on December [**3]  8, 2015.
+II.
+Although the parties did not raise the issue in their briefs, this Court has "an independent obligation to determine whether subject-matter jurisdiction exists, even in the absence of a challenge from any party." Arbaugh v. Y & H Corp., 546 U.S. 500, 514, 126 S. Ct. 1235, 163 L. Ed. 2d 1097 (2006). "If the court determines at any time that it lacks subject-matter jurisdiction, the court must dismiss the action." Fed. R. Civ. P. 12(h)(3). In the absence of jurisdiction, this Court's only function is to announce the lack of jurisdiction and dismiss or remand the case. Steel Co. v. Citizens for a Better Env't, 523 U.S. 83, 94, 118 S. Ct. 1003, 140 L. Ed. 2d 210 (1998) (citing Ex parte McCardle, 74 U.S. 506, 514, 19 L. Ed. 264 (1869)). Because this requirement "springs from the nature and limits of the judicial power of the United States, [it] is inflexible and without exception." Id. at 94-95, quoting Mansfield, C. & L.M.R. Co. v. Swan, 111 U.S. 379, 382, 4 S. Ct. 510, 28 L. Ed. 462 (1884)).
+"The rule that only parties to a lawsuit, or those that properly become parties, may appeal an adverse judgment is well settled." Marino v. Ortiz, 484 U.S. 301, 108 S. Ct. 586, 98 L. Ed. 2d 629 (1988) (per curiam); Karcher v. May, 484 U.S. 72, 77, 108 S. Ct. 388, 98 L. Ed. 2d 327 (1987) (collecting cases); Fidel v. Farley, 534 F.3d 508, 512 (6th Cir. 2008) ("Generally, non-parties cannot appeal from an order of the district court, unless they have first sought leave to intervene as a party."). For this Court to have jurisdiction to hear Knox County's appeal, Knox County must have properly become a party to this lawsuit. Id.; see also United States v. One-Sixth Share, 326 F.3d 36, 40 (1st Cir. 2003)  [*548]  ("Because civil forfeiture is an in rem proceeding, the property subject to forfeiture is the defendant. [**4]  Thus, defenses against the forfeiture can be brought only by third parties, who must intervene."); United States v. All Funds in Account Nos. 747.034/278, 295 F.3d 23, 25, 353 U.S. App. D.C. 23 (D.C. Cir. 2002) ("Civil forfeiture actions are brought against property, not people. The owner of the property may intervene to protect his interest."). There are three ways that Knox County could have intervened in this case. First, Knox County could have filed a verified claim stating its interest in the forfeited property pursuant to the Supplemental Rules for Certain Admiralty and Maritime Claims, as required by the civil forfeiture statute relevant here. See 18 U.S.C. § 983(a)(4)(A); One-Sixth Share, 326 F.3d at 41. Second, Knox County could have moved to intervene before the district court pursuant to Federal Rule of Civil Procedure 24. Finally, Knox County could have asked us for permission to intervene post-judgment for purposes of appeal. See United Airlines, Inc. v. McDonald, 432 U.S. 385, 394, 97 S. Ct. 2464, 53 L. Ed. 2d 423 (1977). Knox County did none of those things. We reviewed the district court records and it appears that Knox County never filed a motion to intervene. Moreover, during oral arguments, Knox County conceded that it did not file a motion to intervene. Thus, we lack jurisdiction to hear this appeal.
+III.
+For the foregoing reasons, we DISMISS this appeal for lack of subject matter jurisdiction. Because we lack jurisdiction, we express no opinion on the [**5]  merits of Knox County's claim.
+Concur by: KETHLEDGE (In Part)  
+Dissent by: KETHLEDGE (In Part)  
+Dissent
+
+
+
+
+KETHLEDGE, Circuit Judge, concurring in the judgment in part and dissenting in part.
+I respectfully disagree with my colleagues that we lack jurisdiction over the entirety of this appeal. True, we lack jurisdiction over the County's appeal from the district court's original consent judgment, if only because that judgment was entered more than four years ago. See Fed. R. App. P. 4(a)(1)(B). But the County also appeals the district court's denial of the County's own motion under Fed. R. Civ. P. 60(b). And the County's problem there is not jurisdictional, but rather that it is not a "party" entitled to relief under Rule 60(b). See generally Bridgeport Music, Inc. v. Smith, 714 F.3d 932, 939 & n.6 (6th Cir. 2013). Nor is the County entitled to relief as a nonparty, not least because the appeal itself is plainly meritless. See id. at 939-42. I would therefore affirm the district court's judgment rather than dismiss the appeal.
+
+ 
+
+End of Document

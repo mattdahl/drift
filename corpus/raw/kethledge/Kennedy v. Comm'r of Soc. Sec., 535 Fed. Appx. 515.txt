@@ -1,0 +1,45 @@
+
+  CautionAs of: September 19, 2020 8:20 PM Z
+Kennedy v. Comm'r of Soc. Sec.
+United States Court of Appeals for the Sixth Circuit
+October 18, 2013, Filed
+File Name: 13a0900n.06
+No. 12-4387
+
+Reporter
+535 Fed. Appx. 515 *; 2013 U.S. App. LEXIS 21451 **; 2013 FED App. 0900N (6th Cir.); 2013 WL 5680179
+ PHYLLIS KENNEDY, Plaintiff-Appellant, v. COMMISSIONER OF SOCIAL SECURITY, Defendant-Appellee.  
+Notice: NOT RECOMMENDED FOR FULL-TEXT PUBLICATION. SIXTH CIRCUIT RULE 28 LIMITS CITATION TO SPECIFIC SITUATIONS. PLEASE SEE RULE 28 BEFORE CITING IN A PROCEEDING IN A COURT IN THE SIXTH CIRCUIT. IF CITED, A COPY MUST BE SERVED ON OTHER PARTIES AND THE COURT. THIS NOTICE IS TO BE PROMINENTLY DISPLAYED IF THIS DECISION IS REPRODUCED.
+  
+Subsequent History: Remanded by Kennedy v. Colvin, 2016 U.S. Dist. LEXIS 4242 (S.D. Ohio, Jan. 13, 2016)  
+Prior History:  [**1] ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE SOUTHERN DISTRICT OF OHIO.
+Kennedy v. Comm'r of Soc. Sec., 2012 U.S. Dist. LEXIS 137652 (S.D. Ohio, Sept. 25, 2012)  
+Counsel: For PHYLLIS KENNEDY, Plaintiff - Appellant: Stephanie D. Dobson, Horenstein, Nicholson & Blumenthal, Dayton, OH. 
+For COMMISSIONER OF SOCIAL SECURITY, Defendant - Appellee: M. Jason Scoggins, Social Security Administration, Office of the General Counsel, Chicago, IL.  
+Judges: BEFORE: COLE, KETHLEDGE, and STRANCH, Circuit Judges.  
+Opinion
+
+
+
+
+ [*515]  PER CURIAM. Phyllis Kennedy appeals the district court's judgment affirming the denial of her application for disability insurance benefits.
+In 2002, Kennedy filed an application for disability insurance benefits, alleging that she became disabled on February 16, 2001. After the Social Security Administration denied the application, Kennedy requested a hearing before an administrative law judge (ALJ). The ALJ determined that Kennedy was not disabled, and the Appeals Council declined to review the case. The district court remanded for further evaluation of medical source opinion evidence.
+On remand, the ALJ conducted a hearing and determined that Kennedy was not disabled. The district court again remanded for additional consideration of medical source opinion evidence. On remand, the ALJ conducted  [**2] two additional hearings and concluded that Kennedy was not disabled. The district court affirmed the ALJ's decision.
+On appeal, Kennedy makes the following arguments: (1) the ALJ improperly weighed the medical source opinion evidence; (2) the ALJ failed to properly consider evidence of her cervical spinal impairment; (3) the ALJ failed to set forth a valid reason for questioning her credibility; and (4) the ALJ's residual functional capacity assessment was not supported by the record.
+"Our review of the ALJ's decision is limited to whether the ALJ applied the correct legal standards and whether the findings of the ALJ are supported by substantial evidence." Blakley v. Comm'r of Soc. Sec., 581 F.3d 399, 405 (6th Cir. 2009). "The substantial-evidence standard is met if a reasonable mind might accept the relevant evidence as adequate to support a conclusion." Id. at 406 (internal quotation marks omitted). "We give de novo review to the district court's conclusions on each issue." Id.
+Upon review, we conclude that the ALJ failed to give good reasons for crediting the opinions of non-examining agency consultants and testifying medical experts, while giving little weight to the opinions of  [**3] Kennedy's treating physicians, Dr. Steven Gamm, Dr. Gary Dunlap, and Dr. Suzann Franer, and consulting physician Dr. Judith O'Connell. See Wilson v. Comm'r of  [*516]  Soc. Sec., 378 F.3d 541, 544 (6th Cir. 2004) (noting that an ALJ must give more weight to opinions from treating sources since "these sources are likely to be the medical professionals most able to provide a detailed, longitudinal picture of [the claimant's] medical impairments . . ."). The record reflects that the ALJ focused on the impairment to Kennedy's lumbar spine without adequately considering a January 9, 2002 CT scan and a June 8, 2007 MRI that showed moderate to severe impairment of Kennedy's cervical spine. In addition, the ALJ discounted Kennedy's subjective complaints of pain without properly addressing the MRI and CT scan results. He also discredited Kennedy's lack of pain relief from various treatments, and the fact that a clinical psychologist had diagnosed her with pain disorder. See Rogers v. Comm'r of Soc. Sec., 486 F.3d 234, 248-49 (6th Cir. 2007); Minor v. Comm'r of Soc. Sec., 513 F. App'x 417, 435-36 (6th Cir. 2013). The ALJ should have given proper consideration to the objective medical evidence in the  [**4] record and he should have given greater, if not controlling, weight to the medical opinions of Kennedy's treating physicians and Dr. O'Connell.
+Accordingly, we vacate the district court's judgment and remand for further administrative proceedings.
+Dissent by: KETHLEDGE  
+Dissent
+
+
+
+
+KETHLEDGE, Circuit Judge, dissenting. An ALJ need not discuss every piece of evidence in the administrative record so long as he considers all of a claimant's medically determinable impairments and his opinion is supported by substantial evidence. See 20 C.F.R. § 404.1545(a)(2); see also Thacker v. Comm'r of Soc. Sec., 99 F. App'x 661, 665 (6th Cir. 2004). Substantial evidence can be "less than a preponderance," but must be adequate for a reasonable mind to accept the ALJ's conclusion. Kyle v. Comm'r of Soc. Sec., 609 F.3d 847, 854 (6th Cir. 2010) (quotation omitted).
+Here, the ALJ considered whether Kennedy's cervical-spine impairments were disabling. The ALJ noted that Kennedy received conservative care after her cervical spine surgery. The ALJ also quoted from Dr. Smith's opinion that, while Kennedy "ha[d] restriction in motion of her cervical and lumbar spine," there was "very little objective evidence" of impairment. In addition,  [**5] the ALJ noted that a 2002 EMG revealed normal findings with no evidence of cervical nerve damage. And the ALJ stated that the 2007 MRI revealed "multi-level disc disease throughout the cervical spine but no evidence of disc herniation." All of this evidence supports the ALJ's conclusion (further supported by several doctors, including Dr. Bolz, Dr. Villanueva, and Dr. Liepack) that Kennedy could do light-intensity work despite her spinal impairments. Thus, the ALJ's opinion was supported by substantial evidence.
+The same substantial evidence supports the ALJ's decision to discount the opinions of doctors Gamm, Dunlap, Franer, and O'Connell; Kennedy's subjective accounts of her pain; her diagnosis of a pain disorder (which only mildly impaired Kennedy's mental functioning); and her lack of relief from various treatments (in which Kennedy was not cooperative).
+In summary, therefore, substantial evidence supports the ALJ's decision. I respectfully dissent.
+
+ 
+
+End of Document

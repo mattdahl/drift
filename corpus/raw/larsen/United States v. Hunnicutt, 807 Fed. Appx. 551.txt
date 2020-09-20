@@ -1,0 +1,56 @@
+
+  NeutralAs of: September 19, 2020 8:23 PM Z
+United States v. Hunnicutt
+United States Court of Appeals for the Sixth Circuit
+May 29, 2020, Filed
+File Name: 20a0310n.06
+No. 19-2044
+
+Reporter
+807 Fed. Appx. 551 *; 2020 U.S. App. LEXIS 17144 **; 2020 FED App. 0310N (6th Cir.)
+ UNITED STATES OF AMERICA, Plaintiff-Appellee, v. CRAIG EDWARD HUNNICUTT, JR., Defendant-Appellant.  
+Notice: NOT RECOMMENDED FOR FULL-TEXT PUBLICATION. SIXTH CIRCUIT RULE 28 LIMITS CITATION TO SPECIFIC SITUATIONS. PLEASE SEE RULE 28 BEFORE CITING IN A PROCEEDING IN A COURT IN THE SIXTH CIRCUIT. IF CITED, A COPY MUST BE SERVED ON OTHER PARTIES AND THE COURT. THIS NOTICE IS TO BE PROMINENTLY DISPLAYED IF THIS DECISION IS REPRODUCED.
+  
+Prior History:  [**1] ON APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE WESTERN DISTRICT OF MICHIGAN.
+United States v. Hunnicutt, 2006 U.S. Dist. LEXIS 88189 (W.D. Mich., Dec. 6, 2006)  
+Counsel: For United States of America, Plaintiff - Appellee: Nils R. Kessler, Assistant U.S. Attorney, Office of the U.S. Attorney, Grand Rapids, MI. 
+For Craig Edward Hunnicutt, Jr., Defendant - Appellant: Anna R. Rapa, The Law Office of Anna R. Rapa, Mears, MI.  
+Judges: BEFORE: BOGGS, GRIFFIN, and LARSEN, Circuit Judges. LARSEN, Circuit Judge, concurring.  
+Opinion by: GRIFFIN  
+Opinion
+
+
+
+
+ [*551]  GRIFFIN, Circuit Judge.
+Defendant Craig Hunnicutt appeals the district court's denial of his motion for a sentence reduction pursuant to the First Step Act of 2018. See Pub. L. No. 115-391, 132 Stat. 5194. We dismiss the appeal because it does not fall within the narrow class of cases for which we may order relief under 18 U.S.C. § 3742.
+I.
+In 2006, Hunnicutt pleaded guilty to possessing with intent to distribute five or more grams of cocaine base and to possessing a gun in furtherance of that crime. The district court sentenced defendant to 204 months' imprisonment.
+Hunnicutt did not appeal his conviction or sentence, but in the years to come, he moved the district court several times for modification of his sentence pursuant to 18 U.S.C. § 3582(c)(2). The first time, the district court found him eligible for a reduction, but [**2]  declined to modify his sentence based in part on defendant's conduct in prison, which included disciplinary sanctions for carrying an 8-inch metal shank, possession of intoxicants, and lying to staff. It was much the same two years later, when the district court denied Hunnicutt's second motion for a sentence reduction, as the court expressed a continued belief that defendant was "a threat to society." After defendant filed his third motion, the court's probation officer recommended that Hunnicutt's sentence be reduced from 204 months' imprisonment to 144 months' imprisonment. The district court was not swayed, however:
+After considering Defendant's request, his criminal conduct, his continuing breaking of the rules, his danger to the community, the nature of his original offenses, and the facts and circumstances set forth in his original Presentence Investigation Report, this Court has decided that it will not reduce Defendant's sentence.
+After Congress passed the First Step Act, Hunnicutt moved to reduce his sentence a fourth time. Once again, the court recognized that defendant was eligible for a sentence reduction but denied relief:
+As Defendant and the Government note, Judge Jonker [**3]  and the undersigned have denied Defendant's requests for sentence reductions three times, each time citing Defendant's history and propensity for violent and threatening behavior. Upon consideration of Defendant's and his counsel's arguments, the Court finds nothing in their submissions that persuades the Court to depart from its  [*552]  prior determinations. In addition, the Court notes that Defendant remains incarcerated at a Bureau of Prisons facility that houses inmates that are extremely dangerous or violent.
+Accordingly, Defendant's Motions for Modification or Reduction of Sentence Under the First Step Act are DENIED.
+Record citations omitted. Hunnicutt timely appealed the district court's order.
+II. 
+A.
+As a threshold issue, we must determine whether we have jurisdiction over this appeal.
+In United States v. Bowers, we held that 18 U.S.C. § 3742 limited our ability to review appeals of an "otherwise final sentence." 615 F.3d 715, 718 (6th Cir. 2010). In so deciding, we conceptualized § 3742 as a jurisdictional limit on appellate review. In other words, because § 3742 was intended to be "the exclusive avenue through which a party can appeal a sentence," we reasoned that a criminal defendant could not invoke 28 U.S.C. § 1291 "to circumvent the conditions imposed by 18 U.S.C. § 3742 [**4] ." Id. at 719 (citations omitted). Thus, the government contends that our jurisdiction is limited to the extent provided by § 3742(a), and that like Bowers, defendant's appeal does not fit within any of the four categories delineated therein.
+However, we recently clarified in United States v. Marshall that § 3742(a) does not limit our subject-matter jurisdiction, but rather, it "confin[es] our power to grant certain types of relief in sentencing appeals." 954 F.3d 823, 829 (6th Cir. 2020). To put it differently, § 3742 imposes "a mandatory limit on our power, not a subject-matter jurisdiction limit on our power." Id. at 827. Given this understanding, we concluded that "Section 1291 . . . remains the main source of our subject-matter jurisdiction in these appeals." Id. at 831. In closing, we noted that we were not deciding whether appellate courts have authority to review First Step Act appeals. Id. Whether we have authority to review such appeals or not, we explained that the issue "is not one that turns on the subject-matter jurisdiction of the federal courts." Id. Consistent with Marshall, we hold that 28 U.S.C. § 1291 provides subject-matter jurisdiction over Hunnicutt's appeal.
+B.
+"While we have subject matter jurisdiction over the appeal under § 1291, it does not follow that we necessarily have authority to grant relief." Id. at 829. In other words, even if § 3742 does not circumscribe our jurisdiction, it may still limit our authority to [**5]  order relief. See id. We must thus determine whether Hunnicutt's appeal fits within any of the four scenarios identified by § 3742(a).
+Hunnicutt argues that the district court erred by "fail[ing] to recognize the full extent of its discretion." This, he says, is because the district court incorporated its prior orders resolving his motions brought under 18 U.S.C. § 3582(c)(2). Extrapolating from this observation, Hunnicutt speculates that the district court did not understand that it was free to consider other, unspecified factors that it could not have considered in resolving his prior motions.
+However, Hunnicutt's appeal cannot be considered to challenge a sentence "imposed in violation of law," as permitted by 18 U.S.C. § 3742(a)(1). As explained in Marshall, a district court does not "impose" a sentence by denying a motion for a discretionary sentence reduction. See 954 F.3d at 830 ("[I]t makes no sense to say declining to modify a sentence 'imposes' a sentence."). For this simple reason,  [*553]  § 3742(a)(1) does not authorize us to order the relief defendant seeks; no sentence was "imposed" upon him as a result of the district court's denial of his motion.1  Nor does any other provision of § 3742(a) even plausibly provide us with authority under the circumstances presented here. [**6]  Therefore, Hunnicutt's appeal does not fit within the narrow class of sentencing appeals for which we may order relief. This conclusion renders Hunnicutt's appeal non-justiciable and precludes further review of his arguments.2 
+III.
+For these reasons, we dismiss the appeal.
+Concur by: LARSEN  
+Concur
+
+
+
+
+LARSEN, Circuit Judge, concurring. As the opinion of the court explains, in United States v. Marshall, this court held that 18 U.S.C. § 3742 is not jurisdictional; instead, 28 U.S.C. § 1291 grants us jurisdiction over this appeal. 954 F.3d 823, 829 (6th Cir. 2020). And as the majority opinion also explains, Hunnicutt is not entitled to relief on the merits. I therefore would not reach the question addressed in part II.B. of the majority opinion. I otherwise concur.
+
+ 
+
+End of Document

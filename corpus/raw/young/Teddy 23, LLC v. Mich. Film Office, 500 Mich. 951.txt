@@ -1,0 +1,46 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+Teddy 23, LLC v. Mich. Film Office
+Supreme Court of Michigan
+March 29, 2017, Decided
+SC: 153420-1
+
+Reporter
+500 Mich. 951 *; 891 N.W.2d 469 **; 2017 Mich. LEXIS 480 ***; 2017 WL 1238021
+ TEDDY 23, LLC and MICHIGAN TAX CREDIT FINANCE, LLC d/b/a MICHIGAN PRODUCTION CAPITAL, Plaintiffs-Appellants, v MICHIGAN FILM OFFICE and DEPARTMENT OF TREASURY, Defendants-Appellees.  
+Prior History:  [***1] COA: 323299; 323424. Ingham CC: 14-000702-AA. Court of Claims: 14-000039-MT.
+Teddy 23, LLC v. Mich. Film Office, 313 Mich. App. 557, 884 N.W.2d 799, 2015 Mich. App. LEXIS 2389 (Dec. 15, 2015)  
+Judges: Stephen J. Markman, Chief Justice. Robert P. Young, Jr., Brian K. Zahra, Bridget M. McCormack, David F. Viviano, Richard H. Bernstein, Joan L. Larsen, Justices. YOUNG J. (dissenting).  
+Opinion
+
+
+
+
+  [**469]   [*951]  Order
+On March 8, 2017, the Court heard oral argument on the application for leave to appeal the December 15, 2015 judgment of the Court of Appeals. On order of the Court, the application is again considered, and it is DENIED, because we are not persuaded that the questions presented should be reviewed by this Court.
+Dissent by: YOUNG  
+Dissent
+
+
+
+
+Young, J. (dissenting).
+I respectfully dissent from the order denying leave to appeal. I would reverse the judgment of the Court of Appeals because I believe the plain text of MCL 600.6419(1) clearly vested the Court of Claims with exclusive jurisdiction over plaintiffs' claim.
+Plaintiffs are a film production company and a financer of that company who sought a film tax credit pursuant to the now-repealed MCL 208.1455. Defendant Michigan Film Office (MFO) denied plaintiffs' request for a postproduction certificate of completion—a prerequisite for receiving a film tax credit.
+ [*952]  Plaintiffs filed a complaint in the Court of Claims against MFO and [***2]  the Department of Treasury, the department in which MFO was located at the time of the dispute.1  Plaintiffs asked the court to overturn the denial, to require that defendants issue the requested tax credit, and to award plaintiffs compensatory damages of $3 million. Defendants moved for summary disposition under MCR 2.116(C)(4), arguing that the Court of Claims lacked subject matter jurisdiction over the claim because the circuit court had exclusive jurisdiction over this appeal from an administrative agency decision. In response to defendants' motions for summary disposition, plaintiffs filed a delayed application for leave to appeal in the Ingham Circuit Court on June 10, 2014. The circuit court denied plaintiffs' delayed application on June 17, 2014.2  On July 29, 2014, the circuit court denied by order plaintiffs' motion for reconsideration of the denial.
+The Court of Claims granted summary disposition to defendants on August 8, 2014, under MCR 2.116(C)(4), concluding that it lacked subject matter jurisdiction  [**470]  over the claim pursuant to MCL 600.6419(5) and MCL 600.631. The Court of Appeals affirmed, holding that the Court of Claims did not have subject matter jurisdiction over plaintiffs' appeal.3  Although the analysis in the Court of Appeals [***3]  opinion is sparse, the Court of Appeals apparently believed that, notwithstanding the plain language of MCL 600.6419(1)(a) vesting exclusive jurisdiction in the Court of Claims over claims and demands against the state and its departments, the Court of Claims could have jurisdiction over plaintiffs' claim only if some other statute conferred it with jurisdiction.4  The Court of Appeals committed a significant error of statutory interpretation when it ignored the jurisdictional grant contained in MCL 600.6419(1)(a), and I would take up this case to correct this error.
+ [*953]  The jurisdiction of the Court of Claims is delineated in MCL 600.6419:
+(1) Except as provided in sections 6421 and 6440,5  the jurisdiction of the court of claims, as conferred upon it by this chapter, is exclusive. . . . Except as otherwise provided in this section, the court has the following power and jurisdiction:
+(a) To hear and determine any claim or demand, statutory or constitutional, liquidated or unliquidated, ex contractu or ex delicto, or any demand for monetary, equitable, or declaratory relief or any demand for an extraordinary writ against the state or any of its departments or officers notwithstanding another law that confers jurisdiction of the case in the circuit court.
+* [***4]  * *
+(5) This chapter does not deprive the circuit court of exclusive jurisdiction over appeals from the district court and administrative agencies as authorized by law.
+MCL 600.6419(1)(a) gives the Court of Claims exclusive jurisdiction over "any demand for monetary, equitable, or declaratory relief . . . against the state or any of its departments or officers." Plaintiffs' complaint asked the Court of Claims to overturn the MFO's decision, to order that the Department of Treasury issue the tax credit, and to award plaintiffs $3 million in compensatory damages. Plaintiffs' complaint thus demanded monetary and equitable relief from state agencies.6  Therefore, MCL 600.6419(1)(a) gave the Court of Claims exclusive jurisdiction "[t]o hear and determine" plaintiffs' claims.
+The lower courts implicitly held that MCL 600.6419(5) nonetheless deprived the Court of Claims of this exclusive jurisdiction. This was erroneous. MCL 600.6419(1)(a) grants the Court of Claims exclusive jurisdiction over a broad array of claims and demands "notwithstanding another law that confers jurisdiction of the case in the circuit court." MCL 600.6419(5) provides that if some other law grants exclusive jurisdiction to the [***5]  circuit court  [**471]  over an appeal from an administrative agency, the circuit court rather than the Court of Claims will have  [*954]  exclusive jurisdiction over that appeal. Accordingly, this statute contemplates that MCL 600.6419(1)(a) will displace concurrent jurisdiction with the circuit court but, pursuant to MCL 600.6419(5), will not vest jurisdiction in the Court of Claims if the circuit court has exclusive jurisdiction.
+The lower courts apparently concluded that MCL 600.631 did give the circuit court exclusive jurisdiction over plaintiffs' claim. Again, this was in error. MCL 600.631 provides:
+An appeal shall lie from any order, decision, or opinion of any state board, commission, or agency, authorized under the laws of this state to promulgate rules from which an appeal or other judicial review has not otherwise been provided for by law, to the circuit court of the county of which the appellant is a resident or to the circuit court of Ingham county, which court shall have and exercise jurisdiction with respect thereto as in nonjury cases. Such appeals shall be made in accordance with the rules of the supreme court.
+Thus, MCL 600.631 gives circuit courts jurisdiction over appeals from "any . . . decision . . . of any state . . . agency, authorized under the [***6]  laws of this state to promulgate rules from which an appeal or other judicial review has not otherwise been provided for by law." Plaintiffs are appealing the MFO's decision to deny a postproduction certificate of completion; the MFO is a state agency authorized to promulgate rules.7  However, MCL 600.631 divests the exclusive jurisdiction of the Court of Claims only if MCL 600.631 gives the circuit court exclusive jurisdiction. MCL 600.631 nowhere uses language suggesting that the circuit court's jurisdiction over appeals from agency decisions is exclusive.8  It uses mandatory language, suggesting that when the conditions in MCL 600.631 are met, the circuit court does have jurisdiction, but it does not make that jurisdiction exclusive. Indeed, MCL 600.631 itself contemplates that it will provide jurisdiction in the circuit court only when "an appeal or other judicial review has not otherwise been provided for by law." MCL 600.6419(1)(a) does otherwise provide for judicial review.
+ [*955]  Accordingly, I believe that MCL 600.6419(1)(a) grants the Court of Claims exclusive jurisdiction over plaintiffs' claim, and I dissent from the order denying leave to appeal. I would instead reverse and remand the case to the Court [***7]  of Claims for further proceedings.
+
+ 
+
+End of Document

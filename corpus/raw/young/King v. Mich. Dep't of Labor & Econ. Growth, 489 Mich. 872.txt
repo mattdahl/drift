@@ -1,0 +1,38 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+King v. Mich. Dep't of Labor & Econ. Growth
+Supreme Court of Michigan
+April 8, 2011, Decided
+SC: 140684
+
+Reporter
+489 Mich. 872 *; 795 N.W.2d 817 **; 2011 Mich. LEXIS 583 ***
+ STEVEN EDWARD KING, Plaintiff-Appellee, v STATE OF MICHIGAN, MICHIGAN DEPARTMENT OF LABOR AND ECONOMIC GROWTH, and COMMISSIONER OF THE OFFICE OF FINANCIAL AND INSURANCE REGULATION, Defendants-Appellants.  
+Prior History:  [***1] COA: 288290. Ingham CC: 08-000814-CZ.
+King v. State, 488 Mich. 208, 793 N.W.2d 673, 2010 Mich. LEXIS 2589 (2010)  
+Judges: Robert P. Young, Jr., Chief Justice. Michael F. Cavanagh, Marilyn Kelly, Stephen J. Markman, Diane M. Hathaway, Mary Beth Kelly, Brian K. Zahra, Justices. YOUNG, C.J. (dissenting). MARKMAN, J., joins the statement of YOUNG, C.J.  
+Opinion
+
+
+
+
+  [*872]   [**817]  Order
+On order of the Court, the motion for rehearing is considered, and it is DENIED.
+Dissent by: Robert P. Young, Jr.  
+Dissent
+
+
+
+
+Young, C.J. (dissenting).
+I respectfully dissent from the decision to deny rehearing in this case. This case called upon this Court to interpret the relevant licensing provisions of the amended Insurance Code, which preclude persons who have been convicted of a felony from receiving a resident insurance producer license. The Office of Financial and Insurance Services (OFIS) failed to discharge its statutory duties and enforce relevant statutory mandates when it granted plaintiff an insurance license in 2004, despite plaintiff's previous conviction of a felony. The decision by OFIS to seek revocation of that license, while unfortunate for the improperly licensed plaintiff, was nonetheless proper because the original licensure was invalid. Governmental administrators, like those in OFIS, cannot act in derogation or contravention  [***2] of their statutory authority when issuing licenses. The original opinion in this case failed to render meaning to all relevant provisions of the Insurance Code by holding to the contrary, and thereby avoided the application of a valid statute. To correct those errors, I would grant rehearing, vacate this Court's prior opinion, and reverse the Court of Appeals.
+I would hold that OFIS correctly resolved the apparent conflict between MCL 500.1205 and MCL 500.1239 in the way that most closely adheres to the Legislature's stated intent. In coming to this conclusion, it is necessary to consider the entire statutory structure of the licensing provisions in the Insurance Code. MCL 500.1205 governs the licensing of resident insurance producers for individuals who reside in Michigan. The licensing of nonresident insurance producers who are licensed in another state but transact business in Michigan, is separately governed by MCL 500.1206a. MCL 500.1239, which specifies the grounds for refusal to grant a license, applies both to resident and nonresident insurance producers.
+ [**818]  The Legislature has chosen to apply differing licensing standards to resident and nonresident insurance producers. While MCL 500.1205  [***3] provides that a resident applicant "shall not" be licensed if he has committed an act described in MCL 500.1239, MCL 500.1206a(1) provides that "[u]nless denied licensure under [MCL 500.1239], a nonresident person shall receive a nonresident insurance producer license . . . ." Thus, the Legislature specifically used discretionary language in MCL 500.1239 to permit the commissioner to determine, in his discretion, whether to "refuse to issue an insurance producer's license" to a nonresident applicant who has been convicted of a felony. At the same time, the Legislature prohibited such issuance to resident applicants by using mandatory language in MCL 500.1205. Plaintiff in this case, as a resident applicant, was subject to the more stringent standard, and OFIS thus had no discretion to deny his application. The original opinions by the majority justices in this case simply failed to consider this structure of the Insurance Code when coming to their [*873]  respective conclusions that the code allows a discretionary standard to be applied to nonresident applicants, and that the code is ambiguous. Indeed, those opinions did not even respond to the alternative construction offered in the original  [***4] dissent. This Court has long held in cases involving similar licensing decisions that revocation procedures must be invoked if a license was granted in excess of an agency's statutory authority. 1 
+This Court's duty to account for the entire structure of the Insurance Code and enforce those statutory provisions as written is particularly important because of the structure of our government, which provides for a separation of powers among the three branches. This system requires that the Legislature and Governor make policy choices and that the courts enforce those policy decisions as written. In this case, because the statute as written at the time of plaintiff's licensing in 2004 mandated that OFIS decline to license anyone who had been convicted of a felony, OFIS should not have licensed plaintiff, and this Court cannot use equity to displace the statutory mandate or otherwise validate that  [***5] improper decision. 2  It would indeed be a strange system of government if every administrator or bureaucrat had the power to make decisions in derogation of the limited statutory powers provided by the Legislature. This Court cannot allow agency decisions to be the ultimate authority in licensing when those decisions are made in a manner contrary to a legislative mandate.
+The inflexibility purposely built into this statute by the Legislature and approved by the Governor is the result of policy determinations made by those political branches of government. Save those statutes that are an affront to the constitution, no court can legitimately employ its limited judicial power to overcome a valid statutory mandate. Nor can the rule of law, as prescribed by MCL 500.1205(1)(b) when read in the context of MCL 500.1239(1)  [***6] and MCL 500.1206a, be displaced by the actions of OFIS administrators. An administrative agency may exercise only the powers provided to it and must act within the parameters conferred upon it by statutory law. 3  Action in excess of these powers or outside these parameters in situations in which the Legislature has mandated a specific outcome is not valid.
+ [*874]  For these reasons and those otherwise stated in my original dissenting opinion in this case, 4  I respectfully dissent from the Court's decision to deny rehearing.
+Markman, J., joins the statement of Young, C.J.
+
+ 
+
+End of Document

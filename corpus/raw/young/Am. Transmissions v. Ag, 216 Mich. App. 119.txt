@@ -1,0 +1,51 @@
+
+  WarningAs of: September 19, 2020 9:19 PM Z
+Am. Transmissions v. Ag
+Court of Appeals of Michigan
+January 16, 1996, Submitted ; March 29, 1996, Decided 
+No. 175472 
+
+Reporter
+216 Mich. App. 119 *; 548 N.W.2d 665 **; 1996 Mich. App. LEXIS 82 ***
+ AMERICAN TRANSMISSIONS, INC., TRANS-4 INC., TRANS RESTORATION, INC., TRANS RESTORATION II, INC., AUTOMOTIVE MANAGEMENT SERVICES, INC., AA TRANSMISSIONS, INC., MELLO AUTOMOTIVE ENTERPRISE, INC., and CROSS RHODES, INC., Plaintiffs-Appellants, v ATTORNEY GENERAL, Defendant-Appellee.  
+Disposition:  [***1]  Remanded.  
+  
+Counsel: Mark Granzotto and Neal Bush, for the plaintiffs. Detroit. 
+Frank J. Kelley, Attorney General, Thomas L. Casey, Solicitor General, and Thomas R. Wheeker, Assistant Attorney General, for the defendant.    
+Judges: Before: Fitzgerald, P.J., and Sawyer and Young, JJ. Sawyer, J., concurred. YOUNG, J. (concurring).    
+Opinion by: E. Thomas Fitzgerald  
+Opinion
+
+
+
+
+ [*120]   [**665]  FITZGERALD, P.J.
+Plaintiffs appeal as of right the order granting summary disposition to defendant on the ground that defendant was entitled to absolute immunity for the allegedly defamatory  [**666]  statements made about plaintiffs, automobile transmission repair facilities, during a television interview. We remand.
+There is no dispute that the Attorney General is authorized to claim absolute immunity under MCL 691.1407(5); MSA 3.996(107)(5), which provides:
+Judges, legislators, and the elective or highest appointive executive officials of all levels of government are immune from tort liability for injuries to persons or damage to property whenever they are acting within the scope of their judicial, legislative, or executive authority.
+Plaintiffs contend, however, that defendant was not acting within the scope of his executive [***2]  authority when he responded to a media request for an interview regarding the investigation of several automobile transmission repair facilities because the investigation had been concluded by the time of the interview. Plaintiffs cite no authority, however, to support their position that defendant's authority to participate in a  [*121]  media interview relates only to currently pending matters. A party may not leave it to this Court to search for authority to sustain or reject the party's position.  People v Hunter, 202 Mich. App. 23, 27; 507 N.W.2d 768 (1993).
+Plaintiffs rely on Marrocco v Randlett, 431 Mich. 700; 433 N.W.2d 68 (1988), and Gracey v Wayne Co Clerk, 213 Mich. App. 412; 540 N.W.2d 710 (1995), to support their argument that defendant was not entitled to absolute immunity because his purpose in participating in the interview was not authorized by law. In Gracey, the Court, interpreting Marrocco, held that there is an intentional tort exception to governmental immunity for the intentional use or misuse of a badge of governmental authority for a purpose unauthorized by law. 1  Gracey, supra at 417. Therefore, assuming that defendant had authority to participate [***3]  in the interview to address an investigation conducted by his office, he nevertheless did not have authority to participate in the interview for the purpose of disseminating false information regarding plaintiffs. If that was defendant's purpose, as claimed by plaintiffs, he was not acting within the scope of his executive authority, and he is not entitled to immunity for those acts. On remand, therefore, the trial court must determine if there is a question of material fact regarding whether defendant was acting within the scope of his executive authority.
+Remanded for further proceedings consistent with this opinion. Jurisdiction is not retained.
+Sawyer, J., concurred.
+/s/ E. Thomas Fitzgerald 
+/s/ David H. Sawyer 
+Concur by:  [*122]  Robert P. Young, Jr.    
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+I write separately to elaborate on the basis for my disagreement with the [***4]  holding of Gracey v Wayne Co Clerk, 213 Mich. App. 412; 540 N.W.2d 710 (1995).
+In deciding this appeal, we are obliged to follow the holding of Gracey by virtue of Administrative Order No. 1994-4. For the reasons that follow, but for our duty to apply Gracey, I would hold that the Attorney General enjoyed statutory governmental immunity from liability under MCL 691.1407(5); MSA 3.996(107)(5), because I conclude that he acted clearly within the scope of his "executive authority" in assenting to a televised interview in order to respond to an issue of public concern involving the conduct of his office. 1 
+ [***5]  Gracey holds that the determination of whether statutory governmental immunity  [**667]  applies in a given case depends upon a two-part inquiry: (1) Does the challenged act fall within the scope of the public official's executive authority--i.e., is the act authorized by our constitution or other law defining the official's authority; and (2) even if the act falls within the authority of the official, did the official act with  [*123]  improper intent?  Gracey, supra, 417-418. A majority of the Gracey panel recognized that its holding, requiring a factual inquiry into the motivation of a public official, largely eviscerates the concept of governmental immunity as that concept had developed in this state, but "reluctantly" reached its decision because that panel read Marrocco v Randlett, 431 Mich. 700; 433 N.W.2d 68 (1988), as requiring this result. I respectfully disagree that Marrocco requires or authorizes an analysis of a public official's motivation for acting as a precondition for determining the applicability of statutory immunity.
+In Marrocco, a case that was not decided on the basis of MCL 691.1407(5); MSA 3.996(107)(5), but on common law governmental immunity doctrine,  [***6]  the mayor of Warren was accused of tortiously interfering with the right of the city attorney to return to his civil service post following his removal from his appointive city position. An ordinance expressly reserved to the attorney in question the right to return to the civil service job. In response to the tortious interference claim, the mayor interposed governmental immunity as a defense. Because of the ordinance, the Court held that the mayor's act of blocking the reinstatement fell outside his authority and was not protected by the doctrine of governmental immunity. Marrocco, supra, 710.
+The Marrocco decision does contain language from a nonbinding opinion in an earlier case signed by only two justices 2  suggesting that improperly motivated actions conducted under the "badge of governmental  [*124]  authority" may nonetheless fall without the protection of governmental immunity. Id., 707-708. However, the precise holding of Marrocco in no way depended upon an inquiry into the intent of a public official, but merely focused upon the factors relevant to determining the scope of the official's authority. Significantly, the Supreme Court used the term "hold" in announcing [***7]  its decision:
+We hold that the highest executive officials of local government are not immune from tort liability for acts not within their executive authority. The determination whether particular acts are within their authority depends on a number of factors, including the nature of the specific acts alleged, the position held by the official alleged to have performed the acts, the charter, ordinances, or other local law defining the officials authority, and the structure and allocation of powers in the particular level of government. [Id., 710-711. Emphasis added.]
+ [***8]  None of the enumerated factors listed in the holding of Marrocco bearing on the question of how a court must determine the scope of a public official's authority even impliedly suggests an inquiry into the official's motivation. Indeed, as aptly noted by the Gracey majority, the fact-intensive analysis of motivation required by Gracey entirely undermines traditional governmental immunity doctrine, now codified  [*125]  at MCL 691.1407(5); MSA 3.996(107)(5). Had the Supreme Court intended such a sea change in our law, it would have said so unequivocally and included such an analysis within the portion of its opinion it specifically denominated as its holding. Because the Supreme Court did not do so, I believe that Gracey was wrongly decided.
+ [**668]  Given the language of MCL 691.1407(5); MSA 3.996(107)(5), it is hard to conclude that our Legislature intended that any challenge to official action be transformed into a judicially refereed psychological skirmish. 3  Neither a plain reading of MCL 691.1407(5); MSA 3.996(107)(5) nor the common-law-based Marrocco decision warrants such a pernicious result.
+ [***9]  /s/ Robert P. Young, Jr.  
+
+ 
+
+End of Document

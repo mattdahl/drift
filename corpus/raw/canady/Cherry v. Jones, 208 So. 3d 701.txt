@@ -1,0 +1,64 @@
+
+  NeutralAs of: September 19, 2020 7:27 PM Z
+Cherry v. Jones
+Supreme Court of Florida
+December 1, 2016, Decided
+No. SC15-957
+
+Reporter
+208 So. 3d 701 *; 2016 Fla. LEXIS 2595 **; 41 Fla. L. Weekly S 584
+ ROGER LEE CHERRY, Petitioner, vs. JULIE L. JONES, etc., Respondent.  
+Subsequent History: Rehearing denied by Cherry v. Jones, 2017 Fla. LEXIS 144 (Fla., Jan. 20, 2017)  
+Prior History: Cherry v. State, 544 So. 2d 184, 1989 Fla. LEXIS 385 (Fla., 1989)  
+Counsel:  [**1] Linda McDermott of McClain & McDermott, P.A., Estero, Florida, for Petitioner. 
+Pamela Jo Bondi, Attorney General, Tallahassee, Florida; and Stacey E. Kircher, Assistant Attorney General, Daytona Beach, Florida, for Respondent.  
+Judges: LABARGA, C.J., and PARIENTE, LEWIS, QUINCE, and PERRY, JJ., concur. PARIENTE, J., concurs with an opinion. CANADY, J., dissents with an opinion, in which POLSTON, J., concurs.  
+Opinion
+
+
+
+
+  [*701]  Original Proceeding — Habeas Corpus
+PER CURIAM.
+This case is before the Court on the petition of Roger Lee Cherry for a writ of habeas corpus. We have jurisdiction. See art. V, § 3(b)(9), Fla. Const. For the following reasons, we grant Cherry's petition and remand to the circuit court for an evidentiary hearing on Cherry's claim of intellectual disability.
+Roger Lee Cherry was convicted of two counts of first-degree murder, after which a jury recommended the sentence of death  [*702]  by a vote of seven to five for the first count and nine to three for the second count. We affirmed the convictions and one of the death sentences but vacated the other sentence with instructions to enter a life sentence. Cherry v. State, 544 So. 2d 184 (Fla. 1989).
+In a 2005 evidentiary hearing, Drs. Gregory Prichard and Peter Bursten testified that Cherry met the criteria for intellectual disability. [**2]  The experts testified that Cherry received a full scale IQ score of 72. The experts also found that Cherry met the other two prongs for establishing that he is intellectually disabled. Nevertheless, the circuit court denied relief, finding that Cherry did not meet the statutory definition of intellectual disability. We affirmed in Cherry v. State, 959 So. 2d 702 (Fla. 2007).
+Cherry asserts that we should revisit our prior decision in which the Court found that Cherry was not intellectually disabled under the first prong of Cherry, thereby precluding consideration of the remaining Atkins v. Virginia, 536 U.S. 304, 122 S. Ct. 2242, 153 L. Ed. 2d 335 (2002), factors. Similar to the defendant in Hall v. Florida, 134 S. Ct. 1986, 188 L. Ed. 2d 1007 (2012), Cherry took multiple IQ tests over the course of thirty-seven years. Cherry, 959 So. 2d at 712 n.6. Based on the new standard imposed by Hall and taking into account the standard error of measurement of IQ tests, we find that Cherry is entitled to an evidentiary hearing on the remaining prongs to establish whether he has an intellectual disability. See Hall, 134 S. Ct. at 1993, 2000, 2001 (stating that a determination of intellectual disability requires a court to "take into account the standard error of measurement" of IQ tests rather than implement a "rigid rule" characterizing intellectual disability as an IQ of 70 or below.) We therefore grant Cherry's petition and remand [**3]  this case to the circuit court for an evidentiary hearing in accordance with Hall. See Walls v. State, 41 Fla. L. Weekly S466 (Fla. Oct. 20, 2016).
+It is so ordered.
+LABARGA, C.J., and PARIENTE, LEWIS, QUINCE, and PERRY, JJ., concur.
+PARIENTE, J., concurs with an opinion.
+CANADY, J., dissents with an opinion, in which POLSTON, J., concurs.
+Concur by: PARIENTE  
+Concur
+
+
+
+
+PARIENTE, J., concurring.
+In 2007, this Court unanimously denied Roger Lee Cherry relief on his claim of intellectual disability because Cherry had a full scale IQ score of 72. Cherry v. State, 959 So. 2d 702 (Fla. 2007). The Court was wrong, as we have now been told by the United States Supreme Court in Hall v. Florida, 134 S. Ct. 1986, 188 L. Ed. 2d 1007 (2014), and the error is of such constitutional magnitude that the Eighth Amendment demands that the error be corrected. I was part of the Court in Cherry that made a legal error—one that could literally mean the difference between life and death.
+Yet Justice Canady, in his dissent in this case, which he elaborates on in his dissent in Walls v. State, 41 Fla. L. Weekly S466, 2016 Fla. LEXIS 2328, 2016 WL 6137287 (Fla. Oct. 20, 2016), states that Cherry should not get the benefit of Hall—even though the United States Supreme Court specifically disapproved of the bright-line IQ cutoff set forth in the very case involving Roger Lee Cherry:
+In summary, every state legislature to have considered the issue after Atkins—save Virginia's—and whose law has been interpreted [**4]  by its courts has taken a  [*703]  position contrary to that of Florida. Indeed, the Florida Legislature, which passed the relevant legislation prior to Atkins, might well have believed that its law would not create a fixed cutoff at 70. The staff analysis accompanying the 2001 bill states that it "does not contain a set IQ level. . . . Two standard deviations from these tests is approximately a 70 IQ, although it can be extended up to 75." Fla. Senate Staff Analysis and Economic Impact Statement, CS/SB 238, p. 11 (Feb. 14, 2001). But the Florida Supreme Court interpreted the law to require a bright-line cutoff at 70, see Cherry, 959 So. 2d, at 712-713, and the Court is bound by that interpretation.
+Hall, 134 S. Ct. at 1998 (emphasis supplied).
+Justice Kennedy, writing for the majority in Hall, also explained the flaw in looking only at IQ as conclusive evidence of intellectual disability:
+It is not sound to view a single factor as dispositive of a conjunctive and interrelated assessment. See DSM—5, at 37 ("[A] person with an IQ score above 70 may have such severe adaptive behavior problems . . . that the person's actual functioning is comparable to that of individuals with a lower IQ score"). The Florida statute, as interpreted by its courts, misuses [**5]  IQ score on its own terms; and this, in turn, bars consideration of evidence that must be considered in determining whether a defendant in a capital case has intellectual disability. Florida's rule is invalid under the Constitution's Cruel and Unusual Punishments Clause.
+Id. at 2001 (emphasis supplied).
+And further directing that intellectual disability could not be determined by a number but by a consideration of all factors, including adaptive functioning, the Supreme Court warned:
+Intellectual disability is a condition, not a number. See DSM—5, at 37. Courts must recognize, as does the medical community, that the IQ test is imprecise. This is not to say that an IQ test score is unhelpful. It is of considerable significance, as the medical community recognizes. But in using these scores to assess a defendant's eligibility for the death penalty, a State must afford these test scores the same studied skepticism that those who design and use the tests do, and understand that an IQ test score represents a range rather than a fixed number. A State that ignores the inherent imprecision of these tests risks executing a person who suffers from intellectual disability. See APA Brief 17 ("Under the universally accepted clinical standards [**6]  for diagnosing intellectual disability, the court's determination that Mr. Hall is not intellectually disabled cannot be considered valid").
+Id. (emphasis supplied).
+As this Court recognized in Oats v. State, Hall changed the manner in which courts must consider evidence of intellectual disability. We stated that: "courts must consider all three prongs in determining an intellectual disability, as opposed to relying on just one factor as dispositive . . . [t]hese factors are interdependent, if one of the prongs is relatively less strong, a finding of intellectual disability may still be warranted based on the strength of other prongs." Oats, 181 So. 3d 457, 467-68 (Fla. 2015).
+Justice demands that Roger Lee Cherry have an opportunity to establish that he is intellectually disabled under the standards established by the United States Supreme Court under the Eighth Amendment, which prohibits the execution of those who  [*704]  are, in fact, intellectually disabled. As we stated in Thompson v. State, SC15-1752, 208 So. 3d 49, 2016 Fla. LEXIS 2489, 2016 WL 6649950, at *1 (Fla. Nov. 10, 2016), "to fail to give [the defendant] the benefit of Hall, which disapproved of Cherry, would result in a manifest injustice, which is an exception to the law of the case doctrine." More than fundamental fairness, the risk of executing a person who is not [**7]  constitutionally eligible for the death penalty surpasses any other considerations that this Court looks to in attempting to ensure the even-handed administration of the death penalty. This principle could not be better expressed than in the words of Justice Kennedy writing for the majority in Hall:
+The death penalty is the gravest sentence our society may impose. Persons facing that most severe sanction must have a fair opportunity to show that the Constitution prohibits their execution. Florida's law contravenes our Nation's commitment to dignity and its duty to teach human decency as the mark of a civilized world. The States are laboratories for experimentation, but those experiments may not deny the basic dignity the Constitution protects.
+Hall, 134 S. Ct. at 2001. I concur with the majority that Cherry is entitled to a new evidentiary hearing pursuant to the United States Supreme Court's decision in Hall and our decision in Oats.
+Dissent by: CANADY  
+Dissent
+
+
+
+
+CANADY, J., dissenting.
+For the reasons I have explained in my dissent in Walls v. State, 41 Fla. L. Weekly S466, 2016 Fla. LEXIS 2328, 2016 WL 6137287 (Fla. Oct. 20, 2016) (Canady, J., dissenting), I have concluded that Hall v. Florida, 134 S. Ct. 1986, 188 L. Ed. 2d 1007 (2014), should not be given retroactive effect. I would therefore deny Cherry relief.
+POLSTON, J., concurs.
+
+ 
+
+End of Document

@@ -1,0 +1,55 @@
+
+  CitedAs of: September 19, 2020 8:30 PM Z
+State v. Diallo
+Supreme Court of Iowa
+December 22, 2017, Filed
+No. 16-0279
+
+Reporter
+905 N.W.2d 394 *; 2017 Iowa Sup. LEXIS 108 **; 2017 WL 6545872
+ STATE OF IOWA, Appellee, vs. THIERNO YAYA DIALLO, Appellant.  
+Prior History:  [**1] On review from the Iowa Court of Appeals. Appeal from the Iowa District Court for Johnson County, Deborah Farmer Minot, District Associate Judge. The State requests further review of a court of appeals decision vacating a defendant's guilty plea.
+  
+Disposition: DECISION OF COURT OF APPEALS AFFIRMED; DISTRICT COURT JUDGMENT REVERSED AND CASE REMANDED.
+  
+Counsel: Anne K. Wilson of Anne K. Wilson Law Office, PLLC, Hiawatha, for appellant. 
+Thomas J. Miller, Attorney General, Thomas E. Bakke, Assistant Attorney General, Janet M. Lyness, County Attorney, and Naeda Elliott, Assistant County Attorney, for appellee.  
+Judges: WIGGINS, Justice. All justices concur except Mansfield and Waterman, JJ., who concur specially.  
+Opinion by: WIGGINS  
+Opinion
+
+
+
+
+ [*394]  WIGGINS, Justice.
+A defendant appealed from the judgment and sentence entered on his guilty plea to assault causing bodily injury. The defendant claimed he did not enter his guilty plea voluntarily because he was uninformed about the potential immigration consequences of the plea, uninformed about the thirty-five percent criminal penalty surcharge applicable to the offense, and uninformed about the victim restitution requirement.
+ [*395]  We transferred the case to our court of appeals. The court of appeals held the defendant [**2]  properly brought a direct appeal because the advisory in the written guilty plea form did not substantially comply with Iowa Rule of Criminal Procedure 2.8(2)(d). Second, the court of appeals held the district court substantially complied with its obligation to advise the defendant of and ascertain his understanding of the adverse immigration consequences resulting from his guilty plea. Third, the court of appeals held the district court did not substantially comply with rule 2.8(2)(b)(2) during the guilty plea colloquy because it omitted information regarding the statutory thirty-five percent surcharge provided for in Iowa Code section 911.1 (2015). Based on the district court's noncompliance, the court of appeals applied a bright-line rule of automatic reversal.
+The State applied for further review, which we granted. On further review, we find the thirty-five percent surcharge issue is dispositive. On the merits, we hold the district court did not substantially comply with rule 2.8(2)(b)(2) because the written guilty plea form failed to inform the defendant about the mandatory thirty-five percent criminal penalty surcharge. Because of the district court's noncompliance, the defendant is entitled to withdraw his plea. Therefore, we affirm the decision of the court of appeals [**3]  and remand the case to the district court for further proceedings.
+ I. Background Facts and Proceedings.
+On November 6, 2015, the State filed a trial information charging Thierno Yaya Diallo with assault causing bodily injury in violation of Iowa Code sections 708.1(2) and 708.2(2), a serious misdemeanor. In a written arraignment, Diallo pled not guilty and waived his right to a speedy trial.
+On January 21, 2016, Diallo signed a preprinted guilty plea form. The box next to the paragraph regarding the penal consequences of pleading guilty to a serious misdemeanor has a check mark. Underneath this paragraph, there is a handwritten sentence reading, "Defendant has been advised of any possible immigration consequences." The form has no information whatsoever regarding the statutory thirty-five percent surcharge and victim restitution.
+The next day, the district court sentenced Diallo without a hearing to ninety days in jail with all but ten days suspended and one year of supervised probation. The court ordered him to pay a $315 fine plus all applicable surcharges and any victim restitution, court costs, and attorney fees. Diallo appealed, arguing his guilty plea was not knowing and voluntary because the written guilty plea form [**4]  did not advise him of the adverse immigration consequences to pleading guilty, did not inform him of the thirty-five percent surcharge, and did not inform him of victim restitution. Diallo also claimed his counsel was ineffective for failing to inform him of the immigration consequences.
+The court of appeals first observed Diallo preserved error and properly brought a direct appeal because the advisory in the written guilty plea form did not substantially comply with rule 2.8(2)(d). Second, it held the guilty plea form substantially complied with a court's duty to inform Diallo and ascertain he understands that entering a guilty plea could result in adverse immigration consequences. Third, the court held the district court did not substantially comply with rule 2.8(2)(b)(2) because it misinformed Diallo of the correct minimum and maximum base fines by omitting the respective increases caused by the mandatory thirty-five percent surcharge. In a footnote, the court of appeals  [*396]  held Diallo's challenge to the district court's failure to inform him about victim restitution was without merit because victim restitution is not punishment. It declined to address Diallo's ineffective-assistance-of-counsel claim because [**5]  it reversed and remanded based on the thirty-five percent surcharge issue.
+The State filed an application for further review, which we granted. In its application, the State concedes the advisory in the written guilty plea form did not substantially comply with rule 2.8(2)(d). Therefore, we will treat this as a direct appeal from the guilty plea. See State v. Fisher, 877 N.W.2d 676, 680-81 (Iowa 2016).
+ II. Issues.
+When reviewing an application for further review, we retain discretion to review all the issues raised on appeal or in the application for further review, or only a portion thereof. Gits Mfg. Co. v. Frank, 855 N.W.2d 195, 197 (Iowa 2014). Although Diallo raises a number of issues in this appeal, we find dispositive the issue of whether the court's failure to inform him about the thirty-five percent surcharge invalidates his plea. Therefore, we will not reach the immigration, restitution, or ineffective-assistance-of-counsel issues. Accordingly, the court of appeals decision on these issues stands as the final decision in this case.
+ III. Scope of Review.
+We review challenges to plea proceedings for correction of errors at law. State v. Meron, 675 N.W.2d 537, 540 (Iowa 2004). In determining whether a plea meets the requirements of rule 2.8(2)(b)(2), we apply the substantial compliance standard. Fisher, 877 N.W.2d at 681-82. "'Substantial compliance' requires at a minimum that the [**6]  defendant be informed of these matters and understand them." State v. Loye, 670 N.W.2d 141, 151 (Iowa 2003).
+ IV. Analysis and Disposition.
+On today's date, we have filed an opinion in State v. Weitzel, 901 N.W.2d 838 (Iowa 2017). The analysis in Weitzel is applicable and controls the issue as to whether the district court's failure to inform Diallo about the statutory thirty-five percent criminal penalty surcharge invalidates his plea.
+Therefore, we set aside Diallo's guilty plea and remand the case to the district court where the State may file any additional charges supported by the available evidence.
+DECISION OF COURT OF APPEALS AFFIRMED; DISTRICT COURT JUDGMENT REVERSED AND CASE REMANDED.
+All justices concur except Mansfield and Waterman, JJ., who concur specially.
+Concur by: MANSFIELD  
+Concur
+
+
+
+
+MANSFIELD, Justice (specially concurring).
+I concur in the judgment. Applying the standard described in my dissent in State v. Weitzel, 901 N.W.2d 838 (2017), I would hold that substantial compliance with Iowa Rule of Criminal Procedure 2.8(2)(b) did not occur. First, unlike in Weitzel, the fine assessed was greater than the maximum fine disclosed to the defendant—i.e., $425 (including the surcharge) versus $315. Second, the defendant here pled guilty to a single serious misdemeanor—assault causing bodily injury—and received ten days in jail, not a substantial prison term as in Weitzel [**7] . Third, and perhaps most importantly, the written plea agreement itself called for a $315 fine, with no reference to a potential surcharge. It was signed by the prosecutor, the defense attorney, and the defendant. With a plea agreement, the  [*397]  standard is strict compliance, not substantial compliance. See State v. Fannon, 799 N.W.2d 515, 522 (Iowa 2011); State v. Bearse, 748 N.W.2d 211, 215 (Iowa 2008). For the foregoing reasons, I join the judgment of the court vacating the defendant's guilty plea and remanding for further proceedings.1 
+Waterman, J., joins this special concurrence.
+
+ 
+
+End of Document

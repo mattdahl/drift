@@ -1,0 +1,58 @@
+
+  NeutralAs of: September 19, 2020 8:30 PM Z
+State v. Herron
+Court of Appeals of Iowa
+December 8, 2010, Filed
+No. 0-700 / 09-1408
+
+Reporter
+2010 Iowa App. LEXIS 1557 *
+ STATE OF IOWA, Plaintiff-Appellee, vs. ANTHONY DARNELL HERRON, Defendant-Appellant.  
+Notice: NO DECISION HAS BEEN MADE ON PUBLICATION OF THIS OPINION. THE OPINION IS SUBJECT TO MODIFICATION OR CORRECTION BY THE COURT AND IS NOT FINAL UNTIL THE TIME FOR REHEARING OR FURTHER REVIEW HAS PASSED. AN UNPUBLISHED OPINION MAY BE CITED IN A BRIEF; HOWEVER, UNPUBLISHED OPINIONS SHALL NOT CONSTITUTE CONTROLLING LEGAL AUTHORITY.
+  
+Subsequent History: Reported at State v. Herron, 795 N.W.2d 99, 2010 Iowa App. LEXIS 1860 (Iowa Ct. App., 2010)  
+Prior History:  [*1] Appeal from the Iowa District Court for Scott County, Mark D. Cleve, Judge. A defendant appeals from his convictions of possession with intent to deliver crack cocaine and failure to affix a drug tax stamp.
+  
+Disposition: REVERSED.
+  
+Counsel: Mark C. Smith, State Appellate Defender, and Stephan J. Japuntich, Assistant Appellate Defender, for appellant. 
+Thomas J. Miller, Attorney General, Bridget A. Chambers, Assistant Attorney General, Michael J. Walton, County Attorney, and Kelly Cunningham, Assistant County Attorney, for appellee.  
+Judges: Considered by Vogel, P.J., and Doyle and Mansfield, JJ. Tabor, J., takes no part. Doyle, J., concurs; Mansfield, J., dissents.  
+Opinion by: VOGEL  
+Opinion
+
+
+
+
+VOGEL, P.J.
+Anthony Herron appeals from his convictions of possession with intent to deliver a schedule two controlled substance (crack cocaine) in violation of Iowa Code sections 124.206(2)(d) and 124.401(1)(b)(3) (2007), and failure to affix a drug tax stamp in violation of Iowa Code section 453B.12. He asserts the district court erred in not granting his motion for judgment of acquittal for lack of sufficient evidence that he constructively possessed the crack cocaine. Because our case law requires proof of a nexus between the defendant and the contraband,  [*2] and such is lacking in this case, we reverse.
+ I. Background Facts & Proceedings.
+On June 21, 2008, police were summoned to the apartment of Chastity Howard to investigate a reported shooting. Other persons had been present in the apartment, but when police arrived, only Herron, Howard, and the shooting victim (Javid Woodson) remained. Herron was not forthcoming with truthful information. He first gave officers a false name, "James Smith." He also gave them implausible renditions of his association with the victim and the circumstances of the shooting.
+Howard consented to allowing the police to search her apartment, which is located in a high drug-trafficking neighborhood. In the bedroom, the officers discovered an open vent area, with a denim skirt wrapped around a plastic baggie. After a lab analysis, the baggie was determined to contain 24.21 grams of still moist crack cocaine. The moistness of the drug indicated it was freshly "cooked" and had not been allowed to dry for distribution purposes. Also found in the same bedroom were two digital scales in a dresser drawer. The scales were described as having chunks of white residue on them. Other things found within the apartment included  [*3] some marijuana on top of a television, an empty gun holster, and a duffel bag containing men's clothing and toiletries in the living room. No other drug paraphernalia was found in the apartment.
+Herron was questioned by Detective William Thomas. On his person, Herron had $1368 dollars in denominations of: one $100 bill, eight $50 bills, thirty-four $20 bills, thirteen $10 bills, nine $5 bills, and thirteen $1 bills. Herron provided Detective Thomas with a false explanation of how he acquired the money along with other information that proved to be false. Herron was arrested and charged by trial information with count I, possession with intent to deliver crack cocaine and count II, failure to affix a drug tax stamp. After a trial, the jury returned verdicts of guilty on both counts of the information. After imposing a twenty-five year sentence on count I and five years on count II, the court suspended the sentences and placed Herron on probation.
+Herron appeals and challenges the sufficiency of the evidence. He asserts that the district court erred in overruling his motion for judgment of acquittal, claiming the evidence failed to demonstrate he exercised constructive possession of the  [*4] crack cocaine, as well as having the requisite knowledge of the substance.1 
+ II. Scope of Review.
+We review challenges to the sufficiency of the evidence for correction of errors at law. State v. Webb, 648 N.W.2d 72, 75-76 (Iowa 2002). "If a verdict is supported by substantial evidence, we will uphold a finding of guilt. Substantial evidence is that upon which a rational trier of fact could find the defendant guilty beyond a reasonable doubt." State v. Henderson, 696 N.W.2d 5, 7 (Iowa 2005). "The State must prove every fact necessary to constitute the crime with which the defendant is charged. The evidence must raise a fair inference of guilt and do more than create speculation, suspicion, or conjecture." Webb, 648 N.W.2d at 76. In conducting our review, we consider all the evidence in the record, that which is favorable as well as unfavorable to the verdict, and view the evidence in the light most favorable to the State. Henderson, 696 N.W.2d at 7.
+ III. Constructive Possession.
+For a charge of unlawful  [*5] possession of a controlled substance, the State must prove the defendant (1) exercised dominion and control over the contraband; (2) had knowledge of the contraband's presence; and (3) had knowledge that the material was a controlled substance. State v. Maxwell, 743 N.W.2d 185, 193 (Iowa 2008); Henderson, 696 N.W.2d at 8. Possession may be either actual or constructive. Maxwell, 743 N.W.2d at 193. Actual possession occurs when the controlled substance is found on the person. Id. "Constructive possession occurs when the defendant has knowledge of the presence of the controlled substance and has the authority or right to maintain control of it. The existence of constructive possession turns on the peculiar facts of each case." Henderson, 696 N.W.2d at 9. "Constructive possession is recognized by inferences. However, constructive possession cannot rest simply on proximity to the controlled substance." Maxwell, 743 N.W.2d at 194. Because it was not found on his person, the State sought to prove Herron's constructive possession of the crack cocaine.
+Herron did not have exclusive possession of the apartment. See Henderson, 696 N.W.2d at 9 (explaining that an inference supporting constructive  [*6] possession is available when a person has exclusive possession of the premises on which the illegal substances are found). The apartment was leased to Howard, although Herron told the police that he had been staying at the apartment for three to four weeks. At the time of the shooting, multiple people were in the apartment, some of which had fled before the officers' arrival. At that time, Howard, Herron, and Woodson remained. When a person does not have exclusive possession of the premises where the drugs are located, several factors are considered in determining whether the defendant had constructive possession, such as incriminating actions or statements made by the defendant, fingerprints on the packages containing the controlled substance, and any other circumstances linking the person to the controlled substance. Maxwell, 743 N.W.2d at 194.
+The issue is whether there were sufficient facts from which Herron could be linked to the contraband. See State v. Carter, 696 N.W.2d 31, 39 (Iowa 2005) ("[W]here the accused has not been in exclusive possession of the premises but only in joint possession, knowledge of the presence of the substances on the premises and the ability to maintain  [*7] control over them by the accused will not be inferred but must be established by proof."); State v. Bash, 670 N.W.2d 135, 140 (Iowa 2003) (Cady, J., dissenting) (explaining that under our case law "we insist on some form of direct or concrete evidence of [constructive] possession"). No fingerprints were on the baggie that held the crack cocaine, and the baggie was wrapped in a jean skirt. No other contraband was found on Herron, and nothing linked Herron to the marijuana. None of his personal possessions were found in the dresser where the scales were found. While others fled the apartment before the police arrived, Herron stayed behind. See Henderson, 696 N.W.2d at 9 (comparing a defendant's "defiant opposition" to police presence in an apartment to another person's non-incriminating conduct). Herron did give a false name, and fabricated stories about how the shooting occurred, his relationship with the shooting victim, and how he had obtained the cash in his pocket. See id. (explaining that an inference supporting constructive possession is whether the defendant's conduct implied guilty knowledge). However, Woodson also gave a false story to the officers on how the shooting occurred  [*8] and his relationship with Herron, and additionally refused to cooperate in the subsequent investigation. The drugs were found approximately five to six feet from where Woodson was found lying on the floor. Although the State introduced evidence to support an inference that Herron was a drug dealer, this did not provide any proof that specifically connected him to the crack cocaine in the apartment. While the circumstances were highly suspicious and could lead to logical speculation that the drugs found in Howard's apartment belonged to Herron, the record is devoid of any proof the crack cocaine was his. Therefore, we must reverse his convictions.
+REVERSED.
+Doyle, J., concurs; Mansfield, J., dissents.
+Dissent by: MANSFIELD  
+Dissent
+
+
+
+
+MANSFIELD, J. (dissenting)
+I respectfully dissent because I believe there was substantial evidence to support the jury's verdict.
+The defendant, Anthony Herron, was Chastity Howard's boyfriend. There was no evidence that any adult lived in the apartment other than Herron and Howard. Herron admitted he had been living with Howard in the apartment for three or four weeks and had a sexual relationship with her.
+A large quantity of crack cocaine was found hidden in Howard's bedroom. Howard  [*9] denied it was hers. The cocaine was moist, suggesting it had been a recent cook. The digital scales found inside the bedroom dresser had chunks on them, indicating they had recently been used to weigh crack cocaine that was still damp.
+On his person, Herron had $1368 in cash, crumpled up in different pockets on his person. The cash included eight fifty-dollar bills and thirty-four twenty-dollar bills. The trial testimony also indicated that twenty-dollar rocks are the most common quantity of crack cocaine sold, with fifty-dollar rocks being the second most common quantity. When questioned, Herron claimed he had earned the cash working at two businesses. Both businesses denied having employed him. Herron also said he hid his cash from time to time in Howard's bedroom.
+When the officers arrived, the only persons present in the apartment were Howard, Herron, and Javis Woodson, the shooting victim. Woodson did not live in the apartment; he was dating a woman who lived across the street. He had only loose change in his pants. Herron claimed he had transported Woodson to Howard's apartment himself after Woodson had been shot.
+I agree with my colleagues' recitation of the law. But I believe  [*10] the foregoing facts are sufficient to sustain Herron's conviction for possession with intent to deliver crack cocaine.
+
+ 
+
+End of Document

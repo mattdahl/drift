@@ -1,0 +1,62 @@
+
+  NeutralAs of: September 19, 2020 8:05 PM Z
+Russell v. People
+Supreme Court of Colorado
+January 17, 2017, Decided
+Court of Appeals Case No. 11CA1929
+
+Reporter
+2017 CO 3 *; 387 P.3d 750 **; 2017 Colo. LEXIS 20 ***
+ Petitioner/Cross-Respondent: Brandi Jessica Russell, v. Respondent/Cross-Petitioner: The People of the State of Colorado.  
+Prior History:  [***1] Supreme Court Case No. 14SC396. Certiorari to the Colorado Court of Appeals.
+People v. Russell, 2014 Colo. App. LEXIS 792, 2014 COA 21M (2014)  
+Disposition: Judgment Affirmed.
+  
+Syllabus
+
+
+
+
+In this case, the supreme court considers whether a police officer's testimony that a defendant was under the influence of methamphetamine was properly admitted as lay testimony or should have been qualified as expert testimony. Because any error in admitting the officer's testimony as lay testimony was harmless given the otherwise overwhelming evidence, the supreme court declines to answer whether the trial court erred in admitting the testimony.
+The supreme court also considers whether Amendment 64 deprived the State of the power to continue to prosecute cases where there was a conviction for possession of less than one ounce of marijuana pending on direct appeal when the Amendment became effective. The supreme court concludes that under People v. Boyd, 2017 CO 2, 2 387 P.3d 755  , Amendment 64 nullified the State's authority to continue to prosecute the petitioner/cross-respondent during her appeal because Amendment 64 superseded the underlying statutory authority for the prosecution. Accordingly, the supreme court affirms the judgment of the court of appeals.
+Counsel: Attorneys for Petitioner/Cross-Respondent: [***2]  Emeson Law, LLC, Brian S. Emeson, Denver, Colorado. 
+Attorneys for Respondent/Cross-Petitioner: Cynthia H. Coffman, Attorney General, Ethan E. Zweig, Assistant Attorney General, Denver, Colorado.  
+Judges: CHIEF JUSTICE RICE delivered the Opinion of the Court. JUSTICE EID concurs in part and dissents in part, and JUSTICE COATS and JUSTICE HOOD join in the concurrence in part and dissent in part.  
+Opinion by: RICE  
+Opinion
+
+
+
+
+  [**751]  en banc
+ [*P1]  First, this case requires us to determine whether a police officer's testimony that a defendant was under the influence of methamphetamine was lay or expert testimony. Because any error in admitting the officer's testimony as lay testimony was harmless given the otherwise overwhelming evidence, we decline to answer whether the trial court erred in admitting the testimony. Next, this case requires us to determine if Amendment 64 to the Colorado Constitution, which legalized possession of small amounts of marijuana, deprived the State of its power to continue to prosecute cases where there was a conviction for possession of less than one ounce of marijuana pending on direct appeal when the Amendment became effective. In light of our holding today in People v. Boyd, 2017 CO 2, 2 387 P.3d 755  , we hold that it did.
+ I. Facts and Procedural [***3]  History
+ [*P2]  In March 2010, defendant Brandi Jessica Russell and her husband brought their infant to a hospital with a broken femur. A doctor, worried that the child may have been abused, contacted a social worker who then contacted Grand County Department of Social Services. A social worker interviewed Russell and, worried she was on drugs, obtained a court order for a drug test. The drug test indicated that Russell had used amphetamine, marijuana, and methamphetamine. When asked about the results, Russell admitted that she had used methamphetamine. The police obtained a warrant and searched Russell's home, finding drug paraphernalia, marijuana, marijuana concentrate,1  and methamphetamine.
+ [*P3]  The State charged Russell with child abuse resulting in serious injury, possession of one gram or less of a schedule II controlled substance (methamphetamine), and possession of marijuana concentrate. In June 2011, a jury acquitted Russell of the child abuse charge but found her guilty of the marijuana concentrate and methamphetamine charges. The jury also convicted her of possession of less than one ounce of marijuana, a non-included petty offense that Russell requested. In August 2011, the trial court [***4]  sentenced Russell to two concurrent 4-year terms of supervised probation, 192 hours of community service, and a suspended 90-day jail sentence.
+ [*P4]  Russell filed a timely notice of appeal in September 2011. Ultimately, she made two challenges. The first challenge was to a police officer's lay testimony offered at trial in which the officer testified to his belief that Russell was using methamphetamine based on his observations of her and his many contacts with others using methamphetamine. Russell argued this testimony required the officer to be vetted as an expert. The court of appeals disagreed with Russell. People v. Russell, 2014 COA 21M, ¶ 29,     P.3d    . The second challenge was that Amendment 64, which became effective on December 10, 2012, and legalized the possession of up to one ounce of marijuana (defined as including marijuana concentrate) for personal use, should vitiate her marijuana convictions. See Colo. Const. art. XVIII, § 16. The court of appeals agreed with Russell and reversed on this point. Russell, ¶ 20. Russell appealed the expert testimony issue to this court, and the State appealed the Amendment 64 issue to this court. We granted certiorari.2 
+  [**752]  II. Analysis  
+A. Any error in allowing the officer's testimony as lay testimony was harmless.
+ [*P5]  Russell argues that it was error for the trial court to allow a police officer to testify, as a lay witness, to whether or not Russell was using methamphetamine based on the officer's observations of Russell. This court reviews a trial court's rulings on evidentiary issues for an abuse of discretion. People v. Stewart, 55 P.3d 107, 122 (Colo. 2002). "A trial court abuses its discretion only when its ruling is manifestly arbitrary, unreasonable, or unfair." Id.
+ [*P6]  Evidentiary errors do not require reversal if they are harmless. People v. Summitt, 132 P.3d 320, 327 (Colo. 2006). An error is harmless when there is no reasonable probability that the error contributed to the defendant's conviction. Crider v. People, 186 P.3d 39, 42 (Colo. 2008).
+ [*P7]  We decline to reach the issue of whether the officer's testimony was improperly admitted as lay testimony because, in any event, the error was harmless. The evidence of Russell's methamphetamine possession outside the officer's [***6]  testimony was overwhelming, including: (1) two doctors and two social workers had observed Russell and testified to her agitated state, repetitive movements, and tongue movements; (2) a doctor qualified as an expert in child abuse opined that Russell's behavior was consistent with methamphetamine use; (3) Russell's urine tested positive for methamphetamine; and (4) Russell admitted that she had used methamphetamine.
+ [*P8]  Because it is beyond a reasonable doubt that Russell would have been convicted of methamphetamine possession with or without the officer's challenged testimony, we hold that any error in admitting that testimony as lay testimony was harmless. Therefore, we affirm the court of appeals on this issue.
+ B. Amendment 64 deprived the State of its power to continue to prosecute Russell.
+ [*P9]  This case presents an opportunity to resolve whether Amendment 64 deprived the State of its power to continue to prosecute cases where there was a conviction for possession of less than one ounce of marijuana pending on direct appeal when the Amendment became effective. Because resolving this requires us to interpret a constitutional amendment, our review is de novo. Danielson v. Dennis, 139 P.3d 688, 691 (Colo. 2006). We addressed a nearly identical [***7]  issue in People v. Boyd, also decided today. 2017 CO 2. In Boyd, the defendant, Pamela Boyd, had been convicted of possession of what ultimately was less than one ounce of marijuana. ¶ 2. The State originally derived its authority to prosecute her from section 18-18-406(1), C.R.S. (2011), which provided that possession of two ounces or less of marijuana was a class 2 petty offense. Boyd, ¶ 6. However, before Boyd's right to appeal had expired, Amendment 64 became effective and rendered inoperative the relevant language of this statute because it legalized what the statute had prohibited. Id. at ¶ 9.3  Therefore, we held in Boyd that Amendment 64 deprived the State of its power to continue to prosecute Boyd under the statute during her appeal. Id.
+ [*P10]  Similarly here, Russell was charged with possessing less than one ounce of marijuana under section 18-18-406(1), C.R.S. (2010),4  which criminalized possession of less than two ounces of marijuana, and with possessing less than one ounce of marijuana concentrate under section 18-18-406(4)(b)(I), C.R.S. (2010), which criminalized  [**753]  possession of less than three ounces of marijuana concentrate. Again, as to the marijuana possession charge under section 18-18-406(1), Amendment 64 rendered this section inoperative insofar as it criminalized possession of less than one ounce [***8]  of marijuana. See Boyd, ¶ 9. Thus, once the Amendment became effective, the State no longer had authority to continue to prosecute Russell under this section for her marijuana possession charge during her appeal. Cf. id. Under the same logic, because Amendment 64 defines "marijuana" to include marijuana concentrate, the Amendment also rendered section 18-18-406(4)(b)(I) inoperative insofar as this section criminalized possession of less than one ounce of marijuana concentrate. See Colo. Const. art. XVIII, § 16(2)(f). Therefore, once Amendment 64 became effective, the State no longer had authority to continue to prosecute Russell for her marijuana concentrate possession charge during her appeal. Cf. Boyd, ¶ 9. Therefore, we affirm the court of appeals on this issue.
+ III. Conclusion
+ [*P11]  We first conclude that because it is beyond a reasonable doubt that Russell would have been convicted of methamphetamine possession with or without the officer's challenged testimony, we hold that any error in admitting that testimony as lay testimony was harmless. We next conclude that Amendment 64 deprived the State of the power to continue to prosecute cases where there was a nonfinal conviction for possession of less than one ounce of marijuana pending on direct [***9]  appeal when the Amendment became effective. Accordingly, we affirm the judgment of the court of appeals on both issues.
+JUSTICE EID concurs in part and dissents in part, and JUSTICE COATS and JUSTICE HOOD join in the concurrence in part and dissent in part.
+Concur by: EID (In Part)  
+Dissent by: EID (In Part)  
+Dissent
+
+
+
+
+JUSTICE EID, concurring in part and dissenting in part.
+ [*P12]  I agree with the majority that any error in allowing the officer's testimony as lay testimony was harmless, and thus join Part II.A of its opinion. Because I disagree with the majority's holding that Amendment 64 is retroactive, I respectfully dissent from Part II.B of its opinion for the reasons set forth in my dissent in People v. Boyd, 2017 CO 2, 2 387 P.3d 755  .
+I am authorized to state that JUSTICE COATS and JUSTICE HOOD join in this concurrence in part and dissent in part.
+
+ 
+
+End of Document

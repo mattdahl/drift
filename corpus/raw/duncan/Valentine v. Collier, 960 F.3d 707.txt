@@ -1,0 +1,47 @@
+
+  NeutralAs of: September 19, 2020 7:54 PM Z
+Valentine v. Collier
+United States Court of Appeals for the Fifth Circuit
+June 5, 2020, Filed
+No. 20-20207
+
+Reporter
+960 F.3d 707 *; 2020 U.S. App. LEXIS 17761 **; 2020 WL 3026717
+ LADDY CURTIS VALENTINE; RICHARD ELVIN KING, Plaintiffs - Appellees v. BRYAN COLLIER; ROBERT HERRERA; TEXAS DEPARTMENT OF CRIMINAL JUSTICE, Defendants - Appellants  
+Prior History:  [**1] Appeal from the United States District Court for the Southern District of Texas.
+Valentine v. Collier, 2020 U.S. Dist. LEXIS 67226 (S.D. Tex., Apr. 16, 2020)  
+Disposition: VACATED and REMANDED.
+  
+Counsel: For LADDY CURTIS VALENTINE, RICHARD ELVIN KING, Plaintiff - Appellees: John R. Keville, Attorney, Brandon W. Duke, Jeff S. Edwards, Robert L. Green, Corinne Stone Hockman, Winston & Strawn, L.L.P., Houston, TX; David James, Scott Charles Medlock, Edwards Law, Austin, TX. 
+For BRYAN COLLIER, ROBERT HERRERA, TEXAS DEPARTMENT OF CRIMINAL JUSTICE, Defendant - Appellants: Kyle Douglas Hawkins, Christin Audrey Cobe-Vasquez, Matthew Hamilton Frederick, Deputy Solicitor General, Jason R. LaFond, Office of the Attorney General, Austin, TX. 
+For CORRECTIONS EXPERTS, Amicus Curiae: Danielle Jefferis, University of Denver, Denver, CO.  
+Judges: Before DAVIS, GRAVES, and DUNCAN, Circuit Judges. W. EUGENE DAVIS, Circuit Judge, concurring in judgment.  
+Opinion
+
+
+
+
+ [*707]  PER CURIAM:
+The preliminary injunction entered by the district court is VACATED. Based on facts that have been reported to us by the parties since the district court's judgment was entered, we are persuaded that the Texas Department of Criminal Justice ("TDCJ") has substantially complied with the measures ordered by the district court in its preliminary injunction. The [**2]  case is remanded to the district court for further proceedings on the permanent injunction.
+VACATED and REMANDED.
+Concur by: W. EUGENE DAVIS; JAMES E. GRAVES, JR.; STUART KYLE DUNCAN (In Part)  
+Concur
+
+
+
+
+W. EUGENE DAVIS, Circuit Judge, concurring in judgment:
+I reluctantly concur in the judgment vacating the injunction because conditions have dramatically changed in the prison since the preliminary injunction issued, and vacating the preliminary injunction allows the district court to expeditiously conduct factfinding to determine what relief is necessary under the current circumstances. I write separately to underscore that holding these elderly, ill inmates jammed together in their dormitories, unable to socially distance as the virus continues to rapidly spread, is nothing short of a human tragedy.
+The Wallace Pack Unit ("Pack Unit") is a geriatric prison facility that houses 1248 offenders. Approximately two-thirds of these inmates are 65 and older, and an unspecified number of inmates has one or more comorbidities. Almost all of the inmates are being housed in dormitories that contain 50-100 inmates. Every inmate has a bunk in a cubicle. Each cubicle has a waist-high barrier separating the prisoner on either [**3]  side. According to Plaintiff Valentine, the inmates are within three to four feet of their neighbor on either side.
+At the time of the district court's hearing on the preliminary injunction on April 16, there was only one confirmed infection: inmate Leonard Clerkly, whose autopsy was released two days prior. Now, six weeks later, the Pack Unit is a vastly different place. As of May 28, TDCJ has  [*708]  reported 191 infections in the Pack Unit.1  Five inmates have died.
+Many of the facts regarding developments in the Pack Unit since the injunction was entered have not been tested by testimony under oath that has been subjected to cross-examination. I assume the district court will hear evidence on developments that have occurred since its April 16 preliminary injunction that will definitively resolve these issues.2 
+The Plaintiffs and their fellow inmates are now being held under circumstances that seriously threaten their life. It bears repeating: the Pack Unit is a geriatric prison. Most inmates are over 65 and have multiple, serious health problems. They are among the most vulnerable members of the population to contract COVID-19 and the least likely to survive the infection. They [**4]  remain on 24-hour lockdown in their dorms, three to four feet from each other. With so many potential spreaders of COVID-19 in the Pack Unit among vulnerable inmates, we can expect several times that number to be infected by July 13, 2020, the date the trial on the permanent injunction is now scheduled.
+The experienced trial judge scheduled a hearing on the preliminary injunction days after the case was assigned to him and handled the evolving nature of this proceeding diligently. I have confidence he will consider holding the trial sooner than that date if possible.3 
+JAMES E. GRAVES, JR., Circuit Judge, specially concurring:
+While I concur in the majority opinion, I write separately to note that a motions panel of this court previously found that Plaintiffs are unlikely to succeed on the merits of their claims. For substantially the same reasons given by the district court, I disagree with that analysis.1  As the district court rightly noted, "[p]rison walls do not form a barrier separating prison inmates from the protections of the Constitution." Turner v. Safley, 482 U.S. 78, 84, 107 S. Ct. 2254, 96 L. Ed. 2d 64 (1987).
+STUART KYLE DUNCAN, Circuit Judge, concurring in the judgment in part:
+I respectfully concur in the result reached by the majority, which [**5]  vacates the  [*709]  preliminary injunction and remands for further proceedings. For my part, I would also reverse the district court's judgment granting the preliminary injunction. I would do so solely for the reasons expressed by the motions panel in Valentine v. Collier, 956 F.3d 797, 801-06 (5th Cir. 2020). See also Marlowe v. LeBlanc, ___ F.3d ___, 2020 U.S. App. LEXIS 14063, 2020 WL 2043425, at *2-4 (5th Cir. Apr. 27, 2020); Swain v. Junior, 958 F.3d 1081, 1088-92 (11th Cir. 2020). I express no definitive opinion on the impact of the interim factual developments discussed in Judge Davis's concurrence. I note only that, just as our panel received updates on the spread of COVID-19 in the Wallace Pack Unit, we also received updates detailing TDCJ's evolving responses to the infection, including increased testing, infection-control measures, and inmate treatment and isolation. All these developments will be subject to adversarial testing in the permanent injunction proceedings.
+
+ 
+
+End of Document

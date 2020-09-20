@@ -1,0 +1,41 @@
+
+  CitedAs of: September 19, 2020 8:13 PM Z
+United States v. Hart
+United States Court of Appeals for the Eighth Circuit
+June 20, 2005, Submitted ; August 2, 2005, Filed 
+No. 04-3565 
+
+Reporter
+417 F.3d 838 *; 2005 U.S. App. LEXIS 15842 **
+ United States of America, Appellee, v. Harry N. Hart, Appellant.  
+Prior History:  [**1]  Appeal From the United States District Court for the District of Nebraska.  
+  
+Counsel: For UNITED STATES OF AMERICA, Plaintiff - Appellee: Frederick Douglas Franklin, U.S. ATTORNEY'S OFFICE, Omaha, NE. 
+HARRY N. HART, Pro se, Defendant - Appellant, FEDERAL CORRECTIONAL INSTITUTION, Oxford, WI; Karen M. Shanahan, FEDERAL PUBLIC DEFENDER'S OFFICE, Omaha, NE.    
+Judges: Before MELLOY, HEANEY, and GRUENDER, Circuit Judges. GRUENDER, Circuit Judge, with whom MELLOY, Circuit Judge, joins, concurring.    
+Opinion
+
+
+
+
+ [*838]  PER CURIAM.
+Harry N. Hart pled guilty to being a felon in possession of a firearm. The district court 1  sentenced him to serve 36 months in prison. Hart appeals, arguing that the district court imposed sentencing enhancements in violation of his Sixth Amendment rights. We affirm.
+Hart was indicted for and pled guilty to being a felon in possession of a firearm in violation of 18 U.S.C. § 922(g)(1).  [**2]  After entering a plea of guilty, a Presentence Investigation Report (PSR) was prepared, which calculated his offense  [*839]  level at 17. His criminal history category was set at IV, in part because he was subject to a two-point adjustment under United States Sentencing Guidelines section 4A1.1(e) because Hart allegedly committed the offense less than two years after being released from imprisonment for another offense.
+During the sentencing hearing, Hart made several objections to the PSR, including an objection to the constitutionality of the sentencing guidelines. The district court overruled all of Hart's objections. Hart then moved for a downward departure under United States Sentencing Guidelines section 4A1.3(b)(1) for overstatement of criminal history. The district court granted the motion, reducing Hart's criminal history category from IV to III, resulting in a sentencing range of 30 to 37 months. The court imposed a sentence of 36 months.
+Hart's sentencing occurred after Blakely but before the Supreme Court's decision in United States v. Booker, 543 U.S. 220, 160 L. Ed. 2d 621, 125 S. Ct. 738 (2005). Under [**3]  these circumstances, Hart's objection to the constitutionality of the guidelines preserves his claim of Booker error. United States v. Pirani, 406 F.3d 543, 549 (8th Cir. 2005). Unless the error is harmless, Hart is entitled to a remand for resentencing.
+A panel of this court recently addressed a similar situation in United States v. Henderson, 408 F.3d 1078 (8th Cir. 2005). In that case, the district court found that category V substantially overrepresented Henderson's criminal history and departed downward, sentencing him as a category IV offender. Id. at 1079. Henderson, who preserved his Booker challenge, argued on appeal that the district court erred in imposing a sentence pursuant to the mandatory guidelines scheme. Our court noted that the district court committed Booker error, but that it was harmless because "Henderson received a downward departure to a reasonable sentence." Id.
+Henderson controls our decision here. United States v. Mills, 375 F.3d 689, 691 n.4 (8th Cir. 2004) (noting that one panel is bound by the decision of a prior panel). Hart received a downward departure, and [**4]  we cannot say the ultimate sentence is unreasonable. Finding the remainder of Hart's arguments unpersuasive, we affirm.   
+Concur by: GRUENDER  
+Concur
+
+
+
+
+GRUENDER, Circuit Judge, with whom MELLOY, Circuit Judge, joins, concurring.
+I concur with the court's opinion. However, I write separately to emphasize that harmless error review of a Booker error under Rule 52(a) of the Federal Rules of Criminal Procedure is separate and distinct from the reasonableness review mandated by Booker.
+As in Henderson, the court's opinion holds that the mandatory application of the guidelines was harmless because Hart "received a downward departure to a reasonable sentence." I believe that implicit in our holding today, and in Henderson, is an understanding that the district court, having properly departed downward, could have departed to a lower reasonable sentence but, instead, chose to impose the sentence it pronounced. Consequently, the government carried its burden of proving that the district court would not have imposed a lower sentence under advisory guidelines. I do not believe that Henderson or today's decision should be read to hold that the [**5]  Booker error is harmless merely because the ultimate sentence is reasonable.
+In this case, I would make the harmless error analysis more explicit. The district court granted Hart's motion for a downward departure (which the government  [*840]  does not appeal) to a sentencing range of 30 to 37 months and imposed a sentence of 36 months. Because the court chose to impose a sentence at the higher end of an appropriately calculated guidelines range when it was free to impose a lower sentence within that range, I agree that the government has carried its burden of proving that Hart would not have received a lower sentence under advisory guidelines. Accordingly, I agree that the Booker error in this case was harmless. 
+
+ 
+
+End of Document

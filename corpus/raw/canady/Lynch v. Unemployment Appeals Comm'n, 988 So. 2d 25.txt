@@ -1,0 +1,60 @@
+
+  CautionAs of: September 19, 2020 7:27 PM Z
+Lynch v. Unemployment Appeals Comm'n
+Court of Appeal of Florida, Second District
+June 27, 2008, Opinion Filed
+Case No. 2D07-3734
+
+Reporter
+988 So. 2d 25 *; 2008 Fla. App. LEXIS 9543 **; Unemployment Ins. Rep. (CCH) P8992; 33 Fla. L. Weekly D 1667
+ LAURA J. LYNCH, Appellant, v. UNEMPLOYMENT APPEALS COMMISSION and RIVERSIDE PAPER CO., INC., Appellees.  
+Subsequent History: Released for Publication June 27, 2008. 
+  
+Prior History:  [**1] Appeal from the Unemployment Appeals Commission.
+  
+Counsel: Jason J. Ricardo of Ricardo & Wasylik, PL, Dade City, for Appellant. 
+Louis A. Gutierrez, Tallahassee, for Appellee, Unemployment Appeals Commission. 
+No appearance for Appellee, Riverside Paper Co., Inc.  
+Judges: ALTENBERND, Judge. CASANUEVA, J., Concurs. CANADY, J., Concurs specially.  
+Opinion by: ALTENBERND  
+Opinion
+
+
+
+
+  [*25]  ORDER TRANSFERRING CASE TO THE DISTRICT COURT OF APPEAL OF FLORIDA, FIRST DISTRICT
+ALTENBERND, Judge.
+Laura Lynch appeals an order of the Unemployment Appeals Commission (UAC) that affirmed the appeals referee's decision to deny her application for unemployment benefits. In light of section 443.151(4)(e), Florida Statutes (2007), this court concludes that the First District Court of Appeal is the appropriate appellate court authorized by general law to review this order. Accordingly, we transfer this case to the First District. By unpublished orders, we also transfer to the First District any similar pending appeals involving orders issued by appeals referees located in Tallahassee.
+ I.
+Ms. Lynch resides in Tampa, Florida. She was employed in Tampa by Riverside Paper Company. She left her employment with Riverside in August 2006 under circumstances that caused her  [**2] to file a claim for unemployment benefits. Initially, Ms. Lynch received a determination that benefits were payable. Riverside appealed that determination, and the dispute was assigned to an appeals referee to conduct a hearing.
+Like most unemployment compensation hearings, the appeals referee conducted  [*26]  the hearing by telephone. Ms. Lynch participated from Tampa. Riverside apparently has a corporate office in Miami, and its primary witness attended the hearing from that location. The appeals referee, Niki Y. Martin, conducted the hearing from her office in Tallahassee. Following the evidentiary hearing, the appeals referee issued her written decision in favor of Riverside. Ms. Lynch submitted a request for review to the UAC, and it ultimately affirmed the referee's decision.
+When the UAC issued its order, it provided Ms. Lynch with a standard notice informing her that the order would become final unless "appealed to a District Court of Appeal within 30 calendar days." It further explained that "[j]udicial review is commenced by filing one copy of a notice of appeal with the clerk of the [UAC] at the above address and a second copy, with filing fees prescribed by law, with the appropriate  [**3] District Court of Appeal." The notice, thus, provides no legal advice to the parties as to the appropriate appellate court to review the case. 1  
+Ms. Lynch's attorney filed a notice of appeal with the clerk of the UAC. Interestingly, the notice claims that Ms. Lynch is appealing the order to the First District Court of Appeal. Ms. Lynch's attorney mailed a copy of the notice of appeal to this court. 2  Because no fee is actually prescribed by law for such an appeal, we created an appellate file and proceeded to process the appeal. The case is now perfected and ready for disposition.
+ II.
+With some reluctance, this court has concluded that the legislature has not authorized it to handle this appeal. Technically, we may have jurisdiction over such an appeal, but the First District is the court that, by statute, is the proper forum to decide this case. 3  
+Section 443.151(4)(e) states:
+Orders of the commission entered under paragraph (c) are subject to review only by notice of appeal in the district court of appeal in the appellate district in which the issues involved were decided by an appeals referee. Notwithstanding chapter 120, the commission is a party respondent to every such proceeding. The Agency for Workforce Innovation may initiate judicial review  [**5] of orders in the same manner and to the same extent as any other party.
+(Emphasis added.) The issues involved in this case were decided by an appeals referee in Tallahassee. A plain reading of this statute requires the review to occur "only" in the First District.
+The Third District in Mendelman v. Dade County Public Schools, 674 So. 2d 195  [*27]  (Fla. 3d DCA 1996), interpreted section 443.151(4)(e) to allow any district court with territorial jurisdiction over a location from which a party participated in the hearing conducted by the appeals referee to review a resulting order of the UAC. In this case, the Third District's interpretation would allow the appeal to proceed in either the First, Second, or Third District. The Third District admitted in Mendelman that its interpretation of the statute was "influenced by practical considerations." Id. at 196. The Third District thought its interpretation would provide "convenient access to the appellate courts." Id. at 197.
+We cannot disagree with the Third District's evaluation of the practicalities of allowing claimants and employers to appeal these rulings in the district where they reside and vote. On the other hand, without any ambiguity in  [**6] the statute, we are constrained to obey the plain language of the statute. See Fischesser v. United States Post Office, 119 So. 2d 787, 788 (Fla. 1960) (stating legislature showed its clear intent in section 443.07(4)(e), Florida Statutes (1959), which was the precursor to section 443.151(4)(e), that review of unemployment compensation orders is in "the Court of Appeal of the appellate district in which the issues were decided by the appeals referee"). Unlike our jurisdiction over final orders from trial courts, Article V, section 4(b)(2) of the Florida Constitution expressly states that our power to review administrative action must be "as prescribed by general law." The general law does not appear to give the Second District the authority to review this appeal.
+In explaining its holding the Third District stated in a footnote:
+That such an interpretation is workable has been demonstrated by many years' experience under the Florida Administrative Procedure Act, which provides for judicial review either in "the district court of appeal in the appellate district where the agency maintains it headquarters or where a party resides." § 120.68(2) Fla. Stat. (1995).
+Mendelman, 674 So. 2d at 196.  [**7] The problem, of course, is that section 443.151(4)(e) does not contain the language of section 120.68(2). We are not convinced that anything in section 443.151(4)(e) incorporates that language. Indeed, section 120.68(2)(a) now states: "Judicial review shall be sought in the appellate district where the agency maintains its headquarters or where a party resides or as otherwise provided by law." The phrase "or as otherwise provided by law" was added to the statute by a bill that passed in the legislature in 1996, only a few days before the issuance of the Mendelman opinion. See ch. 96-159, § 35, Laws of Fla. (effective Oct. 1, 1996). Thus, section 443.151(4)(e) would appear to be a more specific statute otherwise providing that these appeals must be filed only where the appeals referee made the decision.
+Accordingly, we transfer this case to the First District. See Fla. R. App. P. 9.040(b)(1); Egner v. Unemployment Appeals Comm'n, 633 So. 2d 1157, 1158 (Fla. 1st DCA 1994) (transferring similar cause to appropriate forum because decision was rendered outside court's territorial jurisdiction). We certify that our decision today is in express and direct conflict with the holding in Mendelman.  [**8] 4  
+ III.
+While transferring this case, we note that this result may not be what the legislature  [*28]  expected when it passed sections 443.151(4)(e) and 120.68(2)(a). Until a few years ago, the UAC had at least one office inside the territory of the Second District. From our prior caseload, we know that appeals referees conducted hearings from offices inside the territorial jurisdiction of the Second District for most claimants and employers who resided in this district. 5  Currently, the UAC has regional offices in all districts except the  [**9] Second District. 6  As a result, at this time it is only employers and claimants in the Second District that are compelled to file appeals in a district where they do not reside.
+The legitimacy of the judicial system is fostered by statutes that provide local courts to citizens with judges those citizens either elect or vote to retain. This allows local input and access to the judiciary. Our state constitution also promotes a spirited debate of legal issues, in part, by requiring conflicting decisions on a subject from the district courts before the supreme court can grant review of certain issues. At least within the territory of the Second District, these policies are no longer supported by the language in section 443.151(4)(e).  [**10] Given that this result seems inadvertent, we would encourage the legislature to review this statute in the near future to assess whether its restrictions still achieve the policies desired by the legislature.
+CASANUEVA, J., Concurs.
+CANADY, J., Concurs specially.
+Concur by: CANADY  
+Concur
+
+
+
+
+CANADY, Judge, Concurring specially.
+I concur in all of the order except part III.
+
+ 
+
+End of Document

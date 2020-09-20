@@ -1,0 +1,55 @@
+
+  NeutralAs of: September 19, 2020 9:19 PM Z
+In re Certified Question v. Philip Morris Inc. ex rel. State
+Supreme Court of Michigan
+February 14, 2001, Decided 
+SC: 118261
+
+Reporter
+622 N.W.2d 518 *; 2001 Mich. LEXIS 193 **
+ IN RE CERTIFIED QUESTION FROM THE U.S. DISTRICT COURT FOR THE EASTERN DISTRICT OF MICHIGAN COUNTY OF WAYNE, Plaintiff, v PHILIP MORRIS INCORPORATED, et al, Defendants, and JENNIFER GRANHOLM, ATTORNEY GENERAL, ex rel, THE STATE OF MICHIGAN, Proposed Intervening, Defendant.  
+Prior History: County of Wayne v. Philip Morris, Inc., 2000 U.S. Dist. LEXIS 22956 ( E.D. Mich., Aug. 25, 2000)  
+Judges:  [**1]  Young, Jr., J., concurs. Weaver, J., dissents.    
+Opinion
+
+
+
+
+ [*518]  On order of the Court, the question certified by the United States District Court for the Eastern District of Michigan is considered, and the question remains under consideration pending supplemental briefing and oral argument, to be scheduled by the Clerk. The Attorney General's motion to intervene is also considered, and it is GRANTED.
+All parties are directed to file supplemental briefs addressing the following questions, which may assist this Court in deciding whether to answer the certified question:
+(1) In light of MCL 45.3; MSA 5.283, which of plaintiff's claims in this action, if any, would the attorney general have the authority to bring against defendants on plaintiff's behalf?
+(2) If the attorney general has the authority to bring any of plaintiff's claims against defendants on plaintiff's behalf, what is the specific constitutional or statutory source of such authority with respect to each claim?
+(3) To what extent, if any, does plaintiff have an exclusive right to bring any of the claims asserted in this action?
+(4) If the attorney general has the authority to assert a claim on a county's [**2]  behalf, is the right to release such a claim inherently included within that authority? 
+(5) If the prior consent decree did not have the effect of releasing plaintiff's claims against defendants, are plaintiff's claims otherwise barred by operation of the doctrine of res judicata?
+The defendants and the Attorney General are directed to file their briefs addressing those questions by April 11, 2001. Plaintiff is directed to file its brief by May 16, 2001.  
+Concur by: Young, Jr.    
+Concur
+
+
+
+
+Young, Jr., J., concurs and states as follows:
+For the reasons set forth in Justice Weaver's dissenting statement in Proposed Amendment of MCR 7.305, 462 Mich. 1208 (2000), I continue to believe that this Court lacks constitutional authority to resolve certified questions under MCR 7.305(B). However, because that position did not carry the day, I concur in the order in this case requesting supplemental briefing and oral argument.  
+Dissent by: Weaver   
+Dissent
+
+
+
+
+Weaver, J., dissents and states as follows:
+I would decline to answer the certified question in this matter because I believe that MCR 7.305(B) represents an unconstitutional expansion of judicial power. As I stated [**3]  in my dissent to the proposed amendment of MCR 7.305:
+MCR 7.305(B) allows a federal court or state appellate court, and after the effectiveness of file no. 98-24, a tribal court, to certify a question to the Michigan Supreme Court when considering "a question that Michigan law may resolve and that is not controlled by Michigan Supreme Court precedent . . . ." By its express terms, MCR 7.305(B) purports to authorize this Court to issue an interpretation of law with no binding effect on either the certifying court or on this Court; the rule requires only that [*519]  "Michigan law may resolve" the certified question. 
+As noted by Justice LEVIN in In re Certified Question (Bankey v Storer Broadcasting Co),  432 Mich. 438, 468, 443 N.W.2d 112 (1989), the response to the certified question in that case "would not be determinative of the cause or controversy and, even if it were, the response cannot be enforced through an order or judgment of this Court . . . ." Justice LEVIN therefore concluded that the response to a certified question resembles an advisory opinion. 1  The same analysis and conclusion can, I believe, be applied to all certified questions. 
+ [**4]  The people of the state of Michigan vested the "judicial power" of the state exclusively in one court of justice, but did not define the term or the scope of the power. Const 1963, art 6, § 1. The people did, however, expressly retain the common law in force and not repugnant to the Michigan Constitution of 1963. Const 1963, art 3, § 7. Therefore, it is proper to examine the common-law understanding of "judicial power" in order to determine whether the scope of that power included the power to interpret the law without binding effect. 
+At common law, "judicial power" has long been understood and defined as "the power of the court to decide and pronounce its judgments and to carry it into effect between persons and parties who bring a case before it for decision." Goetz v Black, 256 Mich. 564, 569-570, 240 N.W. 94 (1932), citing Muskrat v United States, 219 U.S. 346, 55 L. Ed. 246, 31 S. Ct. 250 (1911). See also Daniels v People, 6 Mich. 381, 388 (1859)("judicial power" is "the power to hear and determine controversies between adverse parties, and questions in litigation"); Underwood v McDuffee, 15 Mich. 361, 368 (1867) [**5]  ("judicial power" is "the inherent authority not only to decide, but to make binding orders or judgments"). See also Anway v Grand Rapids R Co, 211 Mich. 592, 603, 179 N.W. 350 (1920). However, MCR 7.305(B) authorizes this Court to render an interpretation of law that may not decide a case between contending parties and may not determine legal rights. As succinctly summarized by Justice LEVIN in In re Certified Question, supra at 467:
+"The response to the certified question will not determine the controversy. No binding order or judgment will be entered. The response will not be made effective by a final judgment, decree or process of this Court. No decision of this Court that will be binding on the parties or that will be res judicata of an issue will be entered by the Court. The response does not end the controversy, and this Court has no way of enforcing its response to the certified question by appropriate means." 
+For these reasons, I believe that MCR 7.305(B) unconstitutionally expands the judicial power of the Court.
+That the people would not have understood "judicial power" to include the power to issue interpretations of law without binding effect is [**6]  supported by their vesting this Court with an expressly limited advisory power. Under Const 1963, art 3, § 8, this Court can issue advisory opinions as follows:
+"Either house of the legislature or the governor may request the opinion of the supreme court on important questions of law upon solemn occasions as to the constitutionality of legislation after it has been enacted into law but before its effective date."
+Because the people specifically choose to empower the judiciary to interpret the [*520]  law with no binding effect in these limited circumstances, it can be inferred that the people would not otherwise have understood "judicial power" to include this authority. Thus, it must be concluded that this Court's judicial power does not include the more expansive advisory authority found in MCR 7.305(B). 2  [462 Mich. at 1208-1210.]
+ [**7]  
+
+ 
+
+End of Document

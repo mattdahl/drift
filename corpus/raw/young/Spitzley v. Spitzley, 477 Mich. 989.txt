@@ -1,0 +1,51 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+Spitzley v. Spitzley
+Supreme Court of Michigan
+January 12, 2007, Decided 
+SC: 130585 
+
+Reporter
+477 Mich. 989 *; 725 N.W.2d 464 **; 2007 Mich. LEXIS 57 ***
+ MICHAEL FRANCIS SPITZLEY, Personal Representative of the ESTATE OF DAVID A. SPITZLEY, Plaintiff-Appellee, v THOMAS P. SPITZLEY and KIMBERLY S. SPITZLEY, Defendants-Appellants.  
+Subsequent History: Reconsideration denied by Spitzley v. Spitzley, 477 Mich. 1043; 728 N.W.2d 228; 2007 Mich. LEXIS 505 (Mich., Mar. 21, 2007)  
+Prior History:  [***1]  COA: 255345. Clinton CC: 03-009578-CZ.  
+Spitzley v. Spitzley, 2005 Mich. App. LEXIS 2992 (Mich. Ct. App., Dec. 1, 2005)  
+Judges: Young, J., concurs. Markman, J., dissents. Kelly and Corrigan, JJ., join the statement of Markman, J.    
+Opinion
+
+
+
+
+ [*989]   [**465]  On November 15, 2006, the Court heard oral argument on the application for leave to appeal the December 1, 2005 judgment of the Court of Appeals. On order of the Court, the application is again considered, and it is DENIED, because we are not persuaded that the question presented should be reviewed by this Court.  
+Concur by: Young  
+Concur
+
+
+
+
+Young, J., concurs and states as follows:
+I concur in the Court's decision to deny leave to appeal in this case. This case arises from the sale of a home and land from the estate of plaintiff's father. Plaintiff, in his capacity as personal representative of his father's estate, sold the home and land to his relatives by personal representative deed. In this action, plaintiff claims that the personal representative deed mistakenly included 40 acres of plaintiff's own property along with the estate's property. Thus, the primary issue was whether the 40-acre parcel was included in the deed mistakenly or intentionally. The trial court found that "[d]efendants have not presented an offer to purchase or any documentary [***2]  evidence that supports their position. Overwhelming evidence persuades the Court that the personal representative's deed included the farmland legal description by mistake. Defendants simply tried to take advantage of the mistake after it occurred." (Emphasis added.) Justice Markman cites the deed as factual support for defendants' claim that the 40 acres were intentionally included in the deed and asserts that "it was hardly frivolous for defendants to rely upon [the deed] to identify the extent of the property that had been purchased." However, the deed itself does not refute plaintiff's claim that the deed contained a mistake, and defendants have simply not provided any evidence to show that the description was anything other than a mistake. Justice Markman also cites a July 2001 letter from the estate's attorney indicating that those 40 acres were estate property to be given to plaintiff after the mortgage was satisfied. However, the parties did not enter a purchase agreement until September 2002. In the interim, the quitclaim deed from the father to plaintiff was  [*990]  recorded on December 26, 2001. After the deed was recorded, it was wholly unreasonable for defendants to rely [***3]  on the clearly erroneous letter. 1 
+Therefore, the trial court correctly found that there was overwhelming evidence that the deed contained a mistake and that defendants simply tried to take advantage of that mistake. This point is made emphatic by the fact that plaintiff had received his property from his father by inter vivos gift and did not take under his father's will. Defendants, relatives of plaintiff, fully knew this fact and the only argument justifying enforcing the deed is that plaintiff intended to donate his land as a gift to the estate in which he had no interest. The trial court was thus fully justified in finding defendants' claim frivolous because they "had no reasonable basis to believe that the facts underlying [their] legal position were in fact true."  [***4]  MCL 600.2591(3)(a)(ii) (emphasis added).
+Because there has been no showing that the trial court clearly erred in finding that the defendants had no evidence to support their position that the description in the deed was not a mistake, sanctions are appropriate.  
+Dissent by: Markman  
+Dissent
+
+
+
+
+Markman, J., dissents and states as follows:
+I respectfully dissent. Plaintiff, as a representative of an estate, sold a house  [**466]  and 40 acres to defendants. Plaintiff later filed suit to reform the deed because the 40 acres had been owned personally by plaintiff, not the estate. After granting summary disposition to plaintiff, the trial court imposed sanctions on defendants for filing frivolous counterclaims, and the Court of Appeals affirmed.
+A party's claim is "frivolous" if that party "had no reasonable basis to believe that the facts underlying that party's legal position were in fact true" or "[t]he party's legal position was devoid of arguable legal merit." MCL 600.2591(3)(a)(ii) and (iii). Defendants' claims, in my judgment, were not "devoid of arguable legal merit." Indeed no Michigan case expressly controls the precise issue presented: whether [***5]  a representative of an estate is estopped from asserting a personal interest in real property which that representative has conveyed in his or her capacity as representative. In the absence of dispositive authority, defendants cited 23 Am Jur 2d, Deeds, § 289, p 264, as well as foreign cases, see, e.g., Bliss v Tidrick, 25 SD 533; 127 N.W. 852 (1910), in support of their contention that plaintiff should be precluded from reasserting an interest in the property in this case.
+Moreover, defendants arguably possessed a "reasonable basis to believe that the facts underlying [their] legal position were in fact true." The deed itself explicitly included the 40 acres within its language. Although the deed may have granted the 40 acres by mistake, it was hardly frivolous for defendants to rely upon it to identify the extent of the property that had been purchased.
+ [*991]  Defendants also presented evidence that all of the parties initially assumed that the land did not automatically pass to plaintiff upon his father's death. A July 18, 2001, letter from the first probate attorney, Gary Kasenow, stated:
+The 40 acres of farmland and farm buildings . . . shall [***6]  be given to Michael Spitzley but he must pay off A 1/2 of the mortgage balance owed, 2  the other A 1/2 would be paid off by the other beneficiaries.
+Some time later, a second attorney, William Jackson, was retained by personal representatives plaintiff and Lisa Klein. In a letter dated November 12, 2002, Jackson stated:
+Apparently, the entire real estate holdings of the decedent were included in the inventory of the estate. Unfortunately, this was incorrect, as the farm land has been previously deeded by the decedent to himself and to Michael Spitzley as joint tenants with full rights of survivorship . . . . This means that upon the death of the decedent, the title to this property passed to the survivor, Michael Spitzley, by operation of law, without the need of further probate. Therefore, it was error to include this land in the inventory of the estate.
+ [***7]  Although plaintiff asserts in his brief that this letter is dated two days prior to the execution of the personal representative's deed, and therefore that the parties were aware of any mistake, defendants claimed they were not informed of the error until after the closing. The letter provides a reasonable basis for defendants' claim, since it was dated November 12, 2002, but there is no evidence that defendants received it before the closing. Other defense evidence, in addition to defendants' own testimony, included the affidavit of another sibling, Mark Spitzley, stating [**467]  that "[his] understanding was that Tom and Kimberly Spitzley were purchasing the disputed 40 acres," and that plaintiff told him "that [plaintiff] was unhappy about the debt [plaintiff] had inherited by way of the mortgage." The two letters and the affidavit of Mark Spitzley are relevant because they suggest that the parties to the estate, including defendants, understood the estate to possess the 40 acres. In accordance with this understanding, the defendants could have reasonably believed that the plaintiff, as personal representative, intended to convey the 40 acres. Therefore, in my judgment the [***8]  trial court clearly erred when it found that "[d]efendants have not presented . . . any documentary evidence that supports their position." (Emphasis added.)
+While defendants' argument may not have deserved to prevail, defendants nonetheless presented a good faith argument in support of  [*992]  their legal position and they possessed a deed that explicitly purported to grant them the property at issue. Because I do not believe that defendants' defenses and counterclaims were frivolous under MCL 600.2591, I would reverse the judgment of the Court of Appeals and strike the sanctions.
+Kelly and Corrigan, JJ., join the statement of Markman, J.  
+
+ 
+
+End of Document

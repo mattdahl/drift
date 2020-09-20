@@ -1,0 +1,50 @@
+
+  CitedAs of: September 19, 2020 7:10 PM Z
+United States v. Wilson
+United States Court of Appeals for the Seventh Circuit
+May 21, 2020, Argued; June 30, 2020, Decided
+No. 19-2503
+
+Reporter
+963 F.3d 701 *; 2020 U.S. App. LEXIS 20352 **; 2020 WL 3527082
+ UNITED STATES OF AMERICA, Plaintiff-Appellee, v. CORDARRELL WILSON, Defendant-Appellant.  
+Prior History:  [**1] Appeal from the United States District Court for the Northern District of Illinois, Eastern Division. No. 18 CR 60. Jorge L. Alonso, Judge.
+  
+Disposition: AFFIRMED.
+  
+Counsel: For UNITED STATES OF AMERICA, Plaintiff - Appellee: Richard Michael Rothblatt, Attorney, OFFICE OF THE UNITED STATES ATTORNEY, Chicago, IL. 
+For CORDARRELL WILSON, Defendant - Appellant: Vadim A. Glozman, Attorney, Chicago, IL.  
+Judges: Before MANION, BARRETT, and BRENNAN, Circuit Judges. BARRETT, Circuit Judge, concurring.  
+Opinion by: MANION  
+Opinion
+
+
+
+
+ [*702]  Manion, Circuit Judge. Defendant Cordarrell Wilson was convicted of being a felon in possession of a firearm. Wilson claims the gun found on his person should have been suppressed because the police subjected him to an unlawful Terry stop. We disagree and affirm his conviction.
+ I. Background
+On May 16, 2017, dispatch reported three black males armed with guns selling drugs in front of a residence in Chicago's Lawndale neighborhood, a high-crime area. Dispatch described one of the three men as wearing a white shirt, another wearing a red shirt, and the third wearing a boot-style cast on his leg.
+Officers Mukite and Collins responded. Before reaching the residence, they passed Douglas Park—about one block from the reported address—where [**2]  a large group of adults had gathered in the playground area. The group included multiple black males wearing both red and white shirts. The officers approached the group. As they did, Officer Collins noticed Wilson grab a bulge in the front right pocket of his athletic/ mesh shorts, turn his right side away from the officers, and sit down on a ledge facing away from them and on the fringe of the group. Wilson had on a dark blue shirt. Officer Collins walked around to Wilson's front to see if Wilson was wearing a boot or cast (he was not). When he did, Officer Collins observed the same bulge in Wilson's pocket. Officer Mukite stood behind Wilson. Officer Collins asked Wilson to stand up and made a corresponding hand gesture. Wilson rose from his seated position and sprinted away instantly. Officer Mukite gave chase and tackled him. While on the ground, Wilson indicated to the officers that he had a gun on his person. They searched him and found a loaded revolver.
+The government charged Wilson with one count of felon in possession of a firearm, 18 U.S.C. § 922(g)(1). He moved to suppress the gun but the district court  [*703]  denied his request. Wilson pleaded guilty but reserved the right to challenge this adverse [**3]  ruling. The district court accepted his plea and sentenced him to 60 months' imprisonment. This appeal followed.
+ II. Discussion
+When reviewing the denial of a motion to suppress, we review legal questions de novo and factual findings for clear error. United States v. Mojica, 863 F.3d 727, 731 (7th Cir. 2017).
+Wilson claims he was seized when the officers approached and asked him to stand up, and that this seizure lacked reasonable suspicion. Police may stop an individual based on reasonable suspicion (more than a hunch but less than probable cause) that he is engaged in criminal activity, according to Terry v. Ohio, 392 U.S. 1, 20-22, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968). These Terry stops count as "seizures" that trigger Fourth Amendment scrutiny. Mere consensual encounters with police, on the other hand, do not. United States v. Figueroa-Espana, 511 F.3d 696, 702 (7th Cir. 2007).
+A seizure under the Fourth Amendment occurs if "a reasonable person would not feel free to disregard the police and move along." United States v. Howell, 958 F.3d 589, 597 (7th Cir. 2020). This can happen one of two ways: the suspect's freedom of movement is restrained either by physical force or by submitting to the assertion of police authority. United States v. Griffin, 652 F.3d 793, 798 (7th Cir. 2011). For the latter, submission is a must; there is no seizure unless the suspect actually submits to police authority. Id. (citing California v. Hodari D., 499 U.S. 621, 626, 111 S. Ct. 1547, 113 L. Ed. 2d 690 (1991)). Both sides agree the officers did not use physical force when they approached Wilson, so we evaluate whether he submitted [**4]  to their authority. Wilson argues he at least submitted momentarily by complying with the officers' request to stand up before running away.
+The incident was captured on Officer Mukite's body camera. We reviewed the video footage and it tells all.1  There is no question Wilson did not submit to the officers' authority when asked to stand up. Yes, he rose to his feet, but only to sprint away. He did not even pause momentarily before doing so; he stood and ran in one motion. Therefore, Wilson was not seized when the officers approached and asked him to get up, nor was he seized in the split second between the officers' request and his flight. The only seizure here occurred when Officer Mukite subsequently tackled Wilson.
+We now turn to that seizure's constitutionality, i.e., whether the officers had reasonable suspicion to seize Wilson through physical force. This requires a fact-intensive inquiry: "we look to the totality of the circumstances to see whether police 'ha[d] a particularized and objective basis for suspecting the particular person stopped of criminal activity.'" Howell, 958 F.3d at 597-98 (quoting United States v. Cortez, 449 U.S. 411, 417-18, 101 S. Ct. 690, 66 L. Ed. 2d 621 (1981)).
+When Mukite tackled Wilson, the officers knew he had a conspicuous bulge in his right pocket. They had [**5]  watched him act evasively, grabbing the bulge, turning his right side away from their view, and sitting facing away from them. They knew they were in a high-crime area and had received a dispatch report minutes earlier  [*704]  of armed men selling drugs nearby. See United States v. Richmond, 924 F.3d 404, 411-14 (7th Cir. 2019) (holding reasonable suspicion for seizure supplied by defendant's evasive behavior upon seeing police in a high-crime area and gun-like bulge spotted in his pocket by officers). On the other hand, the officers also knew Wilson did not match any of the three men reported—he was not wearing red or white, nor was he wearing any boot or cast. Still, the Fourth Amendment did not require the officers to disregard all of the above simply because of these discrepancies. United States v. Adair, 925 F.3d 931, 936 (7th Cir. 2019) (rejecting defendant's argument that reasonable suspicion was negated by mismatch between his clothing and that of the suspect reported by a 911 caller).
+If these were all the facts, establishing reasonable suspicion might have been a close call for the officers. But Wilson's unprovoked, headlong flight from police in a high-crime area put any lingering doubt to rest. Illinois v. Wardlow, 528 U.S. 119, 124, 120 S. Ct. 673, 145 L. Ed. 2d 570 (2000) ("Headlong flight—wherever it occurs—is the consummate act of evasion: It is not necessarily indicative of wrongdoing, [**6]  but it is certainly suggestive of such."). A reasonable officer could infer from Wilson's flight that Wilson knew he was in violation of the law. District of Columbia v. Wesby, 138 S. Ct. 577, 587, 199 L. Ed. 2d 453 (2018). Considering the totality of the circumstances—and his flight especially—Wilson's seizure was supported by the officers' reasonable suspicion that he was engaged in criminal activity.
+ III. Conclusion
+Wilson was not seized unlawfully, so the district court correctly denied his motion to suppress. The district court's ruling and Wilson's conviction are therefore
+Affirmed.
+Concur by: BARRETT  
+Concur
+
+
+
+
+Barrett, Circuit Judge, concurring. This case hinges on whether Wilson was "seized" when Officer Collins walked up to him in particular, and the measure of that is whether Wilson yielded to Collins's authority. California v. Hodari D., 499 U.S. 621, 626, 111 S. Ct. 1547, 113 L. Ed. 2d 690 (1991) (holding that a seizure "requires either physical force ... or, where that is absent, submission to the assertion of authority"). If Wilson yielded, then he has a good argument that Collins lacked reasonable suspicion to stop him based only on his efforts to hide a bulge in his pocket in an area of suspected drug-dealing. See Terry v. Ohio, 392 U.S. 1, 21-22, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968). But if he immediately fled, then Illinois v. Wardlow—which approves a Terry stop of a person who runs from the police in a "high crime [**7]  area"—forecloses Wilson's Fourth Amendment challenge. 528 U.S. 119, 124-25, 120 S. Ct. 673, 145 L. Ed. 2d 570 (2000); see also id. at 124 ("Headlong flight—wherever it occurs—is the consummate act of evasion: It is not necessarily indicative of wrongdoing, but it is certainly suggestive of such."). The video plainly shows that Wilson did not pause for even a moment before fleeing from Collins. And once Wilson ran, Wardlow dictates the result. That's all we need to say; I wouldn't get into the dispatch call because it offers no support for the stop. To be sure, a dispatch call can support reasonable suspicion to stop someone who does not perfectly match the description of the suspect. United States v. Adair, 925 F.3d 931, 935-36 (7th Cir. 2019). In this case, though, Wilson wasn't a less-than-perfect match—he wasn't even in the ballpark.
+
+ 
+
+End of Document

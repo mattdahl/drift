@@ -1,0 +1,55 @@
+
+  NeutralAs of: September 19, 2020 9:20 PM Z
+People v. McKay
+Supreme Court of Michigan
+December 16, 2005, Decided 
+SC: 126930 
+
+Reporter
+474 Mich. 967 *; 706 N.W.2d 832 **; 2005 Mich. LEXIS 2650 ***
+ PEOPLE OF THE STATE OF MICHIGAN, Plaintiff-Appellee, v CHRISTOPHER MCKAY, Defendant-Appellant.  
+Subsequent History: Reconsideration denied by People v. McKay, 474 Mich. 1064; 711 N.W.2d 16; 2006 Mich. LEXIS 377 (Mich., Feb. 27, 2006)  
+Prior History:  [***1]  COA: 255596. Wayne CC: 03-002007-01.
+People v. McKay, 472 Mich. 863, 692 N.W.2d 387, 2005 Mich. LEXIS 137 (2005)  
+Judges: YOUNG, J., concurs. CORRIGAN, J., joins the statement of YOUNG, J. MARKMAN, J., dissents. CAVANAGH and KELLY, JJ., join the statement of MARKMAN, J.    
+Opinion
+
+
+
+
+ [*967]   [**832]  On October 19, 2005, the Court heard oral argument on the application for leave to appeal the June 30, 2004 order of the Court of Appeals. On order of the Court, pursuant to MCR 7.302(G)(1), the application for leave to appeal is again considered and it is DENIED, because, by accepting a valid Cobbs agreement, defendant  [*968]  waived his objection to the scoring of OV-13. See People v Wiley, 472 Mich. 153; 693 N.W.2d 800 (2005); People v Cobbs, 443 Mich. 276; 505 N.W.2d 208 (1993).  
+Concur by: YOUNG  
+Concur
+
+
+
+
+YOUNG, J., concurs and states as follows:
+I join with the order denying leave to appeal. I believe a close inspection of the record reveals that defendant entered into a valid Cobbs (see People v Cobbs, 443 Mich. 276; 505 N.W.2d 208 [1993]) agreement and waived his objection to a scoring error because he "understandingly and voluntarily entered into a plea agreement . . . ." People v Wiley, 472 Mich. 153, 154; 693 N.W.2d 800 (2005). [***2]  
+At his April 25, 2003, arraignment, defendant solicited a Cobbs evaluation from Judge Kym L. Worthy. The prosecutor supplied what he thought to be the appropriate guidelines range and the judge inquired about defendant's prior convictions and reviewed other factors. Finally, she offered a preliminary assessment that the sentence would be 9 to 15 years and emphasized that that sentence was "exceedingly generous coming from me." Defendant declined to plead to the charge in light of this evaluation at the arraignment.
+Defendant's attorney attempted to lower the judge's Cobbs evaluation at a final conference five days later. He noted the defendant's supportive family, good work history, and other mitigating circumstances. Judge Worthy was unpersuaded. She refused to "revisit," i.e., lower, her evaluation and go "any lower than 9 years." The judge said she was "crazy for offering the 9 to 15" as it was "exceedingly lenient, way too lenient, especially for me."
+Defendant pleaded no contest on May 5. Defense counsel continued to ask the court to lower the minimum sentence. Although her "mind [was] not closed," Judge Worthy replied that "the chances [of a lower sentence] are [***3]  very very minimal, highly unlikely."
+Judge Worthy imposed a sentence of 9 to 15 years on May 15. Again, she rejected defense counsel's arguments for a reduced sentence because the sentence was "exceedingly fair, it's more than fair." She explained to defendant why the "sentence that I told you I would give you was exceedingly lenient." Several times, Judge Worthy reiterated that "I'm not going any lower than I already have in this case" and "I'm not changing the sentence."
+Justice MARKMAN'S contention that defendant only agreed to plead guilty but "did not agree to the sentence imposed" finds no support in the record recounted above. From the beginning of these proceedings, Judge Worthy indicated that defendant would likely receive a 9- to 15-year sentence if he entered a plea. She never wavered from that evaluation despite defense counsel's repeated attempts to have her lower her evaluation. Defendant was under no illusions about the  [**833]  length of his sentence when he decided to plead no contest. Judge Worthy's statement that she had not closed her mind to a lower sentence does not obviate the Cobbs evaluation. In fact, it finds support in Cobbs, since a Cobbs agreement [***4]  is always subject to future revision in light of newly introduced information.
+A Cobbs plea is a voluntary, noncoercive agreement between the defendant and the sentencing judge. Indeed, the judge cannot offer preliminary impressions on the record until one of the parties requests an  [*969]  evaluation. Judge Worthy may have relied, in part, on erroneous information when she calculated her evaluation. But defendant was not obliged to accept, i.e., plead no contest. That he did accept, after initially rejecting the offer, suggests he perceived some benefit from the offered sentence.
+Further, a Cobbs plea necessarily contains a sentencing component. As occurred in this case, the defendant pleads guilty or no contest in reliance on a particular sentence offered by the sentencing judge. This trade-off is the essence of a Cobbs plea. If the defendant is not agreeing to a specific sentence in a Cobbs plea, then there could be no justification for giving the defendant the "absolute right" to withdraw the plea if the judge exceeds his or her preliminary evaluation. Cobbs, 443 Mich. at 283. Thus, Justice MARKMAN has made a distinction that cannot be squared with [***5]  the very theory of a Cobbs plea.
+For this reason, I agree with the majority's order to deny leave to appeal.
+CORRIGAN, J., joins the statement of YOUNG, J.  
+Dissent by: MARKMAN  
+Dissent
+
+
+
+
+MARKMAN, J., dissents and states as follows: 
+The majority concludes that defendant waived any error in the scoring of Offense Variable 13. I respectfully disagree. In People v Wiley, 472 Mich. 153, 154; 693 N.W.2d 800 (2005), this Court held that a defendant who "understandingly and voluntarily enter[s] into a plea agreement to accept [a] specific sentence," "waives appellate review of a sentence that exceeds the guidelines . . . ." In other words, if a defendant agrees to a sentence that exceeds the statutory sentencing guidelines range, that defendant cannot appeal the sentence because he or she has waived any error. 
+The majority relies on Wiley to conclude that the defendant here waived his right to appeal the scoring of OV 13. The majority, however, fails to recognize that Wiley is a considerably different case. The defendant in this case did not agree to the sentence imposed; he simply agreed to plead guilty after a Cobbs evaluation. See People v Cobbs, 443 Mich. 276; 505 N.W.2d 208 (1993). [***6]  The defendant in Wiley did not simply agree to plead guilty after a Cobbs evaluation; he specifically agreed to the sentence imposed. The majority, as well as Justice YOUNG, errs in equating a sentencing agreement with a Cobbs evaluation. 
+A sentencing agreement is an agreement between the parties concerning a specific sentence. A Cobbs evaluation is a judge's on-the-record statement regarding "the length of sentence that, on the basis of the information then available to the judge, appears to be appropriate for the charged offense." Id. at 283. When a defendant pleads guilty pursuant to a sentencing agreement, the defendant is agreeing to a specific sentence; when a defendant pleads guilty after a Cobbs evaluation, absent a sentencing agreement, the defendant is not agreeing to any specific sentence. There is a significant distinction between agreeing to a  [**834]  specific sentence and pleading guilty knowing that the trial court may or will likely impose a certain sentence. Unlike a sentencing agreement, a Cobbs evaluation is not binding on either party. The judge does not have to sentence the defendant to the sentence indicated at the Cobbs [***7]  evaluation and the defendant is not precluded from challenging the sentence.
+The purpose of a Cobbs evaluation is to give a defendant some idea of the length of sentence that the trial court may impose. This procedure was  [*970]  developed before the enactment of the statutory sentencing guidelines. Thus, it was developed at a time when the statutory maximum (and occasionally the minimum) was the only source a defendant had to determine the length of sentence with which he or she was faced. For instance, a defendant charged with an offense that had a statutory maximum of twenty years would have no idea whether the trial court would impose a sentence of six months or ten years. In light of this predicament, this Court held in Cobbs that it would be appropriate for a trial court, at the defendant's request, to accord the defendant some rough, "ballpark" idea of the length of sentence that the trial court was inclined to impose. I do not believe that a Cobbs evaluation was ever intended to deprive a defendant of the right to be sentenced on the basis of correctly calculated guidelines. 
+A defendant who pleads guilty without agreeing to a specific sentence, does not waive the right [***8]  to appeal a scoring error. MCR 6.302 requires a trial court to inform a defendant who is pleading guilty that he or she is waiving various rights, including the right to be tried by a jury, but it does not require the trial court to inform the defendant that he or she is waiving the right to challenge the sentence. A waiver is an "'intentional relinquishment or abandonment of a known right.'" People v Carter, 462 Mich. 206, 215; 612 N.W.2d 144 (2000) (citation omitted). A defendant who pleads guilty without agreeing to a specific sentence intentionally relinquishes the right to be tried by a jury, but does not intentionally relinquish the right to be correctly sentenced.
+In the instant case, defendant argues that the trial court erroneously scored OV 13, and, thus, that he is entitled to be resentenced. On December 7, 2005, we directed the Clerk to schedule oral argument on whether to grant leave to appeal in People v Francisco, Docket No. 129035, and we have directed the parties in that case to address the same issue that is at issue in this case—"whether People v McDaniel, 256 Mich. App. 165, 172-173; 662 N.W.2d 101 (2003), was correct in deciding that [***9]  OV 13 may be scored based on three or more felonies committed in any five-year period even if that period does not include the date of the sentencing offense." Therefore, I would hold this case in abeyance for Francisco. 
+CAVANAGH and KELLY, JJ., join the statement of MARKMAN, J.  
+
+ 
+
+End of Document

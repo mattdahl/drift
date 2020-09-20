@@ -1,0 +1,83 @@
+
+  CautionAs of: September 19, 2020 9:19 PM Z
+Knue v. Smith
+Supreme Court of Michigan
+May 23, 2007, Decided ; May 23, 2007, Filed 
+No. 130377 
+
+Reporter
+478 Mich. 88 *; 731 N.W.2d 686 **; 2007 Mich. LEXIS 1003 ***
+ DANIEL KNUE and JACQUELINE KNUE, Plaintiff-Appellees, v JOAN SMITH, STEVE SMITH and CORNELIUS CASEY SMITH, also known as CASEY SMITH, Defendant-Appellants.  
+Prior History:  [***1]  Ottawa Circuit Court. Calvin L Bosman, J. The Court of Appeals, Whitbeck, C.J. and Bandstra and Markey, JJ., affirmed the award of offer of judgment sanctions in an opinion per curiam. The Supreme Court directed the clerk to schedule oral argument on whether to grant the defendants' application for leave to appeal.
+Knue v. Smith, 269 Mich. App. 217, 711 N.W.2d 84, 2005 Mich. App. LEXIS 3095 (2005).  
+Counsel: Ledford & Associates (by Paul A. Ledford and Gregory P. Bierl), for the plaintiffs. Grand Haven.  
+Plunkett & Cooney, P.C. (by Jeffrey C. Gerish, Steven F. Stapleton, and Kristen M. Tolan), and Law, Weathers & Richardson, P.C. (by Steven F. Stapleton), for the defendants. Bloomfield Hills, Grand Rapids.    
+Judges: Chief Justice: Clifford W. Taylor. Justices: Michael F. Cavanagh, Elizabeth A. Weaver, Marilyn Kelly, Maura D. Corrigan, Robert P. Young, Jr., Stephen J. Markman. Marilyn Kelly, Robert P. Young, Jr., Elizabeth A. Weaver, JJ. (concurring). Stephen J. Markman, J. (dissenting).    
+Opinion by: Clifford W. Taylor  
+Opinion
+
+
+
+
+ [*89]   [**686]  BEFORE THE ENTIRE BENCH
+TAYLOR, C.J.
+At issue in this case is whether the requirement of the offer of judgment rule, MCR 2.405, to stipulate "to the entry of a judgment in a sum certain" such as to trigger the operation of the rule,  [***2]  and  [*90]  its sanction provisions, is met if the putative offer would culminate in a judgment, not for a sum certain but in a dismissal with prejudice and without costs only. The trial court and Court of Appeals held that an offer in a quiet title action in which the plaintiffs offered $ 3,000 to defendants in return for a quitclaim deed, after which a judgment for dismissal with prejudice and without costs would enter, was the offer of a sum certain such as to establish the  [**687]  predicate for the operation of the offer of judgment rule. Because we conclude this was not an offer for "the entry of a judgment of a sum certain" we reverse the judgments of the lower courts and remand to the trial court for entry of an order denying plaintiffs' motion for offer of judgment sanctions.
+I. FACTS AND PROCEDURAL HISTORY
+Plaintiffs filed an action to quiet title asserting that they had acquired title to a small strip of land through adverse possession or acquiescence. During the pendency of the lawsuit, plaintiffs' counsel sent defense counsel a letter on May 16, 2003, presenting an offer for settlement that he characterized as a "stipulation of entry of judgment" pursuant to MCR 2.405 [***3]  . The offer was that in return for payment by plaintiffs to defendants of $ 3,000 the defendants would convey the disputed land to plaintiffs by quitclaim deed and the parties would stipulate a dismissal of all claims "with prejudice and without costs." Counsel for defendants replied by letter, acknowledging the offer but contesting that this qualified as an offer of judgment pursuant to MCR 2.405.
+The offer was not accepted and a bench trial was held. The trial court entered a judgment and order quieting title in plaintiffs' favor. Plaintiffs subsequently  [*91]  filed a motion seeking actual costs and attorney fees under the offer of judgment rule, MCR 2.405(D)(1). They asserted that the offer of settlement of May 16, 2003, qualified under the offer of judgment rule and, as the adjusted verdict at the conclusion of the trial was more favorable to the plaintiffs than the offer, they were entitled to offer of judgment sanctions. 1  
+ [***4]  Defendants opposed the motion, arguing that the offer was not for a sum certain because this was an equitable action, and even if this argument was unavailing the court should decline to award sanctions under the "interest of justice" exception set forth in MCR 2.405(D)(3). 2  
+The trial court rejected the argument that the offer of judgment rule did not apply to equitable actions, noting that the rule contains no distinction between cases decided in equity and those decided at law and determined that $ 3,000 was a sum certain. The court further rejected the claim that the demand for a quitclaim deed was the attachment of a condition that took the offer outside the scope of the court rule, holding rather that the offer was only in the form necessary to resolve plaintiffs' equitable claim. Finally, the trial court declined to apply the interest of justice exception.
+Upon [***5]  appeal, the Court of Appeals affirmed in a published opinion per curiam. 3  The Court first rejected the argument that the offer of judgment rule does not apply to equitable actions, distinguishing Hessel v Hessel,  [*92] 168 Mich. App. 390; 424 N.W.2d 59 (1988), which had held that the rule does not apply to proposed property settlements in divorce actions, which are, of course, equitable. While acknowledging that, the Court opined that because $ 3,000 is a sum certain and the quiet title demand was akin to a dismissal, the rule of Hessel was inapplicable. Finally, the Court of Appeals concluded that the trial court had  [**688]  not abused its discretion in failing to invoke the interest of justice exception. 
+Defendants applied to this Court for leave to appeal, and we directed the clerk to schedule oral argument on whether to grant the application, asking the parties to brief (1) whether attorney fees and costs may be [***6]  assessed pursuant to MCR 2.405(D) in a case involving an equitable claim to quiet title, and (2) whether the $ 3,000 offer in plaintiffs' counsel's letter was an offer of judgment under MCR 2.405(A)(1), in light of that rule's requirement of a "sum certain" and given plaintiffs' additional demand for a quitclaim deed.
+II. STANDARD OF REVIEW
+The proper interpretation and application of a court rule is a question of law that this Court reviews de novo. CAM Constr v Lake Edgewood Condo Ass'n, 465 Mich. 549, 553; 640 N.W.2d 256 (2002).
+III. ANALYSIS
+When called on to interpret and apply a court rule, this Court applies the principles that govern statutory interpretation. Grievance Administrator v Underwood, 462 Mich. 188, 193; 612 N.W.2d 116 (2000). Accordingly, we look to the language of the court rule and in particular to that section which defines what an offer must be to qualify as an "offer of judgment."
+ [*93]  MCR 2.405 provides, in relevant part: 
+(A) Definitions. As used in this rule:
+(1) "Offer" means a written notification to an adverse party of the offeror's [***7]  willingness to stipulate to the entry of a judgment in a sum certain, which is deemed to include all costs and interest then accrued. If a party has made more than one offer, the most recent offer controls for the purposes of this rule. 
+Thus, to be an "offer" the offer must propose to stipulate the entry of a judgment in a sum certain. There is no latitude given in this rule for offers of judgment that culminate in something other than a "judgment for a sum certain." That is, it is nonconforming for the offer to require a reciprocal exchange of cash for the execution of a recordable real estate document culminating in a judgment of dismissal with prejudice and without costs. For such an offer, the offer of judgment rule is simply inapplicable and no consideration of the distinctions between equity and law is required to resolve this matter.
+Accordingly, contrary to the holdings of the trial court and Court of Appeals, the plaintiffs' offer that a quitclaim deed be provided for $ 3,000 and then a judgment of dismissal with prejudice and without costs would enter would not have culminated in a "judgment for a sum certain." Thus, the tendered offer fell outside the scope of [***8]  MCR 2.405(A)(1), and no costs and fees may be awarded under the rule.
+IV. CONCLUSION
+We hold that the offer of judgment rule does not apply to lawsuits where the putative offer would not result in judgment for a sum certain. Because the offer plaintiffs made here was nonconforming with the offer  [*94]  of judgment rule, possible sanctions under that rule are unavailable. Thus, we reverse the contrary judgment of the Court of Appeals and the trial court order granting offer of judgment sanctions. The case is remanded to the trial court for the entry of an order denying plaintiffs' motion for offer of judgment sanctions.
+Clifford W. Taylor
+Michael F. Cavanagh
+Maura D. Corrigan 
+Concur by: Marilyn Kelly; Robert P. Young, Jr.    
+Concur
+
+
+
+
+KELLY, J. (concurring).
+I concur in the decision to reverse the judgments of the lower courts and remand this case to the trial court for an order denying plaintiffs' motion for offer of judgment  [**689]  sanctions. However, I would hold that the offer of judgment rule, MCR 2.405, is inapplicable when equitable relief is sought.
+This Court's recent unanimous decision in Haliw v Sterling Hts, 4  in which we discussed case [***9]  evaluation sanctions under MCR 2.403, is instructive. In Haliw, after the trial court granted the defendant's motion for summary disposition, the defendant sought case evaluation sanctions. Haliw v Sterling Hts, 471 Mich. 700, 702-703; 691 N.W.2d 753 (2005). Included in this amount were the defendant's appellate costs and attorney fees. Id. at 703. The trial court rejected the defendant's request, but the Court of Appeals reversed. Id. at 703-704. 
+This Court reversed the Court of Appeals judgment and reinstated the trial court's order noting, among other things, that Michigan follows the "American rule" with respect to the payment of attorney fees and costs. Id. at 706. Under this rule, attorney fees generally are not recoverable as costs absent an exception set forth in a statute or court rule expressly authorizing such an  [*95]  award. Id. at 707. Therefore, although MCR 2.403(O)(6) [***10]  authorizes recovery of "a reasonable attorney fee" and "costs," the rule does not mention appellate attorney fees and costs. Id. Accordingly, this Court in Haliw found that the Court of Appeals erred in concluding that, where MCR 2.403(O) did not exclude such expenses, they are recoverable. Haliw, 471 Mich. at 707. The Court of Appeals conclusion runs "contrary to the American rule governing the payment of attorney fees. . . . [The rule] permits recovery of fees and costs where expressly authorized." Id. (emphasis in original).
+The rationale in Haliw undermines the instant plaintiffs' contention that, because MCR 2.405 does not distinguish between equitable and legal claims, a court may award sanctions when equitable relief is sought. As noted in Haliw, the American rule governing payment of attorney fees permits recovery of fees and costs only when expressly authorized. MCR 2.405(D) does not expressly authorize the recovery of attorney fees and costs in equitable cases. Therefore, when such fees and costs are not expressly authorized, they are not recoverable as sanctions under [***11]  MCR 2.405(D).
+Furthermore, the intent of a court rule must be determined from an examination of the court rule itself and its place within the structure of the Michigan Court Rules as a whole. Haliw, 471 Mich. at 706. Both MCR 2.405(D) and MCR 2.403(O) are located in chapter 2 of the Michigan Court Rules, which addresses matters of civil procedure. Although the rules are in the same chapter, the absence of any reference to equitable claims in MCR 2.405(D) is in stark contrast to the reference to equitable claims made in MCR 2.403(O). Specifically, MCR 2.403(O)(5)(b) expressly authorizes attorney fee awards in cases involving equitable claims. Although this Court forewarned litigants that MCR 2.403(O)  [*96]  applies if equitable relief is sought, it provided no such warning in MCR 2.405(D).
+There are also practical considerations that support the conclusion that MCR 2.405(D) is inapplicable when equitable relief is sought. An offer made pursuant to MCR 2.405 is controlled [***12]  solely by a party to the litigation. However, an award made pursuant to MCR 2.403 is controlled by a panel of three neutral persons who must unanimously agree on an award before a  [**690]  prevailing party may obtain costs. See MCR 2.403(D)(1), (O)(7).
+Hence, an offer made pursuant to MCR 2.405 can be more easily manipulated for strategic purposes than an award made pursuant to MCR 2.403. An offeree faced with a case evaluation award in an equitable action is explicitly forewarned by MCR 2.403(O)(5) that sanctions are possible if the offeror prevails. Moreover, the deterrent to rejecting the offer is more justified than in the offer of judgment setting because the award represents three unbiased evaluators' unanimous opinion about the worth of the claim. MCR 2.405(D) stands in contrast. It does not forewarn that sanctions are possible where the principal nature of the dispute is equitable and the offer represents the opposing party's biased opinion about the worth of the claim. Accordingly, the absence of any reference to equitable relief in MCR 2.405 can be rationally [***13]  distinguished from the explicit reference to equitable relief in MCR 2.403(O)(5).
+Moreover, the conclusion that offer of judgment sanctions are not applicable where equitable relief is sought is supported by MCR 2.405(A)(5), which provides: "'Adjusted verdict' means the verdict plus interest and costs from the filing of the complaint through the date of the offer." The offer of judgment rule assumes an  [*97]  automatic adjustment of prejudgment interest. However, in actions to quiet title, there can be no adjusted verdict because the judgment consists of a decision by the court regarding which party owns the disputed real property.
+For the above reasons, I would hold that the offer of judgment rule, MCR 2.405, is inapplicable when equitable relief is sought. I would reverse the judgments of the trial court and the Court of Appeals and remand the case for entry of an order denying plaintiffs' motion for offer of judgment sanctions.
+Marilyn Kelly
+Young, J. (concurring).
+I concur in the result only. Because plaintiffs' offer required a quit claim deed in addition to the transfer of $ 3,000, the offer could not be for [***14]  a sum certain. Therefore, MCR 2.405 does not apply to this case.
+Robert P. Young, Jr.
+Elizabeth A. Weaver 
+Dissent by: Stephen J. Markman  
+Dissent
+
+
+
+
+MARKMAN, J. (dissenting).
+I would deny leave to appeal on the application. I believe that the Court of Appeals correctly held that the offer of judgment rule, MCR 2.405, may apply to cases, like this, in which the relief sought is equitable, and that the offer in dispute here constituted an offer of judgment within the meaning of MCR 2.405.
+The language of MCR 2.405 does not differentiate between legal and equitable claims. Under MCR 2.405(D)(1), if a verdict is more favorable to the offeror than the offer, the offeree must pay the offeror's actual costs. "Offer" is defined as "a written notification to an adverse party of the offeror's willingness to stipulate to the entry of a judgment in a sum certain." MCR 2.405(A)(1). Here, plaintiffs notified defendants in writing that they were willing to stipulate to the entry of a  [*98]  judgment, i.e., a judgment awarding plaintiffs the property, for a sum certain, i.e., $ 3,000. 
+ [***15]  Defendants contend that plaintiffs' offer did not constitute an offer of judgment under MCR 2.405 because it was not unconditional since plaintiffs' offer to pay defendants $ 3,000 was "conditioned" on defendants' transferring the deed to the property to plaintiffs. I respectfully disagree. Because this is a quiet-title action, an "entry of a judgment" in plaintiffs' favor would necessarily have required defendants to transfer the deed to the property to plaintiffs. Therefore, although plaintiffs' offer may have been more explicit  [**691]  than necessary in referencing the transfer of the deed, it was nevertheless, for all practical purposes, an unconditional offer.
+Moreover, the offer was for a "sum certain" because plaintiffs offered to pay defendants $ 3,000 and $ 3,000 constitutes a sum certain.
+Because plaintiffs offered to pay defendants $ 3,000 for the entry of a judgment in their favor, and because they ended up having to pay defendants $ 0 for the entry of a judgment in their favor, the trial court did not abuse its discretion by awarding costs to plaintiffs under MCR 2.405(D)(1).
+Stephen J. Markman 
+
+ 
+
+End of Document

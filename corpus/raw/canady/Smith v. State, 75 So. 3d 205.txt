@@ -1,0 +1,42 @@
+
+  CautionAs of: September 19, 2020 7:25 PM Z
+Smith v. State
+Supreme Court of Florida
+October 6, 2011, Decided
+CASE NO.: SC09-2063
+
+Reporter
+75 So. 3d 205 *; 2011 Fla. LEXIS 2354 **; 36 Fla. L. Weekly S 582
+ DERRICK TYRONE SMITH, Appellant(s) vs. STATE OF FLORIDA, Appellee(s)  
+Subsequent History: Post-conviction relief denied at, Decision reached on appeal by Smith v. State, 2017 Fla. LEXIS 1973 (Fla., Oct. 5, 2017)  
+Prior History:  [**1] Lower Tribunal No.: 83-02653-CFAN.
+Smith v. State, 641 So. 2d 1319, 1994 Fla. LEXIS 901 (Fla., June 9, 1994)  
+Judges: PARIENTE, LEWIS, LABARGA, and PERRY, JJ., concur. CANADY, C.J., concurs in part and dissents in part with an opinion, in which POLSTON, J., concurs. QUINCE, J., recused.  
+Opinion
+
+
+
+
+ [*205]  Derrick Smith, a defendant under sentence of death, appeals from the circuit court's summary denial of his successive motion for postconviction relief filed pursuant to Florida Rule of Criminal Procedure 3.851. Previously, we affirmed Smith's conviction and sentence of death after retrial, Smith v. State, 641 So. 2d 1319 (Fla. 1994), and the circuit court's denial of Smith's initial motion for postconviction relief. Smith v. State, 931 So. 2d 790 (Fla. 2006). As explained below, we reverse and  [*206]  remand this case to the postconviction court for further proceedings.
+The postconviction court summarily denied Smith's allegations that (1) letters from the Federal Bureau of Investigation regarding expert testimony on comparative bullet lead analysis offered at his retrial constituted newly discovered evidence and (2) the State violated Brady v. Maryland, 373 U.S. 83, 83 S. Ct. 1194, 10 L. Ed. 2d 215 (1963), by failing to disclose information regarding trial witness Priscilla Walker. We find these claims to be sufficiently pleaded  [**2] to warrant an evidentiary hearing. Accordingly, we reverse and remand this case to the postconviction court for an evidentiary hearing on these two claims.
+Further, shortly before Smith filed his notice of appeal, the United States Court of Appeals for the Eleventh Circuit, in reviewing Smith's federal habeas petition, disagreed with some of this Court's findings in Smith's initial postconviction appeal and determined that six Brady claims "involve[d] favorable [undisclosed] evidence that was actually suppressed." Smith v. Sec'y, Dep't of Corr., 572 F.3d 1327, 1348 (11th Cir. 2009). The court held that these claims needed to be considered in a "cumulative materiality analysis" under Kyles v. Whitley, 514 U.S. 419, 115 S. Ct. 1555, 131 L. Ed. 2d 490 (1995). Smith, 572 F.3d at 1342. These claims are as follows:
+(1) Melvin Jones sought help from the prosecutor with the probation violation and grand theft charges against him; (2) Melvin Jones, fearing arrest, sought help from the prosecutor in regard to the sexual abuse allegations his daughter was making against him; (3) one or more police reports indicated that Melvin Jones had initially been considered as a suspect in 1983; (4) a prosecutor's synopsis of an interview of  [**3] David McGruder and some police reports cast doubt on McGruder's identification of Smith; (5) a prosecutor's note indicated that Jones and Johnson had met briefly in a holding cell before the 1983 trial; and (6) several reports showed that Priscilla Walker's statement to the police about when Smith was at her house conflicted with statements by others about where he was during that time.
+Id., 572 F.3d at 1348. In light of the Eleventh Circuit's findings, we direct that on remand the circuit court consider these claims in its analysis.
+Accordingly, we reverse the court's order summarily denying relief and remand this case to the circuit court for further proceedings.
+PARIENTE, LEWIS, LABARGA, and PERRY, JJ., concur.
+CANADY, C.J., concurs in part and dissents in part with an opinion, in which POLSTON, J., concurs.
+QUINCE, J., recused.
+Concur by: CANADY (In Part)  
+Dissent by: CANADY (In Part)  
+Dissent
+
+
+
+
+CANADY, C.J., concurring in part and dissenting in part.
+I agree with the decision to remand for an evidentiary hearing on the newly discovered evidence claim regarding the comparative bullet lead evidence. I dissent, however, from the decision to remand the Brady claim related to Priscilla Walker. Because that claim is procedurally  [**4] barred, I would affirm its denial by the postconviction court. Florida Rule of Criminal Procedure 3.851(d)(2)(A) provides that "no motion" filed beyond the one-year time limitation will be considered unless it alleges "the facts on which the claim is predicated were unknown to the movant or the movant's attorney and could not have been ascertained by the exercise of due diligence." See Jimenez v. State, 997 So. 2d 1056, 1064 (Fla. 2009). Smith's motion— [*207]  which was filed beyond the one-year time limitation— did not allege due diligence and thus did not satisfy the basic pleading requirements to overcome the rule's procedural bar.
+POLSTON, J., concurs.
+
+ 
+
+End of Document

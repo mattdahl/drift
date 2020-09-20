@@ -1,0 +1,48 @@
+
+  PositiveAs of: September 19, 2020 9:19 PM Z
+Benefiel v. Auto-Owners Ins. Co.
+Supreme Court of Michigan
+December 12, 2008, Decided
+SC: 135778
+
+Reporter
+482 Mich. 1087 *; 759 N.W.2d 814 **; 2008 Mich. LEXIS 2491 ***
+ ROBERT E. BENEFIEL, Plaintiff-Appellee, v AUTO-OWNERS INSURANCE COMPANY, Defendant-Appellant.  
+Prior History:  [***1] COA: 273664. Livingston CC: 05-021742-NI.
+Benefiel v. Auto-Owners Ins. Co., 277 Mich. App. 412, 745 N.W.2d 174, 2007 Mich. App. LEXIS 2878 (2007)  
+Judges: YOUNG, J. (concurring). CAVANAGH, J. (concurring in part and dissenting in part). WEAVER and KELLY, JJ., join the statement of CAVANAGH, J.  
+Opinion
+
+
+
+
+ [**814]   [*1087]  On order of the Court, the motion for leave to file a brief amicus curiae is GRANTED. Leave to appeal having been granted and the briefs and oral arguments of the parties having been considered by the Court, we hereby VACATE the December 27, 2007 judgment of the Court of Appeals and REMAND this case to the Livingston Circuit Court for further proceedings not inconsistent with this order. The Court of Appeals properly reversed the Livingston Circuit Court's grant of summary disposition for the defendant because there remain disputed issues of fact. Viewing the evidence in the light most favorable to the plaintiff, the defendant has failed to show that, as a matter of law, the plaintiff cannot establish a serious impairment of body function. See MCL 500.3135(7); Kreiner v Fischer, 471 Mich 109; 683 N.W.2d 611 (2004). For that reason, we REVERSE the September 25, 2006 order of the Livingston Circuit Court that granted summary disposition to the defendant.
+The remainder of the Court of Appeals analysis is faulty, however, because  [***2] it is improperly premised on the plaintiff's "normal life" as it existed prior to his first accident. The Court of Appeals wrongly concluded, as a matter of law, that the plaintiff established a serious impairment of body function. A plaintiff who has suffered successive injuries bears the burden of proving that his current injury was caused by the subsequent accident (and not by some independent occurrence). See Richman v City of Berkley, 84 Mich App 258, 263; 269 N.W.2d 555 (1978); M Civ JI 36.11 and 36.15. Therefore, the plaintiff must prove that his preexisting impairment is temporary in order to have his pre-impairment lifestyle considered as his "normal life." It follows that, in this situation, the plaintiff must show either that his preexisting impairment was exacerbated or that his recovery was prolonged as a result of the subsequent accident for which he seeks noneconomic damages. Furthermore, this subsequent impairment must meet the statutory threshold in order for the plaintiff to recover noneconomic damages. Accordingly, we VACATE the entire Court of Appeals opinion.
+Concur by: YOUNG; CAVANAGH (In Part)  
+Concur
+
+
+
+
+YOUNG, J. (concurring).
+I concur in the order. I write separately only to point out that, contrary  [***3] to Justice Cavanagh's statement, causation is necessarily intertwined with the serious impairment inquiry under MCL 500.3135, because such an inquiry requires a preliminary finding with regard to the permanence or non-permanence of the plaintiff's preexisting injury.
+Justice Cavanagh would allow a court to consider causation only after determining whether the plaintiff's combined injuries meet the serious impairment threshold. This would allow a plaintiff who has suffered an earlier, permanent injury that itself amounts to a serious impairment of body function (such as the amputation of a leg) to recover noneconomic [*1088]  damages for any injury caused by a subsequent accident, however minor those actual injuries are. Such a result is inconsistent with the no-fault statutory scheme, which allows  [**815]  plaintiffs to recover noneconomic damages when the injuries caused by the defendant's negligence meet the serious impairment threshold. Even the Court of Appeals acknowledged that a plaintiff is not entitled to use a preexisting, permanent injury to reach the serious impairment threshold. Benefiel v Auto-Owners Ins Co, 277 Mich App 412, 419-420; 745 N.W.2d 174 (2007). Accordingly, I concur in the entirety of this  [***4] Court's order.
+Dissent by: CAVANAGH (In Part)  
+Dissent
+
+
+
+
+CAVANAGH, J. (concurring in part and dissenting in part).
+I agree that we should affirm the Court of Appeals reversal of the trial court's grant of summary disposition for the defendant because the plaintiff has presented questions of fact concerning whether his current injury meets the statutory threshold for a serious impairment of a bodily function under MCL 500.3135(7) and regarding whether any such serious impairment was caused by the second accident. I also agree that the Court of Appeals erred in holding that plaintiff established a serious impairment as a matter of law. Thus, I too would remand to the trial court for further proceedings.
+However, I do not agree that, in a multiple accident scenario, a plaintiff must prove that his preexisting impairment is not permanent in order for his lifestyle before that preexisting impairment to be included in his "normal life" evaluation. MCL 500.3135(7).
+First, this new lack-of-permanency element is wholly absent from the statute's text. The statute simply does not include a lack-of-permanency element as an exception to the general "normal life" analysis. On the contrary, the statute simply states that a "'serious  [***5] impairment of body function' [is] an objectively manifested impairment of an important body function that affects the person's general ability to lead his or her normal life." Id. Accordingly, the serious impairment analysis focuses on the plaintiff's "normal life." One's normal life is not limited to the narrow temporal snapshot directly before the accident. Nor is one's normal life limited to his life after a prior permanent injury. Instead, one's normal life includes a broader factual analysis than the majority order suggests in this case. 1  Accordingly, I respectfully dissent because I continue to refuse to take part in this Court's proclivity for using the judicial pen to insert terms and definitions into the no-fault act. 2  
+ [*1089]  Second, the majority's order wrongly conflates the distinct questions of serious impairment and causation. I recognize that, in a multiple accident scenario, an injury from a later accident may not equate to a serious impairment because a claimant's injuries from earlier accidents were not sufficiently aggravated by the second accident. But, that scenario implicates an issue of causation, rather than one of serious impairment.
+Causation and serious impairment are distinct issues. Indeed, the serious impairment question focuses on a particular injury's effect on the claimant's normal  [**816]  life. This involves a totality-of-the-circumstances analysis of many subjective indicia of the injury's effect on the claimant's entire normal life: medical history, work history, and recreational-activity history. 3  This stands in stark contrast to the causation analysis, which is a simple objective evaluation of what factual differences in person A's life are legally attributable to person  [***7] B's actions. The causation question is very limited in scope and it does not include extensive qualitative analysis.
+In sum, the serious impairment question concerns whether the injury meets the statutory threshold, whereas the causation question simply determines if the applicable accident caused the injury. While it is true that both questions look at the claimant's life before and after the applicable accident, they are inherently different in both scope and analysis. Accordingly, it is wrong to meld the two. But that is exactly what the majority order does by adopting a lack-of-permanency element in the serious impairment analysis. In essence, this new lack-of-permanency element holds that if a claimant has a permanent injury, then the claimant's "normal life" analysis must not include consideration  [***8] of his life before the permanent injury. This wrongly makes a causation conclusion dispositive on the distinct question of serious impairment. If a defendant wishes to argue that his actions (or his insured's actions) did not cause claimant's injuries because the claimant already had those injuries (whether they be permanent or not), that is a causation argument--not a serious impairment argument. 4  
+Finally, I continue to believe that Kreiner was wrongly decided. But I realize that a majority of this Court continues to believe otherwise. Accepting this, I seriously question Kreiner's efficacy as a clarion  [*1090]  statement describing what does, or does not, establish a serious impairment. Here, as in other post-Kreiner cases, the majority order simply cites Kreiner's rule and then adds an element that was wholly absent from that decision. 5  Kreiner simply does not include a lack-of-permanency  [***9] element in its comprehensive serious impairment analysis. Hence, this new element is the latest edition of this Court's changing application of the statute under a fabricated application of Kreiner. I must note that the majority order in this case validates my earliest reservations about Kreiner, a case in which I observed that "[t]oday's decision [Kreiner] serves as a chilling reminder that activism comes in all guises, including so-called textualism." Id. at 157 (Cavanagh, J., dissenting).
+WEAVER and KELLY, JJ., join the statement of CAVANAGH, J.
+
+ 
+
+End of Document
