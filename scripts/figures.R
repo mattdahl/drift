@@ -29,7 +29,7 @@ ggplot(nominee_data, aes(x = nominee, y = consistency_score, label = consistency
   annotate('text', x = 23.5, y = 4.85, size = 3, label = 'Souter', color = '#CC79A7') +
   labs(title = 'Trump\'s Potential Nominees\' Cognitive Consistencies') +
   labs(y = 'Cognitive Inconsistency', x = '', caption = '(higher score = more inconsistent/flexible)') +
-  ylim(1, 5) +
+  ylim(1.5, 5) +
   coord_flip() +
   theme_minimal() +
   theme(plot.title = element_text(hjust = 0.5, size = 14))
@@ -80,7 +80,7 @@ ggplot(data = nominee_data, aes(x = ideology_mq, xend = ideology_mq_hat, y = nom
   annotate('text', x = 1.9, y = 6.7, size = 2.5, label = '2020') +
   annotate('text', x = 0.75, y = 6.7, size = 2.5, label = '2030') +
   labs(title = 'Maximum Possible Drift Over 10 Years') +
-  labs(x = 'Ideology (Martin-Quinn units)', y = '') +
+  labs(x = 'Ideology (Martin-Quinn units)', y = '', caption = '(left = liberal, right = conservative)') +
   xlim(-3, 5) +
   theme_minimal() +
   theme(plot.title = element_text(hjust = 0.5, size = 14))

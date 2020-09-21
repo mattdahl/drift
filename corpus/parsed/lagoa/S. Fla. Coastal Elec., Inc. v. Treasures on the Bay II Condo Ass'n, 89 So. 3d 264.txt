@@ -37,53 +37,3 @@ Here, the majority creates a disputed issue of fact out of whole cloth. The majo
 Additionally, the majority's assertion that "Treasures never argues surprise or prejudice" in South Florida Coastal's presentation of the issues to this Court is irrelevant to the legal analysis before this Court. Treasures did not need to argue "surprise or prejudice." This Court is bound by its own case law and the law is clear and unequivocal — at a summary judgment hearing, a trial court can only consider those issues raised by the pleadings. See Fernandez, 925 So. 2d at 1101 (finding that plaintiffs waived claim of apparent agency by failing to plead apparent agency in complaint and failing to move to amend the complaint; "[I]ssues that are not pled in a complaint cannot be considered by the trial court at a summary judgment hearing"). Hemisphere Nat'l Bank v. Goudie, 504 So. 2d 785, 786 (Fla. 3d DCA 1987) (finding that bank's failure to raise claim in pleadings regarding individual's alleged status as endorser of note precluded trial court from ruling on claim on a summary judgment motion; "Under Florida law a court hearing a case on a motion for a summary judgment can only consider those issues raised by the pleadings"); Reina v. Gingerale Corp., 472 So. 2d 530, 531 (Fla. 3d DCA 1985) ("Although the plaintiff attempted to raise a number of  factors argued to be "badges of fraud" in his memorandum of law in opposition to the motion for summary judgment, he has at no time sought to amend the complaint in this regard. At a summary judgment hearing, the court must only consider those issues made by the pleadings"). Pursuant to Rule 1.100(a), Fla. R. Civ. P., the pleadings in this case consist only of the complaint, and the answer to it as South Florida Coastal did not file a reply avoiding Treasures' affirmative defenses.12  Since South Florida Coastal's complaint failed to include a claim based on agency, this claim was not properly before the lower court or this Court.
 Here, the record is clear that South Florida Coastal sued on the basis of a breach of a written contract. In its response to Treasures' motion for summary judgment, South Florida Coastal conceded that no written contract exists. South Florida Coastal never sought to amend its complaint. Florida courts, however, "have consistently held that amendments to complaints should be liberally granted." Sad v. Prestige Motor Car Imports, Inc., 904 So. 2d 466 (Fla. 3d DCA 2005). Thus, this is not a case where the trial court failed to account for an alternative theory of relief contained in a pleading. In reversing the trial court, the majority effectively rewards ineffective lawyering in order to reach the result it believes is just. This, however, is not appropriate for a court of law. Simply put, either a written contract exists or it does not. It is not the job of this Court to raise legal theories that were never pled below, despite South Florida Coastal's ample opportunity to do so.
 Accordingly, for the reasons stated, I must respectfully dissent as I would affirm the trial court's entry of final summary judgment in favor of Treasures.
-APPENDIX 1  
-COMPLAINT FOR FORECLOSURE AND DAMAGES
-Plaintiff, SOUTH FLORIDA COASTAL ELECTRIC INC. ("SFCE" or Plaintiff) sues the Defendant, TREASURES ON THE BAY II CONDO ASSOC., INC. and alleges:
- JURISDICTIONAL ALLEGATIONS
-1. This is an action to foreclose a mechanic's lien and for damages in excess of $ 15,000.00 exclusive of interest, costs, and attorneys fees, and is within the jurisdiction of this court.
- 2. Plaintiff is a Florida corporation authorized to do business in the State of Florida.
-3. Defendant is a Florida corporation with its principal place of business in this County. Defendant is the owner of real property in this county described as:
-TREASURES ON THE BAY II CONDO
-OR 23946-4634 & PB 53-85
-Sec. 09 TWNSHP: 53 RANGE 42
- FACTUAL ALLEGATIONS
-4. Plaintiff is an electrical services contractor. On or about Oct. 1, 2006, Plaintiff and Defendant entered into a written contract to perform electrical contracting services and related improvements to the above-described real property. Plaintiff does not have a copy of the contract but will request same in discovery. From Oct. 1, 2006 until November 19, 2006, Plaintiff performed electrical contracting services for Defendant at said property, described as "the project."
-5. Plaintiff has fully performed all conditions under the contract and has furnished labor, services and material to the project under the contract and has completed the project.
-6. Plaintiff invoiced Defendant for said services, but Defendant has failed to pay Plaintiff the $ 269,913.00 balance now due and owing to Plaintiff with interest.
-7. Plaintiff has made demand upon Defendant for payment of the outstanding funds; however, Defendant has refused to pay same.
-8. Plaintiff has retained the undersigned attorneys to represent it in connection with this action and has agreed to pay them a reasonable attorney's fee.
-9. Plaintiff has performed all conditions precedent to bringing this action.
-10. Within 90 days after the last labor, material and services were furnished for the project on November 19, 2006, Plaintiff filed a claim of lien against Owner's property that was recorded by the clerk of this court of this County, CFN 2007R0170598, OR BK 25374 PG 16581. Within 15 days thereafter, a claim of lien was served on Owner, a coy of which is attached.
-11. At least five days before his action was filed, Plaintiff served Defendant with an affidavit listing the names of all lienors, and amounts due each, who had furnished labor, services and materials for the project and who had not then been paid.
-12. This action was filed within one year after recording the claim of lien.
- COUNT 1  
-(Breach of Contract)
-13. Plaintiff re-alleges and re-adopts paragraphs 1-12 above as if stated fully herein.
-14. Plaintiff and Defendant entered into a contract for Plaintiff to provide electrical contracting services to Defendant. Plaintiff fully performed all conditions under the contract.
-15. Defendant failed to pay Plaintiff for the services rendered in breach of the contract..
-16. Defendant owes Defendant in excess of $ 269,913.00 that is due with interest since Nov. 19, 2006, as set forth above.
-WHEREFORE, Plaintiff demands judgment for damages against Defendant, and for its costs, pre-judgment interest, attorneys fees, and any other relief this Court deems just and proper under the circumstances.
-  COUNT 2  
-(Foreclosure of Mechanic's Lien)
-17. Plaintiff re-alleges and re-adopts the allegations stated in paragraphs 1-9 above as if stated fully herein.
-18. Plaintiff is an electrical services contractor. On or about Oct. 1, 2006, Plaintiff and Defendant entered into a written contract to perform electrical contracting services and related improvements to the above-described real property. Plaintiff does not have a copy of the contract but will request same in discovery. From Oct. 1, 2006 until Nov. 19, 2006, Plaintiff performed electrical contracting services for Defendant at said property, described as "the project."
-20. Plaintiff has fully performed all conditions under the contract and has furnished labor, services and material to the project under the contract and has completed the project.
-21. Plaintiff invoiced Defendant for said services, but Defendant has failed to pay Plaintiff the $ 269,913.00 balance now due and owing to Plaintiff with interest.
-22. Plaintiff has made demand upon Defendant for payment of the outstanding funds; however, Defendant has refused to pay same.
-23. Plaintiff has retained the undersigned attorneys to represent it in connection with this action and has agreed to pay them a reasonable attorney's fee.
-24. Plaintiff has performed all conditions precedent to bringing this action.
-25. Within 90 days after the last labor, material and services were furnished for the project on November 19, 2006, Plaintiff filed a claim of lien against Owner's property that was recorded by the clerk of the court of this County, CFN 2007R0170598, OR BK 25374 PG 16581. Within 15 days thereafter, a claim of lien was served on Owner, a copy of which is attached..
-26. At least five days before his action was filed, Plaintiff served Defendant with an affidavit listing the names of all lienors, and amounts due each, who had furnished labor, services and materials for the project and who had not then been paid.
-27. This action was filed within one year after recording the claim of lien.
-WHEREFORE, Plaintiff demands judgment foreclosing its lien, and if the proceeds of this sale are insufficient to pay Plaintiff's claim, for a deficiency judgment, and attorney fees pursuant to § 713.29, costs, pre-judgment interest, and any other relief this Court deems just and proper.
-APPENDIX 2 
-AFFIRMATIVE DEFENSES
-7. The property which is the subject of the complaint and legally described therein and on the attached Claim of Lien is not owned by the Defendant.
-8. At all times material to the complaint, the property described therein and which was the subject of the complaint was under the control of the developer of Defendant. Pursuant to Fla. R. Civ. P. 1.221, the members of the Association cannot be joined as a class while the Association was in control of the developer.
-9. The Plaintiff is estopped from asserting a claim against the Defendant after the Plaintiff made conflicting and contradictory allegations in Miami-Dade Circuit Court Case 07-14214 CA 11 wherein Plaintiff sued KMC/ED II, LLC and obtained a judgment for the same claim presented herein. In said cause Plaintiff alleged KCM/EC, LLC was the owner of said property and contracted with Plaintiff to provide the services which form the basis of Plaintiff's complaint filed herein. Defendant requests this Court take judicial  notice of Miami-Dade County, Circuit Court Case Number 07-14214 CA 11 pursuant to Florida Evidence Code 90.202.
-10. The Plaintiff is attempting to join unit owners within the Association as a class by naming said Associations in violation of Fla. R. Civ. P. 1.221.
-11. There never was a contract or any other agreement between Plaintiff and Defendant.
-
- 
-
