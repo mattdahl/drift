@@ -46,7 +46,24 @@ nominee_data$ideology[nominee_data$nominee == 'Kethledge'] <- jcs_data$JCS2018[j
 nominee_data$ideology[nominee_data$nominee == 'Pryor'] <- jcs_data$JCS2018[jcs_data$name == 'Pryor, William']
 nominee_data$ideology[nominee_data$nominee == 'Sykes'] <- jcs_data$JCS2018[jcs_data$name == 'Sykes, Diane']
 nominee_data$ideology[nominee_data$nominee == 'Tymkovich'] <- jcs_data$JCS2018[jcs_data$name == 'Tymkovich, Timothy']
+nominee_data$ideology[nominee_data$nominee == 'Bade'] <- 0.344 # == Martha McSally in 2019
+nominee_data$ideology[nominee_data$nominee == 'Barrett'] <- 0.474 # == Todd Young in 2017
+nominee_data$ideology[nominee_data$nominee == 'Duncan'] <- mean(c(0.588, 0.457)) # == average of John Kennedy and Bill Cassidy in 2018
+nominee_data$ideology[nominee_data$nominee == 'Eid'] <- 0.444 # == Cory Gardner in 2017
+nominee_data$ideology[nominee_data$nominee == 'Grant'] <- mean(c(0.566, 0.402)) # == average of David Perdue and Johnny Isakson in 2018
+nominee_data$ideology[nominee_data$nominee == 'Ho'] <- mean(c(0.817, 0.493)) # == average of Ted Cruz and John Cornyn in 2017
+nominee_data$ideology[nominee_data$nominee == 'Lagoa'] <- mean(c(0.569, 0.514)) # == average of Marco Rubio and Rick Scott in 2019
+nominee_data$ideology[nominee_data$nominee == 'Newsom'] <- mean(c(0.56, 0.429)) # == average of Luther Strange and Richard Shelby in 2017
+nominee_data$ideology[nominee_data$nominee == 'Phipps'] <- 0.647 # == Pat Toomey in 2019
+nominee_data$ideology[nominee_data$nominee == 'Rushing'] <- mean(c(0.428, 0.45)) # == average of Thom Tillis and Richard Burr in 2019
+nominee_data$ideology[nominee_data$nominee == 'Ryan'] <- mean(c(0.409, 0.262)) # == average of George Allen and John Warner in 2006
+nominee_data$ideology[nominee_data$nominee == 'Thapar'] <- mean(c(0.402, 0.878)) # == average of Mitch McConnell and Rand Paul in 2017
+nominee_data$ideology[nominee_data$nominee == 'Willett'] <- mean(c(0.817, 0.493)) # == average of Ted Cruz and John Cornyn in 2017
+# Stras's, Larsen's, and VanDyke's scores cannot be calculated because their home-state senators are all Democrats
+
 nominee_data <- nominee_data %>% drop_na('ideology')
+nominee_data <- arrange(nominee_data, desc(as.character(nominee_data$nominee)))
+nominee_data$nominee <- factor(nominee_data$nominee, levels = nominee_data$nominee)
 
 # Transformation function, i.e., the inverse of the function given in Epstein et al. (2007)
 mq_transformation <- function(jcs_score) {
@@ -74,11 +91,11 @@ ggplot(data = nominee_data, aes(x = ideology_mq, xend = ideology_mq_hat, y = nom
   geom_vline(xintercept = mq_scores$post_mn[mq_scores$justiceName == 'CThomas' & mq_scores$term == 2019], color = '#CC79A7', linetype='dashed') +
   geom_vline(xintercept = mq_scores$post_mn[mq_scores$justiceName == 'JGRoberts' & mq_scores$term == 2019], color = '#009E73', linetype='dashed') +
   geom_vline(xintercept = mq_scores$post_mn[mq_scores$justiceName == 'RBGinsburg' & mq_scores$term == 2019], color = '#D55E00', linetype='dashed') +
-  annotate('text', x = 4.3, y = 1.5, size = 3, label = 'Thomas', color = '#CC79A7') +
-  annotate('text', x = -0.4, y = 1.5, size = 3, label = 'Roberts', color = '#009E73') +
-  annotate('text', x = -2.2, y = 1.5, size = 3, label = 'Ginsburg', color = '#D55E00') +
-  annotate('text', x = 1.9, y = 6.7, size = 2.5, label = '2020') +
-  annotate('text', x = 0.75, y = 6.7, size = 2.5, label = '2030') +
+  annotate('text', x = 4.3, y = 16.5, size = 3, label = 'Thomas', color = '#CC79A7') +
+  annotate('text', x = -0.4, y = 16.5, size = 3, label = 'Roberts', color = '#009E73') +
+  annotate('text', x = -2.2, y = 16.5, size = 3, label = 'Ginsburg', color = '#D55E00') +
+  annotate('text', x = 0.95, y = 11.5, size = 2.5, label = '2020') +
+  annotate('text', x = -0.5, y = 11.5, size = 2.5, label = '2030') +
   labs(title = 'Maximum Possible Drift Over 10 Years') +
   labs(x = 'Ideology (Martin-Quinn units)', y = '', caption = '(left = liberal, right = conservative)') +
   xlim(-3, 5) +
